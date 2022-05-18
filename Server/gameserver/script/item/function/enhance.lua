@@ -291,41 +291,41 @@ function Item:Peel(pEquip, nParam)		-- 程序接口：服务端执行玄晶剥�
 	-- 装备剥离延迟：by zhangjinpin@kingsoft
 	local nCurrEnhTimes = pEquip.nEnhTimes;
 	
-	-- 强化12以上的装备 
-	if nCurrEnhTimes > 16 then
-		
-		local nTime = me.GetTask(self.TASK_PEEL_APPLY_GID, self.TASK_PEEL_APPLY_TIME);
-		
-		-- 没有申请过剥离
-		if nTime <= 0 then
-			me.Msg("Đến chỗ Dã Luyện Đại Sư xin tách trang bị cường hóa cao");
-			Dialog:SendBlackBoardMsg(me, "Đến chỗ Dã Luyện Đại Sư xin tách trang bị cường hóa cao.");
-			return -1;
-		
-		-- 申请过则判断时间是否在允许段内(申请3小时-剥离3小时)
-		else
-			-- 取申请时间差
-			local nDiffTime = GetTime() - nTime;
-			
-			-- 出错的情况
-			if nDiffTime <= 0 then 
-				return -1;
-				
-			-- 已经申请还不能剥离
-			elseif nDiffTime <= self.VALID_PEEL_TIME then
-				me.Msg("Chưa đến thời gian tách, xin hãy đợi.");
-				Dialog:SendBlackBoardMsg(me, "Chưa đến thời gian tách, xin hãy đợi.");
-				return -1;
-				
-			-- 过了申请期
-			elseif nDiffTime >= self.MAX_PEEL_TIME then
-				me.Msg("Xin tách lần trước của bạn đã quá hạn, hãy xin lại.");
-				Dialog:SendBlackBoardMsg(me, "Xin tách lần trước của bạn đã quá hạn, hãy xin lại.");
-				me.SetTask(self.TASK_PEEL_APPLY_GID, self.TASK_PEEL_APPLY_TIME, 0);
-				return -1;
-			end
-		end
-	end
+	-- -- 强化12以上的装备 
+	-- if nCurrEnhTimes > 16 then
+	-- 	
+	-- 	local nTime = me.GetTask(self.TASK_PEEL_APPLY_GID, self.TASK_PEEL_APPLY_TIME);
+	-- 	
+	-- 	-- 没有申请过剥离
+	-- 	if nTime <= 0 then
+	-- 		me.Msg("Đến chỗ Dã Luyện Đại Sư xin tách trang bị cường hóa cao");
+	-- 		Dialog:SendBlackBoardMsg(me, "Đến chỗ Dã Luyện Đại Sư xin tách trang bị cường hóa cao.");
+	-- 		return -1;
+	-- 	
+	-- 	-- 申请过则判断时间是否在允许段内(申请3小时-剥离3小时)
+	-- 	else
+	-- 		-- 取申请时间差
+	-- 		local nDiffTime = GetTime() - nTime;
+	-- 		
+	-- 		-- 出错的情况
+	-- 		if nDiffTime <= 0 then 
+	-- 			return -1;
+	-- 			
+	-- 		-- 已经申请还不能剥离
+	-- 		elseif nDiffTime <= self.VALID_PEEL_TIME then
+	-- 			me.Msg("Chưa đến thời gian tách, xin hãy đợi.");
+	-- 			Dialog:SendBlackBoardMsg(me, "Chưa đến thời gian tách, xin hãy đợi.");
+	-- 			return -1;
+	-- 			
+	-- 		-- 过了申请期
+	-- 		elseif nDiffTime >= self.MAX_PEEL_TIME then
+	-- 			me.Msg("Xin tách lần trước của bạn đã quá hạn, hãy xin lại.");
+	-- 			Dialog:SendBlackBoardMsg(me, "Xin tách lần trước của bạn đã quá hạn, hãy xin lại.");
+	-- 			me.SetTask(self.TASK_PEEL_APPLY_GID, self.TASK_PEEL_APPLY_TIME, 0);
+	-- 			return -1;
+	-- 		end
+	-- 	end
+	-- end
 	
 	local nLastEnhTimes = pEquip.nEnhTimes;
 	local nRet = pEquip.Regenerate(
