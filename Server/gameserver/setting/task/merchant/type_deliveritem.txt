@@ -1,0 +1,206 @@
+TaskId	TaskName	StepDesc	TaskType	Diff	NpcName	MapId	NpcId	Step01	Step02	Step03	LevelFlag	AwardExp	NeedTime
+Số nhiệm vụ	Tên nhiệm vụ	Miêu tả tìm đường	Loại nhiệm vụ	Độ khó	Tên npc đưa thư	Bản đồ Id của Npc	NpcId đưa thư	Bước 1-9	Bước 10	Bước 100	Đạt cấp 60	Nhận được kinh nghiệm	Thời gian cần (giây)
+1	Đưa thư cho Chủ Tiệm Binh Khí Tương Dương		GiveItem	1	Điềm Tửu Thúc	25	3561	1000	0	0	0	0.6	30
+2	Đưa thư cho Chủ Tiệm Phòng Cụ Tương Dương		GiveItem	1	Thẩm Hà Diệp	25	3562	1000	0	0	0	0.6	30
+3	Đưa thư cho Chủ Tiệm Trang Sức Tương Dương		GiveItem	1	Hách Phiêu Tịnh	25	3563	1000	0	0	0	0.6	30
+4	Đưa thư cho Chủ Tiệm Tạp Hóa Tương Dương 		GiveItem	1	Bất Động Tiên Sinh	25	3565	1000	0	0	0	0.6	30
+5	Đưa thư cho Chủ Tiệm Thuốc Tương Dương		GiveItem	1	Trương Trảm Kinh	25	3564	1000	0	0	0	0.6	30
+6	Đưa thư cho Chủ Tửu Lầu Tương Dương		GiveItem	1	Đại Lão Bạch	25	3566	1000	0	0	0	0.6	30
+7	Đưa thư cho Lễ Quan Tương Dương		GiveItem	1	Lễ Quan	25	2601	1000	0	0	0	0.6	30
+8	Đưa thư cho Công Bình Tử Tương Dương		GiveItem	1	Công Bình Tử	25	2501	1000	0	0	0	0.6	30
+9	Đưa thư cho Diệp Chỉ Lâm Tương Dương		GiveItem	1	Diệp Chỉ Lâm	25	3576	1000	0	0	0	0.6	30
+10	Đưa thư cho Dã Luyện Đại Sư Tương Dương		GiveItem	1	Dã Luyện Đại Sư	25	3574	1000	0	0	0	0.6	30
+11	Đưa thư cho Chủ Tiệm Binh Khí Thành Đô		GiveItem	1	Điềm Tửu Thúc	27	3561	1000	0	0	0	0.6	30
+12	Đưa thư cho Chủ Tiệm Phòng Cụ Thành Đô		GiveItem	1	Thẩm Hà Diệp	27	3562	1000	0	0	0	0.6	30
+13	Đưa thư cho Chủ Tiệm Trang Sức Thành Đô		GiveItem	1	Hách Phiêu Tịnh	27	3563	1000	0	0	0	0.6	30
+14	Đưa thư cho Chủ Tiệm Tạp Hóa Thành Đô		GiveItem	1	Bất Động Tiên Sinh	27	3565	1000	0	0	0	0.6	30
+15	Đưa thư cho Chủ Tiệm Thuốc Thành Đô		GiveItem	1	Trương Trảm Kinh	27	3564	1000	0	0	0	0.6	30
+16	Đưa thư cho Chủ Tửu Lầu Thành Đô		GiveItem	1	Đại Lão Bạch	27	3566	1000	0	0	0	0.6	30
+17	Đưa thư cho Lễ Quan Thành Đô		GiveItem	1	Lễ Quan	27	2601	1000	0	0	0	0.6	30
+18	Đưa thư cho Công Bình Tử Thành Đô		GiveItem	1	Công Bình Tử	27	2501	1000	0	0	0	0.6	30
+19	Đưa thư cho Diệp Chỉ Lâm Thành Đô		GiveItem	1	Diệp Chỉ Lâm	27	3576	1000	0	0	0	0.6	30
+20	Đưa thư cho Dã Luyện Đại Sư Thành Đô		GiveItem	1	Dã Luyện Đại Sư	27	3574	1000	0	0	0	0.6	30
+21	Đưa thư cho Chủ Tiệm Binh Khí Dương Châu		GiveItem	1	Điềm Tửu Thúc	26	3561	1000	0	0	0	0.6	30
+22	Đưa thư cho Chủ Tiệm Phòng Cụ Dương Châu		GiveItem	1	Thẩm Hà Diệp	26	3562	1000	0	0	0	0.6	30
+23	Đưa thư cho Chủ Tiệm Trang Sức Dương Châu		GiveItem	1	Hách Phiêu Tịnh	26	3563	1000	0	0	0	0.6	30
+24	Đưa thư cho Chủ Tiệm Tạp Hóa Dương Châu		GiveItem	1	Bất Động Tiên Sinh	26	3565	1000	0	0	0	0.6	30
+25	Đưa thư cho Chủ Tiệm Thuốc Dương Châu		GiveItem	1	Trương Trảm Kinh	26	3564	1000	0	0	0	0.6	30
+26	Đưa thư cho Chủ Tửu Lầu Dương Châu		GiveItem	1	Đại Lão Bạch	26	3566	1000	0	0	0	0.6	30
+27	Đưa thư cho Lễ Quan Dương Châu		GiveItem	1	Lễ Quan	26	2601	1000	0	0	0	0.6	30
+28	Đưa thư cho Công Bình Tử Dương Châu		GiveItem	1	Công Bình Tử	26	2501	1000	0	0	0	0.6	30
+29	Đưa thư cho Diệp Chỉ Lâm Dương Châu		GiveItem	1	Diệp Chỉ Lâm	26	3576	1000	0	0	0	0.6	30
+30	Đưa thư cho Dã Luyện Đại Sư Dương Châu		GiveItem	1	Dã Luyện Đại Sư	26	3574	1000	0	0	0	0.6	30
+31	Đưa thư cho Chủ Tiệm Binh Khí Lâm An		GiveItem	1	Điềm Tửu Thúc	29	3561	1000	0	0	0	0.6	30
+32	Đưa thư cho Chủ Tiệm Phòng Cụ Lâm An		GiveItem	1	Thẩm Hà Diệp	29	3562	1000	0	0	0	0.6	30
+33	Đưa thư cho Chủ Tiệm Trang Sức Lâm An		GiveItem	1	Hách Phiêu Tịnh	29	3563	1000	0	0	0	0.6	30
+34	Đưa thư cho Chủ Tiệm Tạp Hóa Lâm An		GiveItem	1	Bất Động Tiên Sinh	29	3565	1000	0	0	0	0.6	30
+35	Đưa thư cho Chủ Tiệm Thuốc Lâm An		GiveItem	1	Trương Trảm Kinh	29	3564	1000	0	0	0	0.6	30
+36	Đưa thư cho Chủ Tửu Lầu Lâm An		GiveItem	1	Đại Lão Bạch	29	3566	1000	0	0	0	0.6	30
+37	Đưa thư cho Lễ Quan Lâm An		GiveItem	1	Lễ Quan	29	2601	1000	0	0	0	0.6	30
+38	Đưa thư cho Công Bình Tử Lâm An		GiveItem	1	Công Bình Tử	29	2501	1000	0	0	0	0.6	30
+39	Đưa thư cho Diệp Chỉ Lâm Lâm An		GiveItem	1	Diệp Chỉ Lâm	29	3576	1000	0	0	0	0.6	30
+40	Đưa thư cho Dã Luyện Đại Sư Lâm An		GiveItem	1	Dã Luyện Đại Sư	29	3574	1000	0	0	0	0.6	30
+41	Đưa thư cho Chủ Tiệm Binh Khí Biện Kinh		GiveItem	1	Điềm Tửu Thúc	23	3561	1000	0	0	0	0.6	30
+42	Đưa thư cho Chủ Tiệm Phòng Cụ Biện Kinh		GiveItem	1	Thẩm Hà Diệp	23	3562	1000	0	0	0	0.6	30
+43	Đưa thư cho Chủ Tiệm Trang Sức Biện Kinh		GiveItem	1	Hách Phiêu Tịnh	23	3563	1000	0	0	0	0.6	30
+44	Đưa thư cho Chủ Tiệm Tạp Hóa Biện Kinh		GiveItem	1	Bất Động Tiên Sinh	23	3565	1000	0	0	0	0.6	30
+45	Đưa thư cho Chủ Tiệm Thuốc Biện Kinh		GiveItem	1	Trương Trảm Kinh	23	3564	1000	0	0	0	0.6	30
+46	Đưa thư cho Chủ Tửu Lầu Biện Kinh		GiveItem	1	Đại Lão Bạch	23	3566	1000	0	0	0	0.6	30
+47	Đưa thư cho Lễ Quan Biện Kinh		GiveItem	1	Lễ Quan	23	2601	1000	0	0	0	0.6	30
+48	Đưa thư cho Công Bình Tử Biện Kinh		GiveItem	1	Công Bình Tử	23	2501	1000	0	0	0	0.6	30
+49	Đưa thư cho Diệp Chỉ Lâm Biện Kinh		GiveItem	1	Diệp Chỉ Lâm	23	3576	1000	0	0	0	0.6	30
+50	Đưa thư cho Dã Luyện Đại Sư Biện Kinh		GiveItem	1	Dã Luyện Đại Sư	23	3574	1000	0	0	0	0.6	30
+51	Đưa thư cho Chủ Tiệm Binh Khí Phượng Tường		GiveItem	1	Điềm Tửu Thúc	24	3561	1000	0	0	0	0.6	30
+52	Đưa thư cho Chủ Tiệm Phòng Cụ Phượng Tường		GiveItem	1	Thẩm Hà Diệp	24	3562	1000	0	0	0	0.6	30
+53	Đưa thư cho Chủ Tiệm Trang Sức Phượng Tường		GiveItem	1	Hách Phiêu Tịnh	24	3563	1000	0	0	0	0.6	30
+54	Đưa thư cho Chủ Tiệm Tạp Hóa Phượng Tường		GiveItem	1	Bất Động Tiên Sinh	24	3565	1000	0	0	0	0.6	30
+55	Đưa thư cho Chủ Tiệm Thuốc Phượng Tường		GiveItem	1	Trương Trảm Kinh	24	3564	1000	0	0	0	0.6	30
+56	Đưa thư cho Chủ Tửu Lầu Phượng Tường		GiveItem	1	Đại Lão Bạch	24	3566	1000	0	0	0	0.6	30
+57	Đưa thư cho Lễ Quan Phượng Tường		GiveItem	1	Lễ Quan	24	2601	1000	0	0	0	0.6	30
+58	Đưa thư cho Công Bình Tử Phượng Tường		GiveItem	1	Công Bình Tử	24	2501	1000	0	0	0	0.6	30
+59	Đưa thư cho Diệp Chỉ Lâm Phượng Tường		GiveItem	1	Diệp Chỉ Lâm	24	3576	1000	0	0	0	0.6	30
+60	Đưa thư cho Dã Luyện Đại Sư Phượng Tường		GiveItem	1	Dã Luyện Đại Sư	24	3574	1000	0	0	0	0.6	30
+61	Đưa thư cho Chủ Tiệm Binh Khí Đại Lý		GiveItem	1	Điềm Tửu Thúc	28	3561	1000	0	0	0	0.6	30
+62	Đưa thư cho Chủ Tiệm Phòng Cụ Đại Lý		GiveItem	1	Thẩm Hà Diệp	28	3562	1000	0	0	0	0.6	30
+63	Đưa thư cho Chủ Tiệm Trang Sức Đại Lý		GiveItem	1	Hách Phiêu Tịnh	28	3563	1000	0	0	0	0.6	30
+64	Đưa thư cho Chủ Tiệm Tạp Hóa Đại Lý		GiveItem	1	Bất Động Tiên Sinh	28	3565	1000	0	0	0	0.6	30
+65	Đưa thư cho Chủ Tiệm Thuốc Đại Lý		GiveItem	1	Trương Trảm Kinh	28	3564	1000	0	0	0	0.6	30
+66	Đưa thư cho Chủ Tửu Lầu Đại Lý		GiveItem	1	Đại Lão Bạch	28	3566	1000	0	0	0	0.6	30
+67	Đưa thư cho Lễ Quan Đại Lý		GiveItem	1	Lễ Quan	28	2601	1000	0	0	0	0.6	30
+68	Đưa thư cho Công Bình Tử Đại Lý		GiveItem	1	Công Bình Tử	28	2501	1000	0	0	0	0.6	30
+69	Đưa thư cho Diệp Chỉ Lâm Đại Lý		GiveItem	1	Diệp Chỉ Lâm	28	3576	1000	0	0	0	0.6	30
+70	Đưa thư cho Dã Luyện Đại Sư Đại Lý		GiveItem	1	Dã Luyện Đại Sư	28	3574	1000	0	0	0	0.6	30
+71	Đưa thư cho đệ tử tiếp dẫn Võ Lâm Giang Tân		GiveItem	2	Tịch Huyễn	5	3507	500	0	0	0	0.6	45
+72	Đưa thư cho đệ tử tiếp dẫn Thiên Vương Giang Tân		GiveItem	2	Bùi Viễn	5	3501	500	0	0	0	0.6	45
+73	Đưa thư cho đệ tử tiếp dẫn Đường Môn Giang Tân		GiveItem	2	Đường Tế Dân	5	3513	500	0	0	0	0.6	45
+74	Đưa thư cho đệ tử tiếp dẫn Ngũ Độc Giang Tân		GiveItem	2	Biên Nhất Xuân	5	3519	500	0	0	0	0.6	45
+75	Đưa thư cho đệ tử tiếp dẫn Nga My Giang Tân		GiveItem	2	Huyền Tịnh	5	3525	500	0	0	0	0.6	45
+76	Đưa thư cho đệ tử tiếp dẫn Thúy Yên Giang Tân		GiveItem	2	Tô Nhã	5	3531	500	0	0	0	0.6	45
+77	Đưa thư cho đệ tử tiếp dẫn Cái Bang Giang Tân		GiveItem	2	La Tuấn	5	3537	500	0	0	0	0.6	45
+78	Đưa thư cho đệ tử tiếp dẫn Thiên Nhẫn Giang Tân		GiveItem	2	Tạ Phi Kinh	5	3543	500	0	0	0	0.6	45
+79	Đưa thư cho đệ tử tiếp dẫn Võ Đang Giang Tân		GiveItem	2	Minh Tuệ	5	3549	500	0	0	0	0.6	45
+80	Đưa thư cho đệ tử tiếp dẫn Côn Lôn Giang Tân		GiveItem	2	Quy Kinh Tinh	5	3555	500	0	0	0	0.6	45
+81	Đưa thư cho đệ tử tiếp dẫn Đoàn Thị Giang Tân		GiveItem	2	Đoàn Tu Tịnh	5	3480	500	0	0	0	0.6	45
+82	Đưa thư cho đệ tử tiếp dẫn Minh Giáo Giang Tân		GiveItem	2	Đồng Lăng	5	3474	500	0	0	0	0.6	45
+83	Đưa thư cho Lễ Quan Giang Tân		GiveItem	2	Lễ Quan	5	2601	500	0	0	0	0.6	45
+84	Đưa thư cho Diệp Chỉ Lâm Giang Tân		GiveItem	2	Diệp Chỉ Lâm	5	3576	500	0	0	0	0.6	45
+85	Đưa thư cho Dã Luyện Đại Sư Giang Tân		GiveItem	2	Dã Luyện Đại Sư	5	3574	500	0	0	0	0.6	45
+86	Đưa thư cho đệ tử tiếp dẫn Thiếu Lâm Long Tuyền 		GiveItem	2	Tịch Huyễn	7	3507	500	0	0	0	0.6	45
+87	Đưa thư cho đệ tử tiếp dẫn Thiên Vương Long Tuyền		GiveItem	2	Bùi Viễn	7	3501	500	0	0	0	0.6	45
+88	Đưa thư cho đệ tử tiếp dẫn Đường Môn Long Tuyền		GiveItem	2	Đường Tế Dân	7	3513	500	0	0	0	0.6	45
+89	Đưa thư cho đệ tử tiếp dẫn Ngũ Độc Long Tuyền		GiveItem	2	Biên Nhất Xuân	7	3519	500	0	0	0	0.6	45
+90	Đưa thư cho đệ tử tiếp dẫn Nga My Long Tuyền		GiveItem	2	Huyền Tịnh	7	3525	500	0	0	0	0.6	45
+91	Đưa thư cho đệ tử tiếp dẫn Thúy Yên Long Tuyền		GiveItem	2	Tô Nhã	7	3531	500	0	0	0	0.6	45
+92	Đưa thư cho đệ tử tiếp dẫn Cái Bang Long Tuyền		GiveItem	2	La Tuấn	7	3537	500	0	0	0	0.6	45
+93	Đưa thư cho đệ tử tiếp dẫn Thiên Nhẫn Long Tuyền		GiveItem	2	Tạ Phi Kinh	7	3543	500	0	0	0	0.6	45
+94	Đưa thư cho đệ tử tiếp dẫn Võ Đang Long Tuyền		GiveItem	2	Minh Tuệ	7	3549	500	0	0	0	0.6	45
+95	Đưa thư cho đệ tử tiếp dẫn Côn Lôn Long Tuyền		GiveItem	2	Quy Kinh Tinh	7	3555	500	0	0	0	0.6	45
+96	Đưa thư cho đệ tử tiếp dẫn Đoàn Thị Long Tuyền		GiveItem	2	Đoàn Tu Tịnh	7	3480	500	0	0	0	0.6	45
+97	Đưa thư cho đệ tử tiếp dẫn Minh Giáo Long Tuyền		GiveItem	2	Đồng Lăng	7	3474	500	0	0	0	0.6	45
+98	Đưa thư cho Lễ Quan Long Tuyền		GiveItem	2	Lễ Quan	7	2601	500	0	0	0	0.6	45
+99	Đưa thư cho Diệp Chỉ Lâm Long Tuyền		GiveItem	2	Diệp Chỉ Lâm	7	3576	500	0	0	0	0.6	45
+100	Đưa thư cho Dã Luyện Đại Sư Long Tuyền		GiveItem	2	Dã Luyện Đại Sư	7	3574	500	0	0	0	0.6	45
+101	Đưa thư cho đệ tử tiếp dẫn Thiếu Lâm Đạo Hương		GiveItem	2	Tịch Huyễn	4	3507	500	0	0	0	0.6	45
+102	Đưa thư cho đệ tử tiếp dẫn Thiên Vương Đạo Hương		GiveItem	2	Bùi Viễn	4	3501	500	0	0	0	0.6	45
+103	Đưa thư cho đệ tử tiếp dẫn Đường Môn Đạo Hương		GiveItem	2	Đường Tế Dân	4	3513	500	0	0	0	0.6	45
+104	Đưa thư cho đệ tử tiếp dẫn Ngũ Độc Đạo Hương		GiveItem	2	Biên Nhất Xuân	4	3519	500	0	0	0	0.6	45
+105	Đưa thư cho đệ tử tiếp dẫn Nga My Đạo Hương		GiveItem	2	Huyền Tịnh	4	3525	500	0	0	0	0.6	45
+106	Đưa thư cho đệ tử tiếp dẫn Thúy Yên Đạo Hương		GiveItem	2	Tô Nhã	4	3531	500	0	0	0	0.6	45
+107	Đưa thư cho đệ tử tiếp dẫn Cái Bang Đạo Hương		GiveItem	2	La Tuấn	4	3537	500	0	0	0	0.6	45
+108	Đưa thư cho đệ tử tiếp dẫn Thiên Nhẫn Đạo Hương		GiveItem	2	Tạ Phi Kinh	4	3543	500	0	0	0	0.6	45
+109	Đưa thư cho đệ tử tiếp dẫn Võ Đang Đạo Hương		GiveItem	2	Minh Tuệ	4	3549	500	0	0	0	0.6	45
+110	Đưa thư cho đệ tử tiếp dẫn Côn Lôn Đạo Hương		GiveItem	2	Quy Kinh Tinh	4	3555	500	0	0	0	0.6	45
+111	Đưa thư cho đệ tử tiếp dẫn Đoàn Thị Đạo Hương		GiveItem	2	Đoàn Tu Tịnh	4	3480	500	0	0	0	0.6	45
+112	Đưa thư cho đệ tử tiếp dẫn Minh Giáo Đạo Hương		GiveItem	2	Đồng Lăng	4	3474	500	0	0	0	0.6	45
+113	Đưa thư cho Lễ Quan Đạo Hương		GiveItem	2	Lễ Quan	4	2601	500	0	0	0	0.6	45
+114	Đưa thư cho Diệp Chỉ Lâm Đạo Hương		GiveItem	2	Diệp Chỉ Lâm	4	3576	500	0	0	0	0.6	45
+115	Đưa thư cho Dã Luyện Đại Sư Đạo Hương		GiveItem	2	Dã Luyện Đại Sư	4	3574	500	0	0	0	0.6	45
+116	Đưa thư cho đệ tử tiếp dẫn Thiếu Lâm Ba Lăng		GiveItem	2	Tịch Huyễn	8	3507	500	0	0	0	0.6	45
+117	Đưa thư cho đệ tử tiếp dẫn Thiên Vương Ba Lăng		GiveItem	2	Bùi Viễn	8	3501	500	0	0	0	0.6	45
+118	Đưa thư cho đệ tử tiếp dẫn Đường Môn Ba Lăng		GiveItem	2	Đường Tế Dân	8	3513	500	0	0	0	0.6	45
+119	Đưa thư cho đệ tử tiếp dẫn Ngũ Độc Ba Lăng		GiveItem	2	Biên Nhất Xuân	8	3519	500	0	0	0	0.6	45
+120	Đưa thư cho đệ tử tiếp dẫn Nga My Ba Lăng		GiveItem	2	Huyền Tịnh	8	3525	500	0	0	0	0.6	45
+121	Đưa thư cho đệ tử tiếp dẫn Thúy Yên Ba Lăng		GiveItem	2	Tô Nhã	8	3531	500	0	0	0	0.6	45
+122	Đưa thư cho đệ tử tiếp dẫn Cái Bang Ba Lăng		GiveItem	2	La Tuấn	8	3537	500	0	0	0	0.6	45
+123	Đưa thư cho đệ tử tiếp dẫn Thiên Nhẫn Ba Lăng		GiveItem	2	Tạ Phi Kinh	8	3543	500	0	0	0	0.6	45
+124	Đưa thư cho đệ tử tiếp dẫn Võ Đang Ba Lăng		GiveItem	2	Minh Tuệ	8	3549	500	0	0	0	0.6	45
+125	Đưa thư cho đệ tử tiếp dẫn Côn Lôn Ba Lăng		GiveItem	2	Quy Kinh Tinh	8	3555	500	0	0	0	0.6	45
+126	Đưa thư cho đệ tử tiếp dẫn Đoàn Thị Ba Lăng		GiveItem	2	Đoàn Tu Tịnh	8	3480	500	0	0	0	0.6	45
+127	Đưa thư cho đệ tử tiếp dẫn Minh Giáo Ba Lăng		GiveItem	2	Đồng Lăng	8	3474	500	0	0	0	0.6	45
+128	Đưa thư cho Lễ Quan Ba Lăng		GiveItem	2	Lễ Quan	8	2601	500	0	0	0	0.6	45
+129	Đưa thư cho Diệp Chỉ Lâm Ba Lăng 		GiveItem	2	Diệp Chỉ Lâm	8	3576	500	0	0	0	0.6	45
+130	Đưa thư cho Dã Luyện Đại Sư Ba Lăng		GiveItem	2	Dã Luyện Đại Sư	8	3574	500	0	0	0	0.6	45
+131	Đưa thư cho đệ tử tiếp dẫn Thiếu Lâm Vĩnh Lạc		GiveItem	2	Tịch Huyễn	3	3507	500	0	0	0	0.6	45
+132	Đưa thư cho đệ tử tiếp dẫn Thiên Vương Vĩnh Lạc		GiveItem	2	Bùi Viễn	3	3501	500	0	0	0	0.6	45
+133	Đưa thư cho đệ tử tiếp dẫn Đường Môn Vĩnh Lạc		GiveItem	2	Đường Tế Dân	3	3513	500	0	0	0	0.6	45
+134	Đưa thư cho đệ tử tiếp dẫn Ngũ Độc Vĩnh Lạc		GiveItem	2	Biên Nhất Xuân	3	3519	500	0	0	0	0.6	45
+135	Đưa thư cho đệ tử tiếp dẫn Nga My Vĩnh Lạc		GiveItem	2	Huyền Tịnh	3	3525	500	0	0	0	0.6	45
+136	Đưa thư cho đệ tử tiếp dẫn Thúy Yên Vĩnh Lạc		GiveItem	2	Tô Nhã	3	3531	500	0	0	0	0.6	45
+137	Đưa thư cho đệ tử tiếp dẫn Cái Bang Vĩnh Lạc		GiveItem	2	La Tuấn	3	3537	500	0	0	0	0.6	45
+138	Đưa thư cho đệ tử tiếp dẫn Thiên Nhẫn Vĩnh Lạc		GiveItem	2	Tạ Phi Kinh	3	3543	500	0	0	0	0.6	45
+139	Đưa thư cho đệ tử tiếp dẫn Võ Đang Vĩnh Lạc		GiveItem	2	Minh Tuệ	3	3549	500	0	0	0	0.6	45
+140	Đưa thư cho đệ tử tiếp dẫn Côn Lôn Vĩnh Lạc		GiveItem	2	Quy Kinh Tinh	3	3555	500	0	0	0	0.6	45
+141	Đưa thư cho đệ tử tiếp dẫn Đoàn Thị Vĩnh Lạc		GiveItem	2	Đoàn Tu Tịnh	3	3480	500	0	0	0	0.6	45
+142	Đưa thư cho đệ tử tiếp dẫn Minh Giáo Vĩnh Lạc		GiveItem	2	Đồng Lăng	3	3474	500	0	0	0	0.6	45
+143	Đưa thư cho Lễ Quan Vĩnh Lạc		GiveItem	2	Lễ Quan	3	2601	500	0	0	0	0.6	45
+144	Đưa thư cho Diệp Chỉ Lâm Vĩnh Lạc		GiveItem	2	Diệp Chỉ Lâm	3	3576	500	0	0	0	0.6	45
+145	Đưa thư cho Dã Luyện Đại Sư Vĩnh Lạc		GiveItem	2	Dã Luyện Đại Sư	3	3574	500	0	0	0	0.6	45
+146	Đưa thư cho đệ tử tiếp dẫn Thiếu Lâm Vân Trung		GiveItem	2	Tịch Huyễn	1	3507	500	0	0	0	0.6	45
+147	Đưa thư cho đệ tử tiếp dẫn Thiên Vương Vân Trung		GiveItem	2	Bùi Viễn	1	3501	500	0	0	0	0.6	45
+148	Đưa thư cho đệ tử tiếp dẫn Đường Môn Vân Trung		GiveItem	2	Đường Tế Dân	1	3513	500	0	0	0	0.6	45
+149	Đưa thư cho đệ tử tiếp dẫn Ngũ Độc Vân Trung		GiveItem	2	Biên Nhất Xuân	1	3519	500	0	0	0	0.6	45
+150	Đưa thư cho đệ tử tiếp dẫn Nga My Vân Trung		GiveItem	2	Huyền Tịnh	1	3525	500	0	0	0	0.6	45
+151	Đưa thư cho đệ tử tiếp dẫn Thúy Yên Vân Trung		GiveItem	2	Tô Nhã	1	3531	500	0	0	0	0.6	45
+152	Đưa thư cho đệ tử tiếp dẫn Cái Bang Vân Trung		GiveItem	2	La Tuấn	1	3537	500	0	0	0	0.6	45
+153	Đưa thư cho đệ tử tiếp dẫn Thiên Nhẫn Vân Trung		GiveItem	2	Tạ Phi Kinh	1	3543	500	0	0	0	0.6	45
+154	Đưa thư cho đệ tử tiếp dẫn Võ Đang Vân Trung		GiveItem	2	Minh Tuệ	1	3549	500	0	0	0	0.6	45
+155	Đưa thư cho đệ tử tiếp dẫn Côn Lôn Vân Trung		GiveItem	2	Quy Kinh Tinh	1	3555	500	0	0	0	0.6	45
+156	Đưa thư cho đệ tử tiếp dẫn Đoàn Thị Vân Trung		GiveItem	2	Đoàn Tu Tịnh	1	3480	500	0	0	0	0.6	45
+157	Đưa thư cho đệ tử tiếp dẫn Minh Giáo Vân Trung		GiveItem	2	Đồng Lăng	1	3474	500	0	0	0	0.6	45
+158	Đưa thư cho Lễ Quan Vân Trung		GiveItem	2	Lễ Quan	1	2601	500	0	0	0	0.6	45
+159	Đưa thư cho Diệp Chỉ Lâm Vân Trung		GiveItem	2	Diệp Chỉ Lâm	1	3576	500	0	0	0	0.6	45
+160	Đưa thư cho Dã Luyện Đại Sư Vân Trung		GiveItem	2	Dã Luyện Đại Sư	1	3574	500	0	0	0	0.6	45
+161	Đưa thư cho đệ tử tiếp dẫn Thiếu Lâm Thạch Cổ		GiveItem	2	Tịch Huyễn	6	3507	500	0	0	0	0.6	45
+162	Đưa thư cho đệ tử tiếp dẫn Thiên Vương Thạch Cổ		GiveItem	2	Bùi Viễn	6	3501	500	0	0	0	0.6	45
+163	Đưa thư cho đệ tử tiếp dẫn Đường Môn Thạch Cổ		GiveItem	2	Đường Tế Dân	6	3513	500	0	0	0	0.6	45
+164	Đưa thư cho đệ tử tiếp dẫn Ngũ Độc Thạch Cổ		GiveItem	2	Biên Nhất Xuân	6	3519	500	0	0	0	0.6	45
+165	Đưa thư cho đệ tử tiếp dẫn Nga My Thạch Cổ		GiveItem	2	Huyền Tịnh	6	3525	500	0	0	0	0.6	45
+166	Đưa thư cho đệ tử tiếp dẫn Thúy Yên Thạch Cổ		GiveItem	2	Tô Nhã	6	3531	500	0	0	0	0.6	45
+167	Đưa thư cho đệ tử tiếp dẫn Cái Bang Thạch Cổ		GiveItem	2	La Tuấn	6	3537	500	0	0	0	0.6	45
+168	Đưa thư cho đệ tử tiếp dẫn Thiên Nhẫn Thạch Cổ		GiveItem	2	Tạ Phi Kinh	6	3543	500	0	0	0	0.6	45
+169	Đưa thư cho đệ tử tiếp dẫn Võ Đang Thạch Cổ		GiveItem	2	Minh Tuệ	6	3549	500	0	0	0	0.6	45
+170	Đưa thư cho đệ tử tiếp dẫn Côn Lôn Thạch Cổ		GiveItem	2	Quy Kinh Tinh	6	3555	500	0	0	0	0.6	45
+171	Đưa thư cho đệ tử tiếp dẫn Đoàn Thị Thạch Cổ		GiveItem	2	Đoàn Tu Tịnh	6	3480	500	0	0	0	0.6	45
+172	Đưa thư cho đệ tử tiếp dẫn Minh Giáo Thạch Cổ		GiveItem	2	Đồng Lăng	6	3474	500	0	0	0	0.6	45
+173	Đưa thư cho Lễ Quan Thạch Cổ		GiveItem	2	Lễ Quan	6	2601	500	0	0	0	0.6	45
+174	Đưa thư cho Diệp Chỉ Lâm Thạch Cổ 		GiveItem	2	Diệp Chỉ Lâm	6	3576	500	0	0	0	0.6	45
+175	Đưa thư cho Dã Luyện Đại Sư Thạch Cổ		GiveItem	2	Dã Luyện Đại Sư	6	3574	500	0	0	0	0.6	45
+176	Đưa thư cho đệ tử tiếp dẫn Thiếu Lâm Long Môn		GiveItem	2	Tịch Huyễn	2	3507	500	0	0	0	0.6	45
+177	Đưa thư cho đệ tử tiếp dẫn Thiên Vương Long Môn		GiveItem	2	Bùi Viễn	2	3501	500	0	0	0	0.6	45
+178	Đưa thư cho đệ tử tiếp dẫn Đường Môn Long Môn		GiveItem	2	Đường Tế Dân	2	3513	500	0	0	0	0.6	45
+179	Đưa thư cho đệ tử tiếp dẫn Ngũ Độc Long Môn		GiveItem	2	Biên Nhất Xuân	2	3519	500	0	0	0	0.6	45
+180	Đưa thư cho đệ tử tiếp dẫn Nga My Long Môn		GiveItem	2	Huyền Tịnh	2	3525	500	0	0	0	0.6	45
+181	Đưa thư cho đệ tử tiếp dẫn Thúy Yên Long Môn		GiveItem	2	Tô Nhã	2	3531	500	0	0	0	0.6	45
+182	Đưa thư cho đệ tử tiếp dẫn Cái Bang Long Môn		GiveItem	2	La Tuấn	2	3537	500	0	0	0	0.6	45
+183	Đưa thư cho đệ tử tiếp dẫn Thiên Nhẫn Long Môn		GiveItem	2	Tạ Phi Kinh	2	3543	500	0	0	0	0.6	45
+184	Đưa thư cho đệ tử tiếp dẫn Võ Đang Long Môn		GiveItem	2	Minh Tuệ	2	3549	500	0	0	0	0.6	45
+185	Đưa thư cho đệ tử tiếp dẫn Côn Lôn Long Môn		GiveItem	2	Quy Kinh Tinh	2	3555	500	0	0	0	0.6	45
+186	Đưa thư cho đệ tử tiếp dẫn Đoàn Thị Long Môn		GiveItem	2	Đoàn Tu Tịnh	2	3480	500	0	0	0	0.6	45
+187	Đưa thư cho đệ tử tiếp dẫn Minh Giáo Long Môn		GiveItem	2	Đồng Lăng	2	3474	500	0	0	0	0.6	45
+188	Đưa thư cho Lễ Quan Long Môn		GiveItem	2	Lễ Quan	2	2601	500	0	0	0	0.6	45
+189	Đưa thư cho Diệp Chỉ Lâm Long Môn		GiveItem	2	Diệp Chỉ Lâm	2	3576	500	0	0	0	0.6	45
+190	Đưa thư cho Dã Luyện Đại Sư Long Môn		GiveItem	2	Dã Luyện Đại Sư	2	3574	500	0	0	0	0.6	45
+191	Đưa thư cho Thương Nhân Thần Bí của phái Thiếu Lâm (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong phái Thiếu Lâm) 		GiveItem	3	Thương Nhân Thần Bí	9	2964	0	1000	0	0	0.6	180
+192	Đưa thư cho Thương Nhân Thần Bí của Thiên Vương Bang (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Thiên Vương Bang)		GiveItem	3	Thương Nhân Thần Bí	22	2964	0	1000	0	0	0.6	180
+193	Đưa thư cho Thương Nhân Thần Bí của Đường Môn (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Đường Môn)		GiveItem	3	Thương Nhân Thần Bí	18	2964	0	1000	0	0	0.6	180
+194	Đưa thư cho Thương Nhân Thần Bí của Ngũ Độc Giáo (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Ngũ Độc Giáo)		GiveItem	3	Thương Nhân Thần Bí	20	2964	0	1000	0	0	0.6	180
+195	Đưa thư cho Thương Nhân Thần Bí của Nga My Phái (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong phái Nga My)		GiveItem	3	Thương Nhân Thần Bí	16	2964	0	1000	0	0	0.6	180
+196	Đưa thư cho Thương Nhân Thần Bí của Thúy Yên Môn (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Thúy Yên Môn)		GiveItem	3	Thương Nhân Thần Bí	17	2964	0	1000	0	0	0.6	180
+197	Đưa thư cho Thương Nhân Thần Bí của Cái Bang (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Cái Bang)		GiveItem	3	Thương Nhân Thần Bí	15	2964	0	1000	0	0	0.6	180
+198	Đưa thư cho Thương Nhân Thần Bí của Thiên Nhẫn Giáo (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Thiên Nhẫn Giáo)		GiveItem	3	Thương Nhân Thần Bí	10	2964	0	1000	0	0	0.6	180
+199	Đưa thư cho Thương Nhân Thần Bí của phái Võ Đang (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong phái Võ Đang)		GiveItem	3	Thương Nhân Thần Bí	14	2964	0	1000	0	0	0.6	180
+200	Đưa thư Thương Nhân Thần Bí của phái Côn Lôn (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong phái Côn Lôn)		GiveItem	3	Thương Nhân Thần Bí	12	2964	0	1000	0	0	0.6	180
+201	Đưa thư cho Thương Nhân Thần Bí của Đại Lý Đoàn Thị (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Đại Lý Đoàn Thị)		GiveItem	3	Thương Nhân Thần Bí	19	2964	0	1000	0	0	0.6	180
+202	Đưa thư cho Thương Nhân Thần Bí của Minh Giáo (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Minh Giáo)		GiveItem	3	Thương Nhân Thần Bí	224	2964	0	1000	0	0	0.6	180
+203	Đưa thư cho Người Liên Lạc Thương Hội Chiến Trường (thời gian mở Chiến Trường Tống Kim có thể tìm trong cẩm nang trợ giúp F12)		GiveItem	4	Người Liên Lạc Thương Hội	0	2962	0	0	1000	1	0.6	1800
+204	Đưa thư cho Người Liên Lạc Thương Hội Bạch Hổ Đường 2 (thời gian mở Bạch Hổ Đường có thể tìm trong cẩm nang trợ giúp F12; trong Bạch Hổ Đường đang đánh nhau kịch liệt, phải cử tổ đội đi trước)		GiveItem	4	Người Liên Lạc Thương Hội	0	2961	0	0	1000	0	0.6	1800

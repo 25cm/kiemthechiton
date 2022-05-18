@@ -1,0 +1,5 @@
+91jx_goddess
+global_nameserver
+91jx_gamecenter
+91jx_statlog
+global_logserver

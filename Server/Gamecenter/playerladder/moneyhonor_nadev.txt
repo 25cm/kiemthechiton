@@ -1,0 +1,3 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2022-05-18 12:00:01
+1	nadev	administrator	Testgame	 Ngũ Độc	 Đao Độc	110	Nam	Không gia tộc	Không bang hội	148610
+2	nadev	hungnv	Solana	 Võ Đang	 Kiếm Võ	110	Nam	Không gia tộc	Không bang hội	113524

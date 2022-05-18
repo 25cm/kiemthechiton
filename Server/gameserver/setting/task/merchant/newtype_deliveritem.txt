@@ -1,0 +1,4 @@
+TaskId	TaskName	StepDesc	TaskType	Diff	NpcName	MapId	NpcId	Step01	Step02	Step03	LevelFlag	StartDay	AwardExp	NeedTime
+Số nhiệm vụ	Tên nhiệm vụ	Miêu tả tìm đường	Loại nhiệm vụ	Độ khó (miêu tả)	Tên npc đưa thư	Bản đồ Id của Npc	NpcId đưa thư	Bước 1-9	Bước 10	Bước 100	Đạt cấp 60	Sau khi mở server	Nhận được kinh nghiệm	Thời gian cần (giây)
+1	Đưa thư cho Người Liên Lạc Thương Hội Chiến Trường (thời gian mở Chiến Trường Tống Kim có thể tìm trong cẩm nang trợ giúp F12)		GiveItem	4	Người Liên Lạc Thương Hội	0	2962	0	5000	0	0	0	0.6	1800
+2	Đưa thư cho Người Liên Lạc Thương Hội Bạch Hổ Đường 2 (thời gian mở Bạch Hổ Đường có thể tìm trong cẩm nang trợ giúp F12; trong Bạch Hổ Đường đang đánh nhau kịch liệt, phải cử tổ đội đi trước)		GiveItem	4	Người Liên Lạc Thương Hội	0	2961	0	0	0	0	0	0.6	1800

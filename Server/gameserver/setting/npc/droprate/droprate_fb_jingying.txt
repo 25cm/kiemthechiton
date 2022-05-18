@@ -1,0 +1,5 @@
+Money	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+2000					250000		B?c kh¨®a
+	18	1	543	1	5000		S¨¢ch kinh nghi?m ??ng h¨¤nh
+	18	1	25194	1	20000		Kinh Nghiệm Đơn
+	18	1	1194	5	10000		Đồng Tiền Khóa

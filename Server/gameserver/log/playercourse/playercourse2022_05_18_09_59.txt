@@ -1,0 +1,1390 @@
+18-09:59:29	Testgame	login 2
+18-09:59:30	Testgame	administrator	26.99.78.68:42815	LoginHwId_2885662585	1663524153
+18-09:59:30	Testgame	NewWorld 4
+18-09:59:30	Testgame	LevelUp	2
+18-09:59:30	Testgame	LevelUp	3
+18-09:59:30	Testgame	LevelUp	4
+18-09:59:30	Testgame	LevelUp	5
+18-09:59:30	Testgame	LevelUp	6
+18-09:59:30	Testgame	LevelUp	7
+18-09:59:30	Testgame	LevelUp	8
+18-09:59:30	Testgame	LevelUp	9
+18-09:59:30	Testgame	LevelUp	10
+18-09:59:30	Testgame	LevelUp	11
+18-09:59:30	Testgame	LevelUp	12
+18-09:59:30	Testgame	LevelUp	13
+18-09:59:30	Testgame	LevelUp	14
+18-09:59:30	Testgame	LevelUp	15
+18-09:59:30	Testgame	LevelUp	16
+18-09:59:30	Testgame	LevelUp	17
+18-09:59:30	Testgame	LevelUp	18
+18-09:59:30	Testgame	LevelUp	19
+18-09:59:30	Testgame	LevelUp	20
+18-09:59:30	Testgame	LevelUp	21
+18-09:59:30	Testgame	LevelUp	22
+18-09:59:30	Testgame	LevelUp	23
+18-09:59:30	Testgame	LevelUp	24
+18-09:59:30	Testgame	LevelUp	25
+18-09:59:30	Testgame	LevelUp	26
+18-09:59:30	Testgame	LevelUp	27
+18-09:59:30	Testgame	LevelUp	28
+18-09:59:30	Testgame	LevelUp	29
+18-09:59:30	Testgame	LevelUp	30
+18-09:59:30	Testgame	LevelUp	31
+18-09:59:30	Testgame	LevelUp	32
+18-09:59:30	Testgame	LevelUp	33
+18-09:59:30	Testgame	LevelUp	34
+18-09:59:30	Testgame	LevelUp	35
+18-09:59:30	Testgame	LevelUp	36
+18-09:59:30	Testgame	LevelUp	37
+18-09:59:30	Testgame	LevelUp	38
+18-09:59:30	Testgame	LevelUp	39
+18-09:59:30	Testgame	LevelUp	40
+18-09:59:30	Testgame	LevelUp	41
+18-09:59:30	Testgame	LevelUp	42
+18-09:59:30	Testgame	LevelUp	43
+18-09:59:30	Testgame	LevelUp	44
+18-09:59:30	Testgame	LevelUp	45
+18-09:59:30	Testgame	LevelUp	46
+18-09:59:30	Testgame	LevelUp	47
+18-09:59:30	Testgame	LevelUp	48
+18-09:59:30	Testgame	LevelUp	49
+18-09:59:30	Testgame	LevelUp	50
+18-09:59:30	Testgame	LevelUp	51
+18-09:59:30	Testgame	LevelUp	52
+18-09:59:30	Testgame	LevelUp	53
+18-09:59:30	Testgame	LevelUp	54
+18-09:59:30	Testgame	LevelUp	55
+18-09:59:30	Testgame	LevelUp	56
+18-09:59:30	Testgame	LevelUp	57
+18-09:59:30	Testgame	LevelUp	58
+18-09:59:30	Testgame	LevelUp	59
+18-09:59:30	Testgame	LevelUp	60
+18-09:59:30	Testgame	LevelUp	61
+18-09:59:30	Testgame	LevelUp	62
+18-09:59:30	Testgame	LevelUp	63
+18-09:59:30	Testgame	LevelUp	64
+18-09:59:30	Testgame	LevelUp	65
+18-09:59:30	Testgame	LevelUp	66
+18-09:59:30	Testgame	LevelUp	67
+18-09:59:30	Testgame	LevelUp	68
+18-09:59:30	Testgame	LevelUp	69
+18-09:59:30	Testgame	LevelUp	70
+18-09:59:30	Testgame	LevelUp	71
+18-09:59:30	Testgame	LevelUp	72
+18-09:59:30	Testgame	LevelUp	73
+18-09:59:30	Testgame	LevelUp	74
+18-09:59:30	Testgame	LevelUp	75
+18-09:59:30	Testgame	LevelUp	76
+18-09:59:30	Testgame	LevelUp	77
+18-09:59:30	Testgame	LevelUp	78
+18-09:59:30	Testgame	LevelUp	79
+18-09:59:30	Testgame	LevelUp	80
+18-09:59:30	Testgame	LevelUp	81
+18-09:59:30	Testgame	LevelUp	82
+18-09:59:30	Testgame	LevelUp	83
+18-09:59:30	Testgame	LevelUp	84
+18-09:59:30	Testgame	LevelUp	85
+18-09:59:30	Testgame	LevelUp	86
+18-09:59:30	Testgame	LevelUp	87
+18-09:59:30	Testgame	LevelUp	88
+18-09:59:30	Testgame	LevelUp	89
+18-09:59:30	Testgame	LevelUp	90
+18-09:59:30	Testgame	LevelUp	91
+18-09:59:30	Testgame	LevelUp	92
+18-09:59:30	Testgame	LevelUp	93
+18-09:59:30	Testgame	LevelUp	94
+18-09:59:30	Testgame	LevelUp	95
+18-09:59:30	Testgame	LevelUp	96
+18-09:59:30	Testgame	LevelUp	97
+18-09:59:30	Testgame	LevelUp	98
+18-09:59:30	Testgame	LevelUp	99
+18-09:59:30	Testgame	LevelUp	100
+18-09:59:30	Testgame	AddBindMoney	AddWay100	Count	50000000
+18-09:59:30	Testgame	AddBindCoin	AddWay100	Count	2000000
+18-09:59:30	Testgame	AddItem	Vô Hạn Truyền Tống Phù(1652842770)	Way100	Value150000
+18-09:59:30	Testgame	AddItem	Lệnh bài mở rộng rương(1652842770)	Way100	Value80000
+18-09:59:30	Testgame	AddItem	Lệnh bài mở rộng rương Lv2(1652842770)	Way100	Value80000
+18-09:59:30	Testgame	AddItem	Mã bài (Phiên Vũ)(1652842770)	Way100	Value3000000
+18-09:59:30	Testgame	AddItem	Ngũ Hành Hồn Thạch(1652842770)	Way100	Value2399000
+18-09:59:30	Testgame	AddItem	Túi Bàn Long(1652842770)	Way100	Value3200000
+18-09:59:30	Testgame	AddItem	Túi Bàn Long(1652842770)	Way100	Value3200000
+18-09:59:30	Testgame	AddItem	Túi Bàn Long(1652842770)	Way100	Value3200000
+18-09:59:30	Testgame	AddItem	Phù  Pet(1652842770)	Way100	Value1000000
+18-09:59:30	Testgame	AddItem	Áo Pet(1652842770)	Way100	Value1000000
+18-09:59:30	Testgame	AddItem	Tay Pet(1652842770)	Way100	Value1000000
+18-09:59:30	Testgame	AddItem	Nhẫn Pet(1652842770)	Way100	Value1000000
+18-09:59:30	Testgame	AddItem	Vũ Khí Pet(1652842770)	Way100	Value1000000
+18-09:59:30	Testgame	AddItem	Già Lam Kinh(1652842770)	Way100	Value1000000
+18-09:59:30	Testgame	AddItem	Thanh Long Ấn(1652842770)	Way100	Value1000000
+18-09:59:30	Testgame	AddItem	[Trận Pháp]Bát Quái Trận(1652842770)	Way100	Value1000000
+18-09:59:30	Testgame	AddItem	[Thánh Linh]Ngũ Hành(1652842770)	Way100	Value50000
+18-09:59:30	Testgame	AddItem	Mặt Nạ Cửu Thiên(1652842770)	Way100	Value1000000
+18-09:59:30	Testgame	AddItem	Túi Quà Hỗ Trợ Tân Thủ (1652842770)	Way100	Value100000
+18-09:59:30	Testgame	AddItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ (1652842770)	Way100	Value100000
+18-09:59:30	Testgame	AddItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ (1652842770)	Way100	Value100000
+18-09:59:30	Testgame	AddItem	Ngọc Trúc Mai Hoa (tháng)(1652842770)	Way100	Value100000
+18-09:59:30	Testgame	AddItem	Đồng hành chu đáo (3 kỹ năng)(1652842770)	Way100	Value600000
+18-09:59:30	Testgame	AddItem	Đồng hành chu đáo (3 kỹ năng)(1652842770)	Way100	Value600000
+18-09:59:30	Testgame	AddItem	Đồng hành chu đáo (3 kỹ năng)(1652842770)	Way100	Value600000
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:30	Testgame	AddItem	Huyền Tinh có tì vết (cấp 8)(1652842770)	Way100	Value783641
+18-09:59:34	Testgame	UseItem	Ngọc Trúc Mai Hoa (tháng)
+18-09:59:34	Testgame	RemoveItem	Ngọc Trúc Mai Hoa (tháng)(1652842770)	Way5	Value100000
+18-09:59:39	Testgame	UseItem	Lệnh bài mở rộng rương
+18-09:59:40	Testgame	RemoveItem	Lệnh bài mở rộng rương(1652842770)	Way100	Value80000
+18-09:59:41	Testgame	UseItem	Lệnh bài mở rộng rương Lv2
+18-09:59:42	Testgame	RemoveItem	Lệnh bài mở rộng rương Lv2(1652842770)	Way100	Value80000
+18-09:59:43	Testgame	UseItem	Mã bài (Phiên Vũ)
+18-09:59:51	Testgame	UseItem	Mặt Nạ Cửu Thiên
+18-09:59:52	Testgame	UseItem	Già Lam Kinh
+18-09:59:56	Testgame	UseItem	[Thánh Linh]Ngũ Hành
+18-09:59:58	Testgame	UseItem	Thanh Long Ấn
+18-09:59:59	Testgame	UseItem	Túi Quà Hỗ Trợ Tân Thủ 
+18-10:00:04	Testgame	UseItem	[Trận Pháp]Bát Quái Trận
+18-10:00:05	Testgame	UseItem	[Chân nguyên] Bảo Ngọc
+18-10:00:13	Testgame	UseItem	Túi Quà Hỗ Trợ Tân Thủ 
+18-10:00:20	Testgame	dialog NPC Môn Phái
+18-10:00:36	Testgame	UseItem	Túi Quà Hỗ Trợ Tân Thủ 
+18-10:00:37	Testgame	LevelUp	101
+18-10:00:37	Testgame	LevelUp	102
+18-10:00:37	Testgame	LevelUp	103
+18-10:00:37	Testgame	LevelUp	104
+18-10:00:37	Testgame	LevelUp	105
+18-10:00:37	Testgame	LevelUp	106
+18-10:00:37	Testgame	LevelUp	107
+18-10:00:37	Testgame	LevelUp	108
+18-10:00:37	Testgame	LevelUp	109
+18-10:00:37	Testgame	LevelUp	110
+18-10:00:37	Testgame	AddItem	Tu La Phát Kết-Chu Thiềm(1652842837)	Way100	Value75111048
+18-10:00:37	Testgame	AddItem	Thiên Nhẫn Bí Trang-Nghịch Thủy(1652842837)	Way100	Value75127902
+18-10:00:37	Testgame	AddItem	Võ Hầu Thúc Đái-Hoàng Quang(1652842837)	Way100	Value75146190
+18-10:00:37	Testgame	AddItem	Thiên Tàm Hộ Uyển-Cự Mộc(1652842837)	Way100	Value75128393
+18-10:00:37	Testgame	AddItem	Thiên Tàm Ngoa-Việt Quang(1652842837)	Way100	Value75210263
+18-10:00:37	Testgame	AddItem	Triều Lộ Liên-Nghịch Thủy(1652842837)	Way100	Value112724917
+18-10:00:37	Testgame	AddItem	Ứng Long Giới-Hoàng Quang(1652842837)	Way100	Value112774723
+18-10:00:37	Testgame	AddItem	Bắc Minh Bội-Cự Mộc(1652842837)	Way100	Value112670970
+18-10:00:37	Testgame	AddItem	Tiên Duyên Phù-Việt Quang(1652842837)	Way100	Value112816032
+18-10:00:37	Testgame	AddItem	Yển Nguyệt Đao-Thương Lang(1652842837)	Way100	Value301211532
+18-10:00:37	Testgame	AddItem	Kim Cô Bổng-Thương Lang(1652842837)	Way100	Value301211532
+18-10:00:37	Testgame	RemoveItem	Túi Quà Hỗ Trợ Tân Thủ (1652842770)	Way100	Value100000
+18-10:00:38	Testgame	UseItem	Kim Cô Bổng-Thương Lang
+18-10:00:39	Testgame	UseItem	Yển Nguyệt Đao-Thương Lang
+18-10:00:40	Testgame	UseItem	Tiên Duyên Phù-Việt Quang
+18-10:00:41	Testgame	UseItem	Ứng Long Giới-Hoàng Quang
+18-10:00:41	Testgame	UseItem	Bắc Minh Bội-Cự Mộc
+18-10:00:42	Testgame	UseItem	Triều Lộ Liên-Nghịch Thủy
+18-10:00:43	Testgame	UseItem	Thiên Nhẫn Bí Trang-Nghịch Thủy
+18-10:00:43	Testgame	UseItem	Võ Hầu Thúc Đái-Hoàng Quang
+18-10:00:43	Testgame	UseItem	Tu La Phát Kết-Chu Thiềm
+18-10:00:44	Testgame	UseItem	Thiên Tàm Ngoa-Việt Quang
+18-10:00:44	Testgame	UseItem	Thiên Tàm Hộ Uyển-Cự Mộc
+18-10:00:53	Testgame	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-10:00:57	Testgame	RemoveItem	Đồng hành chu đáo (3 kỹ năng)(1652842770)	Way100	Value600000
+18-10:00:58	Testgame	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-10:01:01	Testgame	RemoveItem	Đồng hành chu đáo (3 kỹ năng)(1652842770)	Way100	Value600000
+18-10:01:02	Testgame	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-10:01:04	Testgame	RemoveItem	Đồng hành chu đáo (3 kỹ năng)(1652842770)	Way100	Value600000
+18-10:01:07	Testgame	UseItem	Nhẫn Pet
+18-10:01:07	Testgame	UseItem	Tay Pet
+18-10:01:08	Testgame	UseItem	Vũ Khí Pet
+18-10:01:08	Testgame	UseItem	Phù  Pet
+18-10:01:08	Testgame	UseItem	Áo Pet
+18-10:01:32	Testgame	dialog NPC Môn Phái
+18-10:01:43	Testgame	dialog NPC Môn Phái
+18-10:01:57	Testgame	dialog Ông Già Noel
+18-10:02:12	Testgame	dialog Ông Già Noel
+18-10:02:20	Testgame	dialog Vương Ngữ Yên
+18-10:02:27	Testgame	dialog Đoàn Đự
+18-10:02:31	Testgame	dialog Lò Lửa Chiến Thần
+18-10:02:34	Testgame	dialog Vua Bóng Đá
+18-10:02:43	Testgame	dialog Bé Thả Diều
+18-10:02:48	Testgame	dialog Tẩy Tủy Đại Sư
+18-10:02:51	Testgame	dialog Lương Tiếu Tiếu
+18-10:03:31	Testgame	dialog Thương Gia Tiêu Dao
+18-10:43:00	Testgame	login 4
+18-10:43:00	Testgame	administrator	26.99.78.68:14596	LoginHwId_2885662585	1663524153
+18-10:44:26	Testgame	dialog NPC Môn Phái
+18-10:44:49	Testgame	dialog Dã Luyện Đại Sư
+18-10:45:02	Testgame	dialog Dã Luyện Đại Sư
+18-10:45:05	Testgame	dialog Thương Gia Tiêu Dao
+18-11:02:17	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:02:19	Testgame	NewWorld 7
+18-11:02:28	Testgame	dialog Cổ Phong Hà
+18-11:02:29	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:02:37	Testgame	NewWorld 1
+18-11:02:38	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:02:42	Testgame	NewWorld 3
+18-11:02:43	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:02:45	Testgame	NewWorld 8
+18-11:02:46	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:02:48	Testgame	NewWorld 6
+18-11:02:49	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:02:51	Testgame	NewWorld 4
+18-11:02:54	Testgame	dialog NPC Môn Phái
+18-11:02:58	Testgame	dialog Ông Già Noel
+18-11:03:08	Testgame	dialog Ông Già Noel
+18-11:03:11	Testgame	dialog Vương Ngữ Yên
+18-11:03:14	Testgame	dialog Đoàn Đự
+18-11:03:20	Testgame	dialog NPC Môn Phái
+18-11:03:24	Testgame	dialog Vua Bóng Đá
+18-11:03:33	Testgame	dialog Vua Bóng Đá
+18-11:03:37	Testgame	dialog Bé Thả Diều
+18-11:03:39	Testgame	dialog Thương Nhân Đặc Sản
+18-11:03:40	Testgame	dialog Thương Nhân Đặc Sản
+18-11:03:42	Testgame	dialog Quan Lãnh Thổ
+18-11:03:48	Testgame	dialog Tẩy Tủy Đại Sư
+18-11:03:49	Testgame	dialog Lương Tiếu Tiếu
+18-11:03:52	Testgame	dialog NPC Môn Phái
+18-11:04:00	Testgame	dialog Ông Già Noel
+18-11:04:09	Solana	login 2
+18-11:04:10	Solana	hungnv	26.219.108.28:37112	LoginHwId_1665887050	2560900618
+18-11:04:10	Solana	NewWorld 4
+18-11:04:10	Solana	LevelUp	2
+18-11:04:10	Solana	LevelUp	3
+18-11:04:10	Solana	LevelUp	4
+18-11:04:10	Solana	LevelUp	5
+18-11:04:10	Solana	LevelUp	6
+18-11:04:10	Solana	LevelUp	7
+18-11:04:10	Solana	LevelUp	8
+18-11:04:10	Solana	LevelUp	9
+18-11:04:10	Solana	LevelUp	10
+18-11:04:10	Solana	LevelUp	11
+18-11:04:10	Solana	LevelUp	12
+18-11:04:10	Solana	LevelUp	13
+18-11:04:10	Solana	LevelUp	14
+18-11:04:10	Solana	LevelUp	15
+18-11:04:10	Solana	LevelUp	16
+18-11:04:10	Solana	LevelUp	17
+18-11:04:10	Solana	LevelUp	18
+18-11:04:10	Solana	LevelUp	19
+18-11:04:10	Solana	LevelUp	20
+18-11:04:10	Solana	LevelUp	21
+18-11:04:10	Solana	LevelUp	22
+18-11:04:10	Solana	LevelUp	23
+18-11:04:10	Solana	LevelUp	24
+18-11:04:10	Solana	LevelUp	25
+18-11:04:10	Solana	LevelUp	26
+18-11:04:10	Solana	LevelUp	27
+18-11:04:10	Solana	LevelUp	28
+18-11:04:10	Solana	LevelUp	29
+18-11:04:10	Solana	LevelUp	30
+18-11:04:10	Solana	LevelUp	31
+18-11:04:10	Solana	LevelUp	32
+18-11:04:10	Solana	LevelUp	33
+18-11:04:10	Solana	LevelUp	34
+18-11:04:10	Solana	LevelUp	35
+18-11:04:10	Solana	LevelUp	36
+18-11:04:10	Solana	LevelUp	37
+18-11:04:10	Solana	LevelUp	38
+18-11:04:10	Solana	LevelUp	39
+18-11:04:10	Solana	LevelUp	40
+18-11:04:10	Solana	LevelUp	41
+18-11:04:10	Solana	LevelUp	42
+18-11:04:10	Solana	LevelUp	43
+18-11:04:10	Solana	LevelUp	44
+18-11:04:10	Solana	LevelUp	45
+18-11:04:10	Solana	LevelUp	46
+18-11:04:10	Solana	LevelUp	47
+18-11:04:10	Solana	LevelUp	48
+18-11:04:10	Solana	LevelUp	49
+18-11:04:10	Solana	LevelUp	50
+18-11:04:10	Solana	LevelUp	51
+18-11:04:10	Solana	LevelUp	52
+18-11:04:10	Solana	LevelUp	53
+18-11:04:10	Solana	LevelUp	54
+18-11:04:10	Solana	LevelUp	55
+18-11:04:10	Solana	LevelUp	56
+18-11:04:10	Solana	LevelUp	57
+18-11:04:10	Solana	LevelUp	58
+18-11:04:10	Solana	LevelUp	59
+18-11:04:10	Solana	LevelUp	60
+18-11:04:10	Solana	LevelUp	61
+18-11:04:10	Solana	LevelUp	62
+18-11:04:10	Solana	LevelUp	63
+18-11:04:10	Solana	LevelUp	64
+18-11:04:10	Solana	LevelUp	65
+18-11:04:10	Solana	LevelUp	66
+18-11:04:10	Solana	LevelUp	67
+18-11:04:10	Solana	LevelUp	68
+18-11:04:10	Solana	LevelUp	69
+18-11:04:10	Solana	LevelUp	70
+18-11:04:10	Solana	LevelUp	71
+18-11:04:10	Solana	LevelUp	72
+18-11:04:10	Solana	LevelUp	73
+18-11:04:10	Solana	LevelUp	74
+18-11:04:10	Solana	LevelUp	75
+18-11:04:10	Solana	LevelUp	76
+18-11:04:10	Solana	LevelUp	77
+18-11:04:10	Solana	LevelUp	78
+18-11:04:10	Solana	LevelUp	79
+18-11:04:10	Solana	LevelUp	80
+18-11:04:11	Solana	LevelUp	81
+18-11:04:11	Solana	LevelUp	82
+18-11:04:11	Solana	LevelUp	83
+18-11:04:11	Solana	LevelUp	84
+18-11:04:11	Solana	LevelUp	85
+18-11:04:11	Solana	LevelUp	86
+18-11:04:11	Solana	LevelUp	87
+18-11:04:11	Solana	LevelUp	88
+18-11:04:11	Solana	LevelUp	89
+18-11:04:11	Solana	LevelUp	90
+18-11:04:11	Solana	LevelUp	91
+18-11:04:11	Solana	LevelUp	92
+18-11:04:11	Solana	LevelUp	93
+18-11:04:11	Solana	LevelUp	94
+18-11:04:11	Solana	LevelUp	95
+18-11:04:11	Solana	LevelUp	96
+18-11:04:11	Solana	LevelUp	97
+18-11:04:11	Solana	LevelUp	98
+18-11:04:11	Solana	LevelUp	99
+18-11:04:11	Solana	LevelUp	100
+18-11:04:11	Solana	AddBindMoney	AddWay100	Count	50000000
+18-11:04:11	Solana	AddBindCoin	AddWay100	Count	2000000
+18-11:04:11	Solana	AddItem	Vô Hạn Truyền Tống Phù(1652846651)	Way100	Value150000
+18-11:04:11	Solana	AddItem	Lệnh bài mở rộng rương(1652846651)	Way100	Value80000
+18-11:04:11	Solana	AddItem	Lệnh bài mở rộng rương Lv2(1652846651)	Way100	Value80000
+18-11:04:11	Solana	AddItem	Mã bài (Phiên Vũ)(1652846651)	Way100	Value3000000
+18-11:04:11	Solana	AddItem	Ngũ Hành Hồn Thạch(1652846651)	Way100	Value2399000
+18-11:04:11	Solana	AddItem	Túi Bàn Long(1652846651)	Way100	Value3200000
+18-11:04:11	Solana	AddItem	Túi Bàn Long(1652846651)	Way100	Value3200000
+18-11:04:11	Solana	AddItem	Túi Bàn Long(1652846651)	Way100	Value3200000
+18-11:04:11	Solana	AddItem	Phù  Pet(1652846651)	Way100	Value1000000
+18-11:04:11	Solana	AddItem	Áo Pet(1652846651)	Way100	Value1000000
+18-11:04:11	Solana	AddItem	Tay Pet(1652846651)	Way100	Value1000000
+18-11:04:11	Solana	AddItem	Nhẫn Pet(1652846651)	Way100	Value1000000
+18-11:04:11	Solana	AddItem	Vũ Khí Pet(1652846651)	Way100	Value1000000
+18-11:04:11	Solana	AddItem	Già Lam Kinh(1652846651)	Way100	Value1000000
+18-11:04:11	Solana	AddItem	Thanh Long Ấn(1652846651)	Way100	Value1000000
+18-11:04:11	Solana	AddItem	[Trận Pháp]Bát Quái Trận(1652846651)	Way100	Value1000000
+18-11:04:11	Solana	AddItem	[Thánh Linh]Ngũ Hành(1652846651)	Way100	Value50000
+18-11:04:11	Solana	AddItem	Mặt Nạ Cửu Thiên(1652846651)	Way100	Value1000000
+18-11:04:11	Solana	AddItem	Túi Quà Hỗ Trợ Tân Thủ (1652846651)	Way100	Value100000
+18-11:04:11	Solana	AddItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ (1652846651)	Way100	Value100000
+18-11:04:11	Solana	AddItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ (1652846651)	Way100	Value100000
+18-11:04:11	Solana	AddItem	Ngọc Trúc Mai Hoa (tháng)(1652846651)	Way100	Value100000
+18-11:04:11	Solana	AddItem	Đồng hành chu đáo (3 kỹ năng)(1652846651)	Way100	Value600000
+18-11:04:11	Solana	AddItem	Đồng hành chu đáo (3 kỹ năng)(1652846651)	Way100	Value600000
+18-11:04:11	Solana	AddItem	Đồng hành chu đáo (3 kỹ năng)(1652846651)	Way100	Value600000
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:11	Solana	AddItem	Huyền Tinh có tì vết (cấp 8)(1652846651)	Way100	Value783641
+18-11:04:12	Testgame	dialog Ông Già Noel
+18-11:04:12	Testgame	dialog Ông Già Noel
+18-11:04:15	Solana	UseItem	Ngọc Trúc Mai Hoa (tháng)
+18-11:04:15	Solana	RemoveItem	Ngọc Trúc Mai Hoa (tháng)(1652846651)	Way5	Value100000
+18-11:04:30	Testgame	dialog [Đánh Trống] Cổ Vũ
+18-11:04:36	Solana	dialog NPC Môn Phái
+18-11:05:22	Solana	UseItem	Già Lam Kinh
+18-11:05:25	Solana	UseItem	Thanh Long Ấn
+18-11:05:27	Solana	UseItem	Mặt Nạ Cửu Thiên
+18-11:05:27	Solana	UseItem	Túi Quà Hỗ Trợ Tân Thủ 
+18-11:05:34	Solana	UseItem	Huyền Tinh có tì vết (cấp 8)
+18-11:05:35	Solana	UseItem	Huyền Tinh có tì vết (cấp 8)
+18-11:05:35	Solana	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-11:05:36	Solana	UseItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ 
+18-11:05:37	Solana	UseItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ 
+18-11:05:38	Solana	UseItem	Tu Luyện Châu
+18-11:05:43	Solana	AddBindMoney	AddWay100	Count	2000000
+18-11:05:43	Solana	AddBindCoin	AddWay100	Count	200000
+18-11:05:46	Solana	UseItem	Huyền Tinh có tì vết (cấp 8)
+18-11:05:48	Testgame	dialog Trâu Đức Khoái
+18-11:05:49	Solana	UseItem	Túi Bàn Long
+18-11:05:50	Testgame	dialog Ông Già Noel
+18-11:05:50	Solana	UseItem	Túi Bàn Long
+18-11:05:57	Solana	UseItem	Mã bài (Phiên Vũ)
+18-11:05:58	Solana	UseItem	Lệnh bài mở rộng rương Lv2
+18-11:06:00	Solana	RemoveItem	Lệnh bài mở rộng rương Lv2(1652846651)	Way100	Value80000
+18-11:06:01	Solana	UseItem	Lệnh bài mở rộng rương
+18-11:06:03	Solana	RemoveItem	Lệnh bài mở rộng rương(1652846651)	Way100	Value80000
+18-11:06:04	Solana	UseItem	Vô Hạn Truyền Tống Phù
+18-11:06:06	Testgame	dialog NPC Môn Phái
+18-11:06:07	Solana	UseItem	Ngũ Hành Hồn Thạch
+18-11:06:09	Solana	UseItem	Túi Bàn Long
+18-11:06:10	Solana	UseItem	Túi Bàn Long
+18-11:06:10	Solana	UseItem	Túi Bàn Long
+18-11:06:12	Solana	UseItem	[Chân nguyên] Bảo Ngọc
+18-11:06:13	Solana	UseItem	[Trận Pháp]Bát Quái Trận
+18-11:06:14	Solana	UseItem	[Thánh Linh]Ngũ Hành
+18-11:06:14	Testgame	dialog Ông Già Noel
+18-11:06:15	Solana	UseItem	Túi Quà Hỗ Trợ Tân Thủ 
+18-11:06:20	Solana	UseItem	Tu Luyện Châu
+18-11:06:22	Testgame	dialog Ông Già Noel
+18-11:06:23	Solana	UseItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ 
+18-11:06:23	Solana	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-11:06:29	Solana	dialog NPC Môn Phái
+18-11:06:34	Testgame	dialog Ông Già Noel
+18-11:06:42	Testgame	CostBindCoin	CostWay1	Count	7200
+18-11:06:42	Testgame	AddItem	Vạn Vật Quy Nguyên Đơn(1652846802)	Way3	Value720000
+18-11:06:43	Testgame	UseItem	Vạn Vật Quy Nguyên Đơn
+18-11:06:43	Testgame	RemoveItem	Vạn Vật Quy Nguyên Đơn(1652846802)	Way5	Value720000
+18-11:06:52	Solana	dialog NPC Môn Phái
+18-11:07:08	Solana	UseItem	Túi Bàn Long
+18-11:07:09	Solana	UseItem	Túi Bàn Long
+18-11:07:09	Solana	UseItem	Túi Bàn Long
+18-11:07:28	Testgame	dialog NPC Môn Phái
+18-11:08:03	Testgame	CostBindCoin	CostWay1	Count	600
+18-11:08:03	Testgame	AddItem	Linh Chi Tục Mệnh Hoàn - Rương(1652846883)	Way3	Value0
+18-11:08:04	Testgame	UseItem	Linh Chi Tục Mệnh Hoàn - Rương
+18-11:08:37	Solana	dialog Tạ Hiền
+18-11:08:43	Solana	dialog NPC Môn Phái
+18-11:08:48	Solana	dialog NPC Môn Phái
+18-11:08:51	Testgame	NewWorld 4
+18-11:09:10	Testgame	dialog Vua Bóng Đá
+18-11:09:12	Testgame	dialog [Đánh Trống] Cổ Vũ
+18-11:09:13	Solana	UseItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ 
+18-11:09:14	Solana	UseItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ 
+18-11:09:14	Solana	UseItem	Túi Quà Hỗ Trợ Tân Thủ 
+18-11:09:24	Solana	UseItem	Huyền Tinh có tì vết (cấp 8)
+18-11:09:25	Testgame	dialog Người Tuyết Khổng Lồ
+18-11:09:30	Testgame	dialog NPC Môn Phái
+18-11:09:41	Solana	UseItem	Túi Bàn Long
+18-11:09:42	Solana	UseItem	Túi Bàn Long
+18-11:09:51	Solana	UseItem	Túi Quà Hỗ Trợ Tân Thủ 
+18-11:09:52	Solana	LevelUp	101
+18-11:09:52	Solana	LevelUp	102
+18-11:09:52	Solana	LevelUp	103
+18-11:09:52	Solana	LevelUp	104
+18-11:09:52	Solana	LevelUp	105
+18-11:09:52	Solana	LevelUp	106
+18-11:09:52	Solana	LevelUp	107
+18-11:09:52	Solana	LevelUp	108
+18-11:09:52	Solana	LevelUp	109
+18-11:09:52	Solana	LevelUp	110
+18-11:09:52	Solana	AddItem	Yểm Nhật Khôi-Nghịch Thủy(1652846992)	Way100	Value75112822
+18-11:09:52	Solana	AddItem	Kính Hoa Khải-Hoàng Quang(1652846992)	Way100	Value75161365
+18-11:09:52	Solana	AddItem	Võ Hầu Thúc Đái-Cự Mộc(1652846992)	Way100	Value75113980
+18-11:09:52	Solana	AddItem	Thiên Tàm Hộ Uyển-Việt Quang(1652846992)	Way100	Value75128393
+18-11:09:52	Solana	AddItem	Thiên Tàm Ngoa-Chu Thiềm(1652846992)	Way100	Value75209896
+18-11:09:52	Solana	AddItem	Triều Lộ Liên-Hoàng Quang(1652846992)	Way100	Value112774723
+18-11:09:52	Solana	AddItem	Ứng Long Giới-Cự Mộc(1652846992)	Way100	Value112726654
+18-11:09:52	Solana	AddItem	Bắc Minh Bội-Việt Quang(1652846992)	Way100	Value112670970
+18-11:09:52	Solana	AddItem	Tiên Duyên Phù-Chu Thiềm(1652846992)	Way100	Value112812063
+18-11:09:52	Solana	AddItem	Long Uyên Kiếm-Lạc Lôi(1652846992)	Way100	Value301211532
+18-11:09:52	Solana	AddItem	Long Uyên Kiếm-Vân Phách(1652846992)	Way100	Value301181400
+18-11:09:52	Solana	RemoveItem	Túi Quà Hỗ Trợ Tân Thủ (1652846651)	Way100	Value100000
+18-11:09:53	Solana	UseItem	Yểm Nhật Khôi-Nghịch Thủy
+18-11:09:54	Solana	UseItem	Kính Hoa Khải-Hoàng Quang
+18-11:09:55	Solana	UseItem	Võ Hầu Thúc Đái-Cự Mộc
+18-11:09:56	Solana	UseItem	Triều Lộ Liên-Hoàng Quang
+18-11:09:56	Solana	UseItem	Thiên Tàm Ngoa-Chu Thiềm
+18-11:09:57	Solana	UseItem	Thiên Tàm Hộ Uyển-Việt Quang
+18-11:09:58	Solana	UseItem	Ứng Long Giới-Cự Mộc
+18-11:09:58	Solana	UseItem	Bắc Minh Bội-Việt Quang
+18-11:09:59	Solana	UseItem	Long Uyên Kiếm-Vân Phách
+18-11:10:00	Solana	UseItem	Long Uyên Kiếm-Lạc Lôi
+18-11:10:01	Solana	UseItem	Tiên Duyên Phù-Chu Thiềm
+18-11:10:30	Solana	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-11:10:44	Solana	RemoveItem	Đồng hành chu đáo (3 kỹ năng)(1652846651)	Way100	Value600000
+18-11:10:46	Solana	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-11:10:52	Solana	RemoveItem	Đồng hành chu đáo (3 kỹ năng)(1652846651)	Way100	Value600000
+18-11:10:53	Solana	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-11:10:57	Solana	RemoveItem	Đồng hành chu đáo (3 kỹ năng)(1652846651)	Way100	Value600000
+18-11:11:02	Solana	UseItem	Vũ Khí Pet
+18-11:11:02	Solana	UseItem	Tay Pet
+18-11:11:02	Solana	UseItem	Phù  Pet
+18-11:11:03	Solana	UseItem	Nhẫn Pet
+18-11:11:04	Solana	UseItem	Áo Pet
+18-11:11:06	Solana	UseItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ 
+18-11:11:57	Testgame	dialog Chủ Thương Hội
+18-11:12:29	Solana	CostBindCoin	CostWay1	Count	1200
+18-11:12:29	Solana	AddItem	Dao Trì Đại Hoàn Đơn - Rương(1652847149)	Way3	Value0
+18-11:12:29	Solana	AddItem	Dao Trì Đại Hoàn Đơn - Rương(1652847149)	Way3	Value0
+18-11:12:36	Solana	UseItem	Dao Trì Đại Hoàn Đơn - Rương
+18-11:13:24	Testgame	NewWorld 41
+18-11:13:25	Solana	NewWorld 41
+18-11:15:23	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:16:44	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:22:41	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:22:47	Testgame	NewWorld 4
+18-11:22:57	Testgame	dialog NPC Môn Phái
+18-11:22:59	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:23:03	Testgame	NewWorld 9
+18-11:23:10	Testgame	dialog Huyền Từ
+18-11:23:14	Testgame	NewWorld 255
+18-11:23:19	Testgame	dialog Tẩy Tủy Đại Sư
+18-11:23:47	Testgame	dialog Truyền Tống Môn Phái
+18-11:23:49	Testgame	NewWorld 9
+18-11:23:50	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:23:53	Testgame	NewWorld 4
+18-11:24:03	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:24:06	Testgame	NewWorld 7
+18-11:24:22	Testgame	dialog Cổ Phong Hà
+18-11:24:58	Solana	UseItem	Vô Hạn Truyền Tống Phù
+18-11:25:07	Solana	NewWorld 23
+18-11:25:48	Solana	dialog Bao Vạn Đồng
+18-11:27:04	Solana	NewWorld 7
+18-11:27:14	Solana	dialog Cổ Phong Hà
+18-11:27:29	Solana	NewWorld 7
+18-11:27:32	Solana	dialog Bạch Thu Lâm
+18-11:30:45	Solana	dialog Thẩm Hà Diệp
+18-11:33:35	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-11:33:37	Testgame	NewWorld 4
+18-11:33:49	Testgame	dialog NPC Môn Phái
+18-11:33:49	Testgame	dialog NPC Môn Phái
+18-11:34:34	Testgame	CostBindCoin	CostWay1	Count	60000
+18-11:34:34	Testgame	AddItem	Hộp Quà Tết(1652848474)	Way3	Value3
+18-11:34:39	Testgame	dialog Cây Thông Noel
+18-11:34:39	Testgame	RemoveItem	Hộp Quà Tết(1652848474)	Way100	Value1
+18-11:34:39	Testgame	AddItem	Liên Đấu Hắc Thiết Bài(1652848479)	Way100	Value200000
+18-11:34:39	Testgame	AddItem	Liên Đấu Hắc Thiết Bài(1652848479)	Way100	Value200000
+18-11:34:39	Testgame	dialog Cây Thông Noel
+18-11:34:40	Testgame	RemoveItem	Hộp Quà Tết(1652848474)	Way100	Value1
+18-11:34:40	Testgame	AddItem	Tiền Du Long(1652848480)	Way100	Value50000
+18-11:34:40	Testgame	AddItem	Tiền Du Long(1652848480)	Way100	Value700000
+18-11:34:42	Testgame	dialog Cây Thông Noel
+18-11:34:42	Testgame	AddItem	Bách Bộ Xuyên Dương Cung(1652848482)	Way100	Value10000
+18-11:34:46	Testgame	UseItem	Liên Đấu Hắc Thiết Bài
+18-11:34:46	Testgame	RemoveItem	Liên Đấu Hắc Thiết Bài(1652848479)	Way5	Value200000
+18-11:34:46	Testgame	UseItem	Liên Đấu Hắc Thiết Bài
+18-11:34:46	Testgame	RemoveItem	Liên Đấu Hắc Thiết Bài(1652848479)	Way5	Value200000
+18-11:34:50	Testgame	UseItem	Bách Bộ Xuyên Dương Cung
+18-11:34:50	Testgame	RemoveItem	Bách Bộ Xuyên Dương Cung(1652848482)	Way5	Value10000
+18-11:34:51	Testgame	UseItem	Bách Bộ Xuyên Dương Cung
+18-11:35:36	Testgame	AddItem	Bông Tuyết(1652848536)	Way4	Value1
+18-11:35:36	Testgame	AddItem	Bông Tuyết(1652848536)	Way4	Value1
+18-11:35:36	Testgame	AddItem	Bông Tuyết(1652848536)	Way4	Value1
+18-11:35:43	Testgame	dialog Người Tuyết Khổng Lồ
+18-11:35:44	Testgame	RemoveItem	Bông Tuyết(1652848536)	Way100	Value1
+18-11:35:44	Testgame	AddItem	Tiền Du Long(1652848480)	Way100	Value50000
+18-11:35:44	Testgame	AddItem	Tiền Du Long(1652848480)	Way100	Value950000
+18-11:35:45	Testgame	dialog Người Tuyết Khổng Lồ
+18-11:35:45	Testgame	RemoveItem	Bông Tuyết(1652848536)	Way100	Value1
+18-11:35:45	Testgame	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652848545)	Way100	Value1
+18-11:35:46	Testgame	dialog Người Tuyết Khổng Lồ
+18-11:35:46	Testgame	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652848546)	Way100	Value1
+18-11:35:49	Testgame	dialog Người Tuyết Khổng Lồ
+18-11:35:52	Testgame	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-11:35:52	Testgame	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652848545)	Way5	Value1
+18-11:35:54	Testgame	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-11:35:55	Testgame	UseItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>
+18-11:35:56	Testgame	RemoveItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652848546)	Way100	Value1
+18-11:36:02	Testgame	UseItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>
+18-11:36:03	Testgame	AddItem	[Chân nguyên] Bảo Ngọc(1652842770)	Way16	Value90000
+18-11:36:14	Testgame	UseItem	Tu Luyện Châu
+18-11:36:21	Testgame	AddBindMoney	AddWay100	Count	2000000
+18-11:36:21	Testgame	AddBindCoin	AddWay100	Count	200000
+18-11:36:28	Testgame	UseItem	Tu Luyện Châu
+18-11:36:39	Solana	login 7
+18-11:36:39	Solana	hungnv	26.219.108.28:5826	LoginHwId_1665887050	2560900618
+18-11:37:35	Solana	UseItem	Vô Hạn Truyền Tống Phù
+18-11:37:38	Solana	NewWorld 6
+18-11:37:49	Solana	dialog Bạch Thu Lâm
+18-11:37:58	Solana	dialog Cổ Phong Hà
+18-11:38:12	Testgame	CostBindCoin	CostWay1	Count	144000
+18-11:38:12	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way3	Value2821109
+18-11:38:12	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way3	Value2821109
+18-11:38:12	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way3	Value2821109
+18-11:38:12	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way3	Value2821109
+18-11:38:12	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way3	Value2821109
+18-11:38:15	Testgame	dialog Dã Luyện Đại Sư
+18-11:38:40	Testgame	CostBindCoin	CostWay1	Count	172800
+18-11:38:40	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way3	Value2821109
+18-11:38:40	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way3	Value2821109
+18-11:38:40	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way3	Value2821109
+18-11:38:40	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way3	Value2821109
+18-11:38:40	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way3	Value2821109
+18-11:38:40	Testgame	AddItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way3	Value2821109
+18-11:38:41	Testgame	dialog Dã Luyện Đại Sư
+18-11:38:54	Testgame	CostBindMoney	CostWay105	Count	15046480
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848692)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652848720)	Way100	Value2821109
+18-11:38:54	Testgame	RemoveItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ (1652842770)	Way100	Value100000
+18-11:38:54	Testgame	RemoveItem	Yển Nguyệt Đao-Thương Lang(1652842837)	Way17	Value301211532
+18-11:38:54	Testgame	AddItem	Càn Khôn Hoài Đao-Thương Lang(1652842837)	Way16	Value307073900
+18-11:39:06	Testgame	UseItem	Linh Chi Tục Mệnh Hoàn - Rương
+18-13:17:53	MaNhẫn05	login 8
+18-13:17:53	MaNhẫn05	testgamea	26.99.78.68:53588	LoginHwId_2885662585	1663524153
+18-13:17:53	MaNhẫn05	NewWorld 4
+18-13:17:53	MaNhẫn05	LevelUp	2
+18-13:17:53	MaNhẫn05	LevelUp	3
+18-13:17:53	MaNhẫn05	LevelUp	4
+18-13:17:53	MaNhẫn05	LevelUp	5
+18-13:17:53	MaNhẫn05	LevelUp	6
+18-13:17:53	MaNhẫn05	LevelUp	7
+18-13:17:53	MaNhẫn05	LevelUp	8
+18-13:17:53	MaNhẫn05	LevelUp	9
+18-13:17:53	MaNhẫn05	LevelUp	10
+18-13:17:53	MaNhẫn05	LevelUp	11
+18-13:17:53	MaNhẫn05	LevelUp	12
+18-13:17:53	MaNhẫn05	LevelUp	13
+18-13:17:53	MaNhẫn05	LevelUp	14
+18-13:17:53	MaNhẫn05	LevelUp	15
+18-13:17:53	MaNhẫn05	LevelUp	16
+18-13:17:53	MaNhẫn05	LevelUp	17
+18-13:17:53	MaNhẫn05	LevelUp	18
+18-13:17:53	MaNhẫn05	LevelUp	19
+18-13:17:54	MaNhẫn05	LevelUp	20
+18-13:17:54	MaNhẫn05	LevelUp	21
+18-13:17:54	MaNhẫn05	LevelUp	22
+18-13:17:54	MaNhẫn05	LevelUp	23
+18-13:17:54	MaNhẫn05	LevelUp	24
+18-13:17:54	MaNhẫn05	LevelUp	25
+18-13:17:54	MaNhẫn05	LevelUp	26
+18-13:17:54	MaNhẫn05	LevelUp	27
+18-13:17:54	MaNhẫn05	LevelUp	28
+18-13:17:54	MaNhẫn05	LevelUp	29
+18-13:17:54	MaNhẫn05	LevelUp	30
+18-13:17:54	MaNhẫn05	LevelUp	31
+18-13:17:54	MaNhẫn05	LevelUp	32
+18-13:17:54	MaNhẫn05	LevelUp	33
+18-13:17:54	MaNhẫn05	LevelUp	34
+18-13:17:54	MaNhẫn05	LevelUp	35
+18-13:17:54	MaNhẫn05	LevelUp	36
+18-13:17:54	MaNhẫn05	LevelUp	37
+18-13:17:54	MaNhẫn05	LevelUp	38
+18-13:17:54	MaNhẫn05	LevelUp	39
+18-13:17:54	MaNhẫn05	LevelUp	40
+18-13:17:54	MaNhẫn05	LevelUp	41
+18-13:17:54	MaNhẫn05	LevelUp	42
+18-13:17:54	MaNhẫn05	LevelUp	43
+18-13:17:54	MaNhẫn05	LevelUp	44
+18-13:17:54	MaNhẫn05	LevelUp	45
+18-13:17:54	MaNhẫn05	LevelUp	46
+18-13:17:54	MaNhẫn05	LevelUp	47
+18-13:17:54	MaNhẫn05	LevelUp	48
+18-13:17:54	MaNhẫn05	LevelUp	49
+18-13:17:54	MaNhẫn05	LevelUp	50
+18-13:17:54	MaNhẫn05	LevelUp	51
+18-13:17:54	MaNhẫn05	LevelUp	52
+18-13:17:54	MaNhẫn05	LevelUp	53
+18-13:17:54	MaNhẫn05	LevelUp	54
+18-13:17:54	MaNhẫn05	LevelUp	55
+18-13:17:54	MaNhẫn05	LevelUp	56
+18-13:17:54	MaNhẫn05	LevelUp	57
+18-13:17:54	MaNhẫn05	LevelUp	58
+18-13:17:54	MaNhẫn05	LevelUp	59
+18-13:17:54	MaNhẫn05	LevelUp	60
+18-13:17:54	MaNhẫn05	LevelUp	61
+18-13:17:54	MaNhẫn05	LevelUp	62
+18-13:17:54	MaNhẫn05	LevelUp	63
+18-13:17:54	MaNhẫn05	LevelUp	64
+18-13:17:54	MaNhẫn05	LevelUp	65
+18-13:17:54	MaNhẫn05	LevelUp	66
+18-13:17:54	MaNhẫn05	LevelUp	67
+18-13:17:54	MaNhẫn05	LevelUp	68
+18-13:17:54	MaNhẫn05	LevelUp	69
+18-13:17:54	MaNhẫn05	LevelUp	70
+18-13:17:54	MaNhẫn05	LevelUp	71
+18-13:17:54	MaNhẫn05	LevelUp	72
+18-13:17:54	MaNhẫn05	LevelUp	73
+18-13:17:54	MaNhẫn05	LevelUp	74
+18-13:17:54	MaNhẫn05	LevelUp	75
+18-13:17:54	MaNhẫn05	LevelUp	76
+18-13:17:54	MaNhẫn05	LevelUp	77
+18-13:17:54	MaNhẫn05	LevelUp	78
+18-13:17:54	MaNhẫn05	LevelUp	79
+18-13:17:54	MaNhẫn05	LevelUp	80
+18-13:17:54	MaNhẫn05	LevelUp	81
+18-13:17:54	MaNhẫn05	LevelUp	82
+18-13:17:54	MaNhẫn05	LevelUp	83
+18-13:17:54	MaNhẫn05	LevelUp	84
+18-13:17:54	MaNhẫn05	LevelUp	85
+18-13:17:54	MaNhẫn05	LevelUp	86
+18-13:17:54	MaNhẫn05	LevelUp	87
+18-13:17:54	MaNhẫn05	LevelUp	88
+18-13:17:54	MaNhẫn05	LevelUp	89
+18-13:17:54	MaNhẫn05	LevelUp	90
+18-13:17:54	MaNhẫn05	LevelUp	91
+18-13:17:54	MaNhẫn05	LevelUp	92
+18-13:17:54	MaNhẫn05	LevelUp	93
+18-13:17:54	MaNhẫn05	LevelUp	94
+18-13:17:54	MaNhẫn05	LevelUp	95
+18-13:17:54	MaNhẫn05	LevelUp	96
+18-13:17:54	MaNhẫn05	LevelUp	97
+18-13:17:54	MaNhẫn05	LevelUp	98
+18-13:17:54	MaNhẫn05	LevelUp	99
+18-13:17:54	MaNhẫn05	LevelUp	100
+18-13:17:54	MaNhẫn05	AddBindMoney	AddWay100	Count	50000000
+18-13:17:54	MaNhẫn05	AddBindCoin	AddWay100	Count	2000000
+18-13:17:54	MaNhẫn05	AddItem	Vô Hạn Truyền Tống Phù(1652854674)	Way100	Value150000
+18-13:17:54	MaNhẫn05	AddItem	Lệnh bài mở rộng rương(1652854674)	Way100	Value80000
+18-13:17:54	MaNhẫn05	AddItem	Lệnh bài mở rộng rương Lv2(1652854674)	Way100	Value80000
+18-13:17:54	MaNhẫn05	AddItem	Mã bài (Phiên Vũ)(1652854674)	Way100	Value3000000
+18-13:17:54	MaNhẫn05	AddItem	Ngũ Hành Hồn Thạch(1652854674)	Way100	Value2399000
+18-13:17:54	MaNhẫn05	AddItem	Túi Bàn Long(1652854674)	Way100	Value3200000
+18-13:17:54	MaNhẫn05	AddItem	Túi Bàn Long(1652854674)	Way100	Value3200000
+18-13:17:54	MaNhẫn05	AddItem	Túi Bàn Long(1652854674)	Way100	Value3200000
+18-13:17:54	MaNhẫn05	AddItem	Phù  Pet(1652854674)	Way100	Value1000000
+18-13:17:54	MaNhẫn05	AddItem	Áo Pet(1652854674)	Way100	Value1000000
+18-13:17:54	MaNhẫn05	AddItem	Tay Pet(1652854674)	Way100	Value1000000
+18-13:17:54	MaNhẫn05	AddItem	Nhẫn Pet(1652854674)	Way100	Value1000000
+18-13:17:54	MaNhẫn05	AddItem	Vũ Khí Pet(1652854674)	Way100	Value1000000
+18-13:17:54	MaNhẫn05	AddItem	Già Lam Kinh(1652854674)	Way100	Value1000000
+18-13:17:54	MaNhẫn05	AddItem	Thanh Long Ấn(1652854674)	Way100	Value1000000
+18-13:17:54	MaNhẫn05	AddItem	[Trận Pháp]Bát Quái Trận(1652854674)	Way100	Value1000000
+18-13:17:54	MaNhẫn05	AddItem	[Thánh Linh]Ngũ Hành(1652854674)	Way100	Value50000
+18-13:17:54	MaNhẫn05	AddItem	Mặt Nạ Cửu Thiên(1652854674)	Way100	Value1000000
+18-13:17:54	MaNhẫn05	AddItem	Túi Quà Hỗ Trợ Tân Thủ (1652854674)	Way100	Value100000
+18-13:17:54	MaNhẫn05	AddItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ (1652854674)	Way100	Value100000
+18-13:17:54	MaNhẫn05	AddItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ (1652854674)	Way100	Value100000
+18-13:17:54	MaNhẫn05	AddItem	Ngọc Trúc Mai Hoa (tháng)(1652854674)	Way100	Value100000
+18-13:17:54	MaNhẫn05	AddItem	Đồng hành chu đáo (3 kỹ năng)(1652854674)	Way100	Value600000
+18-13:17:54	MaNhẫn05	AddItem	Đồng hành chu đáo (3 kỹ năng)(1652854674)	Way100	Value600000
+18-13:17:54	MaNhẫn05	AddItem	Đồng hành chu đáo (3 kỹ năng)(1652854674)	Way100	Value600000
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:54	MaNhẫn05	AddItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way100	Value783641
+18-13:17:59	MaNhẫn05	UseItem	Ngọc Trúc Mai Hoa (tháng)
+18-13:17:59	MaNhẫn05	RemoveItem	Ngọc Trúc Mai Hoa (tháng)(1652854674)	Way5	Value100000
+18-13:18:11	MaNhẫn05	UseItem	Lệnh bài mở rộng rương
+18-13:18:12	MaNhẫn05	RemoveItem	Lệnh bài mở rộng rương(1652854674)	Way100	Value80000
+18-13:18:13	MaNhẫn05	UseItem	Lệnh bài mở rộng rương Lv2
+18-13:18:13	MaNhẫn05	RemoveItem	Lệnh bài mở rộng rương Lv2(1652854674)	Way100	Value80000
+18-13:18:14	MaNhẫn05	UseItem	Mã bài (Phiên Vũ)
+18-13:18:16	MaNhẫn05	UseItem	Già Lam Kinh
+18-13:18:16	MaNhẫn05	UseItem	Thanh Long Ấn
+18-13:18:17	MaNhẫn05	UseItem	[Trận Pháp]Bát Quái Trận
+18-13:18:17	MaNhẫn05	UseItem	[Chân nguyên] Bảo Ngọc
+18-13:18:18	MaNhẫn05	UseItem	[Thánh Linh]Ngũ Hành
+18-13:18:18	MaNhẫn05	UseItem	Mặt Nạ Cửu Thiên
+18-13:18:22	MaNhẫn05	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-13:18:25	MaNhẫn05	dialog NPC Môn Phái
+18-13:18:40	MaNhẫn05	dialog NPC Môn Phái
+18-13:18:46	MaNhẫn05	UseItem	Túi Quà Hỗ Trợ Tân Thủ 
+18-13:18:46	MaNhẫn05	LevelUp	101
+18-13:18:46	MaNhẫn05	LevelUp	102
+18-13:18:46	MaNhẫn05	LevelUp	103
+18-13:18:46	MaNhẫn05	LevelUp	104
+18-13:18:46	MaNhẫn05	LevelUp	105
+18-13:18:46	MaNhẫn05	LevelUp	106
+18-13:18:46	MaNhẫn05	LevelUp	107
+18-13:18:46	MaNhẫn05	LevelUp	108
+18-13:18:46	MaNhẫn05	LevelUp	109
+18-13:18:46	MaNhẫn05	LevelUp	110
+18-13:18:46	MaNhẫn05	AddItem	Tu La Phát Kết-Hoàng Quang(1652854726)	Way100	Value75146190
+18-13:18:46	MaNhẫn05	AddItem	Thiên Nhẫn Bí Trang-Cự Mộc(1652854726)	Way100	Value75129060
+18-13:18:46	MaNhẫn05	AddItem	Võ Hầu Thúc Đái-Việt Quang(1652854726)	Way100	Value75113980
+18-13:18:46	MaNhẫn05	AddItem	Thiên Tàm Hộ Uyển-Chu Thiềm(1652854726)	Way100	Value75125748
+18-13:18:46	MaNhẫn05	AddItem	Thiên Tàm Ngoa-Nghịch Thủy(1652854726)	Way100	Value75209105
+18-13:18:46	MaNhẫn05	AddItem	Triều Lộ Liên-Cự Mộc(1652854726)	Way100	Value112726654
+18-13:18:46	MaNhẫn05	AddItem	Ứng Long Giới-Việt Quang(1652854726)	Way100	Value112726654
+18-13:18:46	MaNhẫn05	AddItem	Bắc Minh Bội-Chu Thiềm(1652854726)	Way100	Value112666572
+18-13:18:46	MaNhẫn05	AddItem	Tiên Duyên Phù-Nghịch Thủy(1652854726)	Way100	Value112816032
+18-13:18:46	MaNhẫn05	AddItem	Yển Nguyệt Đao-Nghiệp Hỏa(1652854726)	Way100	Value301181400
+18-13:18:46	MaNhẫn05	AddItem	Phá Thiên Kích-Chích Viêm(1652854726)	Way100	Value301211532
+18-13:18:46	MaNhẫn05	RemoveItem	Túi Quà Hỗ Trợ Tân Thủ (1652854674)	Way100	Value100000
+18-13:18:49	MaNhẫn05	UseItem	Yển Nguyệt Đao-Nghiệp Hỏa
+18-13:18:49	MaNhẫn05	UseItem	Tiên Duyên Phù-Nghịch Thủy
+18-13:18:49	MaNhẫn05	UseItem	Phá Thiên Kích-Chích Viêm
+18-13:18:50	MaNhẫn05	UseItem	Bắc Minh Bội-Chu Thiềm
+18-13:18:51	MaNhẫn05	UseItem	Ứng Long Giới-Việt Quang
+18-13:18:51	MaNhẫn05	UseItem	Triều Lộ Liên-Cự Mộc
+18-13:18:52	MaNhẫn05	UseItem	Thiên Nhẫn Bí Trang-Cự Mộc
+18-13:18:52	MaNhẫn05	UseItem	Võ Hầu Thúc Đái-Việt Quang
+18-13:18:52	MaNhẫn05	UseItem	Tu La Phát Kết-Hoàng Quang
+18-13:18:52	MaNhẫn05	UseItem	Thiên Tàm Ngoa-Nghịch Thủy
+18-13:18:53	MaNhẫn05	UseItem	Thiên Tàm Hộ Uyển-Chu Thiềm
+18-13:18:54	MaNhẫn05	UseItem	Yển Nguyệt Đao-Nghiệp Hỏa
+18-13:19:04	MaNhẫn05	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-13:19:09	MaNhẫn05	RemoveItem	Đồng hành chu đáo (3 kỹ năng)(1652854674)	Way100	Value600000
+18-13:19:10	MaNhẫn05	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-13:19:14	MaNhẫn05	RemoveItem	Đồng hành chu đáo (3 kỹ năng)(1652854674)	Way100	Value600000
+18-13:19:15	MaNhẫn05	UseItem	Đồng hành chu đáo (3 kỹ năng)
+18-13:19:20	MaNhẫn05	RemoveItem	Đồng hành chu đáo (3 kỹ năng)(1652854674)	Way100	Value600000
+18-13:19:25	MaNhẫn05	UseItem	Tay Pet
+18-13:19:25	MaNhẫn05	UseItem	Nhẫn Pet
+18-13:19:26	MaNhẫn05	UseItem	Vũ Khí Pet
+18-13:19:26	MaNhẫn05	UseItem	Phù  Pet
+18-13:19:27	MaNhẫn05	UseItem	Áo Pet
+18-13:20:08	MaNhẫn05	CostBindCoin	CostWay1	Count	1000000
+18-13:20:08	MaNhẫn05	AddItem	Hộp Quà Tết(1652854808)	Way3	Value50
+18-13:20:11	MaNhẫn05	UseItem	Hộp Quà Tết
+18-13:20:14	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:15	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:15	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:20:15	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:20:16	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:16	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:16	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value4
+18-13:20:16	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:17	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:17	MaNhẫn05	AddItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way100	Value10000
+18-13:20:18	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:18	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:18	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value1
+18-13:20:18	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value4
+18-13:20:18	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:19	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:19	MaNhẫn05	AddItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way100	Value10000
+18-13:20:19	MaNhẫn05	AddItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way100	Value10000
+18-13:20:20	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:20	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:20	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:20	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:21	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:21	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854821)	Way100	Value200000
+18-13:20:21	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854821)	Way100	Value200000
+18-13:20:22	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:22	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:22	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:20:22	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:20:22	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:23	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:23	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:23	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:24	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:24	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:24	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value1
+18-13:20:24	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value4
+18-13:20:24	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:25	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:25	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:25	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:26	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:26	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:26	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:20:26	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:20:27	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:27	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:27	MaNhẫn05	AddItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way100	Value20000
+18-13:20:28	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:28	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:28	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value1
+18-13:20:28	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value4
+18-13:20:29	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:29	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:29	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value1
+18-13:20:29	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value4
+18-13:20:30	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:30	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:30	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854830)	Way100	Value200000
+18-13:20:30	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854830)	Way100	Value200000
+18-13:20:31	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:31	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:31	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value5
+18-13:20:32	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:32	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:32	MaNhẫn05	AddItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way100	Value20000
+18-13:20:32	MaNhẫn05	AddItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way100	Value20000
+18-13:20:33	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:33	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:33	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value1
+18-13:20:33	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value1
+18-13:20:34	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:34	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:34	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:34	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:35	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:36	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:36	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854836)	Way100	Value200000
+18-13:20:36	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854836)	Way100	Value200000
+18-13:20:36	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:37	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:37	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:37	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:38	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:39	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:39	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:20:39	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:20:39	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:40	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:40	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value1
+18-13:20:40	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value1
+18-13:20:40	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:41	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:41	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854841)	Way100	Value200000
+18-13:20:41	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854841)	Way100	Value200000
+18-13:20:42	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:42	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:42	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:20:42	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:20:43	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:43	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:43	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:43	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:44	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:44	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:44	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:44	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:45	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:45	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:45	MaNhẫn05	AddItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way100	Value20000
+18-13:20:45	MaNhẫn05	AddItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way100	Value20000
+18-13:20:46	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:46	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:46	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:20:46	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:20:47	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:47	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:47	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value1
+18-13:20:47	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value4
+18-13:20:48	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:48	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:48	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value1
+18-13:20:48	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value1
+18-13:20:49	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:49	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:49	MaNhẫn05	AddItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way100	Value20000
+18-13:20:49	MaNhẫn05	AddItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way100	Value20000
+18-13:20:50	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:50	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:50	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:20:50	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:20:51	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:51	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:51	MaNhẫn05	AddItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way100	Value10000
+18-13:20:51	MaNhẫn05	AddItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way100	Value10000
+18-13:20:52	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:52	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:52	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:20:52	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:20:53	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:53	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:53	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854853)	Way100	Value200000
+18-13:20:53	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854853)	Way100	Value200000
+18-13:20:54	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:54	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:54	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:54	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:20:55	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:55	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:55	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value1
+18-13:20:55	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value4
+18-13:20:56	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:56	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:56	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value1
+18-13:20:56	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value4
+18-13:20:57	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:57	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:57	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:20:57	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:20:58	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:58	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:58	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854858)	Way100	Value200000
+18-13:20:58	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854858)	Way100	Value200000
+18-13:20:59	MaNhẫn05	dialog Cây Thông Noel
+18-13:20:59	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:20:59	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value1
+18-13:20:59	MaNhẫn05	AddItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way100	Value4
+18-13:21:00	MaNhẫn05	dialog Cây Thông Noel
+18-13:21:01	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:21:01	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:21:01	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:21:01	MaNhẫn05	dialog Cây Thông Noel
+18-13:21:01	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:21:01	MaNhẫn05	AddItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way100	Value20000
+18-13:21:01	MaNhẫn05	AddItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way100	Value20000
+18-13:21:02	MaNhẫn05	dialog Cây Thông Noel
+18-13:21:03	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:21:03	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:21:03	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:21:03	MaNhẫn05	dialog Cây Thông Noel
+18-13:21:04	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:21:04	MaNhẫn05	AddItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way100	Value10000
+18-13:21:04	MaNhẫn05	AddItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way100	Value10000
+18-13:21:04	MaNhẫn05	dialog Cây Thông Noel
+18-13:21:05	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:21:05	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854865)	Way100	Value200000
+18-13:21:05	MaNhẫn05	AddItem	Liên Đấu Hắc Thiết Bài(1652854865)	Way100	Value200000
+18-13:21:05	MaNhẫn05	dialog Cây Thông Noel
+18-13:21:06	MaNhẫn05	RemoveItem	Hộp Quà Tết(1652854808)	Way100	Value1
+18-13:21:06	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value50000
+18-13:21:06	MaNhẫn05	AddItem	Tiền Du Long(1652854815)	Way100	Value700000
+18-13:21:06	MaNhẫn05	dialog Cây Thông Noel
+18-13:21:07	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value1
+18-13:21:07	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value1
+18-13:22:21	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:21	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:22	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:22	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:23	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:23	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:24	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:24	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:25	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:25	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:26	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:26	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:27	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:27	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:28	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:28	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:29	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:29	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:30	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:30	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:31	MaNhẫn05	AddBindMoney	AddWay100	Count	5000
+18-13:22:31	MaNhẫn05	UseItem	Túi Phúc Hoàng Kim
+18-13:22:31	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:31	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:32	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:32	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:33	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:33	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:34	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:34	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:35	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:35	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:36	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:36	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:37	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:37	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:38	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:38	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:39	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:39	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:40	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:40	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:41	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:41	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:42	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:42	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:44	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:44	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:45	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:45	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:48	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:48	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:48	MaNhẫn05	dialog Dã Luyện Đại Sư
+18-13:22:49	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:49	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:50	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:50	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:51	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:51	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:51	MaNhẫn05	dialog Dã Luyện Đại Sư
+18-13:22:52	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:52	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:53	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:53	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:22:54	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:22:54	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:03	MaNhẫn05	CostBindMoney	CostWay103	Count	509367
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1652854674)	Way101	Value783641
+18-13:23:03	MaNhẫn05	AddItem	Huyền Tinh hoàn mỹ (cấp 10)(1652854983)	Way102	Value10155995
+18-13:23:05	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:05	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:06	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:06	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:07	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:07	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:08	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:08	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:09	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:09	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:10	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:10	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:11	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:11	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:12	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:12	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:14	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:14	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:15	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:15	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:16	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:16	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:17	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:17	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:18	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:18	MaNhẫn05	RemoveItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>(1652854816)	Way5	Value1
+18-13:23:19	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:23:20	MaNhẫn05	UseItem	Bách Bộ Xuyên Dương Cung
+18-13:23:20	MaNhẫn05	RemoveItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way5	Value10000
+18-13:23:21	MaNhẫn05	UseItem	Bách Bộ Xuyên Dương Cung
+18-13:23:21	MaNhẫn05	RemoveItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way5	Value10000
+18-13:23:22	MaNhẫn05	UseItem	Bách Bộ Xuyên Dương Cung
+18-13:23:22	MaNhẫn05	RemoveItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way5	Value10000
+18-13:23:23	MaNhẫn05	UseItem	Bách Bộ Xuyên Dương Cung
+18-13:23:23	MaNhẫn05	RemoveItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way5	Value10000
+18-13:23:24	MaNhẫn05	UseItem	Bách Bộ Xuyên Dương Cung
+18-13:23:24	MaNhẫn05	RemoveItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way5	Value10000
+18-13:23:26	MaNhẫn05	UseItem	Bách Bộ Xuyên Dương Cung
+18-13:23:26	MaNhẫn05	RemoveItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way5	Value10000
+18-13:23:27	MaNhẫn05	UseItem	Bách Bộ Xuyên Dương Cung
+18-13:23:27	MaNhẫn05	RemoveItem	Bách Bộ Xuyên Dương Cung(1652854817)	Way5	Value10000
+18-13:23:28	MaNhẫn05	UseItem	Bách Bộ Xuyên Dương Cung
+18-13:23:29	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:29	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854821)	Way5	Value200000
+18-13:23:30	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:30	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854821)	Way5	Value200000
+18-13:23:31	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:31	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854830)	Way5	Value200000
+18-13:23:32	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:32	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854830)	Way5	Value200000
+18-13:23:33	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:33	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854836)	Way5	Value200000
+18-13:23:34	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:34	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854836)	Way5	Value200000
+18-13:23:36	MaNhẫn05	CostBindCoin	CostWay1	Count	115200
+18-13:23:36	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652855016)	Way3	Value2821109
+18-13:23:36	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652855016)	Way3	Value2821109
+18-13:23:36	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652855016)	Way3	Value2821109
+18-13:23:36	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652855016)	Way3	Value2821109
+18-13:23:36	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:36	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854841)	Way5	Value200000
+18-13:23:37	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:37	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854841)	Way5	Value200000
+18-13:23:38	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:38	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854853)	Way5	Value200000
+18-13:23:39	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:39	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854853)	Way5	Value200000
+18-13:23:39	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:39	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854865)	Way5	Value200000
+18-13:23:40	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:40	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854858)	Way5	Value200000
+18-13:23:40	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:40	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854858)	Way5	Value200000
+18-13:23:41	MaNhẫn05	UseItem	Liên Đấu Hắc Thiết Bài
+18-13:23:41	MaNhẫn05	RemoveItem	Liên Đấu Hắc Thiết Bài(1652854865)	Way5	Value200000
+18-13:23:41	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:23:41	MaNhẫn05	RemoveItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way5	Value20000
+18-13:23:42	MaNhẫn05	dialog Dã Luyện Đại Sư
+18-13:23:42	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:23:42	MaNhẫn05	RemoveItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way5	Value20000
+18-13:23:43	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:23:43	MaNhẫn05	RemoveItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way5	Value20000
+18-13:23:54	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:23:54	MaNhẫn05	RemoveItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way5	Value20000
+18-13:23:55	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:23:55	MaNhẫn05	RemoveItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way5	Value20000
+18-13:23:56	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:23:56	MaNhẫn05	RemoveItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way5	Value20000
+18-13:23:57	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:23:57	MaNhẫn05	RemoveItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way5	Value20000
+18-13:23:59	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:23:59	MaNhẫn05	RemoveItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way5	Value20000
+18-13:24:00	MaNhẫn05	CostBindCoin	CostWay1	Count	115200
+18-13:24:00	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652855040)	Way3	Value2821109
+18-13:24:00	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652855040)	Way3	Value2821109
+18-13:24:00	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652855040)	Way3	Value2821109
+18-13:24:00	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652855040)	Way3	Value2821109
+18-13:24:00	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:24:00	MaNhẫn05	RemoveItem	Tần Lăng-Mạc Kim Phù(1652854827)	Way5	Value20000
+18-13:24:00	MaNhẫn05	dialog Dã Luyện Đại Sư
+18-13:24:01	MaNhẫn05	UseItem	Tần Lăng-Mạc Kim Phù
+18-13:24:03	MaNhẫn05	dialog Dã Luyện Đại Sư
+18-13:24:14	MaNhẫn05	CostBindMoney	CostWay105	Count	15046480
+18-13:24:14	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652855040)	Way100	Value2821109
+18-13:24:14	MaNhẫn05	RemoveItem	Huyền Tinh hoàn mỹ (cấp 10)(1652854983)	Way100	Value10155995
+18-13:24:14	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652855016)	Way100	Value2821109
+18-13:24:14	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652855040)	Way100	Value2821109
+18-13:24:14	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652855040)	Way100	Value2821109
+18-13:24:14	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652855016)	Way100	Value2821109
+18-13:24:14	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652855016)	Way100	Value2821109
+18-13:24:14	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652855016)	Way100	Value2821109
+18-13:24:14	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652855040)	Way100	Value2821109
+18-13:24:14	MaNhẫn05	RemoveItem	Vũ khí Thanh Đồng-Luyện Hóa Đồ (1652854674)	Way100	Value100000
+18-13:24:14	MaNhẫn05	RemoveItem	Yển Nguyệt Đao-Nghiệp Hỏa(1652854726)	Way17	Value301181400
+18-13:24:14	MaNhẫn05	AddItem	Càn Khôn Hoài Đao-Nghiệp Hỏa(1652854726)	Way16	Value307030932
+18-13:24:26	MaNhẫn05	dialog [Đánh Trống] Cổ Vũ
+18-13:25:37	MaNhẫn05	dialog NPC Môn Phái
+18-13:25:53	MaNhẫn05	dialog Ông Già Noel
+18-13:26:02	MaNhẫn05	dialog Ông Già Noel
+18-13:26:08	MaNhẫn05	dialog Ông Già Noel
+18-13:26:14	MaNhẫn05	dialog Ông Già Noel
+18-13:26:25	MaNhẫn05	dialog Ông Già Noel
+18-13:27:29	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:27:30	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:27:31	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:27:32	MaNhẫn05	NewWorld 118
+18-13:29:11	MaNhẫn05	NewWorld 4
+18-13:29:15	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:29:16	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:29:18	MaNhẫn05	AddItem	Thiệp bạc (cấp 2)(1652855358)	Way100	Value60000
+18-13:29:19	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:29:20	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:29:21	MaNhẫn05	NewWorld 114
+18-13:30:43	MaNhẫn05	NewWorld 4
+18-13:30:47	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:30:48	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:30:50	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:30:51	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:30:52	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:30:53	MaNhẫn05	NewWorld 114
+18-13:31:45	MaNhẫn05	NewWorld 4
+18-13:31:49	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:31:50	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:31:52	MaNhẫn05	AddItem	Thiệp bạc (cấp 2)(1652855358)	Way100	Value60000
+18-13:31:53	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:31:54	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:31:55	MaNhẫn05	NewWorld 115
+18-13:33:18	MaNhẫn05	NewWorld 4
+18-13:33:22	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:33:23	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:33:26	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:33:27	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:33:28	MaNhẫn05	NewWorld 118
+18-13:34:23	MaNhẫn05	NewWorld 4
+18-13:34:27	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:34:28	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:34:30	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:34:31	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:34:32	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:34:33	MaNhẫn05	NewWorld 118
+18-13:35:59	MaNhẫn05	NewWorld 4
+18-13:36:03	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:36:04	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:36:06	MaNhẫn05	AddItem	<color=yellow>Rương Mảnh Ghép<color>(1652854831)	Way100	Value1
+18-13:36:07	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:36:08	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:36:09	MaNhẫn05	NewWorld 114
+18-13:36:53	Testgame	login 4
+18-13:36:53	Testgame	administrator	26.99.78.68:1028	LoginHwId_2885662585	1663524153
+18-13:37:08	MaNhẫn05	NewWorld 4
+18-13:37:12	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:37:13	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:37:15	MaNhẫn05	AddItem	<color=yellow>Tiền Đồng Thường<color>(1652855605)	Way100	Value10000
+18-13:37:16	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:37:17	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:37:18	MaNhẫn05	NewWorld 115
+18-13:38:10	Testgame	dialog NPC Môn Phái
+18-13:38:26	MaNhẫn05	NewWorld 4
+18-13:38:31	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:38:32	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:38:35	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:38:36	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:38:36	MaNhẫn05	NewWorld 119
+18-13:40:11	MaNhẫn05	NewWorld 4
+18-13:40:15	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:40:16	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:40:18	MaNhẫn05	UseItem	<color=green>Thánh Linh Bảo Hạp Hồn<color>
+18-13:40:19	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:40:20	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:40:20	MaNhẫn05	NewWorld 114
+18-13:41:17	MaNhẫn05	NewWorld 4
+18-13:41:22	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:41:23	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:41:24	MaNhẫn05	AddItem	<color=green>Chân Nguyên Tu Luyện Đơn<color>(1652854820)	Way100	Value1
+18-13:41:26	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:41:27	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:41:28	MaNhẫn05	NewWorld 117
+18-13:41:56	MaNhẫn05	NewWorld 8
+18-13:41:57	MaNhẫn05	NewWorld 8
+18-13:42:06	MaNhẫn05	dialog Bao Vạn Đồng
+18-13:42:06	MaNhẫn05	NewWorld 117
+18-13:42:10	MaNhẫn05	NewWorld 1
+18-13:42:19	MaNhẫn05	NewWorld 114
+18-13:42:39	Testgame	dialog NPC Môn Phái
+18-13:42:49	Testgame	NewWorld 30
+18-13:42:51	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-13:42:57	Testgame	NewWorld 4
+18-13:42:59	Testgame	dialog NPC Môn Phái
+18-13:43:30	Testgame	dialog NPC Môn Phái
+18-13:47:01	Testgame	dialog Ông Già Noel
+18-13:47:06	Testgame	dialog NPC Môn Phái
+18-13:47:14	Testgame	dialog NPC Môn Phái
+18-13:47:41	Testgame	dialog NPC Môn Phái
+18-13:47:48	Testgame	dialog NPC Môn Phái
+18-13:48:46	Testgame	dialog NPC Môn Phái
+18-13:48:56	Testgame	dialog Thương Gia Tiêu Dao
+18-13:54:55	Testgame	UseItem	Vô Hạn Truyền Tống Phù
+18-13:55:15	MaNhẫn05	UseItem	Vô Hạn Truyền Tống Phù
+18-13:55:19	MaNhẫn05	NewWorld 28
+18-13:55:21	MaNhẫn05	AddBindCoin	AddWay100	Count	2000
+18-13:55:21	MaNhẫn05	UseItem	<color=gold>Tiền Đồng Khóa<color>
+18-13:55:22	MaNhẫn05	UseItem	<color=yellow>Tiền Đồng Thường<color>
+18-13:55:22	MaNhẫn05	RemoveItem	<color=yellow>Tiền Đồng Thường<color>(1652855605)	Way5	Value10000
+18-13:55:22	MaNhẫn05	UseItem	<color=yellow>Tiền Đồng Thường<color>
+18-13:55:24	MaNhẫn05	dialog Hộ Vệ Bạch Hổ Đường
+18-13:55:27	MaNhẫn05	NewWorld 233
+18-13:55:30	MaNhẫn05	dialog Môn Đồ Bạch Hổ Đườn
+18-13:55:32	MaNhẫn05	dialog Môn Đồ Bạch Hổ Đườn
+18-13:55:33	MaNhẫn05	NewWorld 237
+18-13:59:05	MaNhẫn05	CostBindCoin	CostWay1	Count	7200
+18-13:59:05	MaNhẫn05	AddItem	Vạn Vật Quy Nguyên Đơn(1652857145)	Way3	Value720000
+18-13:59:06	MaNhẫn05	UseItem	Vạn Vật Quy Nguyên Đơn
+18-13:59:06	MaNhẫn05	RemoveItem	Vạn Vật Quy Nguyên Đơn(1652857145)	Way5	Value720000
+18-14:02:10	MaNhẫn05	AddItem	<color=green>Kinh Nghiệm Đơn<color>(1652857323)	Way7	Value50000
+18-14:02:12	MaNhẫn05	EarnWay3	Count	2000
+18-14:02:14	MaNhẫn05	EarnWay3	Count	1000
+18-14:02:17	MaNhẫn05	RemoveItem	<color=green>Kinh Nghiệm Đơn<color>(1652857323)	Way100	Value50000
+18-14:02:17	MaNhẫn05	UseItem	
+18-14:02:21	MaNhẫn05	EarnWay3	Count	1000
+18-14:02:24	MaNhẫn05	EarnWay3	Count	1000
+18-14:02:25	MaNhẫn05	EarnWay3	Count	1000
+18-14:02:26	MaNhẫn05	EarnWay3	Count	1000
+18-14:02:36	MaNhẫn05	EarnWay3	Count	1000
+18-14:02:43	MaNhẫn05	EarnWay3	Count	1000
+18-14:02:44	MaNhẫn05	AddItem	<color=green>Kinh Nghiệm Đơn<color>(1652857363)	Way7	Value50000
+18-14:03:01	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652857379)	Way7	Value60000
+18-14:03:03	MaNhẫn05	EarnWay3	Count	1000
+18-14:03:08	MaNhẫn05	EarnWay3	Count	1000
+18-14:03:16	MaNhẫn05	EarnWay3	Count	2000
+18-14:03:39	MaNhẫn05	EarnWay3	Count	1000
+18-14:03:44	MaNhẫn05	EarnWay3	Count	1000
+18-14:03:50	MaNhẫn05	EarnWay3	Count	1000
+18-14:03:55	MaNhẫn05	EarnWay3	Count	1000
+18-14:03:57	MaNhẫn05	EarnWay3	Count	2000
+18-14:04:01	MaNhẫn05	EarnWay3	Count	1000
+18-14:04:10	MaNhẫn05	EarnWay3	Count	1000
+18-14:04:12	MaNhẫn05	EarnWay3	Count	1000
+18-14:04:17	MaNhẫn05	EarnWay3	Count	1000
+18-14:04:24	MaNhẫn05	EarnWay3	Count	2000
+18-14:04:30	MaNhẫn05	EarnWay3	Count	1000
+18-14:04:35	MaNhẫn05	EarnWay3	Count	1000
+18-14:04:39	MaNhẫn05	EarnWay3	Count	2000
+18-14:04:47	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652857486)	Way7	Value60000
+18-14:04:51	MaNhẫn05	EarnWay3	Count	1000
+18-14:05:09	MaNhẫn05	RemoveItem	<color=green>Kinh Nghiệm Đơn<color>(1652857363)	Way100	Value50000
+18-14:05:09	MaNhẫn05	UseItem	
+18-14:05:15	MaNhẫn05	EarnWay3	Count	1000
+18-14:05:16	MaNhẫn05	NewWorld 233
+18-14:05:16	MaNhẫn05	NewWorld 233
+18-14:09:16	MaNhẫn05	dialog Xa Phu Bạch Hổ Đường
+18-14:09:17	MaNhẫn05	NewWorld 29
+18-14:09:19	MaNhẫn05	UseItem	Vô Hạn Truyền Tống Phù
+18-14:09:21	MaNhẫn05	NewWorld 4
+18-14:09:23	MaNhẫn05	dialog NPC Môn Phái
+18-14:09:25	MaNhẫn05	dialog Ông Già Noel
+18-14:09:36	MaNhẫn05	dialog Ông Già Noel
+18-14:09:44	MaNhẫn05	dialog NPC Môn Phái
+18-14:09:47	MaNhẫn05	NewWorld 1538
+18-14:09:54	MaNhẫn05	NewWorld 1538
+18-14:10:28	MaNhẫn05	AddBindCoin	AddWay100	Count	30
+18-14:10:39	MaNhẫn05	NewWorld 1538
+18-14:17:38	MaNhẫn05	NewWorld 1538
+18-14:18:09	MaNhẫn05	AddBindCoin	AddWay100	Count	30

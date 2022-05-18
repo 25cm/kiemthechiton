@@ -1,0 +1,21 @@
+Group	Name	Genre	Detail	Particular	Level	Five	Value	Bind	Rate
+Thuộc nhóm	Tên đạo cụ	Loại Đạo Cụ	Loại cụ thể	Loại chi tiết	Cấp	Ngũ hành	Giá trị 	Loại khóa	Tỷ lệ
+1	Thánh Linh Bảo Hạp Hồn	18	1	1334	1	0	0	1	10000
+2	Chân Nguyên Tu Luyện Đơn	18	1	1333	1	0	0	1	6000
+2	Sách Kinh Nghiệm Đồng Hành	18	1	543	1	0	0	1	4000
+3	Thánh Linh Bảo Hạp Hồn	18	1	1334	1	0	0	1	2000
+3	Tinh Thạch Phượng Hoàng	18	1	1331	1	0	0	1	8000
+4	Chân Nguyên Tu Luyện Đơn	18	1	1333	1	0	0	1	8000
+4	Rương Mảnh Ghép	18	1	3046	1	0	0	1	2000
+5	Thánh Linh Bảo Hạp Hồn	18	1	1334	1	0	0	1	8000
+5	Bông Tuyết	18	1	3039	1	0	0	1	2000
+6	Chân Nguyên Tu Luyện Đơn	18	1	1333	1	0	0	1	8000
+6	Tinh Thạch Ảnh Nguyệt	18	1	1331	2	0	0	1	2000
+7	Rương Vật Phẩm	18	1	3019	1	0	0	1	2000
+7	Tinh Thạch Phượng Hoàng	18	1	1331	1	0	0	1	8000
+8	Chân Nguyên Tu Luyện Đơn	18	1	1333	1	0	0	1	8000
+8	Tinh Thạch Ảnh Nguyệt	18	1	1331	2	0	0	1	2000
+9	Bông Tuyết	18	1	3039	1	0	0	1	2000
+9	Sách Kinh Nghiệm Đồng Hành	18	1	543	1	0	0	1	8000
+10	Thánh Linh Bảo Hạp Hồn	18	1	1334	1	0	0	1	9500
+10	Kim Nguyên Bảo (Tiểu)	18	1	1194	1	0	0	1	500

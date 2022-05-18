@@ -1,0 +1,10 @@
+20220517-162251<INFO :00001B18>: [KG_CSLogServer] starting ...
+20220517-162251<INFO :00001B18>: [KG_CSLogServer] Loading KG_CSLogServer.ini
+20220517-162251<INFO :00001B18>: [KG_CSLogServer] Init Socket thread ...
+20220517-162251<INFO :00001B18>: start listen on 127.0.0.1:5100
+20220517-162251<INFO :00001B18>: [KG_CSLogServer] Init Log thread ...
+20220517-162251<INFO :00001B18>: [Database] character set switch to latin1
+20220517-162251<INFO :00001B18>: [KG_CSLogServer] start success
+20220517-162315<INFO :00001B30>: [1] (127.0.0.1:41409) Connected
+20220517-162315<INFO :00001B38>: [1] PacketID:1, Gateway "nadev" Login, Result = 1
+20220517-162551<ERROR:00001B30>: [1] (127.0.0.1:41409) Recv data error, disconnect it.

@@ -1,0 +1,29 @@
+TaskId	TaskName	TaskType	Diff	Genre	Detail	Particular	Level	Series	Num	ItemName	Suffix	Step01	Step02	Step03	LevelFlag	AwardExp	NeedTime
+Số nhiệm vụ	Tên nhiệm vụ	Loại nhiệm vụ	Độ khó	Loại lớn	Phân loại	Loại nhỏ	Cấp	Ngũ hành	Số lượng	Tên vật phẩm	Tên hậu tố	Bước 1-9	Bước 10	Bước 100	Đạt cấp 60	Nhận được kinh nghiệm	Thời gian cần (giây)
+1	Đến Thương Nhân Đặc Sản Tương Dương mua 1 Bạch Vân Bôi	GiveItem	1	18	1	121	1		1	Bạch Vân Bôi		1000	0	0	0	0.6	30
+2	Đến Thương Nhân Đặc Sản Thành Đô mua 1 Thanh Từ Đảo Trang Hồ	GiveItem	1	18	1	122	1		1	Thanh Từ Đảo Trang Hồ		1000	0	0	0	0.6	30
+3	Đến Thương Nhân Đặc Sản Dương Châu mua 1 Thanh Hoa Bạch Từ Bình	GiveItem	1	18	1	124	1		1	Thanh Hoa Bạch Từ Bình		1000	0	0	0	0.6	30
+4	Đến Thương Nhân Đặc Sản Lâm An mua 1 Thanh Đồng Bôi	GiveItem	1	18	1	125	1		1	Thanh Đồng Bôi		1000	0	0	0	0.6	30
+5	Đến Thương Nhân Đặc Sản Biện Kinh mua 1 Bạch Dụ Hồ	GiveItem	1	18	1	119	1		1	Bạch Dụ Hồ		1000	0	0	0	0.6	30
+6	Đến Thương Nhân Đặc Sản Phượng Tường mua 1 Dụ Hồng Chuyển Bôi 	GiveItem	1	18	1	120	1		1	Dụ Hồng Chuyển Bôi		1000	0	0	0	0.6	30
+7	Đến Thương Nhân Đặc Sản Đại Lý mua 1 Mặt nạ Lôi Trì	GiveItem	1	18	1	123	1		1	Mặt nạ Lôi Trì		1000	0	0	0	0.6	30
+8	Đến Thương Nhân Đặc Sản Giang Tân mua 1 Xuyến Xuyến Hương	GiveItem	2	18	1	130	1		1	Xuyên Xuyên Hương		500	0	0	0	0.6	45
+9	Đến Thương Nhân Đặc Sản Long Tuyền mua 1 Chú Kiếm Chùy	GiveItem	2	18	1	132	1		1	Chú Kiếm Chùy		500	0	0	0	0.6	45
+10	Đến Thương Nhân Đặc Sản Đạo Hương mua 1 Dung Trạch Cốc	GiveItem	2	18	1	129	1		1	Dung Trạch Cốc		500	0	0	0	0.6	45
+11	Đến Thương Nhân Đặc Sản Ba Lăng mua 1 Thanh Chưng Lô Ngư	GiveItem	2	18	1	131	1		1	Thanh Chưng Lô Ngư		500	0	0	0	0.6	45
+12	Đến Thương Nhân Đặc Sản Vĩnh Lạc mua 1 Ngọc Như Ý	GiveItem	2	18	1	128	1		1	Ngọc Như Ý		500	0	0	0	0.6	45
+13	Đến Thương Nhân Đặc Sản Vân Trung mua 1 Nhuyễn Sí Điệp Tranh	GiveItem	2	18	1	127	1		1	Nhuyễn Sí Điệp Tranh		500	0	0	0	0.6	45
+14	Đến Thương Nhân Đặc Sản Thạch Cổ mua 1 Thần Bí Long Cốt	GiveItem	2	18	1	133	1		1	Thần Bí Long Cốt		500	0	0	0	0.6	45
+15	Đến Thương Nhân Đặc Sản Long Môn mua 1 Long Văn Bích	GiveItem	2	18	1	126	1		1	Long Văn Bích		500	0	0	0	0.6	45
+16	Đến Thương Nhân Thần Bí phái Thiếu Lâm mua 1 Vạn Phật Ban Chỉ (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Thiếu Lâm)	GiveItem	3	18	1	134	1		1	Vạn Phật Ban Chỉ		0	1000	0	0	0.6	180
+17	Đến Thương Nhân Thần Bí của Thiên Vương Bang để mua một viên Dạ Minh Châu (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Thiên Vương Bang)	GiveItem	3	18	1	135	1		1	Dạ Minh Châu		0	1000	0	0	0.6	180
+18	Đến Thương Nhân Thần Bí của Đường Môn mua 1 Liệp Thú Giáp (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Đường Môn) 	GiveItem	3	18	1	136	1		1	Liệp Thú Giáp		0	1000	0	0	0.6	180
+19	Đến Thương Nhân Thần Bí Ngũ Độc Giáo mua 1 Cô Lâu Liệm (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Ngũ Độc Giáo)	GiveItem	3	18	1	137	1		1	Cô Lâu Liên		0	1000	0	0	0.6	180
+20	Đến Thương Nhân Thần Bí phái Nga My mua 1 Lưu Ly Trâm (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Nga My)	GiveItem	3	18	1	139	1		1	Lưu Ly Trâm		0	1000	0	0	0.6	180
+21	Đến Thương Nhân Thần Bí Thúy Yên Môn mua 1 Lục Mẫu Đơn (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Thúy Yên Môn)	GiveItem	3	18	1	140	1		1	Lục Mẫu Đơn		0	1000	0	0	0.6	180
+22	Đến Thương Nhân Thần Bí Cái Bang mua 1 Khiếu Hoa Kê (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Cái Bang)	GiveItem	3	18	1	142	1		1	Khiếu Hoa Kê		0	1000	0	0	0.6	180
+23	Đến Thương Nhân Thần Bí Thiên Nhẫn Giáo mua 1 Thiết Mã Đáng (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Thiên Nhẫn Giáo)	GiveItem	3	18	1	143	1		1	Thiết Mã Đáng		0	1000	0	0	0.6	180
+24	Đến Thương Nhân Thần Bí Võ Đang mua 1 Trấn Trạch Bảo Kính (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Võ Đang)	GiveItem	3	18	1	144	1		1	Trấn Trạch Bảo Kính		0	1000	0	0	0.6	180
+25	Đến Thương Nhân Thần Bí phái Côn Lôn mua 1 Tay gấu Tuyết Sơn (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong phái Côn Lôn)	GiveItem	3	18	1	145	1		1	Tay gấu Tuyết Sơn		0	1000	0	0	0.6	180
+26	Đến Thương Nhân Thần Bí của Đại Lý mua 1 Đạp Ca Đồ (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Đại Lý Đoàn Thị)	GiveItem	3	18	1	141	1		1	Đạp Ca Đồ		0	1000	0	0	0.6	180
+27	Đến Thương Nhân Thần Bí Minh Giáo mua 1 Bí Độc Phương (hãy dò la thật kỹ vì Thương Nhân Thần Bí sẽ bất ngờ xuất hiện trong Minh Giáo) 	GiveItem	3	18	1	138	1		1	Mật Độc Phương		0	1000	0	0	0.6	180

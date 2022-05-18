@@ -1,0 +1,268 @@
+18-14:20:12	MaNhẫn05	login 233
+18-14:20:12	MaNhẫn05	testgamea	26.99.78.68:23812	LoginHwId_2885662585	1663524153
+18-14:20:56	MaNhẫn05	login 233
+18-14:20:56	MaNhẫn05	testgamea	26.99.78.68:32772	LoginHwId_2885662585	1663524153
+18-14:21:09	MaNhẫn05	dialog Xa Phu Bạch Hổ Đường
+18-14:21:10	MaNhẫn05	NewWorld 29
+18-14:21:12	MaNhẫn05	UseItem	Vô Hạn Truyền Tống Phù
+18-14:21:14	MaNhẫn05	NewWorld 4
+18-14:21:16	MaNhẫn05	dialog NPC Môn Phái
+18-14:21:19	MaNhẫn05	NewWorld 1538
+18-14:21:26	MaNhẫn05	NewWorld 1538
+18-14:22:18	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:22:33	MaNhẫn05	CostBindCoin	CostWay1	Count	7200
+18-14:22:33	MaNhẫn05	AddItem	Vạn Vật Quy Nguyên Đơn(1652858553)	Way3	Value720000
+18-14:22:34	MaNhẫn05	UseItem	Vạn Vật Quy Nguyên Đơn
+18-14:22:34	MaNhẫn05	RemoveItem	Vạn Vật Quy Nguyên Đơn(1652858553)	Way5	Value720000
+18-14:23:15	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:23:25	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way4	Value60000
+18-14:24:00	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:24:24	MaNhẫn05	CostBindCoin	CostWay1	Count	171040
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh thường (cấp 7)(1652858664)	Way3	Value217678
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way3	Value2821109
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way3	Value2821109
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way3	Value2821109
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way3	Value2821109
+18-14:24:24	MaNhẫn05	AddItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way3	Value2821109
+18-14:24:28	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:24:29	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:24:31	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:24:36	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way114	Value2821109
+18-14:24:36	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way114	Value2821109
+18-14:24:49	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:24:49	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:24:49	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:24:49	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:24:49	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:24:49	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:24:50	MaNhẫn05	UseItem	Huyền Tinh vô hạ (cấp 9)
+18-14:24:54	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way114	Value2821109
+18-14:24:56	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:24:57	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:25:04	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:05	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:25:05	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:06	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:25:07	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:12	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way114	Value2821109
+18-14:25:27	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:27	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:27	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:27	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:27	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:27	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:27	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:29	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:30	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:25:31	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:32	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:25:32	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:33	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:25:46	MaNhẫn05	RemoveItem	Huyền Tinh vô hạ (cấp 9)(1652858664)	Way114	Value2821109
+18-14:25:46	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:46	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:46	MaNhẫn05	RemoveItem	Huyền Tinh thường (cấp 7)(1652858664)	Way114	Value217678
+18-14:25:48	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:49	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:25:50	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:25:56	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:57	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:25:57	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:58	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:25:59	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:25:59	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:26:00	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:12	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:13	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:26:13	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:14	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:26:15	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:16	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:26:16	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:17	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652857486)	Way100	Value60000
+18-14:26:18	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:19	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652857379)	Way100	Value60000
+18-14:26:20	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:21	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858605)	Way100	Value60000
+18-14:26:34	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:26:38	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way4	Value60000
+18-14:26:38	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way4	Value60000
+18-14:26:38	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way4	Value60000
+18-14:26:38	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way4	Value60000
+18-14:26:38	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way4	Value60000
+18-14:26:38	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way4	Value60000
+18-14:26:38	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:39	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way100	Value60000
+18-14:26:40	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:41	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way100	Value60000
+18-14:26:41	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:42	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way100	Value60000
+18-14:26:43	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:44	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way100	Value60000
+18-14:26:45	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:45	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way100	Value60000
+18-14:26:46	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:26:47	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858798)	Way100	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:58	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way4	Value60000
+18-14:26:59	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:00	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:01	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:02	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:03	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:03	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:04	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:05	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:06	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:06	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:07	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:08	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:09	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:09	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:10	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:11	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:11	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:12	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:13	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:14	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:15	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:15	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:16	MaNhẫn05	NewWorld 1536
+18-14:27:16	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:17	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:18	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:18	MaNhẫn05	dialog Tống Thu Thu
+18-14:27:20	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:20	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:21	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:22	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858818)	Way100	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	AddItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way4	Value60000
+18-14:27:36	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:38	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:38	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:39	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:40	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:41	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:41	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:42	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:43	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:43	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:44	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:45	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:45	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:46	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:47	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:48	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:48	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:49	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:50	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:51	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:51	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:52	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:54	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:54	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:55	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:56	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:57	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:57	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:27:58	MaNhẫn05	UseItem	<color=green>Sách kinh nghiệm đồng hành
+18-14:27:59	MaNhẫn05	RemoveItem	<color=green>Sách kinh nghiệm đồng hành(1652858856)	Way100	Value60000
+18-14:28:13	MaNhẫn05	dialog Tôn Cương
+18-14:28:14	MaNhẫn05	dialog Tôn Cương
+18-14:28:26	MaNhẫn05	NewWorld 1536
+18-14:28:59	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:30:22	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:30:34	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:30:35	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:31:05	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:32:08	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:33:33	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:33:51	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:34:07	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:34:18	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:35:28	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:36:55	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:37:12	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:37:25	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:37:34	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:38:40	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:40:22	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:40:42	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:40:56	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:41:06	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:42:10	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:43:32	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:43:53	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:44:17	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:44:35	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:45:40	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:46:53	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:47:04	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:47:52	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:48:04	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:49:08	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:50:04	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:50:19	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:51:30	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:51:44	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:52:38	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:53:31	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:53:47	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:55:07	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:55:18	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000
+18-14:55:48	MaNhẫn05	AddBindCoin	AddWay100	Count	1000000

@@ -1,0 +1,2 @@
+20220517-170847<DEBUG:00001650>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220517-171409<DEBUG:00001650>: nSocket = 448, nSendFlag = 0, Error = 10054

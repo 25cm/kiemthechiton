@@ -1,0 +1,2 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2013-07-16 19:00:03
+1	haclongkiem	xoakyucz	Administrator	 Thiếu Lâm	 Thiếu Lâm	110	Nam	Không gia tộc	Không bang hội	500

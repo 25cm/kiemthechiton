@@ -1,0 +1,2 @@
+Id	PartId	Name	MapId	PosX	PosY	NpcId	Level	Series	RandRate	AnnouceContent
+0	0	д╛хопп	0	0	0	0	0	0	0	

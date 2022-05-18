@@ -1,0 +1,6 @@
+Name	Value	Desc
+IVER_szMainUrl	"Trang chủ chính thức của Kiếm Thế: http://kiemthe.zing.vn"	
+IVER_szRegUrl	"    Kiếm Thế: Trang đăng ký tài khoản http://kiemthe.zing.vn\n    Kiếm Thế: Trang nạp thẻ: https://pay.zing.vn/napthe/kiemthe.html\n"	
+IVER_szReport	"    Nếu bạn phát hiện trò chơi có chỗ bị lỗi hoặc phát hiện có người khác đang lợi dụng lỗi để trục lợi, xin hãy báo cho chúng tôi qua đường dây nóng 1900 561 558! \n"	
+IVER_szPhone	"Nếu bạn gặp vấn đề gì trong trò chơi hãy nhấn <color=red>GM<color> ở góc trái giao diện.\n    Chúc bạn chơi game vui vẻ!\n\n              "	
+IVER_szWebSite	"http://pay.kingsoft.com/index.php?s=jxsj"	

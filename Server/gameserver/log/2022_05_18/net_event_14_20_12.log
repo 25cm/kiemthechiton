@@ -1,0 +1,8 @@
+[2022-05-18 14:20:12]	INFO	linkid:0 connect, free linkid count:999
+[2022-05-18 14:20:12]	INFO	Send syncend OK: Account[testgamea], Role[MaNhẫn05], linkid:0, PlayerIndex:1
+[2022-05-18 14:20:20]	INFO	shutdown linkid:0, game status:2
+[2022-05-18 14:20:20]	INFO	Send data error, connection(0)
+
+[2022-05-18 14:20:20]	INFO	testgamea(MaNhẫn05) linkid:0, disconnect: Normal
+[2022-05-18 14:20:20]	INFO	linkid:0 disconnect, free linkid count:1000
+[2022-05-18 14:20:56]	INFO	linkid:0 connect, free linkid count:999

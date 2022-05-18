@@ -1,0 +1,43 @@
+local tbxequanluong1 = Npc:GetClass("xequanluong1");
+function tbxequanluong1:OnDialog()
+	local tbEvent = 
+	{
+		Player.ProcessBreakEvent.emEVENT_MOVE,
+		Player.ProcessBreakEvent.emEVENT_ATTACK,
+		Player.ProcessBreakEvent.emEVENT_SITE,
+		Player.ProcessBreakEvent.emEVENT_USEITEM,
+		Player.ProcessBreakEvent.emEVENT_ARRANGEITEM,
+		Player.ProcessBreakEvent.emEVENT_DROPITEM,
+		Player.ProcessBreakEvent.emEVENT_SENDMAIL,
+		Player.ProcessBreakEvent.emEVENT_TRADE,
+		Player.ProcessBreakEvent.emEVENT_CHANGEFIGHTSTATE,
+		Player.ProcessBreakEvent.emEVENT_CLIENTCOMMAND,
+		Player.ProcessBreakEvent.emEVENT_LOGOUT,
+		Player.ProcessBreakEvent.emEVENT_DEATH,
+		Player.ProcessBreakEvent.emEVENT_ATTACKED,
+	}
+	 local tbOpt = {
+GeneralProcess:StartProcess("Đang giải cứu", 5 * Env.GAME_FPS, {self.ThuThap111, self, me.nId, him.dwId}, nil, tbEvent);
+	 };
+	 end
+	 
+function tbxequanluong1:ThuThap111(nPlayerId, nNpcId)
+local pPlayer = KPlayer.GetPlayerObjById(nPlayerId)
+
+	if (not pPlayer) then
+		return;
+	end	
+	local pNpc = KNpc.GetById(nNpcId);
+	if (not pNpc) then
+		return;
+	end
+    me.AddJbCoin(50000);
+	me.AddExp(2000000);
+	me.Msg("Nhận được <color=yellow>5 Vạn Đồng<color>");
+    me.Msg("Nhận được <color=yellow>2 Triệu Kinh Nghiệm<color>");
+pNpc.Delete();
+	GlobalExcute({"Dialog:GlobalNewsMsg_GS","Người chơi <color=green>"..me.szName.."<color> giải cứu thành công <color=red>Xe Chở Quân Lương<color> Triều Đình nhận được <color=gold>5 Vạn Đồng<color>"});
+	KDialog.MsgToGlobal("Người chơi <color=green>"..me.szName.."<color> giải cứu thành công <color=yellow>Xe Chở Quân Lương<color> Triều Đình nhận được <color=gold>5 Vạn Đồng<color>");
+	
+	end
+----------------------------------------------

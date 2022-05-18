@@ -1,0 +1,8 @@
+TypeName	SellID
+Sản phẩm bán chạy	138
+Vật phẩm mới	139
+Mặt nạ	140
+Các loại thư tịch	141
+Tương quan bạn đồng hành	142
+Đồ Phổ Hoàng Kim	143
+Đạo cụ khác	144

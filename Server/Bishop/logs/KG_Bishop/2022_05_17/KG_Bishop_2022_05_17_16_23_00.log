@@ -1,0 +1,13 @@
+20220517-162300<INFO :00001B4C>: [Bishop] Begin to start ... ...
+20220517-162300<INFO :00001B4C>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20220517-162300<INFO :00001B4C>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 02210D68
+20220517-162300<INFO :00001B4C>: [Goddess] Login() nResult = 1
+20220517-162300<INFO :00001B4C>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20220517-162300<INFO :00001B4C>: [PlayerManager] Init() Acceptor Open(: 5622), nRetCode = 1
+20220517-162300<INFO :00001B4C>: [Report] Init() Acceptor Open(127.0.0.1: 5636), nRetCode = 1
+20220517-162315<INFO :00001B6C>: [Relay] ThreadFunction() Accept from (127.0.0.1: 49571) SocketStream = 02210DB0
+20220517-162315<INFO :00001B6C>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20220517-162315<DEBUG:00001B6C>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20220517-162551<DEBUG:00001B6C>: nSocket = 8840, nSendFlag = 0, Error = 10054
+20220517-162551<DEBUG:00001B6C>: KGLOG_PROCESS_ERROR(nRetCode) at line 305 in KG_BishopRelay::ReceivePackagesFromRelay
+20220517-162551<INFO :00001B6C>: [Relay] === End ===

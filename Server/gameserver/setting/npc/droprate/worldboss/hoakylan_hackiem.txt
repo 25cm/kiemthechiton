@@ -1,0 +1,5 @@
+GGenre	Detail	Particular	Level	RandRate	Name	
+18	1	3046	1	250000	Ruong MG
+18	1	3019	1	250000	Ruong VP	
+18	1	1194	1	330000	Ti?n d?ng may m?n (ti?u)	
+18	1	377	1	110000	T?n Lang-Hòa Th? Bích

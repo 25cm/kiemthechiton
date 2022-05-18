@@ -1,0 +1,12 @@
+10	Phượng Tường Phủ	Giang Tân Thôn	Biện Kinh Phủ	Tương Dương Phủ	Ba Lăng Huyện	Dương Châu Phủ	Thiên Vương Bang	Thanh Loa Đảo	Đại Lý Phủ	Long Môn Trấn	Lâm An Phủ
+Phượng Tường Phủ	-1	-1	40	-1	-1	-1	-1	-1	-1	10	-1
+Giang Tân Thôn	-1	-1	-1	40	40	80	-1	-1	10	-1	80
+Biện Kinh Phủ	40	-1	-1	-1	-1	-1	-1	-1	-1	40	-1
+Tương Dương Phủ	-1	40	-1	-1	10	40	-1	-1	40	-1	40
+Ba Lăng Huyện	-1	40	-1	10	-1	40	-1	-1	40	-1	40
+Dương Châu Phủ	-1	80	-1	40	40	-1	-1	-1	80	-1	10
+Thiên Vương Bang	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Thanh Loa Đảo	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Đại Lý Phủ	-1	10	-1	40	40	80	-1	-1	-1	-1	80
+Long Môn Trấn	10	-1	40	-1	-1	-1	-1	-1	-1	-1	-1
+Lâm An Phủ	-1	80	-1	40	40	10	-1	-1	80	-1	-1

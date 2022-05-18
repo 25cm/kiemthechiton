@@ -1,0 +1,1418 @@
+09:56:23	
+09:56:23	********************** Gamecenter Startup ************************
+09:56:23	OS Time: 05/18/22 09:56:23
+09:56:23	Game Init ..
+09:56:23	Loading Script...
+09:56:23	Begin load script files...
+09:56:23	begin load vfactory.lua
+09:56:23	Preload gc script files...
+09:56:23	21 loaded!
+09:56:23	Loading Scripts In Path \script\
+09:56:24	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+09:56:24	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+09:56:24	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+09:56:24	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+09:56:24	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+09:56:24	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+09:56:24	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+09:56:24	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+09:56:24	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+09:56:24	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+09:56:24	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+09:56:24	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+09:56:24	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+09:56:24	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+09:56:24	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+09:56:24	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+09:56:24	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+09:56:24	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+09:56:24	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+09:56:24	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+09:56:24	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+09:56:24	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+09:56:24	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+09:56:24	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+09:56:24	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+09:56:24	296 loaded!
+09:56:24	Create DBShare Table
+09:56:24	LoadDBShare...
+09:56:24	Current Data Version : 1
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[GBLVALUE]	ModuleInit..
+09:56:24	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+09:56:24	Create RDS Table: tblGblValueSet
+09:56:24	Create RDS Table: tblGblVIntInt
+09:56:24	Create RDS Table: tblGblVIntBuf
+09:56:24	Create RDS Table: tblGblVStrInt
+09:56:24	Create RDS Table: tblGblVStrBuf
+09:56:24	[GBLVALUE]	Base Data Init, Create RootTree...
+09:56:24	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+09:56:24	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+09:56:24	[GBLVALUE]	Base Data Init, Create RootTree...
+09:56:24	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+09:56:24	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+09:56:24	[GBLVALUE]	Base Data Init, Create RootTree...
+09:56:24	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+09:56:24	Create SaveBuffer DB Table
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[TRANSFER]	ModuleInit..
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[TimerTask]	ModuleInit..
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[ScheduleTask]	ModuleInit..
+09:56:24	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+09:56:24	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[LEAGUE]	ModuleInit..
+09:56:24	[LEAGUE]	Base Data Init, Root Branch ID: 7
+09:56:24	Create RDS Table: tblLeagueSet
+09:56:24	Create RDS Table: tblMemberLea
+09:56:24	Create RDS Table: tblLeague
+09:56:24	Create RDS Table: tblLeagueTask
+09:56:24	Create RDS Table: tblLeagueMember
+09:56:24	Create RDS Table: tblLeaMemberTask
+09:56:24	[LEAGUE]	Base Data Init, Create RootTree...
+09:56:24	[LEAGUE]	Base Data Init, Create DataTree Completed!
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[KIN]	ModuleInit..
+09:56:24	[KIN]	Base Data Init, Root Branch ID: 9
+09:56:24	Create RDS Table: tblKin
+09:56:24	Create RDS Table: tblKinTask
+09:56:24	Create RDS Table: tblKinBufTask
+09:56:24	Create RDS Table: tblKinMember
+09:56:24	Create RDS Table: tblKinMemberTask
+09:56:24	[KIN]	Base Data Init, Create RootTree...
+09:56:24	[KIN]	Base Data Init, Create DataTree Completed!
+09:56:24	Create Player Kin-Tong DB Table
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[TONG]	ModuleInit..
+09:56:24	[TONG]	Base Data Init, Root Branch ID: 11
+09:56:24	Create RDS Table: tblTong
+09:56:24	Create RDS Table: tblTongTask
+09:56:24	Create RDS Table: tblTongBufTask
+09:56:24	Create RDS Table: tblTongKin
+09:56:24	Create RDS Table: tblTongDomain
+09:56:24	Create RDS Table: tblTongDomainTask
+09:56:24	Create RDS Table: tblTongDomainTaskBuf
+09:56:24	[TONG]	Base Data Init, Create RootTree...
+09:56:24	[TONG]	Base Data Init, Create DataTree Completed!
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[UNION]	ModuleInit..
+09:56:24	[UNION]	Base Data Init, Root Branch ID: 13
+09:56:24	Create RDS Table: tblUnion
+09:56:24	Create RDS Table: tblUnionTask
+09:56:24	Create RDS Table: tblUnionBufTask
+09:56:24	Create RDS Table: tblUnionTong
+09:56:24	Create RDS Table: tblUnionDomain
+09:56:24	[UNION]	Base Data Init, Create RootTree...
+09:56:24	[UNION]	Base Data Init, Create DataTree Completed!
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[PLAYERMAN]	ModuleInit..
+09:56:24	LoadCoZoneSubPlayerNameId TimeOut Del
+09:56:24	Create Player Data DB Table
+09:56:24	Loading All Players ...
+09:56:24	Referenced Players in <PlayerData> Table: 0
+09:56:24	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+09:56:24	Loading Players Kin Info in <PlayerKin> Table ...
+09:56:24	Referenced Players in <PlayerKin> Table: 0
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[TEAM]	ModuleInit..
+09:56:24	[TEAM]	Base Data Init, Root Branch ID: 15
+09:56:24	[TEAM]	Base Data Init, Create RootTree...
+09:56:24	[TEAM]	Base Data Init, Create DataTree Completed!
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[Map]	ModuleInit..
+09:56:24	Loading World Setting...
+09:56:24	Gameserver Count = 6
+09:56:24	[Gameserver0]
+09:56:24	ID = 1
+09:56:24	MapCount = 253
+09:56:24	[Gameserver1]
+09:56:24	ID = 2
+09:56:24	MapCount = 192
+09:56:24	[Gameserver2]
+09:56:24	ID = 3
+09:56:24	MapCount = 1
+09:56:24	[Gameserver3]
+09:56:24	ID = 4
+09:56:24	MapCount = 0
+09:56:24	[Gameserver4]
+09:56:24	ID = 5
+09:56:24	MapCount = 0
+09:56:24	[Gameserver5]
+09:56:24	ID = 6
+09:56:24	MapCount = 0
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[CHAT]	ModuleInit..
+09:56:24	Create OfflineMsg DB Table
+09:56:24	Load All OfflineMsg
+09:56:24	Referenced OfflineMsg 0
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[RELATION]	ModuleInit..
+09:56:24	Create Player Relay DB Table
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[MAIL]	ModuleInit..
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[IBSHOP]	ModuleInit..
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[GMBOARD]	ModuleInit..
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[JBEXCHANGE]	ModuleInit..
+09:56:24	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+09:56:24	Create RDS Table: tblJbExchangeBill
+09:56:24	Create RDS Table: tblJbExchangeTask
+09:56:24	[JBEXCHANGE]	Base Data Init, Create RootTree...
+09:56:24	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[LADDER]	ModuleInit..
+09:56:24	[LADDER]	Base Data Init, Root Branch ID: 19
+09:56:24	Create RDS Table: tblLadder
+09:56:24	Create RDS Table: tblPlayerLadder
+09:56:24	Create RDS Table: tblAllTotalLadder
+09:56:24	Create RDS Table: tblTotalLadder
+09:56:24	[LADDER]	Base Data Init, Create RootTree...
+09:56:24	[LADDER]	Base Data Init, Create DataTree Completed!
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[GBLBUF]	ModuleInit..
+09:56:24	[GBLBUF]	Base Data Init, Root Branch ID: 22
+09:56:24	Create RDS Table: tblGblBufSet
+09:56:24	Create RDS Table: tblGblBuf
+09:56:24	[GBLBUF]	Base Data Init, Create RootTree...
+09:56:24	[GBLBUF]	Base Data Init, Create DataTree Completed!
+09:56:24	[GBLBUF]	Base Data Init, Root Branch ID: 24
+09:56:24	Create RDS Table: tblGblBufSet
+09:56:24	Create RDS Table: tblGblBuf
+09:56:24	[GBLBUF]	Base Data Init, Create RootTree...
+09:56:24	[GBLBUF]	Base Data Init, Create DataTree Completed!
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[PROFILE]	ModuleInit..
+09:56:24	[PROFILE]	Base Data Init, Root Branch ID: 26
+09:56:24	Create RDS Table: tblProfile
+09:56:24	Create RDS Table: tblProfileTask
+09:56:24	Create RDS Table: tblProfileBuff
+09:56:24	[PROFILE]	Base Data Init, Create RootTree...
+09:56:24	[PROFILE]	Base Data Init, Create DataTree Completed!
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[AUCTION]	ModuleInit..
+09:56:24	Create Auction Table
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[NORMAL]	ModuleInit..
+09:56:24	-------------------------------------------------------------------------------
+09:56:24	[SPORT]	ModuleInit..
+09:56:24	[SPORT]	Base Data Init, Root Branch ID: 27
+09:56:24	Create RDS Table: tblSportPlayer
+09:56:24	[SPORT]	Base Data Init, Create RootTree...
+09:56:24	[SPORT]	Base Data Init, Create DataTree Completed!
+09:56:24	[LOG]	2	[Player]	Cap cao nhat 200
+09:56:25	Xếp hạng danh sách
+09:56:25	Xếp hạng bắt đầu
+09:56:25	RefreshHonorLadderData start 262656
+09:56:25	Hoàn thành
+09:56:25	RefreshHonorLadderData start 131585
+09:56:25	[LOG]	2	[SpecialEvent.CollectCard]	盛夏活动卡收集	SetLuckCardNews05月18日国庆活动幸运卡民族05月18日蒙古族    
+09:56:25	在线补偿过期清除	清除数量:	0
+09:56:25	数据库数据为空，直接返回
+09:56:25	Connect to logserver(127.0.0.1:5100) OK!
+09:56:25	Connect to Goddess(127.0.0.1:5001) OK!
+09:56:25	Connect Gateway....
+09:56:25	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09A24EA0
+09:56:25	UnSave Database Type, Saving emDATABASE_TYPE_NORMAL
+09:56:25	Game Startup Completed!
+09:56:33	Warning: MilliSecond Between Two Frames: 133
+09:56:39	Do Daily Backup 17
+09:58:16	[CenServer] Accept from 127.0.0.1 Port = 54758
+09:58:16	Connection Created! Connection ID = 1
+09:58:16	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+09:58:16	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: attempt to call method 'OnRecConnectEvent' (a nil value)
+stack traceback:
+	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: in function 'OnRecConnectEvent'
+	E:\kt\Server\Gamecenter\script\task\help\help.lua:44: in function <E:\kt\Server\Gamecenter\script\task\help\help.lua:40>
+09:58:31	OnGCExcute	Map:GCUpdateForbidenInfo
+09:58:31	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:58:31	黑名单没有初始化，直接返回
+09:58:31	OnGCExcute	XoyoGame:CreateManager_GC	341
+09:58:31	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+09:58:31	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+09:58:31	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+09:58:31	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+09:58:31	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+09:58:31	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+09:58:31	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+09:58:31	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+09:59:28	[LOG]	2	[DescHonorInPlayerLogin]	Simp Player Login!	Testgame	18950
+09:59:30	Testgame	2885662585	LoginMul_1	IpMul1
+09:59:30	OnGCExcute	Task.tbHelp:SetDynamicNews	1	Testgame đạt cấp 69 đầu tiên!	Võ lâm cao thủ đạt cấp 69 đầu tiên đã xuất hiện
+Họ tên: <color=gold>Testgame<color>
+Giới tính: <color=gold>Nam<color>
+Nhánh môn phái: <color=gold>Chưa<color>
+Tổng thời gian lên mạng: <color=gold>0.0<color> giờ	1653101970	1652842770
+09:59:31	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	0
+09:59:43	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	300
+09:59:51	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	400
+09:59:52	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	500
+09:59:56	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	505
+09:59:58	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	605
+10:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+10:00:01	[ScheduleTask]	Execute Task: Phó bản quân doanh
+10:00:01	[ScheduleTask]	Execute Task: CALL_BOSS
+10:00:01	[ScheduleTask]	Execute Task: BHĐ bắt đàu PK
+10:00:01	[ScheduleTask]	Execute Task: 逍遥谷开启
+10:00:01	[ScheduleTask]	Execute Task: 秦陵精英刷新
+10:00:05	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	705
+10:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+10:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+10:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+10:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+10:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+10:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+10:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+10:00:38	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	30826
+10:00:40	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	42107
+10:00:41	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	53385
+10:00:41	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	64652
+10:00:42	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	75924
+10:00:43	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	83437
+10:00:43	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	90952
+10:00:43	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	98463
+10:00:44	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	105984
+10:00:44	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	113497
+10:00:49	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	143490
+10:01:22	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	143491
+10:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+10:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+10:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+10:05:36	Testgame	2885662585	LogoutMul_0	IpMul_0
+10:07:36	Warning: MilliSecond Between Two Frames: 121
+10:07:37	Warning: MilliSecond Between Two Frames: 118
+10:07:37	Warning: MilliSecond Between Two Frames: 129
+10:07:38	Warning: MilliSecond Between Two Frames: 144
+10:07:39	Warning: MilliSecond Between Two Frames: 127
+10:07:43	Warning: MilliSecond Between Two Frames: 139
+10:07:49	Warning: MilliSecond Between Two Frames: 190
+10:07:50	Warning: MilliSecond Between Two Frames: 136
+10:07:54	Warning: MilliSecond Between Two Frames: 143
+10:07:54	Warning: MilliSecond Between Two Frames: 429
+10:07:54	Warning: MilliSecond Between Two Frames: 146
+10:07:54	Warning: MilliSecond Between Two Frames: 126
+10:07:54	Warning: MilliSecond Between Two Frames: 153
+10:07:55	Warning: MilliSecond Between Two Frames: 179
+10:07:55	Warning: MilliSecond Between Two Frames: 157
+10:07:56	Warning: MilliSecond Between Two Frames: 117
+10:07:56	Warning: MilliSecond Between Two Frames: 276
+10:07:57	Warning: MilliSecond Between Two Frames: 281
+10:07:57	Warning: MilliSecond Between Two Frames: 217
+10:08:02	Warning: MilliSecond Between Two Frames: 203
+10:08:02	Warning: MilliSecond Between Two Frames: 116
+10:08:38	Warning: MilliSecond Between Two Frames: 113
+10:08:50	Warning: MilliSecond Between Two Frames: 121
+10:08:51	Warning: MilliSecond Between Two Frames: 113
+10:08:51	Warning: MilliSecond Between Two Frames: 126
+10:09:09	Warning: MilliSecond Between Two Frames: 229
+10:09:10	Warning: MilliSecond Between Two Frames: 117
+10:09:10	Warning: MilliSecond Between Two Frames: 142
+10:09:12	Warning: MilliSecond Between Two Frames: 143
+10:09:13	Warning: MilliSecond Between Two Frames: 202
+10:09:13	Warning: MilliSecond Between Two Frames: 154
+10:09:17	Warning: MilliSecond Between Two Frames: 168
+10:09:19	Warning: MilliSecond Between Two Frames: 130
+10:09:39	Warning: MilliSecond Between Two Frames: 183
+10:09:39	Warning: MilliSecond Between Two Frames: 189
+10:09:39	Warning: MilliSecond Between Two Frames: 117
+10:09:40	Warning: MilliSecond Between Two Frames: 142
+10:09:40	Warning: MilliSecond Between Two Frames: 131
+10:09:54	Warning: MilliSecond Between Two Frames: 210
+10:09:54	Warning: MilliSecond Between Two Frames: 140
+10:09:57	Warning: MilliSecond Between Two Frames: 112
+10:09:57	Warning: MilliSecond Between Two Frames: 112
+10:09:57	Warning: MilliSecond Between Two Frames: 128
+10:09:57	Warning: MilliSecond Between Two Frames: 130
+10:09:58	Warning: MilliSecond Between Two Frames: 168
+10:09:58	Warning: MilliSecond Between Two Frames: 163
+10:10:09	Warning: MilliSecond Between Two Frames: 148
+10:11:06	Warning: MilliSecond Between Two Frames: 147
+10:11:13	Warning: MilliSecond Between Two Frames: 223
+10:11:14	Warning: MilliSecond Between Two Frames: 117
+10:11:22	Warning: MilliSecond Between Two Frames: 182
+10:11:41	Warning: MilliSecond Between Two Frames: 114
+10:11:41	Warning: MilliSecond Between Two Frames: 127
+10:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+10:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+10:12:08	Warning: MilliSecond Between Two Frames: 203
+10:12:08	Warning: MilliSecond Between Two Frames: 131
+10:12:15	Warning: MilliSecond Between Two Frames: 132
+10:12:16	Warning: MilliSecond Between Two Frames: 208
+10:12:51	Warning: MilliSecond Between Two Frames: 141
+10:12:52	Warning: MilliSecond Between Two Frames: 194
+10:13:11	Warning: MilliSecond Between Two Frames: 112
+10:13:11	Warning: MilliSecond Between Two Frames: 240
+10:13:13	Warning: MilliSecond Between Two Frames: 181
+10:13:28	Warning: MilliSecond Between Two Frames: 171
+10:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+10:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+10:25:32	Warning: MilliSecond Between Two Frames: 135
+10:25:42	Warning: MilliSecond Between Two Frames: 125
+10:25:45	Warning: MilliSecond Between Two Frames: 126
+10:25:46	Warning: MilliSecond Between Two Frames: 193
+10:25:48	Warning: MilliSecond Between Two Frames: 172
+10:25:48	Warning: MilliSecond Between Two Frames: 115
+10:25:49	Warning: MilliSecond Between Two Frames: 143
+10:25:49	Warning: MilliSecond Between Two Frames: 190
+10:25:50	Warning: MilliSecond Between Two Frames: 123
+10:25:53	Warning: MilliSecond Between Two Frames: 166
+10:25:53	Warning: MilliSecond Between Two Frames: 159
+10:25:54	Warning: MilliSecond Between Two Frames: 260
+10:25:54	Warning: MilliSecond Between Two Frames: 138
+10:26:27	Warning: MilliSecond Between Two Frames: 122
+10:26:27	Warning: MilliSecond Between Two Frames: 114
+10:26:28	Warning: MilliSecond Between Two Frames: 128
+10:26:28	Warning: MilliSecond Between Two Frames: 336
+10:26:39	Warning: MilliSecond Between Two Frames: 502
+10:26:56	Warning: MilliSecond Between Two Frames: 155
+10:27:03	Warning: MilliSecond Between Two Frames: 112
+10:27:24	Warning: MilliSecond Between Two Frames: 145
+10:27:24	Warning: MilliSecond Between Two Frames: 202
+10:27:25	Warning: MilliSecond Between Two Frames: 202
+10:27:25	Warning: MilliSecond Between Two Frames: 135
+10:27:39	Warning: MilliSecond Between Two Frames: 118
+10:27:39	Warning: MilliSecond Between Two Frames: 139
+10:27:39	Warning: MilliSecond Between Two Frames: 158
+10:27:42	Warning: MilliSecond Between Two Frames: 162
+10:27:43	Warning: MilliSecond Between Two Frames: 119
+10:27:43	Warning: MilliSecond Between Two Frames: 111
+10:28:03	Warning: MilliSecond Between Two Frames: 112
+10:28:05	Warning: MilliSecond Between Two Frames: 122
+10:28:19	Warning: MilliSecond Between Two Frames: 143
+10:29:10	Warning: MilliSecond Between Two Frames: 274
+10:29:10	Warning: MilliSecond Between Two Frames: 147
+10:29:10	Warning: MilliSecond Between Two Frames: 117
+10:29:19	Warning: MilliSecond Between Two Frames: 194
+10:29:37	Warning: MilliSecond Between Two Frames: 182
+10:29:38	Warning: MilliSecond Between Two Frames: 228
+10:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+10:30:00	[ScheduleTask]	Execute Task: BHĐ dăng kí trận kế tiêp
+10:30:00	[ScheduleTask]	Execute Task: 逍遥谷开启
+10:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+10:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+10:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+10:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+10:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+10:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+10:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+10:30:30	Warning: MilliSecond Between Two Frames: 201
+10:30:31	Warning: MilliSecond Between Two Frames: 157
+10:30:31	Warning: MilliSecond Between Two Frames: 123
+10:30:35	Warning: MilliSecond Between Two Frames: 193
+10:30:49	Warning: MilliSecond Between Two Frames: 346
+10:30:51	Warning: MilliSecond Between Two Frames: 1324
+10:30:51	Warning: MilliSecond Between Two Frames: 491
+10:30:52	Warning: MilliSecond Between Two Frames: 149
+10:30:52	Warning: MilliSecond Between Two Frames: 161
+10:30:52	Warning: MilliSecond Between Two Frames: 127
+10:30:53	Warning: MilliSecond Between Two Frames: 173
+10:30:53	Warning: MilliSecond Between Two Frames: 111
+10:30:54	Warning: MilliSecond Between Two Frames: 115
+10:31:12	Warning: MilliSecond Between Two Frames: 200
+10:31:12	Warning: MilliSecond Between Two Frames: 208
+10:31:13	Warning: MilliSecond Between Two Frames: 145
+10:43:00	Testgame	2885662585	LoginMul_1	IpMul1
+10:50:00	[ScheduleTask]	Execute Task: Tống Kim
+10:50:00	-------------------------------------------------------------------------------
+10:50:00	[2022-05-18 10:50:00]	BATTLE ROUND START
+10:50:00	tBattleLevel: 2	MapName: Gia d? quan (Ph??ng T??ng)
+10:50:00	-------------------------------------------------------------------------------
+10:50:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+11:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+11:00:01	[ScheduleTask]	Execute Task: Phó bản quân doanh
+11:00:01	[ScheduleTask]	Execute Task: CALL_BOSS
+11:00:01	[ScheduleTask]	Execute Task: BHĐ bắt đàu PK
+11:00:01	[ScheduleTask]	Execute Task: 逍遥谷开启
+11:00:01	[ScheduleTask]	Execute Task: 秦陵精英刷新
+11:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+11:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+11:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+11:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+11:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+11:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+11:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+11:04:08	[LOG]	2	[DescHonorInPlayerLogin]	Simp Player Login!	Solana	18950
+11:04:10	Solana	1665887050	LoginMul_1	IpMul1
+11:04:12	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	0
+11:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+11:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+11:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+11:05:22	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	100
+11:05:25	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	200
+11:05:27	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	300
+11:05:57	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	600
+11:06:13	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	700
+11:06:14	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	705
+11:09:53	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	8216
+11:09:54	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	15732
+11:09:55	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	23243
+11:09:56	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	34521
+11:09:56	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	42042
+11:09:57	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	49555
+11:09:58	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	60827
+11:09:58	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	72094
+11:09:59	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	102213
+11:10:00	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	102216
+11:10:01	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	113497
+11:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+11:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+11:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+11:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+11:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+11:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:30:00	[ScheduleTask]	Execute Task: BHĐ dăng kí trận kế tiêp
+11:30:00	[ScheduleTask]	Execute Task: 逍遥谷开启
+11:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+11:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+11:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+11:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+11:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+11:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+11:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+11:31:17	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	113498
+11:32:34	Solana	1665887050	LogoutMul_0	IpMul_0
+11:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:35:36	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+11:35:56	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	143495
+11:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:36:03	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	143500
+11:36:39	Solana	1665887050	LoginMul_1	IpMul1
+11:38:54	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	144999
+11:38:54	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	147999
+11:38:54	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	148585
+11:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+11:47:01	Warning: MilliSecond Between Two Frames: 112
+11:50:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+11:55:00	[ScheduleTask]	Execute Task: 猜灯谜
+11:55:00	[ScheduleTask]	Execute Task: 活动系统维护
+12:00:01	[ScheduleTask]	Execute Task: 每日婚礼开启
+12:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+12:00:01	[ScheduleTask]	Execute Task: Phó bản quân doanh
+12:00:01	[ScheduleTask]	Execute Task: CALL_BOSS
+12:00:01	[ScheduleTask]	Execute Task: BHĐ bắt đàu PK
+12:00:01	[ScheduleTask]	Execute Task: 等级排行榜更新
+12:00:01	Danh sách xếp hạng đầu tiên.......
+12:00:01	Hoàn thành danh sách.......
+12:00:01	[ScheduleTask]	Execute Task: 逍遥谷开启
+12:00:01	[ScheduleTask]	Execute Task: 所有荣誉排行榜更新
+12:00:01	RefreshHonorLadderData start 262656
+12:00:01	RefreshHonorLadderData start 263168
+12:00:01	Xếp hạng Võ Lâm bắt đầu
+12:00:01	Xếp hạng Võ Lâm kết thúc
+12:00:01	Xếp hạng Tài Phú bắt đầu
+12:00:01	RefreshHonorLadderData start 393472
+12:00:01	PlayerHonor:GetHonorStatInfo() start 	moneyhonor
+12:00:01	[LOG]	1	[GbWlls_Join_Money]	1	Testgame	148585
+12:00:01	[LOG]	1	[GbWlls_Join_Money]	2	Solana	113498
+12:00:01	PlayerHonor:GetHonorStatInfo() end
+
+12:00:01	Xếp hạng Tài Phú kết thúc
+12:00:01	Xếp hạng Thủ Lĩnh bắt đầu
+12:00:01	RefreshHonorLadderData start 327936
+12:00:01	Xếp hạng Thủ Lĩnh kết thúc
+12:00:01	OnSchemeUpdateHonorLadder Update Honor  nDay = 3
+12:00:01	RefreshHonorLadderData start 131587
+12:00:01	[ScheduleTask]	Execute Task: 每周刷新威望排行榜
+12:00:01	[ScheduleTask]	Execute Task: 秦陵精英刷新
+12:00:01	[ScheduleTask]	Execute Task: Làm mới bảng xếp hạng các vị anh hùng trong Đạ
+12:00:01	[ScheduleTask]	Execute Task: Cap nhat Tai phu
+12:00:01	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	113524
+12:00:01	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	148610
+12:00:01	OnGCExcute	PlayerHonor:UpdateWuLinHonorLadder
+12:00:01	Xếp hạng Võ Lâm bắt đầu
+12:00:01	Xếp hạng Võ Lâm kết thúc
+12:00:01	OnGCExcute	PlayerHonor:UpdateMoneyHonorLadder
+12:00:01	Xếp hạng Tài Phú bắt đầu
+12:00:01	RefreshHonorLadderData start 393472
+12:00:01	PlayerHonor:GetHonorStatInfo() start 	moneyhonor
+12:00:01	[LOG]	1	[GbWlls_Join_Money]	1	Testgame	148610
+12:00:01	[LOG]	1	[GbWlls_Join_Money]	2	Solana	113524
+12:00:01	PlayerHonor:GetHonorStatInfo() end
+
+12:00:01	Xếp hạng Tài Phú kết thúc
+12:00:01	OnGCExcute	PlayerHonor:UpdateLeaderHonorLadder
+12:00:01	Xếp hạng Thủ Lĩnh bắt đầu
+12:00:01	RefreshHonorLadderData start 327936
+12:00:01	Xếp hạng Thủ Lĩnh kết thúc
+12:00:01	OnGCExcute	PlayerHonor:UpdateSpringHonorLadder
+12:00:01	RefreshHonorLadderData start 131585
+12:00:01	OnGCExcute	PlayerHonor:UpdateLevelHonorLadder
+12:00:01	[script]key "UpdateLevelHonorLadder" not found when get "PlayerHonor:UpdateLevelHonorLadder"!
+stack traceback:
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:340: in function <E:\kt\Server\Gamecenter\script\lib\lib.lua:336>
+	[C]: in function 'xpcall'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:353: in function 'CallBack'
+	E:\kt\Server\Gamecenter\script\misc\gcevent.lua:7: in function <E:\kt\Server\Gamecenter\script\misc\gcevent.lua:5>
+12:00:01	OnGCExcute	PlayerHonor:UpdateXoyoLadder
+12:00:01	Xếp hạng Tiêu Dao Cốc bắt đầu
+12:00:01	RefreshHonorLadderData start 131586
+12:00:01	Xếp hạng Tiêu Dao Cốc kết thúc
+12:00:01	OnGCExcute	PlayerHonor:OnSchemeLoadFactionHonorLadder
+12:00:01	RefreshHonorLadderData start 262656
+12:00:01	OnGCExcute	PlayerHonor:OnSchemeUpdateSongJinBattleHonorLadder
+12:00:01	RefreshHonorLadderData start 263168
+12:00:01	OnGCExcute	PlayerHonor:OnSchemeUpdateDragonBoatHonorLadder
+12:00:01	RefreshHonorLadderData start 131587
+12:00:01	OnGCExcute	PlayerHonor:OnSchemeUpdateWeiwangHonorLadder
+12:00:01	RefreshHonorLadderData start 131588
+12:00:01	OnGCExcute	PlayerHonor:OnSchemeUpdatePrettygirlHonorLadder
+12:00:01	RefreshHonorLadderData start 131589
+12:00:01	OnGCExcute	PlayerHonor:OnSchemeUpdateKaimenTaskHonorLadder
+12:00:01	RefreshHonorLadderData start 131590
+12:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+12:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+12:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+12:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+12:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+12:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+12:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+12:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+12:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+12:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+12:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+12:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+12:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+12:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+12:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+12:30:00	[ScheduleTask]	Execute Task: BHĐ dăng kí trận kế tiêp
+12:30:00	[ScheduleTask]	Execute Task: 逍遥谷开启
+12:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+12:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+12:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+12:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+12:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+12:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+12:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+12:47:02	Warning: MilliSecond Between Two Frames: 270
+12:50:00	[ScheduleTask]	Execute Task: Tống Kim
+12:50:00	-------------------------------------------------------------------------------
+12:50:00	[2022-05-18 12:50:00]	BATTLE ROUND START
+12:50:00	tBattleLevel: 2	MapName: Gia d? quan (Ph??ng T??ng)
+12:50:00	-------------------------------------------------------------------------------
+12:50:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+13:00:01	[ScheduleTask]	Execute Task: Phó bản quân doanh
+13:00:01	[ScheduleTask]	Execute Task: CALL_BOSS
+13:00:01	[ScheduleTask]	Execute Task: BHĐ bắt đàu PK
+13:00:01	[ScheduleTask]	Execute Task: 逍遥谷开启
+13:00:01	[ScheduleTask]	Execute Task: 帮会评优开始
+13:00:01	[ScheduleTask]	Execute Task: 秦陵精英刷新
+13:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+13:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+13:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+13:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+13:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+13:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+13:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+13:02:18	Warning: MilliSecond Between Two Frames: 139
+13:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:16:58	Testgame	2885662585	LogoutMul_0	IpMul_0
+13:17:52	[LOG]	2	[DescHonorInPlayerLogin]	Simp Player Login!	MaNhẫn05	18950
+13:17:53	MaNhẫn05	2885662585	LoginMul_1	IpMul1
+13:17:56	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	0
+13:18:14	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	300
+13:18:16	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	400
+13:18:16	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	500
+13:18:17	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	600
+13:18:18	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	605
+13:18:18	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	705
+13:18:49	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	30823
+13:18:49	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	42104
+13:18:49	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	42107
+13:18:50	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	53374
+13:18:51	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	64647
+13:18:51	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	75919
+13:18:52	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	83432
+13:18:52	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	90944
+13:18:52	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	98458
+13:18:52	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	105979
+13:18:53	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	113492
+13:19:23	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	143485
+13:19:42	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	143486
+13:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:24:14	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	144985
+13:24:14	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	147985
+13:24:14	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148567
+13:26:53	Solana	1665887050	LogoutMul_0	IpMul_0
+13:28:23	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:28:23	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:28:24	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:29:58	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:29:58	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+13:30:00	[ScheduleTask]	Execute Task: BHĐ dăng kí trận kế tiêp
+13:30:00	[ScheduleTask]	Execute Task: 逍遥谷开启
+13:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+13:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+13:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+13:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+13:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+13:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+13:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+13:32:25	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:32:25	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:33:42	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:33:42	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:35:32	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:35:32	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:36:53	Testgame	2885662585	LoginMul_2	IpMul2
+13:37:37	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:37:37	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:39:03	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:39:03	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:47:02	Warning: MilliSecond Between Two Frames: 141
+13:47:03	Warning: MilliSecond Between Two Frames: 189
+13:50:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:55:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+13:57:21	Warning: MilliSecond Between Two Frames: 132
+13:58:29	Warning: MilliSecond Between Two Frames: 136
+13:59:05	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:59:05	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+13:59:05	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:00:01	[ScheduleTask]	Execute Task: Vip转服过期数据清理
+14:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+14:00:01	[ScheduleTask]	Execute Task: Phó bản quân doanh
+14:00:01	[ScheduleTask]	Execute Task: CALL_BOSS
+14:00:01	[ScheduleTask]	Execute Task: BHĐ bắt đàu PK
+14:00:01	[ScheduleTask]	Execute Task: 逍遥谷开启
+14:00:01	[ScheduleTask]	Execute Task: 秦陵精英刷新
+14:00:01	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+14:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+14:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+14:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+14:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+14:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+14:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+14:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+14:02:24	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:02:24	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:02:54	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:02:54	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:03:37	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:03:37	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:04:18	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:04:18	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+14:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+14:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+14:05:02	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:05:02	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:10:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+14:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+14:18:38	[CenServer] Receive packet failed!
+14:18:38	Connection Lost:127.0.0.1 ID = 1
+14:18:38	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 54758 Protocol = 4 Size = 10
+14:19:16	
+14:19:16	********************** Gamecenter Startup ************************
+14:19:16	OS Time: 05/18/22 14:19:16
+14:19:16	Game Init ..
+14:19:16	Loading Script...
+14:19:16	Begin load script files...
+14:19:16	begin load vfactory.lua
+14:19:16	Preload gc script files...
+14:19:16	21 loaded!
+14:19:16	Loading Scripts In Path \script\
+14:19:16	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+14:19:16	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+14:19:16	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+14:19:16	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+14:19:16	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+14:19:16	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+14:19:16	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+14:19:16	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+14:19:16	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+14:19:16	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+14:19:16	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+14:19:16	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+14:19:16	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+14:19:17	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+14:19:17	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+14:19:17	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+14:19:17	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+14:19:17	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+14:19:17	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+14:19:17	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+14:19:17	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+14:19:17	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+14:19:17	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+14:19:17	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+14:19:17	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+14:19:17	296 loaded!
+14:19:17	Create DBShare Table
+14:19:17	LoadDBShare...
+14:19:17	Current Data Version : 2
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[GBLVALUE]	ModuleInit..
+14:19:17	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+14:19:17	Create RDS Table: tblGblValueSet
+14:19:17	Create RDS Table: tblGblVIntInt
+14:19:17	Create RDS Table: tblGblVIntBuf
+14:19:17	Create RDS Table: tblGblVStrInt
+14:19:17	Create RDS Table: tblGblVStrBuf
+14:19:17	[GBLVALUE]	Base Data Init, Create RootTree...
+14:19:17	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+14:19:17	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+14:19:17	[GBLVALUE]	Base Data Init, Create RootTree...
+14:19:17	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+14:19:17	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+14:19:17	[GBLVALUE]	Base Data Init, Create RootTree...
+14:19:17	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+14:19:17	Create SaveBuffer DB Table
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[TRANSFER]	ModuleInit..
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[TimerTask]	ModuleInit..
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[ScheduleTask]	ModuleInit..
+14:19:17	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+14:19:17	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[LEAGUE]	ModuleInit..
+14:19:17	[LEAGUE]	Base Data Init, Root Branch ID: 11
+14:19:17	Create RDS Table: tblLeagueSet
+14:19:17	Create RDS Table: tblMemberLea
+14:19:17	Create RDS Table: tblLeague
+14:19:17	Create RDS Table: tblLeagueTask
+14:19:17	Create RDS Table: tblLeagueMember
+14:19:17	Create RDS Table: tblLeaMemberTask
+14:19:17	[LEAGUE]	Base Data Init, Create RootTree...
+14:19:17	[LEAGUE]	Base Data Init, Create DataTree Completed!
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[KIN]	ModuleInit..
+14:19:17	[KIN]	Base Data Init, Root Branch ID: 18
+14:19:17	Create RDS Table: tblKin
+14:19:17	Create RDS Table: tblKinTask
+14:19:17	Create RDS Table: tblKinBufTask
+14:19:17	Create RDS Table: tblKinMember
+14:19:17	Create RDS Table: tblKinMemberTask
+14:19:17	[KIN]	Base Data Init, Create RootTree...
+14:19:17	[KIN]	Base Data Init, Create DataTree Completed!
+14:19:17	Create Player Kin-Tong DB Table
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[TONG]	ModuleInit..
+14:19:17	[TONG]	Base Data Init, Root Branch ID: 20
+14:19:17	Create RDS Table: tblTong
+14:19:17	Create RDS Table: tblTongTask
+14:19:17	Create RDS Table: tblTongBufTask
+14:19:17	Create RDS Table: tblTongKin
+14:19:17	Create RDS Table: tblTongDomain
+14:19:17	Create RDS Table: tblTongDomainTask
+14:19:17	Create RDS Table: tblTongDomainTaskBuf
+14:19:17	[TONG]	Base Data Init, Create RootTree...
+14:19:17	[TONG]	Base Data Init, Create DataTree Completed!
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[UNION]	ModuleInit..
+14:19:17	[UNION]	Base Data Init, Root Branch ID: 22
+14:19:17	Create RDS Table: tblUnion
+14:19:17	Create RDS Table: tblUnionTask
+14:19:17	Create RDS Table: tblUnionBufTask
+14:19:17	Create RDS Table: tblUnionTong
+14:19:17	Create RDS Table: tblUnionDomain
+14:19:17	[UNION]	Base Data Init, Create RootTree...
+14:19:17	[UNION]	Base Data Init, Create DataTree Completed!
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[PLAYERMAN]	ModuleInit..
+14:19:17	LoadCoZoneSubPlayerNameId TimeOut Del
+14:19:17	Create Player Data DB Table
+14:19:17	Loading All Players ...
+14:19:17	Referenced Players in <PlayerData> Table: 3
+14:19:17	<PlayerData> Table: Simple Player Count[0], Normal Player Count [3].
+14:19:17	Loading Players Kin Info in <PlayerKin> Table ...
+14:19:17	Referenced Players in <PlayerKin> Table: 0
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[TEAM]	ModuleInit..
+14:19:17	[TEAM]	Base Data Init, Root Branch ID: 24
+14:19:17	[TEAM]	Base Data Init, Create RootTree...
+14:19:17	[TEAM]	Base Data Init, Create DataTree Completed!
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[Map]	ModuleInit..
+14:19:17	Loading World Setting...
+14:19:17	Gameserver Count = 6
+14:19:17	[Gameserver0]
+14:19:17	ID = 1
+14:19:17	MapCount = 253
+14:19:17	[Gameserver1]
+14:19:17	ID = 2
+14:19:17	MapCount = 192
+14:19:17	[Gameserver2]
+14:19:17	ID = 3
+14:19:17	MapCount = 1
+14:19:17	[Gameserver3]
+14:19:17	ID = 4
+14:19:17	MapCount = 0
+14:19:17	[Gameserver4]
+14:19:17	ID = 5
+14:19:17	MapCount = 0
+14:19:17	[Gameserver5]
+14:19:17	ID = 6
+14:19:17	MapCount = 0
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[CHAT]	ModuleInit..
+14:19:17	Create OfflineMsg DB Table
+14:19:17	Load All OfflineMsg
+14:19:17	Referenced OfflineMsg 0
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[RELATION]	ModuleInit..
+14:19:17	Create Player Relay DB Table
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[MAIL]	ModuleInit..
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[IBSHOP]	ModuleInit..
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[GMBOARD]	ModuleInit..
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[JBEXCHANGE]	ModuleInit..
+14:19:17	[JBEXCHANGE]	Base Data Init, Root Branch ID: 26
+14:19:17	Create RDS Table: tblJbExchangeBill
+14:19:17	Create RDS Table: tblJbExchangeTask
+14:19:17	[JBEXCHANGE]	Base Data Init, Create RootTree...
+14:19:17	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[LADDER]	ModuleInit..
+14:19:17	[LADDER]	Base Data Init, Root Branch ID: 28
+14:19:17	Create RDS Table: tblLadder
+14:19:17	Create RDS Table: tblPlayerLadder
+14:19:17	Create RDS Table: tblAllTotalLadder
+14:19:17	Create RDS Table: tblTotalLadder
+14:19:17	[LADDER]	Base Data Init, Create RootTree...
+14:19:17	[LADDER]	Base Data Init, Create DataTree Completed!
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[GBLBUF]	ModuleInit..
+14:19:17	[GBLBUF]	Base Data Init, Root Branch ID: 79
+14:19:17	Create RDS Table: tblGblBufSet
+14:19:17	Create RDS Table: tblGblBuf
+14:19:17	[GBLBUF]	Base Data Init, Create RootTree...
+14:19:17	[GBLBUF]	Base Data Init, Create DataTree Completed!
+14:19:17	[GBLBUF]	Base Data Init, Root Branch ID: 87
+14:19:17	Create RDS Table: tblGblBufSet
+14:19:17	Create RDS Table: tblGblBuf
+14:19:17	[GBLBUF]	Base Data Init, Create RootTree...
+14:19:17	[GBLBUF]	Base Data Init, Create DataTree Completed!
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[PROFILE]	ModuleInit..
+14:19:17	[PROFILE]	Base Data Init, Root Branch ID: 95
+14:19:17	Create RDS Table: tblProfile
+14:19:17	Create RDS Table: tblProfileTask
+14:19:17	Create RDS Table: tblProfileBuff
+14:19:17	[PROFILE]	Base Data Init, Create RootTree...
+14:19:17	[PROFILE]	Base Data Init, Create DataTree Completed!
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[AUCTION]	ModuleInit..
+14:19:17	Create Auction Table
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[NORMAL]	ModuleInit..
+14:19:17	-------------------------------------------------------------------------------
+14:19:17	[SPORT]	ModuleInit..
+14:19:17	[SPORT]	Base Data Init, Root Branch ID: 96
+14:19:17	Create RDS Table: tblSportPlayer
+14:19:17	[SPORT]	Base Data Init, Create RootTree...
+14:19:17	[SPORT]	Base Data Init, Create DataTree Completed!
+14:19:17	[LOG]	2	[Player]	Cap cao nhat 200
+14:19:17	Xếp hạng danh sách
+14:19:17	Hoàn thành
+14:19:17	在线补偿过期清除	清除数量:	0
+14:19:17	数据库数据为空，直接返回
+14:19:17	Connect to logserver(127.0.0.1:5100) OK!
+14:19:17	Connect to Goddess(127.0.0.1:5001) OK!
+14:19:17	Connect Gateway....
+14:19:17	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09B7BC60
+14:19:17	Game Startup Completed!
+14:19:27	[CenServer] Accept from 127.0.0.1 Port = 41705
+14:19:27	Connection Created! Connection ID = 1
+14:19:27	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+14:19:27	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: attempt to call method 'OnRecConnectEvent' (a nil value)
+stack traceback:
+	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: in function 'OnRecConnectEvent'
+	E:\kt\Server\Gamecenter\script\task\help\help.lua:44: in function <E:\kt\Server\Gamecenter\script\task\help\help.lua:40>
+14:19:32	Do Daily Backup 17
+14:19:32	Failed MySQL Query: call proc_jxex_stat()
+14:19:32	[GCError] KGC_MySqlDatabase::_DoQuery(230) Unknown column 'F49' in 'field list'
+14:19:33	KGC_PlayerModule Breath Player Save Task 1, Testgame
+14:19:40	OnGCExcute	Map:GCUpdateForbidenInfo
+14:19:40	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+14:19:40	黑名单没有初始化，直接返回
+14:19:41	OnGCExcute	XoyoGame:CreateManager_GC	341
+14:19:41	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+14:19:41	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+14:19:41	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+14:19:41	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+14:19:41	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+14:19:41	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+14:19:41	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+14:19:41	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+14:19:49	KGC_PlayerModule Breath Player Save Task 2, Solana
+14:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+14:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+14:20:12	MaNhẫn05	2885662585	LoginMul_1	IpMul1
+14:20:20	MaNhẫn05	2885662585	LogoutMul_0	IpMul_0
+14:20:56	MaNhẫn05	2885662585	LoginMul_1	IpMul1
+14:24:24	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:24:24	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:24:24	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:24:30	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148568
+14:24:31	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148569
+14:24:31	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148570
+14:24:38	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148619
+14:24:39	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148630
+14:24:39	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148641
+14:24:40	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148652
+14:24:40	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148663
+14:24:42	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148673
+14:24:55	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148684
+14:24:58	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148695
+14:24:58	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148706
+14:24:58	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148717
+14:24:58	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148727
+14:24:59	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148738
+14:24:59	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148749
+14:24:59	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148760
+14:25:00	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148771
+14:25:01	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148781
+14:25:02	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148792
+14:25:13	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148803
+14:25:13	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148814
+14:25:13	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148825
+14:25:15	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148835
+14:25:16	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148846
+14:25:16	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148857
+14:25:16	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148868
+14:25:16	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148879
+14:25:18	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148889
+14:25:19	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148900
+14:25:34	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148911
+14:25:35	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148922
+14:25:35	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148933
+14:25:37	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148943
+14:25:38	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148954
+14:25:38	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148965
+14:25:38	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148976
+14:25:39	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148987
+14:25:40	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	148997
+14:25:47	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149008
+14:25:52	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149019
+14:25:52	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149030
+14:25:52	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149041
+14:25:53	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149051
+14:25:54	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149062
+14:26:02	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149073
+14:26:02	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149084
+14:26:02	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149095
+14:26:04	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149105
+14:26:04	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149116
+14:26:05	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149127
+14:26:05	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149138
+14:26:05	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149149
+14:26:07	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149159
+14:26:08	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149170
+14:26:22	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149181
+14:26:22	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149192
+14:26:22	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149203
+14:26:24	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149213
+14:26:25	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149224
+14:26:26	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149235
+14:26:26	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149246
+14:26:48	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149257
+14:26:49	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149267
+14:26:51	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149278
+14:26:51	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149289
+14:26:52	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149300
+14:26:52	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149311
+14:27:24	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149321
+14:27:25	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149332
+14:27:25	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149343
+14:27:26	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149354
+14:27:26	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149365
+14:27:27	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149375
+14:27:29	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149386
+14:27:29	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149397
+14:27:29	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149408
+14:27:29	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149419
+14:28:01	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149429
+14:28:01	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149440
+14:28:02	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149451
+14:28:02	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149462
+14:28:02	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149473
+14:28:02	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149483
+14:28:03	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149494
+14:28:18	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:28:18	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:28:18	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+14:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:30:00	[ScheduleTask]	Execute Task: BHĐ dăng kí trận kế tiêp
+14:30:00	[ScheduleTask]	Execute Task: 逍遥谷开启
+14:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+14:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+14:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+14:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+14:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+14:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+14:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+14:30:33	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:30:33	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:32:40	Warning: MilliSecond Between Two Frames: 111
+14:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:33:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:39:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:42:00	[ScheduleTask]	Execute Task: CALL_BOSS
+14:42:09	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:42:09	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:47:03	Warning: MilliSecond Between Two Frames: 193
+14:47:04	Warning: MilliSecond Between Two Frames: 358
+14:50:00	[ScheduleTask]	Execute Task: Tống Kim
+14:50:00	-------------------------------------------------------------------------------
+14:50:00	[2022-05-18 14:50:00]	BATTLE ROUND START
+14:50:00	tBattleLevel: 2	MapName: Gia d? quan (Ph??ng T??ng)
+14:50:00	-------------------------------------------------------------------------------
+14:50:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+14:55:06	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:55:06	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+14:56:17	[CenServer] Receive packet failed!
+14:56:17	Connection Lost:127.0.0.1 ID = 1
+14:56:17	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 41705 Protocol = 4 Size = 10
+14:56:28	[CenServer] Accept from 127.0.0.1 Port = 64233
+14:56:28	Connection Created! Connection ID = 2
+14:56:28	Domain	Statuary	tbStatuary:OnRecConnectEvent	2
+14:56:28	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: attempt to call method 'OnRecConnectEvent' (a nil value)
+stack traceback:
+	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: in function 'OnRecConnectEvent'
+	E:\kt\Server\Gamecenter\script\task\help\help.lua:44: in function <E:\kt\Server\Gamecenter\script\task\help\help.lua:40>
+14:56:39	OnGCExcute	Map:GCUpdateForbidenInfo
+14:56:39	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+14:56:39	黑名单没有初始化，直接返回
+14:56:39	OnGCExcute	XoyoGame:CreateManager_GC	341
+14:56:39	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+14:56:39	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+14:56:39	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+14:56:39	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+14:56:39	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+14:56:39	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+14:56:39	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+14:56:39	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+14:58:53	Warning: MilliSecond Between Two Frames: 133
+15:00:01	[ScheduleTask]	Execute Task: 武林联赛[周末]
+15:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+15:00:01	[ScheduleTask]	Execute Task: Phó bản quân doanh
+15:00:01	[ScheduleTask]	Execute Task: CALL_BOSS
+15:00:01	[ScheduleTask]	Execute Task: BHĐ bắt đàu PK
+15:00:01	[ScheduleTask]	Execute Task: 逍遥谷开启
+15:00:01	[ScheduleTask]	Execute Task: 秦始皇陵五层开放
+15:00:01	[ScheduleTask]	Execute Task: 秦陵精英刷新
+15:00:10	[CenServer] Receive packet failed!
+15:00:10	Connection Lost:127.0.0.1 ID = 2
+15:00:10	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 64233 Protocol = 4 Size = 10
+15:00:22	[CenServer] Accept from 127.0.0.1 Port = 15594
+15:00:22	Connection Created! Connection ID = 3
+15:00:22	Domain	Statuary	tbStatuary:OnRecConnectEvent	3
+15:00:22	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: attempt to call method 'OnRecConnectEvent' (a nil value)
+stack traceback:
+	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: in function 'OnRecConnectEvent'
+	E:\kt\Server\Gamecenter\script\task\help\help.lua:44: in function <E:\kt\Server\Gamecenter\script\task\help\help.lua:40>
+15:00:22	Warning: MilliSecond Between Two Frames: 627
+15:00:39	OnGCExcute	Map:GCUpdateForbidenInfo
+15:00:39	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+15:00:39	黑名单没有初始化，直接返回
+15:00:40	OnGCExcute	XoyoGame:CreateManager_GC	341
+15:00:40	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+15:00:40	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+15:00:40	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+15:00:40	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+15:00:40	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+15:00:40	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+15:00:40	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+15:00:40	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+15:04:26	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149499
+15:04:27	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149503
+15:04:28	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149506
+15:04:30	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149510
+15:04:31	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149514
+15:04:33	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149518
+15:04:34	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149523
+15:04:36	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149529
+15:04:43	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+15:04:43	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+15:04:54	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149535
+15:04:56	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149541
+15:04:59	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149548
+15:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+15:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+15:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+15:06:20	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	149643
+15:09:42	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	169558
+15:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+15:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+15:12:40	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176437
+15:15:00	[ScheduleTask]	Execute Task: 武林联赛[周末]
+15:18:59	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176437
+15:18:59	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+15:19:01	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176438
+15:19:03	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176439
+15:19:05	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176444
+15:19:10	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176450
+15:19:15	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176460
+15:19:17	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176480
+15:19:20	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176564
+15:19:23	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176670
+15:19:27	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	176830
+15:19:29	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	177150
+15:19:34	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	178430
+15:19:38	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	180030
+15:19:44	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	182430
+15:19:51	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	187230
+15:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+15:20:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+15:20:21	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206430
+15:20:46	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206430
+15:20:48	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206430
+15:20:49	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206430
+15:20:51	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206432
+15:20:53	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206433
+15:20:55	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206436
+15:20:58	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+15:20:58	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206441
+15:21:02	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206462
+15:21:04	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206488
+15:21:08	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206528
+15:21:11	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206608
+15:21:13	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	206928
+15:21:17	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	207328
+15:21:20	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	207928
+15:21:23	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	209128
+15:21:31	OnGCExcute	PlayerHonor:SetPlayerHonor	3	8	0	213928
+15:22:58	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+15:22:58	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+15:26:14	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+15:26:14	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+15:30:00	[ScheduleTask]	Execute Task: 武林联赛[周末]
+15:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+15:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:30:00	[ScheduleTask]	Execute Task: BHĐ dăng kí trận kế tiêp
+15:30:00	[ScheduleTask]	Execute Task: 逍遥谷开启
+15:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+15:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+15:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+15:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+15:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+15:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+15:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+15:32:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:32:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:32:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:32:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:32:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:35:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:35:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:35:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:35:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:35:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:35:40	MaNhẫn05	2885662585	LogoutMul_0	IpMul_0
+15:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:36:00	[ScheduleTask]	Execute Task: CALL_BOSS
+15:45:00	[ScheduleTask]	Execute Task: 武林联赛[周末]
+15:50:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+15:55:28	Warning: MilliSecond Between Two Frames: 117
+16:00:00	[ScheduleTask]	Execute Task: 武林联赛[周末]
+16:00:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+16:00:00	[ScheduleTask]	Execute Task: Phó bản quân doanh
+16:00:00	[ScheduleTask]	Execute Task: CALL_BOSS
+16:00:00	[ScheduleTask]	Execute Task: BHĐ bắt đàu PK
+16:00:00	[ScheduleTask]	Execute Task: 逍遥谷开启
+16:00:00	[ScheduleTask]	Execute Task: 秦陵精英刷新
+16:00:00	[ScheduleTask]	Execute Task: Cau Ca
+16:00:18	Warning: MilliSecond Between Two Frames: 153
+16:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+16:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+16:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+16:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+16:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+16:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+16:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+16:00:21	Warning: MilliSecond Between Two Frames: 175
+16:01:13	Warning: MilliSecond Between Two Frames: 157
+16:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+16:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+16:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+16:09:09	[CenServer] Receive packet failed!
+16:09:09	Connection Lost:127.0.0.1 ID = 3
+16:09:09	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 15594 Protocol = 11 Size = 6

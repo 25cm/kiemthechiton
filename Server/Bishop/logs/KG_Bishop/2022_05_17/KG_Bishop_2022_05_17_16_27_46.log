@@ -1,0 +1,31 @@
+20220517-162746<INFO :00001710>: [Bishop] Begin to start ... ...
+20220517-162746<INFO :00001710>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20220517-162746<INFO :00001710>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 01E90D68
+20220517-162746<INFO :00001710>: [Goddess] Login() nResult = 1
+20220517-162746<INFO :00001710>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20220517-162746<INFO :00001710>: [PlayerManager] Init() Acceptor Open(: 5622), nRetCode = 1
+20220517-162746<INFO :00001710>: [Report] Init() Acceptor Open(127.0.0.1: 5636), nRetCode = 1
+20220517-162752<INFO :00001B88>: [Relay] ThreadFunction() Accept from (127.0.0.1: 49616) SocketStream = 01E90DB0
+20220517-162752<INFO :00001B88>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20220517-162752<DEBUG:00001B88>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20220517-164012<DEBUG:00001B88>: nSocket = 8840, nSendFlag = 0, Error = 10054
+20220517-164012<DEBUG:00001B88>: KGLOG_PROCESS_ERROR(nRetCode) at line 305 in KG_BishopRelay::ReceivePackagesFromRelay
+20220517-164012<INFO :00001B88>: [Relay] === End ===
+20220517-164014<INFO :00001B88>: [Relay] ThreadFunction() Accept from (127.0.0.1: 49673) SocketStream = 01E90DB0
+20220517-164014<INFO :00001B88>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20220517-164014<DEBUG:00001B88>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20220517-165236<INFO :00001B8C>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 49746) SocketStream = 01E90D20
+20220517-165236<INFO :000008E4>: [GameServer 0]  === Start ===
+20220517-165236<INFO :000008E4>: [GameServer 0] Connected from 127.0.0.1, internet address = 127.0.0.1, open port = 6041, protocol version (79-->79)
+20220517-165302<DEBUG:000008E4>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20220517-165302<DEBUG:00001B88>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1025; Key = 1
+20220517-170500<DEBUG:000008E4>: nSocket = 9668, nSendFlag = 0, Error = 10054
+20220517-170500<DEBUG:000008E4>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20220517-170500<DEBUG:000008E4>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20220517-170500<INFO :000008E4>: [GameServer 0]  === End ===
+20220517-170659<DEBUG:00001B88>: nSocket = 8840, nSendFlag = 0, Error = 10054
+20220517-170659<DEBUG:00001B88>: KGLOG_PROCESS_ERROR(nRetCode) at line 305 in KG_BishopRelay::ReceivePackagesFromRelay
+20220517-170659<INFO :00001B88>: [Relay] === End ===
+20220517-170659<DEBUG:00001B88>: nSocket = 8840, nSendFlag = 1, Error = 10054
+20220517-170659<DEBUG:00001B88>: nSocket = 8840, nSendFlag = 1, Error = 10054
+20220517-170659<DEBUG:00001B88>: nSocket = 8840, nSendFlag = 1, Error = 10054

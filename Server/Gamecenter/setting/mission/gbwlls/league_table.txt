@@ -1,0 +1,5 @@
+Session	LeagueType	AwardFile	AwardSegFile	AdvRank	PreMaxLeague	Desc	ExInfo
+联赛届数	联赛类型	奖励表	奖励类型表	高级赛要求名次	每个准备场最大队伍(有替补场上限400人，无200人)	描述	备注
+1	1	award_session_1	award_session_1_type.txt	1500	200	双人赛	2010年1月
+2	5	award_session_2	award_session_2_type.txt	1500	200	门派单人赛	2010年4月
+3	2	award_session_2	award_session_2_type.txt	1500	200	三人赛	2010年7月

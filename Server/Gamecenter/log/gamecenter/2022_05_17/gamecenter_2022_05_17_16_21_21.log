@@ -1,0 +1,32 @@
+20220517-162121<DEBUG:00001940>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220517-162122<DEBUG:00001940>: [KGC_LadderManager::UpdateTotalLadder]:1494, start tickers = 3045662161637
+20220517-162122<DEBUG:00001940>: [RefreshTotalLadderData]:1495, start tickers = 3045663763173
+20220517-162122<DEBUG:00001940>: [RefreshTotalLadderData]:1495->[RefreshTotalLadderData]:1497 timeout, tickers = 1570588
+20220517-162122<DEBUG:00001940>: [ProcessTotalLadderData]:1499, start tickers = 3045668946932
+20220517-162122<DEBUG:00001940>: [ProcessTotalLadderData]:1520, start tickers = 3045670461020
+20220517-162122<DEBUG:00001940>: [ProcessTotalLadderData]:1520->[ProcessTotalLadderData]:1527 timeout, tickers = 35511
+20220517-162122<DEBUG:00001940>: [ProcessTotalLadderData]:1499->[ProcessTotalLadderData]:1501 timeout, tickers = 5686265
+20220517-162122<DEBUG:00001940>: [AdjustTotalLadder]:1503, start tickers = 3045678355076
+20220517-162122<DEBUG:00001940>: [AdjustTotalLadder]:1503->[AdjustTotalLadder]:1505 timeout, tickers = 6540
+20220517-162122<DEBUG:00001940>: [KGC_LadderManager::UpdateTotalLadder]:1494->[KGC_LadderManager::UpdateTotalLadder]:1511 timeout, tickers = 17173944
+20220517-162122<DEBUG:00001940>: [KGC_LadderManager::UpdateTotalLadder]:1494, start tickers = 3045754672946
+20220517-162122<DEBUG:00001940>: [RefreshTotalLadderData]:1495, start tickers = 3045756228981
+20220517-162122<DEBUG:00001940>: [RefreshTotalLadderData]:1495->[RefreshTotalLadderData]:1497 timeout, tickers = 937960
+20220517-162122<DEBUG:00001940>: [ProcessTotalLadderData]:1499, start tickers = 3045759573410
+20220517-162122<DEBUG:00001940>: [ProcessTotalLadderData]:1520, start tickers = 3045760183265
+20220517-162122<DEBUG:00001940>: [ProcessTotalLadderData]:1520->[ProcessTotalLadderData]:1527 timeout, tickers = 16584
+20220517-162122<DEBUG:00001940>: [ProcessTotalLadderData]:1499->[ProcessTotalLadderData]:1501 timeout, tickers = 2494552
+20220517-162122<DEBUG:00001940>: [AdjustTotalLadder]:1503, start tickers = 3045764364675
+20220517-162122<DEBUG:00001940>: [AdjustTotalLadder]:1503->[AdjustTotalLadder]:1505 timeout, tickers = 21918
+20220517-162122<DEBUG:00001940>: [KGC_LadderManager::UpdateTotalLadder]:1494->[KGC_LadderManager::UpdateTotalLadder]:1511 timeout, tickers = 11892309
+20220517-162147<DEBUG:00001940>: nSocket = 456, nSendFlag = 0, Error = 10054
+20220517-162147<DEBUG:00001940>: [KGC_LadderManager::UpdateTotalLadder]:1494, start tickers = 3128603021572
+20220517-162147<DEBUG:00001940>: [RefreshTotalLadderData]:1495, start tickers = 3128604987021
+20220517-162147<DEBUG:00001940>: [RefreshTotalLadderData]:1495->[RefreshTotalLadderData]:1497 timeout, tickers = 677704
+20220517-162147<DEBUG:00001940>: [ProcessTotalLadderData]:1499, start tickers = 3128608978872
+20220517-162147<DEBUG:00001940>: [ProcessTotalLadderData]:1520, start tickers = 3128610198328
+20220517-162147<DEBUG:00001940>: [ProcessTotalLadderData]:1520->[ProcessTotalLadderData]:1527 timeout, tickers = 10960
+20220517-162147<DEBUG:00001940>: [ProcessTotalLadderData]:1499->[ProcessTotalLadderData]:1501 timeout, tickers = 1526723
+20220517-162147<DEBUG:00001940>: [AdjustTotalLadder]:1503, start tickers = 3128612888869
+20220517-162147<DEBUG:00001940>: [AdjustTotalLadder]:1503->[AdjustTotalLadder]:1505 timeout, tickers = 3340
+20220517-162147<DEBUG:00001940>: [KGC_LadderManager::UpdateTotalLadder]:1494->[KGC_LadderManager::UpdateTotalLadder]:1511 timeout, tickers = 10590380

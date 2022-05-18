@@ -1,0 +1,47 @@
+Name	Value	Desc
+IVER_nOpenDaily	0	Nhật báo Kiếm Thế
+IVER_nReciveNews	1	Tin mới nhất
+IVER_szLockAccount	"Mỗi lần đăng nhập, nhấn "Mở khóa" và nhập mật mã mới sử dụng được.<color=yellow>Nếu quên mật mã, nhấn "Trợ giúp mở khóa".<color>"	
+IVER_szTelNote	"hãy nhớ liên hệ bộ phận khách hàng khi có lỗi game"	
+IVER_szTelNum	"<enter><enter><color=yellow>Đường dây nóng: 1900 561 558<color>"	
+IVER_szLogo	"loginbg\\ver_3\\vn_logodd_title_jsswjt.spr"	Đăng nhập logo1
+IVER_szLogo2	"dd"	Đăng nhập logo2
+IVER_nMgrCharType	1	Cách xử lý ký tự không nhìn thấy
+IVER_szVnSpr	_vn.spr	Hậu tố spr
+IVER_szLogoTitle	loginbg\\ver_3\\vn_logo_title_jsswjt.spr	Đăng nhập tiêu đề logo
+IVER_nMsgBoardNameSplitType	1	Loại hình phân chia cụm máy lưu tin nhắn GM
+IVER_nSideBarTouch	0	Gửi tin nhắn có hiệu quả không
+IVER_nPhraseOpen	1	Có phải đã đóng một vài biểu cảm
+IVER_nBattleReport	6	Bội số độ dài các ký tự thông tin chiến sự quân Tống
+IVER_nPlayerPanelRepute	100	Khoảng cách danh vọng
+IVER_szBgAccountImageA	loginbg\\a_vn_jwjtback1_logo.spr	Base map bản A
+IVER_szBgAccountImageB	loginbg\\b_vn_jwjtback1_logo.spr	Base map bản B
+IVER_szBgAccountImageC	loginbg\\c_vn_jwjtback1_logo.spr	Base map bản C
+IVER_szGuessGameHelpMsg	"20:30 - 21:30 tối thứ 2, thứ 4, thứ 5 hàng tuần"	猜灯谜帮助提示时间
+IVER_szXoyoGameHelpMsg	"từ: 9h - 18h, tối: 22h - tối 24h, mỗi nửa tiếng mở báo danh 1 lần."	逍遥谷帮助提示时间
+IVER_szBgSelectRoleImageA	loginbg\\a_vn_jwjtback2_logo.spr	Chọn hình nền giao diện nhân vật A
+IVER_szBgSelectRoleImageB	loginbg\\b_vn_jwjtback2_logo.spr	Chọn hình nền giao diện nhân vật B
+IVER_szBgSelectRoleImageC	loginbg\\c_vn_jwjtback2_logo.spr	Chọn hình nền giao diện nhân vật C
+IVER_szBgCreateRoleImageA	loginbg\\a_bg_newrole_201104.spr	Tạo hình nền giao diện nhân vật A
+IVER_szBgCreateRoleImageB	loginbg\\b_bg_newrole_201104.spr	Tạo hình nền giao diện nhân vật B
+IVER_szBgCreateRoleImageC	loginbg\\c_bg_newrole_201104.spr	Tạo hình nền giao diện nhân vật C
+IVER_JXDAILY_OPEN_URL	"http://kiemthe.zing.vn/nhat-bao/"	Nhật báo Kiếm Thế
+IVER_JXDAILY_OPEN_HIDE	"http://kiemthe.zing.vn/nhat-bao/"	Nhật báo Kiếm Thế
+IVER_nqianghua15	0	强15改tip不显示
+IVER_nLogo2_IMAGEPOS_A_X	315	Đăng nhập phiên bản A logo2X tọa độ
+IVER_nLogo2_IMAGEPOS_B_X	427	Đăng nhập phiên bản B logo2X tọa độ
+IVER_nLogo2_IMAGEPOS_C_X	553	Đăng nhập phiên bản C logo2X tọa độ
+IVER_nHealth_IMAGE_POS_Y_A	445	Đăng nhập phiên bản A tin nhắc nhở X tọa độ
+IVER_nLogo_IMAGEPOS_A_X	220	Đăng nhập phiên bản A logoX tọa độ
+IVER_nLogo_IMAGEPOS_A_Y	10	Đăng nhập phiên bản A logoY tọa độ
+IVER_nLogo_IMAGEPOS_B_X	322	Đăng nhập phiên bản B logoX tọa độ
+IVER_nLogo_IMAGEPOS_B_Y	50	Đăng nhập phiên bản B logoY tọa độ
+IVER_nLogo_IMAGEPOS_C_X	445	Đăng nhập phiên bản C logoX tọa độ
+IVER_nLogo_IMAGEPOS_C_Y	100	Đăng nhập phiên bản C logoY tọa độ
+IVER_szHelp_JXZhiDaoUrl	http://zhidao.jxsj.xoyo.com/login.php?s=	Địa chỉ liên kết trang Tìm hiểu Kiếm Thế
+IVER_szHelp_JXZhiDaoUrl_Query	http://zhidao.jxsj.xoyo.com/search.php?q=	Địa chỉ liên kết xem trang Tìm hiểu Kiếm Thế
+IVER_nOpenWanLiu	0	Bật và tắt giao diện lưu giữ
+IVER_nIsCoinBtnOpen	0	Nút nạp tiền đồng trong giao diện Túi
+IVER_bOpenCalendar	1	Đóng/mở lịch Kiếm Thế
+IVER_nIsLoginOpenLockWnd	0	Có phải người chơi đăng nhập sẽ mở giao diện mở khóa
+IVER_szDomainBattleTime	5	Thời gian Lãnh Thổ Chiến

@@ -1,0 +1,137 @@
+TableName	Describe	Comment
+Task	Hệ thống nhiệm vụ	
+Lib	Thư viện hàm phổ biến	
+Timer	Hệ thống hẹn giờ	
+Dialog	Hệ thống quản lý đối thoại	
+PlayerEvent	Mô-đun xử lý sự kiện của người chơi	
+Dbg	Thư viện gỡ lỗi	
+TaskAct	Trình soạn thảo tác vụ có thể thực hiện các thao tác	
+TaskCond	Trình biên tập tác vụ có thể đánh giá các điều kiện	
+LinkTask	Chuỗi nhiệm vụ	
+Npc	Hệ thống tập lệnh Npc	
+Item	Hệ thống kịch bản thiết bị	
+TreaBox	Hệ thống rương kho báu nhiệm vụ ngẫu nhiên	
+RandomTask	Nhiệm vụ ngẫu nhiên	
+Env	TODO: xyf Các hằng số cơ bản của trò chơi, định nghĩa hàm, tên dự kiến	
+FightSkill	Hệ thống kịch bản kỹ năng chiến đấu	
+Player	Hệ thống kịch bản vai trò	
+GM	Các hướng dẫn GM khác được cung cấp để tạo điều kiện gỡ lỗi	
+Setting	Cài đặt giá trị khác	
+Mission	Hệ thống viết kịch bản của Mission	
+ServerEvent	Sự kiện máy chủ	
+ClientEvent	Sự kiện khách hàng	
+GCEvent	Gamecenter事件	
+OffLine	离线相关的处理	
+Compound	道具合成、升级相关脚本	
+ChatRoom	聊天室相关	
+Obj	道具（掉地上那个@_@）	
+Map	地图相关脚本处理	
+Shop	商店	
+Gift	给予界面	
+BiWu	擂台比武	
+ScrollTask	卷轴任务	
+GeneralAward	通用奖励	
+M3_Test	M3 演示引导界面	
+TreasureMap	藏宝图~ 赞~  -- by peres	
+MapMaker	地图册制作相关功能 -- by peres	
+GeneralProcess	Thanh tiến trình chung với bộ đếm thời gian	
+TaskAwardCond	Điều kiện thưởng nhiệm vụ	
+BubbleCond	聊天泡泡条件	
+BlackSky	任务黑屏处理	
+Kin	家族	
+Tong	帮会	
+c2s	供客户端直接调用的服务端脚本函数	
+Mail	邮件系统	
+IbShop	奇珍阁脚本	
+HuiHuangZhiGuo	辉煌之果活动	
+Battle	chiến trường	
+Relation	人际关系	
+LifeSkill	kỹ năng sống	
+BaiHuTang	白虎堂	
+PlayerSchemeEvent	定期事件	
+FactionBattle	Võ thuật	
+JbExchange	金币交易所	
+FactionElect	门派选举	
+Boss	Boss系统	
+PopoTip	提示泡泡	
+Ui	UI系统	
+UiHelp	帮助系统	不知道怎么合到UI里
+UiCallback	UI回调机制	临时的，以后要删掉
+UiManager	UI管理	临时的，以后要纳入Ui.tbMgr
+UiNotify	UI事件响应机制	临时的，以后要纳入Ui.tbLogic
+UiShortcutAlias	UI快捷键	临时的，以后要纳入Ui.tbLogic
+Xisuidao	洗髓岛	
+GuessGame	猜灯谜活动	
+Log	日志对象	
+PlayerCourseLog	日志对象：玩家历程	
+HelpQuestion	帮助问答	
+Trade	交易	
+TradeTax	交易税	
+Ladder	排行榜	
+EventManager	活动系统	
+KinGame	家族关卡	
+ChatChannel	聊天频道	
+Stall	Thiết lập gian hàng	
+League	Clan	
+Account	账号相关	
+TimeFrame	时间轴	
+SpecialEvent	特殊事件（如补偿，各类玩家事件）	
+Merchant	Hệ thống Phòng Thương mại	
+PlayerHonor	Hệ thống vinh danh người chơi	
+Wanted	Nhiệm vụ truy nã chính thức	
+XoyoGame	Đột phá Thung lũng Xiaoyao	
+StatLog	统计Log	
+jbreturn	金币消耗返还	
+PresendCard	激活码卡认证	
+PProfile	个人信息	
+Wlls	武林联赛	
+Auction	拍卖行操作	
+GblTask	全局变量	
+UiEditor	UI编辑器	
+Faction	门派	
+Bank	银行	
+DeRobot	反外挂	
+Domain	领土争夺战	
+WeeklyTask	周任务	
+Esport	竞技赛(新年雪仗)	
+Spreader	消耗型推广员系统	
+CoinExchange	绑银兑换	
+VipPlayer		vip玩家
+Baibaoxiang	百宝箱 	
+GmCmd	客服指令	
+SkillEnchant	技能附魔	
+Console	控制开关	
+Stats	Thống kê số người chơi bị mất tiềm năng	
+Union	liên minh	
+Looker	Xem trận chiến	
+Lottery	09年8月促销抽奖	
+Wldh	Đại hội võ thuật	
+NewLottery	Rút thăm khuyến mại tháng 9 năm 2009	
+Transfer	Máy chủ chéo	
+EPlatForm	Nền tảng hoạt động	
+VFactory	Cơ chế tập lệnh khác biệt cho nhiều phiên bản	
+Youlongmibao	Kho báu bí mật dài lâu của bạn	
+Achievement	Hệ thống thành tích	
+GbWlls	Giải đấu nhiều máy chủ	
+CFuben	Cơ chế sao chép	
+Lock	Cơ chế khóa	
+Partner	đồng hành	
+Marry	Hệ thống hôn nhân	
+TowerDefence	炮塔防守（植物大战僵尸）
+QuocKhanh	Chuỗi sự kiện QuocKhanh	
+DuoBao	Đấu trường Raiders	
+AnhHung	Đấu trường Raiders	
+quyanh	Đấu trường Raiders	
+WantedHK	Nhiệm vụ truy nã chính thức	
+HamTuTao	Hàm Tự Tạo	
+QuaHoangKim	Quả Hoàng Kim	
+DaiChienQuanMongCo	Chiên Quân Mông Cổ	
+HoCauCa	Hồ Câu Cá	
+CapNhatTaiPhu	Hồ Câu Cá	
+CuopLuong	Hồ Câu CCá	
+RuongPhoiXuatHien	Hồ Câu Cá	
+GoiBossSLTK	Hồ Câu CCá	
+CuopLuong	Hồ Câu CCá	
+GoiBeBanhBao	Su Kien Be Banh Bao	
+GoiMariaOzawa	Giao thong
+Huhang	Vận Tiêu

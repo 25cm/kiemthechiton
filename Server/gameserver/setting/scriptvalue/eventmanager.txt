@@ -1,0 +1,59 @@
+Name	Value	Desc
+IVER_bOpenPlayerCallBack	1	Tắt/mở người chơi cũ trở về
+IVER_bOpenBaiBaoXiang	1	Mở Bách Bảo Rương
+IVER_nWellFareCoinExChange	1	Tỷ lệ đối thoại phúc lợi
+IVER_bOpenNewPlayerGift	1	Túi Tân Thủ
+IVER_bOpenFuFaiVip	0	Số lần mở túi phúc Vip ngoài định mức
+IVER_nKinRetireLimit	20	Số thành viên gia tộc vinh dự nhiều nhất
+IVER_nXoyoGameCount	2	Số lần mỗi ngày tham gia Tiêu Dao Cốc
+IVER_nXoyoGameTaskAwardType	2	Hình thức thưởng khi thu thập thẻ Tiêu Dao Cốc
+IVER_nBaiHuTangCount	2	Số lần mỗi ngày tham gia Bạch Hổ Đường
+IVER_bOpenChongZhiHuoDong	1	Hoạt động nạp thẻ
+IVER_bOpenOnLineExp	0	Ủy thác
+IVER_nFourfoldMapLevel	100	Cấp thấp nhất vào Bí Cảnh (x4)
+IVER_nFourfoldMapMaxTime	4	Thời gian tích lũy nhiều nhất
+IVER_nFourfoldMapPreTime	2	Thời gian tích lũy mỗi ngày
+IVER_nXiulindanMaxUse	40	Số lần sửa dụng Tu Luyện Đơn nhiều nhất
+IVER_bGuessGame	0	灯谜活动每周全开开关，1为全开(中午12:30);0为1，3，4开放(晚上8:30)
+IVER_nXoyoGameDateType	1	Các loại giờ mở cửa của Thung lũng Xiaoyao (trợ giúp mẹo sử dụng)
+IVER_nPartOpen	1	Tắt/mở đồng hành
+IVER_bOpenPartner	1	Tắt/mở hoạt động đồng hành
+IVER_bOpenYoulongmibao	1	Tắt/mở Du Long Mật Bảo
+IVER_bOpenRecommendServer	1	Tắt/mở tiến cử giải thưởng
+IVER_bOpenChangeBack	0	Tắt/mở đổi vỏ sò
+IVER_bOpenIpHandle	1	Tắt/mở hiển thị cảnh báo ip
+IVER_bOpenZaiXian	1	Chuyển đổi Master-Award trực tuyến
+IVER_bOpenMarry	1	Tắt/Mở bắt đầu kết hôn
+IVER_bUseFactionMax	11	Tối đa tu được bao nhiêu môn phái
+IVER_bOpenZaiXian1	1	Lãnh thưởng Online-đăng nhập mỗi ngày
+IVER_bOpenZaiXian2	1	Lãnh thưởng Online-tích lũy đăng nhập
+IVER_bOpenZaiXian3	1	Lãnh thưởng Online-tích lũy online
+IVER_bOpenZaiXian4	0	Lãnh thưởng Online-thưởng thăng cấp
+IVER_bOpenAwardOnLine	0	Mở phần thưởng tích lũy online
+IVER_bOpenOrgNewPlayerAward	0	Mở cơ chế cũ về phần thưởng tân thủ
+IVER_bOpenBaiLimit	1	Mở giới hạn gia tộc Bạch Hổ-sơ
+IVER_bOpenBaiMerchantLimit	0	Hạn chế mở lệnh bài thương hội Bạch Hổ Đường
+IVER_nSecFactionDay	5	Thời gian thi đấu môn phái lần 2 trong tuần
+IVER_bOpenMutiOpenSys	1	Mở/đóng giới hạn mở nhiều client trong server mới
+IVER_bOpenAccountLockNotEvent	0	Tài khoản đang khóa không thể mua Bạch Câu Hoàn hoặc tiến hành đóng mở các sự kiện
+IVER_bOpenChongzhiPaiZi	0	Mở chức năng chọn loại thẻ nạp ở chỗ Sứ giả hoạt động
+IVER_nGuessGameNum	12	Số lần đoán hoa đăng (Hiện không có chênh lệch, nhưng khi gọp với phiên bản Trung Quốc phải sửa lại 12 lần)
+IVER_szGuessGameEndTime	0.5625	Thời gian kết thúc Đoán Hoa Đăng
+IVER_nGuessGameEndTime	1330	Trị số thời gian kết thúc Đoán Hoa Đăng
+IVER_nDomainBattleDay	5	Thể hiện trị thời gian khi mở Lãnh Thổ Chiến
+IVER_szDomainBattleDay	6	Thể hiện chuỗi ký tự thời gian khi mở Lãnh Thổ Chiến
+IVER_nOpenLockWnd	0	Có phải muốn mở cửa sổ mở khóa
+IVER_szNewLandMinLevelName	Sồ Phượng	Tên cấp Phi phong thấp nhất Thành chiến liên server
+IVER_nNewLandMinLevel	7	Cấp Phi phong thấp nhất Thành chiến liên server
+IVER_nNewLandMinTongMember	30	Cấp Phi phong thấp nhất Thành chiến liên server
+IVER_nMinPrestigeRank	5000	Mỗi ngày trong bảng xếp hạng Uy danh giang hồ sẽ lấy ra những hạng thấp nhất theo chỉ định
+IVER_bOpenBaiHuliftLimit	1	Có mở Bạch Hổ Đường tầng 1 và tầng 2 không? Người chơi có 3 cơ hội hồi sinh
+IVER_bOpenTaskPlatform	0	Đóng mở kênh nhiệm vụ
+IVER_bOpenWantedLimit	1	Đạo tặc không hạn chế cấp 120
+IVER_bOpenBossPkState	1	Tắt/mở không cưỡng chế pk Tần Lăng 1-3
+IVER_bOpenDivorce	0	Tắt/mở ly hôn
+IVER_bOpenKinBattle	1	Tắt/mở lôi đài gia tộc
+IVER_bOpenFactionBattleNew	1	Thi đấu môn phái (mới)
+IVER_bOpenkinMoney	1	Tắt/mở tiền lương gia tộc
+IVER_bUseChangeFactionItem	1	Tam tu cần đạo cụ tắt mở
+IVER_bOpenPartnerExpLimit	1	Đồng hành dùng 5 kỹ năng trở lên khi đánh bại Thủ Lĩnh Tinh Anh hạn chế cộng kinh nghiệm

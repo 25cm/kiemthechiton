@@ -1,0 +1,1127 @@
+key	value
+G_THIEFSKILL_0	%s trộm %d bạc của bạn cho tiền tuyến!
+G_THIEFSKILL_1	Từ %s bạn trộm được %d bạc cho tiền tuyến!
+G_THIEFSKILL_2	 đã bị trộm
+G_THIEFSKILL_3	 trộm thành công
+G_THIEFSKILL_4	%s thử trộm tiền bạn, nhưng thất bại!
+G_THIEFSKILL_5	Trộm %s thất bại!
+G_THIEFSKILL_6	 chưa bị trộm
+G_THIEFSKILL_7	 trộm chưa được
+G_THIEFSKILL_8	Sinh lực hiện tại của %s: %d / %d 
+G_THIEFSKILL_9	Tình báo
+G_THIEFSKILL_10	Nội lực hiện tại của %s: %d / %d 
+G_THIEFSKILL_11	Tiền hiện tại của %s: %d lượng
+G_FACTION_0	Thiếu Lâm
+G_S_METAL	Kim
+G_S_WOOD	Mộc
+G_S_WATER	Thủy
+G_S_FIRE	Hỏa
+G_S_EARTH	Thổ
+G_S_NONE	Không
+G_LUCKSTAR	AddGlobalNews([[Chúc mừng! %s là ngôi sao may mắn hôm nay!]]);
+G_FACTION_NEW	Sơ nhập
+G_FACTION_OLD	Hiệp khách
+G_PLAYERTONG_0	Đang lôi đài, thao tác đuổi khỏi bang bị khóa!
+G_PLAYERTONG_1	Đang công thành, thao tác đuổi khỏi bang bị khóa!
+G_PLAYERTONG_2	Chuyển vị bang hội bị khóa!
+G_PLAYERTONG_3	Bạn bị đuổi khỏi bang!
+G_PLAYERTONG_4	Chức vị trong bang của bạn có thay đổi!
+G_PLAYERTONG_5	Bang đang liên minh, không thể đổi phe!
+G_PLAYERTONG_6	Mỗi lần chỉ cất %d vạn lượng!
+G_PLAYERTONG_7	Mỗi lần chỉ rút %d vạn lượng!
+G_PLAYERTONG_8	Rút tiền quá nhiều!
+G_PLAYERTONG_9	Thao tác bang bị khóa, không thể lập liên minh!
+G_PLAYERTONG_10	Minh Chủ
+G_PLAYERTONG_11	Bạn không có quyền quản lý liên minh!
+G_PLAYERTONG_12	Thành viên liên minh bang không thể vào liên minh bang khác!
+G_PLAYERTONG_13	Bạn mời %s vào liên minh bang!
+G_PLAYERTONG_14	Số lượng tiền phát bị lỗi!
+G_PLAYERTONG_15	Mỗi người mỗi lần chỉ phát 100 triệu!
+G_PLAYERTONG_16	Bang chủ mới được phát tiền!
+G_PLAYERTONG_17	Chỉ được phát tiền cho bang chúng đang trên mạng!
+G_NPC_0	MainMan
+G_NPC_1	MainLady
+G_NPC_2	Băng
+G_NPC_3	Độc
+G_NPC_4	Loạn
+G_NPC_5	Choáng
+G_PLAYER_0	WriteLog([[PlayerIndex Error:%s:%s]])
+G_PLAYER_1	Kỹ năng %s không thể cộng điểm.
+G_PLAYER_2	Thông tin tăng kỹ năng
+G_PLAYER_3	Kỹ năng %s đạt tối đa, không thể cộng thêm.
+G_PLAYER_3_	Kỹ năng chiến đấu không đủ tiềm năng
+G_PLAYER_4	Kỹ năng chiến đấu phải đạt cấp %d mới được tăng kỹ năng %s.
+G_PLAYER_5	Kim Nguyên Bảo đổi điểm thành công!
+G_PLAYER_6	Kim Nguyên Bảo sẽ đổi điểm vào đợt bảo trì lần sau!
+G_PLAYER_7	Kim Nguyên Bảo đổi 25 ngày thành công!
+G_PLAYER_8	Kim Nguyên Bảo sẽ đổi 25 ngày vào đợt bảo trì lần sau!
+G_PLAYER_9	Ngân Nguyên Bảo đổi điểm thành công!
+G_PLAYER_10	Ngân Nguyên Bảo sẽ đổi điểm vào đợt bảo trì lần sau!
+G_PLAYER_11	Ngân Nguyên Bảo đổi 6 ngày thành công!
+G_PLAYER_12	Ngân Nguyên Bảo sẽ đổi 6 ngày vào đợt bảo trì lần sau!
+G_PLAYER_13	Tin tức hệ thống
+G_PLAYER_14	Tiếp tục
+G_PLAYER_15	Hoàn thành
+G_PLAYER_16	Chúc mừng! Bạn được %d tử đối, thắng %d lượng!
+G_PLAYER_17	Chúc mừng! Bạn giành được giải thưởng lớn, được %d lượng!
+G_PLAYER_18	Chúc mừng! Bạn được thuận tử %d %d %d, thắng %d lượng!
+G_PLAYER_19	Chúc mừng bạn đã trúng thưởng!
+G_PLAYER_20	Ngân phiếu đổi điểm thành công!
+G_PLAYER_21	Ngân phiếu sẽ đổi điểm vào đợt bảo trì lần sau!
+G_PLAYER_22	Ngân phiếu đổi 7 ngày thành công!
+G_PLAYER_23	Ngân phiếu sẽ đổi 7 ngày vào đợt bảo trì lần sau!
+G_PLAYER_24	Hủy giao dịch, xin kiểm tra tổng bạc nhận được với bạc túi có vượt giới hạn không!
+G_PLAYER_25	Hủy giao dịch, đối phương không đủ điều kiện!
+G_PLAYER_26	Bạn bị trọng thương và tự hồi sinh!
+G_PLAYER_27	Hủy giao dịch, bạc túi không đủ!
+G_PLAYER_28	Hủy giao dịch, khoảng cách quá xa!
+G_PLAYER_29	Mời giao dịch quá giờ!
+G_PLAYER_30	%s hiện không trên mạng, sau khi lên mạng sẽ nhận được tin nhắn của bạn.
+G_PLAYER_31	Hộp thư đã đầy, không thể gửi bưu kiện!
+G_PLAYER_32	Không thể nhận bạc trong bưu kiện, xin kiểm tra tổng bạc nhận được với bạc túi có vượt giới hạn không!
+G_PLAYER_33	Đang chế tạo!
+G_PLAYER_34	Tăng thân mật thất bại: Đã đạt mức trong ngày!
+G_PLAYER_35	Chỗ trống túi không đủ, không thể giao dịch!
+G_PLAYER_36	Hủy giao dịch, chỗ trống túi đối phương không đủ!
+G_PLAYER_37	Hủy giao dịch, bạc túi đối phương không đủ!
+G_PLAYER_38	Hủy giao dịch, bạc túi đối phương vượt quá giới hạn!
+G_PLAYER_39	Giao dịch vật phẩm thất bại, không thể giao dịch!
+G_PLAYER_40	Hủy giao dịch, đối phương giao dịch vật phẩm thất bại!
+G_PLAYER_41	Lúc này không thể mở Kỳ Trân Các!
+G_PLAYER_42	Người chơi không tồn tại!
+G_PLAYER_43	Bạn bị cấm nói, tạm thời không thể tán gẫu!
+G_PLAYER_44	Hộp thư chưa tải xong, xin thử lại sau.
+G_PLAYERSET_0	<color=green>%s<color=restore> ta đến đây, các ngươi mau bái kiến.
+G_PLAYERSET_1	<color=green>%s<color=restore> dùng Lăng Ba Vi Bộ lướt đến.
+G_PLAYERSET_2	Một tia chớp, <color=green>%s<color=restore> từ trên trời rơi xuống.
+G_PLAYERSET_3	Quản gia Ngô Phủ
+G_PlayerStall_0	Mua đồ
+G_PlayerStall_2	Quay lại sau
+G_PlayerStall_3	[Bán]
+G_PlayerStall_4	[Mua]
+G_PLAYER_TITLE_ADD	Nhận danh hiệu \"%s\"
+G_PLAYER_TITLE_TIMEOUT	Danh hiệu \"%s\" của bạn đã quá hạn.
+G_PARTNER_0	Bạn đặt tên không hợp lệ!
+G_ITEM_0	<color=White>Vật phẩm hiện tại:
+G_ITEM_1	Cấp: %d\n
+G_ITEM_2	Giá: %d %s
+G_ITEM_10	Nón
+G_ITEM_11	Áo
+G_ITEM_12	Lưng
+G_ITEM_13	Vũ khí
+G_ITEM_14	Giày
+G_ITEM_15	Tay
+G_ITEM_16	Liên
+G_ITEM_17	Nhẫn
+G_ITEM_18	Ấn
+G_ITEM_19	Bội
+G_ITEM_20	Ngựa
+G_ITEM_22	 [cấp %d]
+G_ITEM_30	Nhặt vật phẩm
+G_ItemList_0	Không thể dùng thổ địa phù ở đây!
+G_ItemList_1	Rương chứa đồ đang khóa, không thể rút tiền!
+G_ItemList_2	Đang khóa rương, không thể chỉnh trang bị!
+G_ItemList_3	Đang khóa rương!
+G_ItemList_4	Thiết lập mã thành công!
+G_ItemList_5	Thiết lập mã thất bại: Mã đã thiết lập!
+G_ItemList_6	Hủy mã thành công!
+G_ItemList_7	Hủy mã thất bại: Chưa thiết lập mã!
+G_ItemList_8	Hủy mã thất bại: Xác nhận mã thất bại!
+G_ItemList_9	Đổi mã thành công!
+G_ItemList_10	Đổi mã thất bại: Chưa thiết lập mã!
+G_ItemList_11	Đổi mã thất bại: Xác nhận mã thất bại!
+G_ItemList_12	Khóa thành công!
+G_ItemList_13	Khóa thất bại: Chức năng mã bảo vệ và mở rộng rương của bạn chưa mở, hãy đến Thẩm Cửu (188,198) ở Ba Lăng Huyện để mở chức năng này!
+G_ItemList_14	Mở khóa thành công!
+G_ItemList_15	Mở khóa thất bại: Chức năng mã bảo vệ và mở rộng rương của bạn chưa mở, hãy đến Thẩm Cửu (188,198) ở Ba Lăng Huyện để mở chức năng này!
+G_ItemList_16	Mở khóa thất bại: Xác nhận mã thất bại!
+G_ItemList_17	Trị PK từ 5 trở lên không thể dùng thổ địa phù!
+G_SkillList_0	Kỹ năng %s của bạn đã tăng cấp!
+G_SkillList_2	Võ công này không thể cưỡi ngựa!
+G_SkillList_3	Võ công này phải cưỡi ngựa!
+G_SkillList_4	Số lính thuê đã đạt tối đa, không thể thuê thêm!
+G_SkillList_5	Kỹ năng %s của đồng hành đã tăng cấp!
+G_SkillList_Limit_1	Vũ khí đang trang bị không thích hợp!
+G_SkillList_Limit_2	Võ công này không thể cưỡi ngựa!
+G_SkillList_Limit_3	Võ công này phải cưỡi ngựa!
+G_SkillList_Limit_4	Môn phái hiện tại không thích hợp võ công này!
+G_SkillList_Limit_5	Hệ phái hiện tại không thích hợp võ công này!
+G_SkillList_Limit_6	Trạng thái cuồng nộ mới dùng được kỹ năng này
+G_SkillList_Limit_7	Trạng thái luyện công mới dùng được kỹ năng này
+G_SkillList_Limit_8	Biến thân không thể dùng kỹ năng này!
+G_Skills_0	Kỹ năng đạn\n
+G_Skills_1	Tường Số lượng %d\n
+G_Skills_2	Đường Số lượng %d\n
+G_Skills_3	Tán Số lượng %d\n
+G_Skills_4	Tán tròn Số lượng %d\n
+G_Skills_5	Khu tròn Số lượng %d\n
+G_Skills_6	Khu vuông Số lượng %d\n
+G_Skills_7	Khu tròn định điểm Số lượng %d\n
+G_Skills_8	Khu vuông định điểm Số lượng %d\n
+G_Skills_11	Cách Đấu Kỹ\n
+G_Skills_12	Võ công hỗ trợ chủ động\n
+G_Skills_13	Trạng thái duy trì: %d\n
+G_Skills_14	Võ công hỗ trợ bị động\n
+G_Skills_15	Sát thương khu vực 
+G_Skills_16	Tại chỗ 
+G_Skills_17	Bay thẳng 
+G_Skills_18	Bay vòng tròn
+G_Skills_20	Bay vòng cung 
+G_Skills_21	Xuyên
+G_Skills_22	Phạm vi sát thương: %d 
+G_Skills_23	Phạm vi đẩy lùi: %d 
+G_Skills_24	Tử vong tự nổ 
+G_Skills_25	Vòng sáng
+G_Skills_26	Vật lý
+G_Skills_27	Cận chiến
+G_Skills_28	Tất trúng 
+G_Skills_29	Đối bạn
+G_Skills_30	Đối địch
+G_Skills_31	Đối vật
+G_Skills_32	Đối kỷ
+G_Skills_33	Xem xét tỷ lệ chính xác 
+G_Skills_34	Thuộc tính kỹ năng: 
+G_Skills_35	(Đánh cận chiến)\n
+G_Skills_36	(Đánh tầm xa)\n
+G_Skills_37	Cấp hiện tại: %d
+G_Skills_38	Cấp hiện tại: %d (%d+%d)
+G_Skills_39	Kỹ năng cộng thêm: %d%%\n
+G_Skills_40	Độ tu luyện: %d%%\n
+G_Skills_41	Vũ khí: 
+G_Skills_42	Cưỡi ngựa không thể thi triển\n
+G_Skills_43	Phải cưỡi ngựa mới thi triển\n
+G_Skills_44	\n<color=Red>Cấp kế\n
+G_Skills_45	Hao nội lực: %d\n
+G_Skills_46	Hao thể lực: %d\n
+G_Skills_47	Hao sinh lực: %d\n
+G_Skills_48	Cự ly hiệu quả: %d\n
+G_Skills_49	Cộng thêm cho kỹ năng [%s] %d%%\n
+G_Skills_50	<color=Blue>Tầng 1:<color>
+G_Skills_51	<color=Blue>Tầng 2:<color>
+G_Skills_52	<color=Blue>Tầng 3:<color>
+G_Skills_53	<color=Blue>Tầng 4:<color>
+G_Skills_54	<color=Blue>Tầng 5:<color>
+G_Skills_55	<color=Blue>Tầng 6:<color>
+G_Skills_56	<color=Blue>Tầng 7:<color>
+G_Skills_57	<color=Blue>Tầng 8:<color>
+G_Skills_58	<color=Blue>Tầng 9:<color>
+G_Skills_59	<color=Blue>Tầng 10:<color>
+G_Skills_60	<color=Blue>Tầng 11:<color>
+G_Skills_61	<color=Blue>Tầng 12:<color>
+G_Skills_62	<color=Blue>Tầng 13:<color>
+G_Skills_63	<color=Blue>Tầng 14:<color>
+G_Skills_64	<color=Blue>Tầng 15:<color>
+G_Skills_65	<color=Blue>Tầng 16:<color>
+G_Skills_66	<color=Blue>Tầng 17:<color>
+G_Skills_67	<color=Blue>Tầng 18:<color>
+G_Skills_68	<color=Blue>Tầng 19:<color>
+G_Skills_69	<color=Blue>Tầng 20:<color>
+G_Skills_70	Thuộc tính: Kim %d\n
+G_Skills_71	Thuộc tính: Mộc %d\n
+G_Skills_72	Thuộc tính: Thủy %d\n
+G_Skills_73	Thuộc tính: Hỏa %d\n
+G_Skills_74	Thuộc tính: Thổ %d\n
+G_Skills_75	Ngũ hành tương khắc: %d%%\n
+G_PlayerPK_0	Kinh nghiệm âm quá nhiều, chỉ được luyện công!
+G_PlayerPK_1	Kinh nghiệm âm quá nhiều, không được cừu sát!
+G_PlayerPK_2	Kinh nghiệm từ -50%% trở đi, không thể PK!
+G_ProtocolProcess_0	Ai đó
+G_ProtocolProcess_1	Lượng
+G_ProtocolProcess_2	Bạc
+G_ProtocolProcess_3	Có người
+G_ProtocolProcess_4	Bang chủ phát tiền cho bạn: %d!
+G_ProtocolProcess_5	Chưa mở khi rời mạng chuyển tin!
+G_ProtocolProcess_6	Mục tiêu chuyển tin khi rời mạng là %s!
+G_ProtocolProcess_7	Thiết lập mục tiêu chuyển tin là %s.
+G_ProtocolProcess_8	Hiện không thể nhận tin mật!\nNhập /OfflineTrans hủy thiết lập.
+G_ProtocolProcess_9	Lập bang thất bại!
+G_ProtocolProcess_10	%s xin vào bang!
+G_ProtocolProcess_11	Thao tác bang bị khóa, không thể bổ nhiệm!
+G_ProtocolProcess_12	Chuyển vị thất bại, đối phương không trên mạng!
+G_ProtocolProcess_13	Chuyển vị thất bại, năng lực đối phương không đủ!
+G_ProtocolProcess_14	Chuyển vị thất bại, trong bang không có người này!
+G_ProtocolProcess_15	Thao tác bang bị khóa!
+G_ProtocolProcess_16	%s xin vào liên minh!
+G_ProtocolProcess_17	%s từ chối nhận vào liên minh!
+G_ProtocolProcess_18	Tiền bang hội không đủ!
+G_ProtocolProcess_19	Do trị PK >=3, trước khi PK hãy mở khóa thanh trang bị.
+G_ProtocolProcess_20	Trạng thái hiện tại cấm di chuyển hoặc giao dịch vật phẩm!
+G_ProtocolProcess_21	Đồng hành đang hôn mê, sau %d giây mới triệu hồi lại!
+G_ProtocolProcess_22	Giản cách triệu hồi hai lần đồng hành quá ngắn, xin thử lại sau!
+G_ProtocolProcess_23	Ở đây không được triệu hồi đồng hành!
+G_ProtocolProcess_24	Thanh trang bị đang khóa, không thể giải tán đồng hành!
+G_ProtocolProcess_25	Không được giải tán đồng hành cuối cùng!
+G_ProtocolProcess_26	Tại đây không thể phát huy công hiệu vật phẩm này!
+G_ProtocolProcess_27	Do nhập sai mã liên tục, hệ thống ngưng kiểm chứng, thời gian còn: %d tiếng
+G_ProtocolProcess_28	Nhập sai mã %d lần, nhập sai 10 lần liên tục hệ thống sẽ ngưng kiểm chứng một khoảng thời gian
+G_ProtocolProcess_29	Đối phương hiện không thể giao dịch với bạn!
+G_ProtocolProcess_30	Tài khoản đối phương đang khóa, không thể nhận yêu cầu của bạn!
+G_ProtocolProcess_31	Tài khoản đang khóa, không thể giao dịch!
+G_ScriptFuns_0	Không
+G_ScriptFuns_1	<Không cai quản>
+G_ScriptFuns_2	Thành này hiện không có đấu lôi đài.
+G_ScriptFuns_3	Khu gần nhất bổn thành không có đấu lôi đài.
+G_ScriptFuns_4	Thông tin tổ đội
+G_ScriptFuns_5	[Script] dùng tham số AddItem số lượng không hợp!
+G_ScriptFuns_6	[Script] dùng tham số AddGoldItem số lượng không hợp!
+G_ScriptFuns_7	[Script] GoldItem-Hiện chỉ hỗ trợ trang bị hoàng kim!
+G_ScriptFuns_8	GetItem tham số không đủ!
+G_ScriptFuns_9	HaveItem tham số không đủ!
+G_ScriptFuns_10	DelCommonItem tham số không đủ!
+G_ScriptFuns_11	ExistCommonItem tham số không đủ!
+G_ScriptFuns_12	GetItemLife tham số không đủ!
+G_ScriptFuns_13	Thành không tên
+G_ScriptFuns_14	Chưa ghi nhớ
+G_ScriptFuns_15	Chưa biết bến đò
+G_ScriptFuns_16	Danh vọng giảm %d điểm!
+G_ScriptFuns_17	Danh vọng tăng %d điểm!
+G_MagicDesc_0	Nội lực
+G_MagicDesc_1	Sinh lực
+G_MagicDesc_2	Thể lực
+G_MagicDesc_3	Bạc
+G_MagicDesc_4	+
+G_MagicDesc_5	-
+G_MagicDesc_6	Nữ
+G_MagicDesc_7	Nam
+G_MagicDesc_8	Kiếm
+G_MagicDesc_9	Đơn Đao
+G_MagicDesc_10	Côn
+G_MagicDesc_11	Thương
+G_MagicDesc_12	Chùy
+G_MagicDesc_13	Song Đao
+G_MagicDesc_14	Toàn bộ
+G_MagicDesc_15	Ám Khí
+G_MagicDesc_16	Cận chiến
+G_MagicDesc_17	Tay không
+G_MagicDesc_18	Chưa biết
+G_KDiceGame_0	Bạn không đủ bạc để tiếp tục trò chơi!
+G_KDiceGame_1	Trò chơi
+G_KDiceGame_2	AddGlobalNews([[Chúc mừng! %s trúng lớn, nhận được %d lượng!]])
+G_KDiceGame_3	%d:%d máy trò chơi: %s rút được %d|%d|%d , đặt cược: %d tiền thưởng: %d tiền cọc: %d\n
+ 	
+G_STRING_AUTOHANGMSG_1	Công lực quá thấp, không thể hấp thu công hiệu của Cháo Lạp Bát. Cấp %d hãy đến thử lại.
+G_STRING_AUTOHANGMSG_2	Bạn phải có Cuốc khoáng mới có thể đào khoáng, hãy đến Đào Hoa Ẩn Sĩ mua.
+G_STRING_AUTOHANGMSG_3	Cuốc khoáng đã hư, hãy đến Đào Hoa Ẩn Sĩ mua cuốc mới để tiếp tục đào khoáng.
+G_STRING_AUTOHANGMSG_4	Kinh nghiệm tăng %d điểm.
+G_STRING_AUTOHANGMSG_5	Cuốc khoáng đặc biệt đã hư, hãy đến Bang Hội Binh Giáp Phường mua cái mới để tiếp tục đào khoáng.
+G_CORESHELL_1	Cưỡi ngựa không thể ngồi thiền!
+G_CORESHELL_STALLPRICE	\n<color=White>Giá bán: <color=Yellow>
+G_CORESHELL_OFFERPRICE	\n<color=White>Giá mua: <color=Yellow>
+G_CORESHELL_STALL_0	\n<color=White>Niêm giá (thu nhập): <color=Green>
+G_CORESHELL_STALL_1	\n<color=White>Giá bán (gồm thuế): <color=Yellow>
+G_CORESHELL_STALL_2	\n<color=White>Giá bán: <color=Yellow>
+G_CORESHELL_STALL_3	\n<color=DBlue>Thuế tại đây: %d%%\n
+G_STRING_ALLSKILLS	Tất cả võ công
+G_STRING_BRACKET_BEGIN	[
+G_STRING_BRACKET_END	]
+G_CITYWAR_WARNING_SETTAXTIME	Hiện không được phép lập thuế. Thời gian thiết lập thuế: %d giờ - %d giờ
+G_CITYWAR_WARNING_TAXALREADYSET1	Bạn đã thiết lập thuế hôm nay!
+G_CITYWAR_WARNING_TAXALREADYSET	Bạn đã thiết lập thuế tuần này!
+G_CITYWAR_WARNING_NOTTONGLEADER	Bạn không phải bang chủ!
+G_STRING_DISABLED_CHAT	Trong khu vực đặc biệt, không thể sử dụng kênh tán gẫu
+G_STRING_ENTER_CHANNEL	: Bạn vào kênh %s
+G_STRING_LEAVE_CHANNEL	: Bạn đã rời kênh
+G_STRING_ANTIBOT_AFTERMSG	Bạn chịu ảnh hưởng auto và chưa hủy, trong một khoảng thời gian hệ thống sẽ không bảo đảm số liệu bạn nhận là đúng.
+G_STRING_ANTIBOT_CLEARMSG	Đã xóa các ảnh hưởng bởi Auto, dữ liệu của bạn đã được hồi phục!
+G_STRING_ANTIBOT_STARTMSG	Bạn đang dùng auto, hệ thống sẽ không bảo đảm số liệu bạn nhận là đúng.
+G_STRING_SONG	Tống
+G_STRING_JIN	Kim
+G_STRING_MONEY	Lượng
+G_STRING_FUYUAN	Phúc duyên
+G_STRING_COIN	Tiền đồng
+G_STRING_SCORE	Tích lũy
+G_STRING_CONTRIBUTION	Cống hiến
+G_STRING_BUILDFUND	Kiến thiết bang
+G_STRING_HONOUR	Điểm vinh dự
+G_STR_AUTOATTACK_START	Đang tự đánh quái, còn %d phút.
+G_STR_AUTOATTACK_END	Tự đánh quái kết thúc.
+G_STR_AUTOATTACK_SWITCH_ON	Mở tự đánh quái! Muốn chuyển đánh tay hãy nhấn chuột trái vào đất trống là được.
+G_STR_AUTOATTACK_SWITCH_OFF	Đóng tự đánh quái! Muốn chuyển tự đánh hãy nhấn chuột phải vào kẻ địch là được.
+G_STR_AUTOATTACK_INFO1	Chức năng tự động đánh có thể thực hiện ở dạng luyện công
+G_STR_AUTOATTACK_INFO2	Tự đánh quái tạm dừng. Chức năng này chỉ dùng ở dạng luyện công.
+G_STR_AUTOATTACK_ERROR1	Trạng thái phi chiến đấu không thể đổi tự đánh quái!
+G_STR_AUTOATTACK_ERROR2	Tự đánh quái chỉ dùng ở dạng luyện công.
+G_STR_AUTOATTACK_ERROR3	Bạn chưa dùng Bạch Câu Hoàn, không thể dùng tự đánh quái!
+G_STR_MOUSE_MAGIC_ITEM	Bạn chưa dùng Bạch Câu Hoàn, không thể dùng tự đánh quái!
+G_STR_ONLY_JEWELRY	Khung này chỉ được bỏ vào trang sức chưa khóa (Dây chuyền, nhẫn, hương nang…)!
+G_STR_ONLY_CRYOLITE	Khung này chỉ được bỏ vào huyền tinh khoáng thạch không xếp chồng.
+G_STR_ONLY_PROPMINE	Thanh vật phầm này chỉ có thể chứa khoáng thạch thuộc tính (Huyền Thiết Khoáng, Mật Ngân Khoáng, Khổng Tước Thạch…).
+G_STR_ONLY_EQUIP	Khung này chỉ được bỏ vào trang bị trắng, xanh chưa khóa.
+G_STR_ONLY_MINE	Ô này chỉ có thể đặt Huyền Tinh khoáng thạch hoặc Khoáng thạch thuộc tính chưa xếp chồng
+G_STR_ONLY_BW_EQUIP	Khung này chỉ được bỏ vào trang bị trắng, xanh không phải trang sức.
+G_STR_ONLY_PURPLE_EQUIP	Khung này chỉ được bỏ vào trang bị tím chưa khóa.
+G_STR_ONLY_CONSUME	Khung này chỉ được bỏ vào Huyền tinh, Phúc duyên lộ hoặc Thần bí khoáng thạch.
+G_STR_ONLY_ORGMINE	Khung này chỉ được bỏ vào khoáng thạch thuộc tính ban đầu (Huyền Thiết Nguyên Khoáng, Mật Ngân Nguyên Khoáng, Khổng Tước Nguyên Thạch, Phù Dung Nguyên Thạch...).
+G_STR_ONLY_ATLAS	Khung này chỉ được bỏ vào đồ phổ hoàng kim.
+G_STR_ONLY_BOOK	Khung này chỉ được bỏ vào khoáng thạch thuộc tính hoặc sách kỹ năng.
+G_STR_DUPEDITEM_MARK	""%s"" là vật phục chế phi pháp, đã bị làm dấu!
+G_STR_DUPEDITEM_DELETE	""%s"" là vật phục chế phi pháp, đã bị hủy!
+G_STR_ITEM_LOWDUR	""%s"" sắp hư, hãy mau sửa chữa.
+G_STR_ITEM_ABRADETOZERO	""%s"" đã hư, không thể sử dụng, xin sửa chữa.
+G_TIPS_PLAYEREVENT_KILLNPC	Tiến độ diệt ""%s"" %d/%d
+G_STR_ORIGINAL_PRICE	Giá gốc vật phẩm: 
+G_STR_ABATE_PRICE	Giá bán vật phẩm: 
+G_STR_ABATE_BEGIN_DATE	Hạn chiết khấu từ: 
+G_STR_TO	Đến: 
+G_STR_SELL_BEGIN_DATE	Thời gian tiêu thụ từ: 
+G_STR_ABATE_END	Hạn chiết khấu đến: 
+G_STR_SELL_END	Hạn bán đến: 
+G_STR_CHATROOM	Phòng tán gẫu
+G_STR_NPC_BUYITEM_REPUTE	<color=Yellow>Cần danh vọng: Phe (%s), loại (%s), cấp (%d)
+G_STR_PLAYERACTION_LEVELUP	Người chơi thăng cấp
+G_STR_PLAYERACTION_JOINFACTION	Vào môn phái
+G_STR_PLAYERACTION_JOINKIN	Vào gia tộc
+G_STR_PLAYERACTION_LEAVEKIN	Rời gia tộc
+G_STR_PLAYERACTION_TRADEITEM	Người chơi giao dịch vật phẩm
+G_STR_PLAYERACTION_TRADEMONEY	Người chơi giao dịch bạc
+G_STR_PLAYERACTION_STALLITEM	Bày bán giao dịch vật phẩm
+G_STR_PLAYERACTION_STALLMONEY	Bày bán giao dịch bạc
+G_STR_PLAYERACTION_LOGOUT	Người chơi rời mạng
+G_STR_PLAYERACTION_LOGIN	Người chơi lên mạng
+G_STR_PLAYERACTION_BEGINOFFLIVE	Bắt đầu Ủy thác rời mạng
+G_STR_PLAYERACTION_ENDOFFLIVE	Kết thúc ủy thác rời mạng
+G_STR_PLAYERACTION_KICKOFFLIVE	Kích tài khoản ủy thác rời mạng
+G_STR_TEAMFRIEND_GETITEM	%s nhận được %s
+K_S_METAL	Kim
+K_S_WOOD	Mộc
+K_S_WATER	Thủy
+K_S_FIRE	Hỏa
+K_S_EARTH	Thổ
+K_C_BEGIN	begin
+K_C_JUSTICE	justice
+K_C_EVIL	evil
+K_C_BALANCE	balance
+K_C_FREE	free
+K_C_ANIMAL	animal
+K_C_EVENT	event
+K_NPC_0	CharacterName
+K_REPAIRSCRIPT_FUNC_PRICE	get_repair_price
+K_REPAIRSCRIPT_FUNC_REPAIR	repair_equip
+K_CHAT_TEAM_DEFAULT_NAME	Hảo hữu của tôi
+K_MATE_UNITNAME	Phu thê\n
+K_BROTHER_UNITNAME	Người thân\n
+K_ENEMY_UNITNAME	Cừu nhân\n
+K_PLAYERCHAT_0	%04d.%02d.%02d
+K_PLAYERCHAT_1	%02d:%02d:%02d
+K_SCRIPTFUNC_GetAutoExpValue	AEXP_GetHangExpValue
+K_WEAPON_DETAILTYPE	Loại cụ thể
+K_MESSAGE_SYSTEM_ANNOUCE_HEAD	Thông báo
+K_MESSAGE_SYSTEM_WARNING_HEAD	Cảnh cáo
+K_MESSAGE_SYSTEM_MESSAGE_HEAD	Tin tức hệ thống
+K_KIND_NAME_SECT	CharacterType
+K_KIND_NAME_SPECIAL	SpecialNpc
+K_KIND_NAME_NORMAL	NormalNpc
+L_CANT_OPEN	Không thể mở %s
+L_TONG_TAX	Thành <%s> thu thuế: %u
+L_SHAREDATABASE_0	Tạo 1 báu vật %d, %d,%d\n
+L_SHAREDATABASE_1	Tạo 1 Ngôi sao may mắn %s  %d, %d,%d\n
+L_SHAREDATABASE_2	Tạo 1 Quái hoàng kim %s  index = %d Sid=%d  %d, %d, %d\n
+L_EXCEPT_EXCUTE_RS	Exception Have Caught When Execute Relay Script !!!!!
+L_NPC_0	[Trị số]%s chịu %d điểm độc công ban đầu
+L_NPC_1	[Trị số] %s chịu %d điểm sát thương ma pháp ban đầu
+L_NPC_2	[Trị số]%s sát thương thực: %d
+L_NPC_3	[Trị số]%s phản hồi sát thương %d
+L_NPC_4	[Trị số] Ma pháp %s - thuẫn hút: %d
+L_NPC_5	[Trị số]%s né tấn công
+L_NPC_6	[zroc]Npc(%d)ServerMove RegionIdx = %d
+L_NPC_7	Packing sync data ok...\n
+L_NPC_8	Packing sync data failed...\n
+L_NPC_9	[Sync]%d:%s<%d> request to %d. size:%d
+L_NPC_10	Packing player sync data ok...\n
+L_NPC_11	Packing player sync data failed...\n
+L_NPC_12	NpcID:%d  Life:%d\nRegionIndex:%d Pos:%d,%d\nPlayerNumber:%d\n
+L_NPC_13	NpcNumber:\n%02d,%02d,%02d\n%02d,%02d,%02d\n%02d,%02d,%02d
+L_NPC_14	[Trị số] AttackRating %d : Defense %d: RandomPercent (%d, %d)
+L_NPC_15	[error] Chí mạng bị lỗi, không thể đọc chính xác %s
+L_NPC_16	Yêu cầu tải mẫu Npc%d phi pháp!
+L_NPC_17	[Script]SetPos error:SubWorld:%d, Pos(%d, %d)
+L_NPC_18	[Map]World%d haven't been loaded!
+L_NPC_19	[Map]Change Pos(%d,%d) Invalid!
+L_NPC_20	[DEATH]SetMode:%d
+L_NPC_21	[DEATH] m_ProcessState: %d
+L_NPC_22	[DEATH] m_bExchangeServer: %d
+L_NPC_23	[DEATH] m_Doing: %d
+L_NPC_24	[DEATH] WaitForFrame TRUE
+L_NPC_25	[DEATH] WaitForFrame FALSE
+L_NPC_26	[error]%s Region Index < 0 when hurt
+L_NPC_27	[DEATH]On Hurt Finished
+L_NPC_28	[error]%s Region Index < 0 when dorevive
+L_NPC_29	Quái đánh chết tổn thất %d kinh nghiệm
+L_NPC_30	Quái đánh chết tổn thất %d bạc
+L_NPC_31	Bị [%s] đánh chết tổn thất %d kinh nghiệm
+L_NPC_32	Bị [%s] đánh chết tổn thất %d bạc
+L_NPCATTRIBM_0	[Trị số]%s băng công tăng (%d)
+L_NPCATTRIBM_1	[Trị số]%s hỏa công tăng (%d)
+L_NPCATTRIBM_2	[Trị số]%s lôi công tăng (%d)
+L_NPCATTRIBM_3	[Trị số]%s tất cả tấn công vật lý tăng %d phần trăm
+L_NPCATTRIBM_4	[Trị số]%s tấn công vật lý tầm xa tăng %d phần trăm
+L_NPCATTRIBM_5	[Trị số]%s tấn công vật lý tay không, tăng %d phần trăm
+L_NPCATTRIBM_6	[Trị số]%s tấn công vật lý tầm gần tăng %d phần trăm
+L_NPCATTRIBM_7	[Trị số]%s vũ khí tầm gần %d tấn công vật lý tăng %d phần trăm
+L_NPCATTRIBM_8	[Trị số]%s trạng thái độc biến thành: Mỗi %d khung hình phát 1 lần %d sát thương, duy trì %d khung
+L_NPCATTRIBM_9	[Trị số]%s sát thương vật lý tăng (%d)
+L_NPCATTRIBM_10	[Trị số]%s ngũ kháng tăng %d
+L_NPCATTRIBM_11	[Trị số]%s tất cả kỹ năng tăng %d cấp, chưa hoàn thành
+L_NPCATTRIBM_12	[Trị số]%s tỷ lệ chính xác tăng %d phần trăm (%d điểm)
+L_NPCATTRIBM_13	[Trị số]%s tốc độ đánh tăng %d
+L_NPCATTRIBM_14	[Trị số]%s tốc độ thi pháp tăng %d
+L_NPCATTRIBM_15	[Trị số]%s phe hiện tại biến thành %d
+L_NPCATTRIBM_16	[Trị số]%s kháng băng tăng %d điểm
+L_NPCATTRIBM_17	[Trị số]%s phần trăm chí mạng tăng %d
+L_NPCATTRIBM_18	[Trị số]%s thân pháp hiện tại tăng %d điểm
+L_NPCATTRIBM_19	[Trị số]%s kỹ năng hệ thổ tăng %d cấp
+L_NPCATTRIBM_20	[Trị số]%s nội công hiện tại tăng %d điểm
+L_NPCATTRIBM_21	[Trị số]%s hồi phục chính xác nhanh tăng %d
+L_NPCATTRIBM_22	[Trị số]%s tốc độ di chuyển tăng %d
+L_NPCATTRIBM_23	[Trị số]%s kỹ năng hệ hỏa tăng %d cấp
+L_NPCATTRIBM_24	[Trị số]%s thời gian đóng băng giảm %d phần trăm
+L_NPCATTRIBM_25	[Trị số]%s phần trăm đẩy lùi tăng %d
+L_NPCATTRIBM_26	[Trị số]%s sinh lực tối đa tăng %d phần trăm (%d điểm)
+L_NPCATTRIBM_27	[Trị số]%s sinh lực tối đa tăng %d điểm
+L_NPCATTRIBM_28	[Trị số]%s tốc độ hồi phục sinh lực tăng %d điểm
+L_NPCATTRIBM_29	[Trị số]%s sinh lực tăng %d điểm
+L_NPCATTRIBM_30	[Trị số]%s kháng lôi tăng %d điểm
+L_NPCATTRIBM_31	[Trị số]%s trị MF tăng %d, chưa hoàn thành
+L_NPCATTRIBM_32	[Trị số]%s nội lực tối đa tăng %d phần trăm (%d điểm)
+L_NPCATTRIBM_33	[Trị số]%s nội lực tối đa tăng %d điểm
+L_NPCATTRIBM_34	[Trị số]%s tốc độ hồi phục nội lực tăng %d điểm
+L_NPCATTRIBM_35	[Trị số]%s nội lực tăng %d điểm
+L_NPCATTRIBM_36	[Trị số]%s phần trăm hấp thu sát thương là %d, duy trì %d khung
+L_NPCATTRIBM_37	[Trị số]%s phần trăm phản đòn vật lý cận chiến tăng %d
+L_NPCATTRIBM_38	[Trị số]%s phàn đòn vật lý cận chiến tăng %d
+L_NPCATTRIBM_39	[Trị số]%s kỹ năng hệ kim tăng %d cấp, chưa hoàn thành
+L_NPCATTRIBM_40	[Trị số]%s kháng vật lý tăng %d điểm
+L_NPCATTRIBM_41	[Trị số]%s phần trăm sát thương chuyển nội lực tăng %d
+L_NPCATTRIBM_42	[Trị số]%s trúng độc sát thương giảm %d
+L_NPCATTRIBM_43	[Trị số]%s kháng độc tăng %d điểm
+L_NPCATTRIBM_44	[Trị số]%s thời gian trúng độc giảm %d phần trăm
+L_NPCATTRIBM_45	[Trị số]%s phản đòn tầm xa tăng %d
+L_NPCATTRIBM_46	[Trị số]%s phần trăm phản đòn tầm xa tăng %d
+L_NPCATTRIBM_47	[Trị số]%s trạng thái giảm tốc đạn là %d
+L_NPCATTRIBM_48	[Trị số]%s thể lực tối đa tăng %d phần trăm (%d điểm)
+L_NPCATTRIBM_49	[Trị số]%s thể lực tối đa tăng %d điểm
+L_NPCATTRIBM_50	[Trị số]%s tốc độ hồi phục thể lực tăng %d điểm
+L_NPCATTRIBM_51	[Trị số]%s thể lực tăng %d điểm
+L_NPCATTRIBM_52	[Trị số]%s phần trăm hút sinh lực là %d (tăng %d điểm so với ban đầu)
+L_NPCATTRIBM_53	[Trị số]%s phần trăm hút nội lực là %d (tăng %d điểm so với ban đầu)
+L_NPCATTRIBM_54	[Trị số]%s phần trăm hút thể lực là %d (tăng %d điểm so với ban đầu)
+L_NPCATTRIBM_55	[Trị số]%s sức mạnh hiện tại tăng %d điểm
+L_NPCATTRIBM_56	[Trị số]%s thời gian choáng giảm %d
+L_NPCATTRIBM_57	[Trị số]%s phạm vi tăng %d
+L_NPCATTRIBM_58	[Trị số]%s ngoại công hiện tại tăng %d điểm
+L_NPCATTRIBM_59	[Trị số]%s kỹ năng hệ thủy tăng %d cấp, chưa hoàn thành
+L_NPCATTRIBM_60	[Trị số]%s kỹ năng hệ mộc tăng %d cấp, chưa hoàn thành
+L_NPCATTRIBM_61	[Trị số]%s kháng hỏa tăng %d điểm
+L_NPCATTRIBM_62	[Trị số]%s né tránh tăng %d điểm
+L_NPCATTRIBM_63	[Trị số]%s cường băng tăng %d điểm
+L_NPCATTRIBM_64	[Trị số]%s cường hỏa tăng %d điểm
+L_NPCATTRIBM_65	[Trị số]%s cường lôi tăng %d điểm
+L_NPCATTRIBM_66	[Trị số]%s cường độc tăng %d điểm
+L_NPCATTRIBM_67	[Trị số]%s uống thuốc tăng sinh lực, nhận hiệu quả trong %d khung mỗi 10 khung hồi phục %d điểm sinh lực
+L_NPCATTRIBM_68	[Trị số]%s uống thuốc tăng nội lực, nhận hiệu quả trong %d khung mỗi 10 khung hồi phục %d điểm nội lực
+L_NPCATTRIBM_69	[Trị số]%s kháng vật lý tối đa tăng %d điểm
+L_NPCATTRIBM_70	[Trị số]%s kháng băng tối đa tăng %d điểm
+L_NPCATTRIBM_71	[Trị số]%s kháng hỏa tối đa tăng %d điểm
+L_NPCATTRIBM_72	[Trị số]%s kháng lôi tối đa tăng %d điểm
+L_NPCATTRIBM_73	[Trị số]%s kháng độc tối đa tăng %d điểm
+L_NPCATTRIBM_74	[Trị số]%s ngũ kháng tối đa tăng %d
+L_NPCATTRIBM_75	[Trị số]%s phần trăm choáng tăng %d
+L_NPCATTRIBM_76	[Trị số]%s kháng chí mạng tăng %d
+L_NPCATTRIBM_77	[Trị số]%s sát thương vật lý tăng (%d)
+L_NPCATTRIBM_78	[Trị số]%s miễn dịch trạng thái là %d
+L_NPCSET_0	Tải tập tin thất bại: %s, hãy báo cho nhân viên phát triển xử lý!
+L_NPCSET_1	Tải tập tin thất bại: %s
+L_NPCSET_3	[Script]Npc %s,%d
+L_NPCSET_4	[Request]Remove %d from %d on %d timeout
+L_NPCSET_5	[Request]Insert %d at %d on %d
+L_NPCSET_6	[Request]Remove %d from %d on %d
+L_NPCSET_7	                 %d:AddNpc:%d\n
+L_NPCSET_8	                 %d:RemoveNpc:%d %s\n
+L_NPCSET_9	Error!!!NpcCount is Full!!Can Not Add Any More!\n
+L_NPCTEMPLATE_0	Không thể tìm %s\n
+L_NPCTEMPLATE_1	[%s] dùng hàm GetNpcLevelData truyền tham số [%s] bị lỗi, xin kiểm tra\n
+L_NPCTEMPLATE_2	Dùng hàm GetNpcLevelData truyền tham số [%s] bị lỗi, xin kiểm tra\n
+L_NPCTEMPLATE_3	Không tìm được id ma pháp [%s], xin kiểm tra!
+L_PLAYER_1	[skill]right
+L_PLAYER_2	[skill]left
+L_PLAYER_3	[skill]return
+L_PLAYER_4	SubWorld Fail.\n
+L_PLAYER_5	NPC Fail.\n
+L_PLAYER_6	player Packing sync data failed...\n
+L_PLAYER_7	Load PlayerInfo Step %d Failed...\n
+L_PLAYER_8	player Packing skill sync data failed...\n
+L_PLAYER_9	[Trị số]%s thực tế tăng kinh nghiệm %d điểm
+L_PLAYER_10	%s(%s) tại %d lần lượt nhặt %d lượng bạc\n
+L_PLAYER_11	%s\nSubWorld:%d\nReviveID:%d\nMpsX:%d\nMpsY:%d\n
+L_PLAYER_12	[%s][%s] bán %s cho [%s][%s], thời gian tạo vật phẩm: %u\r\n
+L_PLAYER_13	Thời gian giao dịch: %d-%d %d giờ %d phút %d giây!\r\n\r\n
+L_PLAYER_14	%d/%d/%d %d:%d:%d
+L_PLAYER_15	%s\t%s\t%d\t%s\t%d\t%d\r\n
+L_PLAYER_16	Account %s, Player %s UseSilver Type = %d, UseType = %d, Count = %d\n
+L_PLAYER_17	Exception Have Caught When Execute Script[%d]!!!!!
+L_PLAYER_18	[trade]trade bắt đầu giao dịch với %s!
+L_PLAYER_19	[trade]trade nhận thông tin tiền giao dịch đối phương: %d
+L_PLAYER_20	[trade]trade giao dịch hoàng thành!
+L_PLAYER_21	[trade]trade hủy giao dịch!
+L_PLAYER_22	Nhặt vật phẩm
+L_PLAYER_23	Nhặt bạc\t%d
+L_PLAYER_24	Vứt vật phẩm
+L_PLAYER_25	Người chơi giao dịch bán vật phẩm cho [%s][%s]
+L_PLAYER_26	Người chơi giao dịch tài khoản đối phương [%s] tên nhân vật [%s] thu: %d chi: %d
+L_PLAYER_27	Người chơi giao dịch từ [%s][%s] mua vật phẩm
+L_PLAYERCHAT_0	[chat]gói dữ liệu tán gẫu bị lỗi!
+L_PLAYERCHAT_1	player Packing friend sync data failed...\n
+L_PLAYERCHAT_2	player Packing friend 2 sync data failed...\n
+L_PLAYERSET_0	SERVER:Player[%s] has been removed!
+L_PLAYERSET_2	[error]Attach to a connected player named %s
+L_PLAYERSET_3	[error]Find Guid to a disconnect player
+L_PLAYERSET_4	Không thể tải script %s, có thể tập tin không tồn tại hoặc ngữ pháp bị lỗi
+L_PlayerSet_AutohangItem	%s nhận được %s
+L_PLAYERSTALL_0	Recv  c2s_stallmarkprice request
+L_PLAYERSTALL_1	Recv  c2s_stallmakeadv request
+L_PLAYERSTALL_2	Recv  c2s_stallstallbuyitem request
+L_PLAYERSTALL_3	Recv  c2s_stallexit request
+L_PLAYERSTALL_4	Recv  c2s_stallrequestadv request
+L_PLAYERSTALL_5	Recv  c2s_stallrequestiteminfo request
+L_PLAYERSTALL_6	In KPlayerStall::ProcessStallProtocol recv unknown protocol
+L_PLAYERSTALL_7	In KPlayerStall construcotr
+L_PLAYERSTALL_8	KPlayerStall::CheckItemPriceRange : some item price is not correctly\n
+L_PLAYERSTALL_9	KPlayerStall::GetItemPrice : the item  %d don't exist\n
+L_PLAYERSTALL_10	KPlayerStall::SetItemPrice : the item  %d don't exist\n
+L_PLAYERSTALL_11	KPlayerStall::CheckMakeStallCondition : you are in fight area\n
+L_PLAYERSTALL_12	KPlayerStall::CheckMakeStallCondition : No item in equitment room\n
+L_PLAYERSTALL_13	KPlayerStall::CheckMakeStallCondition : Player is on horse\n
+L_PLAYERSTALL_14	KPlayerStall::HasEnoughSpace : no enough space for Width = %d , Height = %d \n
+L_PLAYERSTALL_15	KPlayerStall::HasEnoughMoney : no enough Money  %d  \n
+L_PLAYERSTALL_16	KPlayerStall::HasThisItem : item haven't  existed , Itemidx = %d, nX = %d , nY = %d ,Price = %d  nIdx = %d\n
+L_PLAYERSTALL_17	KPlayerStall::HasThisItem : item couldn't be sell\n
+L_PLAYERSTALL_18	KPlayerStall::HasThisItem : price rise,now price is %d, your pay is %d  \n
+L_PLAYERSTALL_19	KPlayerStall::HasThisItem : price down,now price is %d, your pay is %d  \n
+L_PLAYERSTALL_20	KPlayerStall::c2sstallmarkprice : the item be priced number is error
+L_PLAYERSTALL_21	Recv markprice item list:
+L_PLAYERSTALL_22	Recv markprice protocol, but cann't fit the condition
+L_PLAYERSTALL_23	Recv markprice protocol, but some item has a error price
+L_PLAYERSTALL_24	KPlayerStall::c2sstallmarkprice : SellerID is 
+L_PLAYERSTALL_25	KPlayerStall::c2sstallmarkprice : SellerID is error
+L_PLAYERSTALL_26	Some marked item don't exist, something wrong??
+L_PLAYERSTALL_27	Set seller %d to Stall_Sell_State\n, m_nPlayerIndex);
+L_PLAYERSTALL_28	Recv  buy item info:
+L_PLAYERSTALL_29	SellID = %d, ItemID= %d \n
+L_PLAYERSTALL_30	%s<%s> từ %s<%s> theo giá %d đã mua [%s]
+L_PLAYERSTALL_32	Thời gian tạo [%s] là (%u)
+L_PLAYERSTALL_33	Từ quầy hàng [Account:%s][Name:%s] mua vật phẩm chi: %d [%s] thu: %d thuế: %d
+L_PlayerTrade_0	[trade]trade nhận thông tin trạng thái giao dịch: mình khóa %d , đối phương khóa %d, mình xác nhận %d, đối phương xác nhận %d
+L_BuySell_0	g_cBuySellMgr: %s buy idx error!
+L_BuySell_1	%s(%s) tại %d lần lượt bán %s nhận được %d lượng bạc
+L_BuySell_2	Từ npc mua vật phẩm chi bạc: %d
+L_BuySell_3	Từ npc bán vật phẩm thu bạc: %d
+L_ITEM_0	[ITEM]\t%s(%s) có trang bị <%s(%d,%d,%d,%d,%d)> bị xóa bất thường
+L_ItemList_0	[ITEM]\t%s(%s) từ %s(%s) nhận <%s(%d,%d,%d,%d,%d)>
+L_ItemList_1	[ITEM] ItemListIdx:%d, Item:%d, ItemId:%d
+L_ItemList_2	[ITEM]\t%s(%s) có <%s(%d,%d,%d,%d,%d)> khi xóa đã là trang bị của %s(%s)
+L_ItemList_3	[trade]trade đối phương giảm vật phẩm id:%d  PosX:%d  PosY:%d  Width:%d  Height:%d
+L_ItemList_4	[trade]trade vật phẩm này thuộc tính 1 Genre:%d  Detail:%d  Particur:%d  Series:%d
+L_ItemList_5	[trade]trade vật phẩm này thuộc tính 2 Level:%d  Luck:%d  RandomSeed:%d  Version:%d  Durability:%d
+L_ItemList_6	[trade]trade vật phẩm này thuộc tính 3 GenInfo: %d %d %d %d %d %d %d %d %d %d %d %d
+L_ItemList_7	[%s] lập mã rương!
+L_ItemList_8	GM lập mã rương của [%s]!
+L_ItemList_9	[%s] hủy mã rương!
+L_ItemList_10	GM hủy mã rương của [%s]!
+L_ItemList_11	[%s] đổi mã rương!
+L_ItemList_12	GM khóa rương của [%s]!
+L_ItemList_13	GM mở khóa rương của [%s]!
+L_ItemList_14	Trọng thương rơi vật phẩm
+L_ItemList_15	Trọng thương rơi trang bị trên người
+L_ItemList_16	Vứt tất cả thuốc
+L_ItemList_17	Vứt tất cả thuốc đỏ
+L_ItemList_18	Vứt tất cả thuốc lam
+L_ItemList_19	Vứt tất cả thuốc đỏ lam
+L_ItemList_20	Vứt tất cả thuốc trắng
+L_ItemList_21	Vứt tất cả thuốc lục
+L_ItemList_22	Thanh phím tắt của %s(%s) có %s(%d,%d,%d,%d,%d) tải bị lỗi, bị xóa
+L_ItemSet_0	%s tải thất bại, xin kiểm tra tập tin và báo nhân viên phát triển!
+L_KLibOfBPT_0	[Thuộc tính ma pháp]%s ngũ kháng tối đa tăng %d
+L_KLibOfBPT_1	[Thuộc tính ma pháp]m_CMAIT[tiền tố hậu tố][Loại][Ngũ hành][Cấp]\n
+L_KLibOfBPT_2	[Thuộc tính ma pháp]m_CMAIT[%d][%d][%d][%d]: Count = %3d, %s  \n
+L_Core_0	Không thể mở tập tin \\settings\\gamesetting.ini, xin kiểm tra!\n
+L_Core_2	[Script]Script chiếm không gian là %d
+L_Core_3	Không thể mở tập tin %s!\n
+L_Core_4	Số mẫu nhân vật %d
+L_Core_7	Không thể tải script thiết lập cấp %sNpc, tập tin không tồn tại hoặc ngữ pháp bị lỗi
+L_ProtocolProcess_0	[trade]trade đối phương tăng vật phẩm thêm vào client thất bại!
+L_ProtocolProcess_1	[trade]trade đối phương tăng vật phẩm id:%d  PosX:%d  PosY:%d
+L_ProtocolProcess_2	[trade]trade vật phẩm này thuộc tính 1 Genre:%d  Detail:%d  Particur:%d  Series:%d
+L_ProtocolProcess_3	[trade]trade vật phẩm này thuộc tính 2 Level:%d  Luck:%d  RandomSeed:%d  Version:%d  Durability:%d
+L_PLAYERDBFUN_0	[Error!]AddNpc Error DBFuns.cpp
+L_PLAYERDBFUN_1	g_cItemMgr:%d, Load item failed!\n
+L_PLAYERDBFUN_2	[%s]\nPlayerName:(%s:%s)\tNpcName:(%s)\nMoney:(%d:%d)\nPos:(%d,%d,%d)\n
+L_PLAYERDBFUN_3	ItemName:%s, Ver:%d, Rand:%d, ID:%d, Param:(%d,%d,%d), GenTime:%d, Lvl:%d, Series:%d, Local(%d:%d:%d), GenInfo(%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d), Luck:%d, Dur:%d, MaxDur:%d\n
+L_PLAYERDBFUN_4	----\n%s\nItemList Index:%d\nItem Index:%d\nItem ID:%d\nItem Place:%d
+L_PLAYERDBFUN_5	----\n MenuState: %d TradeState: %d
+L_SkillList_0	Kỹ năng Npc số lượng vượt quá 50! Xin kiểm tra!
+L_SkillList_1	Hàm Param2PCoordinate nhận tham số trái phép! nParam1 ,nParam2 [%d,%d], nPX,nPY
+L_SkillList_2	Skill::Cast(), nLauncher < 0 , Return False;
+L_SkillList_3	Call Skill::Cast(), nWaitTime < 0 
+L_SkillList_4	Tạo ảnh màn đạn thất bại! %s
+L_ScriptFuns_0	Error!Say script đối thoại quá dài, xin chỉnh lại. %s
+L_LuaFuns_0	Không thể tìm được đối tượng script chỉ định
+L_SortScript_0	[Script] tải Script %s, bị lỗi, Script không thể tải! Xin kiểm tra!
+L_SortScript_1	[Script] lỗi nghiêm trọng! Số Script vượt giới hạn %d! Xin giải quyết ngay!
+L_SortScript_2	[Script] Tổng dung lượng script vượt quá %d, lỗi nghiêm trọng xin kiểm tra!
+L_SortScript_3	Tải tập tin %s bị lỗi
+L_CoreServerShell_0	[error]mạng tiếp nhận dung lượng thỏa thuận không phù hợp
+L_CoreServerShell_1	[error]mạng tiếp nhận dung lượng thỏa thuận không phù hợp <%d>, should %d, but %d\n
+L_GMCOMMAND_0	Thực hiện chỉ lệnh GM, phát sinh lỗi!\n
+MSG_IBSHOP_TOOMUCH_ORDER	Xin đừng đặt hàng dồn dập như vậy!
+MSG_IBSHOP_NOROOM	Túi không đủ chỗ, không thể gửi hàng!
+MSG_IBSHOP_SEND_ITEM_ERROR	Gửi hàng thất bại!
+MSG_IBSHOP_PAY_ERROR	Trả tiền thất bại!
+MSG_ITEM_GM_MAIL_TITLE	Vật phẩm tặng
+MSG_ITEM_GM_MAIL_CONTEXT	
+MSG_GET_EXP	Nhận được %d điểm kinh nghiệm.
+MSG_DEC_EXP	Tổn thất %d điểm kinh nghiệm.
+MSG_LEVEL_UP	Bạn tăng đến cấp %d.
+MSG_LEADER_LEVEL_UP	Thống soái của bạn tăng đến cấp %d!
+MSG_GET_ATTRIBUTE_POINT	Bạn nhận được %d điểm tiềm năng!
+MSG_GET_SKILL_POINT	Bạn nhận được %d điểm kỹ năng!
+MSG_GET_ATTRIBUTE_SKILL_POINT	Bạn nhận được %d điểm tiềm năng và %d điểm kỹ năng!
+MSG_SKILL_BEYOND_ATTACKRADIUS	Cách mục tiêu quá xa, cự ly sử dụng võ công không đủ.
+MSG_GET_HALF_EXP	Bạn đã mệt mỏi, chỉ nhận được %d điểm kinh nghiệm
+MSG_TEAM_AUTO_REFUSE_INVITE	Tự từ chối lời mời tổ đội của người khác.
+MSG_TEAM_NOT_AUTO_REFUSE_INVITE	Hiển thị lời mời tổ đội của người khác.
+MSG_TEAM_SEND_INVITE	Gửi lời mời tổ đội đến %s!
+MSG_TEAM_FULL	Nhóm đã đầy!
+MSG_TEAM_REFUSE_INVITE_SELF	Bạn từ chối lời mời tổ đội của %s!
+MSG_TEAM_REFUSE_APPLYJOIIN	Bạn từ chối xin nhập đội của %s!
+MSG_TEAM_CAMP_BEGIN_INVITE	Người chơi không môn phái không thể làm đội trưởng mời tổ đội người chơi có môn phái.
+MSG_TEAM_CAMP_BEGIN_JOIN	Đệ tử môn phái không thể vào đội ngũ do người chơi không môn phái lập.
+MSG_TEAM_REFUSE_INVITE	%s từ chối lời mời tổ đội của bạn!
+MSG_TEAM_REFUSE_APPLYJOIN	%s từ chối xin nhập đội của bạn!
+MSG_TEAM_TARGET_DISABLETEM	Đối phương hiện không thể tổ đội hoặc tiếp nhận thành viên!
+MSG_TEAM_CANNOT_ADD_HIM	Bạn không thể tổ đội hoặc vào tổ đội đối phương!
+MSG_TEAM_CREATE	Bạn đã tạo nhóm.
+MSG_TEAM_CREATE_FAIL	Lập nhóm thất bại.
+MSG_TEAM_DISABLE	Bạn hiện không thể tổ đội hoặc vào nhóm!
+MSG_TEAM_LOCK	Bạn hiện không thể tổ đội!
+MSG_TEAM_TARGET_CANNOT_ADD_TEAM	Bạn không thể vào nhóm đối phương!
+MSG_TEAM_TARGET_TEAM_CLOSE	Nhóm đối phương từ chối tiếp nạp thành viên!
+MSG_TEAM_TARGET_TEAM_FULL	Nhóm đối phương đã đầy!
+MSG_TEAM_TARGET_IN_TEAM	Đối phương đã trong nhóm!
+MSG_TEAM_TARGET_NOT_ONLINE	Đối phương không trên mạng!
+MSG_TEAM_SEARCHINFO_1	Bạn đã trong nhóm, không thể phát tin tìm nhóm!
+MSG_TEAM_SEARCHINFO_2	Không phải đội trưởng, không thể phát tin tìm nhóm!
+MSG_TEAM_SEARCHINFO_3	Nhóm đã đầy, không thể phát tin tìm nhóm!
+MSG_TEAM_SEARCHINFO_4	Tin tìm nhóm đã phát thành công!
+MSG_TEAM_SEARCHINFO_5	Tin chiêu mộ đồng đội phát thành công!
+MSG_TEAM_SEARCHINFO_6	Bạn hủy tin tìm nhóm đã phát!
+MSG_TEAM_SEARCHINFO_7	Bạn hủy tin chiêu mộ đồng đội đã phát!
+MSG_TEAM_OPEN	Nhóm hiện được phép tiếp nhận thành viên mới.
+MSG_TEAM_CLOSE	Nhóm hiện không được tiếp nhận thành viên mới.
+MSG_TEAM_ADD_MEMBER	%s thành đồng đội của bạn.
+MSG_TEAM_SELF_ADD	Bạn gia nhập nhóm %s.
+MSG_TEAM_DISMISS_CAPTAIN	Bạn đã giải tán nhóm!
+MSG_TEAM_DISMISS_MEMBER	%s giản tán nhóm!
+MSG_TEAM_KICK_ONE	%s bị trục xuất khỏi nhóm!
+MSG_TEAM_BE_KICKEN	Bạn bị trục xuất khỏi nhóm!
+MSG_TEAM_APPLY_ADD_SELF_MSG	Bạn xin gia nhập nhóm của %s!
+MSG_TEAM_LEAVE	%s rời nhóm.
+MSG_TEAM_LEAVE_SELF_MSG	Bạn rời nhóm của %s.
+MSG_TEAM_LEAVE_SELF_MSG_2	Bạn rời nhóm của mình.
+MSG_TEAM_CHANGE_CAPTAIN_FAIL1	Chuyển đội trưởng thất bại!
+MSG_TEAM_CHANGE_CAPTAIN_FAIL2	Đối phương không trên mạng, không thể chuyển!
+MSG_TEAM_CHANGE_CAPTAIN_FAIL3	Nhóm của bạn không thể chuyển cho tân thủ!
+MSG_TEAM_CHANGE_CAPTAIN	%s được chuyển làm đội trưởng!
+MSG_TEAM_CHANGE_CAPTAIN_SELF	Bạn được %s chuyển làm đội trưởng!
+MSG_TEAM_AUTO_CAPTAIN_SELF	Bạn được hệ thống chỉ định làm đội trưởng!
+MSG_TEAM_AUTO_CAPTAIN	%s được hệ thống chỉ định làm đội trưởng!
+MSG_TEAM_ITEM_MODE	Phân phối vật phẩm hiện được thiết lập: %s
+MSG_TEAM_ITEM_MODE_0	Chia sẻ
+MSG_TEAM_ITEM_MODE_1	Cá nhân
+MSG_TEAM_ERROR01	Đội trưởng do hệ thống chỉ định, không thể tăng thành viên nhóm!
+MSG_TEAM_ERROR02	Đội trưởng do hệ thống chỉ định, không thể trục xuất nhóm!
+MSG_TEAM_ERROR03	Đội trưởng do hệ thống chỉ định, không thể chuyển đội trưởng mới!
+MSG_TEAM_ERROR04	Đội trưởng do hệ thống chỉ định, không thể mời thành viên mới!
+MSG_TEAM_ERROR05	Đội trưởng do hệ thống chỉ định, không thể mở nhóm!
+MSG_TEAM_ZHEN1	Đội trưởng hiện trang bị trận pháp <%s>.
+MSG_TEAM_ZHEN2	Đội trưởng hiện không trang bị trận pháp.
+MSG_RELATION_ADD_FRIEND	Thêm %s làm hảo hữu.
+MSG_RELATION_DEL_FRIEND	Xóa hảo hữu %s.
+MSG_RELATION_ADDED_FRIEND	%s thêm bạn làm hảo hữu.
+MSG_RELATION_DEL_PLAYER	%s bị xóa.
+MSG_CHAT_APPLY_ADD_FRIEND	Bạn mời %s làm hảo hữu.
+MSG_CHAT_FRIEND_HAD_IN	%s trở thành hảo hữu.
+MSG_CHAT_GET_FRIEND_APPLY	%s mời hảo hữu!
+MSG_CHAT_REFUSE_FRIEND	%s từ chối hảo hữu!
+MSG_CHAT_ADD_FRIEND_FAIL	Thêm %s làm hảo hữu thất bại!
+MSG_CHAT_ADD_FRIEND_SUCCESS	Bạn với %s thành hảo hữu!
+MSG_CHAT_CREATE_TEAM_FAIL1	Tạo nhóm hảo hữu thất bại!
+MSG_CHAT_CREATE_TEAM_FAIL2	 đã có nhóm cùng tên!
+MSG_CHAT_CREATE_TEAM_FAIL3	 đã đạt phân nhóm tối đa!
+MSG_CHAT_RENAME_TEAM_FAIL	Đổi tên nhóm thất bại!
+MSG_CHAT_DELETE_TEAM_FAIL1	Xóa nhóm thất bại!
+MSG_CHAT_DELETE_TEAM_FAIL2	Nhóm này không được xóa!
+MSG_CHAT_FRIEND_ONLINE	%s lên mạng!
+MSG_CHAT_FRIEND_OFFLINE	%s rời mạng!
+MSG_CHAT_FRIEND_DELETE	%s bị xóa rồi!
+MSG_CHAT_DELETE_FRIEND	Bạn hủy hảo hữu với %s!
+MSG_CHAT_DISMISS_FRIEND	%s hủy hảo hữu với bạn!
+MSG_CHAT_DISMISS_BROTHER	%s hủy thân nhân với bạn!
+MSG_CHAT_DISMISS_MATE	%s hủy phu thê với bạn!
+MSG_CHAT_DISMISS_RELATION	%s đã hủy quan hệ với bạn!
+MSG_CHAT_MSG_FROM_FRIEND	%s gửi tin!
+MSG_CHAT_FRIEND_NOT_NEAR	%s không ở gần!
+MSG_CHAT_FRIEND_NOT_ONLINE	%s không trên mạng!
+MSG_CHAT_TAR_REFUSE_SINGLE_TALK	%s không đặt kênh mật!
+MSG_CHAT_GMBOARD_ROLEANDACCOUNT	[Thông tin nhân vật: Server: %s Tài khoản: %s Nhân vật: %s]
+MSG_CHAT_GMBOARD_ONLYZONE	[Server: %s]
+MSG_CHAT_GMBOARD_MSGTYPE	[Loại hình: %s %s]
+MSG_CHAT_GMBOARD_REPORTTYPE	Báo cáo
+MSG_CHAT_NO_SENDMAIL	Không thể gửi bưu kiện bang hội.
+MSG_SHOP_NO_ROOM	Túi đầy!
+MSG_SHOP_NO_MONEY	Không đủ bạc!
+MSG_SHOP_NO_BINDMONEY	Bạc khóa không đủ!
+MSG_SHOP_NO_MACHINECOIN	Độ bền cơ quan không đủ!
+MSG_SHOP_NO_FUYUAN	Phúc duyên không đủ!
+MSG_SHOP_NO_COIN	Hồn Thạch không đủ!
+MSG_SHOP_NO_SCORE	Điểm tích lũy không đủ!
+MSG_SHOP_NO_CONTRIBUTION	Độ cống hiến không đủ!
+MSG_SHOP_NO_JUNXUDIAN	Điểm quân nhu!
+MSG_SHOP_NO_TONG_FUND	Quỹ xây bang hội không đủ!
+MSG_NPC_NO_MANA	Nội lực không đủ!
+MSG_NPC_NO_STAMINA	Thể lực không đủ!
+MSG_NPC_NO_LIFE	Sinh lực không đủ!
+MSG_NPC_DEATH	%s tử vong!
+MSG_OBJ_CANNOT_PICKUP	Không thể nhặt vật phẩm của người khác!
+MSG_MONEY_CANNOT_PICKUP	Không thể nhặt tiền của người khác!
+MSG_OBJ_TOO_FAR	Vật phẩm quá xa!
+MSG_DEC_MONEY	Bạn tổn thất %d lượng bạc!
+MSG_EARN_MONEY	Bạn nhận được %d lượng bạc!
+MSG_DEATH_LOSE_ITEM	Bạn rơi mất %s!
+MSG_ADD_ITEM	Bạn nhận được %d %s!
+MSG_COSUME_BINDITEMONLY	Bạn tốn %d %s khóa!
+MSG_COSUME_NOBINDITEMONLY	Bạn tốn %d %s không khóa!
+MSG_COSUME_BINDANDNOBINDITEM	Bạn tốn %d %s khóa và %d %s không khóa!
+MSG_TEAMATE_ADD_ITEM	Đồng đội %s nhận được %s!
+MSG_CAN_NOT_VIEW_ITEM	Hiện không thể tra xem trang bị người khác!
+MSG_ITEM_DAMAGED	%s của bạn hao mòn lâu ngày nên bị hư hại!
+MSG_ITEM_USINGTIMES_END	%s đã đạt số lần sử dụng tối đa nên bị hư hại!
+MSG_ITEM_UNFIT_SIZE_IMMEDIATE	Thanh phím tắt chỉ có thể đặt vật phẩm 1×1 ô!
+MSG_ITEM_LEFTUSAGETIME_FADE	<color=yellow>%s<color> sắp hư hại, thời gian dùng còn <color=yellow>%d<color> phút!
+MSG_ITEM_LEFTUSAGETIME_TIMEOUT	%s đã bị hư hại!
+MSG_ITEM_NOTHROW	Không thể vứt vật phẩm này!
+MSG_IBSHOP_ADDITEMERROE	Đồng không đủ, mua thất bại
+MSG_IBSHOP_DEDUCTCOIN	Trừ tiền thất bại, mua thất bại
+MSG_IBSHOP_WAITCANCEL	Không thể mua vật phẩm do hệ thống đang bận, xin thử lại sau.
+MSG_TRADE_STATE_OPEN	Bạn hiện có thể giao dịch
+MSG_TRADE_STATE_CLOSE	Bạn hiện không thể giao dịch
+MSG_TRADE_SELF_LOCK	Bạn đã khóa giao dịch
+MSG_TRADE_SELF_CONF	Bạn đã xác nhận giao dịch
+MSG_TRADE_SELF_CANCEL	Bạn hủy giao dịch
+MSG_TRADE_SELF_UNLOCK	Bạn mở khóa giao dịch
+MSG_TRADE_DEST_LOCK	%s đã khóa giao dịch
+MSG_TRADE_DEST_CONF	%s đã xác nhận giao dịch
+MSG_TRADE_DEST_UNLOCK	%s mở khóa giao dịch
+MSG_TRADE_DEST_CANCEL	%s hủy giao dịch
+MSG_TRADE_SUCCESS	Giao dịch thành công với %s
+MSG_TRADE_PAY	Bạn nộp %d lượng bạc
+MSG_TRADE_EARN	Bạn nhận %d lượng bạc
+MSG_TRADE_GIVE	Bạn đã trao %s
+MSG_TRADE_GIVE_COUNT	Bạn đã nộp %d %s
+MSG_TRADE_GAIN	Bạn nhận được %s
+MSG_TRADE_GAIN_COUNT	Bạn nhận được %d %s
+MSG_TRADE_FAIL	Giao dịch thất bại với %s
+MSG_TRADE_SELF_ROOM_FULL	Bạn không đủ chỗ trống!
+MSG_TRADE_DEST_ROOM_FULL	Túi của %s không đủ chỗ trống!
+MSG_TRADE_SEND_APPLY	Bạn mời %s giao dịch!
+MSG_TRADE_CANTBEOFFER_ITEM	Vật phẩm này không thể thu mua!
+MSG_TRADE_ERR_HANDITEM	Vật phẩm trên tay không thể giao dịch!
+MSG_TRADE_FORBITITEM	Vật phẩm này không thể giao dịch!
+MSG_PK_NORMAL_FLAG_0	Trạng thái PK đổi thành luyện công!
+MSG_PK_NORMAL_FLAG_1	Trạng thái PK đổi thành chiến đấu!
+MSG_PK_NORMAL_FLAG_2	Trạng thái PK đổi thành đồ sát!
+MSG_PK_NORMAL_FLAG_3	Trạng thái PK đổi thành phe!
+MSG_PK_NORMAL_FLAG_4	Trạng thái PK đổi thành bang hội!
+MSG_PK_FIGHT_FLAG	PK ở dạng chiến đấu
+MSG_PK_KILL_ALL_FLAG	PK ở dạng đồ sát
+MSG_PK_VALUE	Trị PK hiện tại là %d!
+MSG_PK_REFUSE_EXERCISE	%s từ chối tỷ thí với bạn!
+MSG_PK_ACCETP_EXERCISE	%s đồng ý tỷ thí với bạn!
+MSG_PK_ERROR_1	Bạn đang ở trạng thái phi chiến đấu!
+MSG_PK_ERROR_2	Người chơi chữ trắng và dưới cấp 50 không thể cừu sát!
+MSG_PK_ERROR_3	Bạn đang tỷ thí với %s!
+MSG_PK_ERROR_4	Bạn đang cừu sát %s!
+MSG_PK_ERROR_5	Không thể cừu sát người chơi chữ trắng hoặc dưới cấp 50!
+MSG_PK_ERROR_6	Đối phương đang ở trạng thái phi chiến đấu!
+MSG_PK_ERROR_7	Đối phương đang tỷ thí với người khác!
+MSG_PK_ERROR_8	Dạng PK chuyển sang luyện công cần 3 phút!
+MSG_PK_ERROR_9	Chữ trắng không thể tỷ thí!
+MSG_PK_ERROR_10	Không thể tỷ thí với người chơi chữ trắng!
+MSG_PK_ERROR_11	Đối phương đang cừu sát người khác!
+MSG_PK_ERROR_12	Đang cừu sát không thể nhận lời tỷ thí!
+MSG_PK_ERROR_13	Chữ trắng không thể tỷ thí!
+MSG_PK_ERROR_14	Chữ trắng không thể cừu sát!
+MSG_PK_ERROR_15	Hiện không thể tỷ thí với %s!
+MSG_PK_ERROR_16	Hiện không thể cừu sát %s!
+MSG_PK_ERROR_17	Không thể tỷ thí với người trọng thương!
+MSG_PK_ERROR_18	Bị trọng thương không thể tỷ thí!
+MSG_PK_ERROR_19	Không thể cừu sát người trọng thương!
+MSG_PK_ERROR_20	Bị trọng thương không thể cừu sát người khác!
+MSG_PK_ERROR_21	Tại đây cấm tỷ thí!
+MSG_PK_ERROR_22	Người chơi chữ trắng và dưới cấp 50 không thể tự đổi trạng thái PK!
+MSG_PK_ERROR_23	Bạn hiện không thể tỷ thí!
+MSG_PK_ERROR_24	Bạn hiện không thể cừu sát!
+MSG_PK_ENMITY_SUCCESS_1	%s cừu sát bạn!
+MSG_PK_ENMITY_SUCCESS_2	Sau 10 giây bắt đầu cừu sát %s!
+MSG_PK_ENMITY_CLOSE	Bạn và %s kết thúc cừu sát!
+MSG_PK_ENMITY_OPEN	Bạn và %s bắt đầu cừu sát!
+MSG_PK_EXERCISE_SUCCESS_1	%s nhận yêu cầu tỷ thí của bạn, sau 10 giây sẽ bắt đầu tỷ thí!
+MSG_PK_EXERCISE_SUCCESS_2	Sau 10 giây bạn và %s sẽ bắt đầu tỷ thí!
+MSG_PK_EXERCISE_CLOSE	Bạn và %s kết thúc tỷ thí!
+MSG_PK_EXERCISE_OPEN	Bạn và %s bắt đầu tỷ thí!
+MSG_PK_REFUSE_INVITE	%s từ chối tỷ thí với bạn!
+MSG_PK_EXERCISE_WAITAPLY	Mời %s tỷ thí, chờ %s đồng ý!
+MSG_PK_EXERCISE_WIN	Bạn tỷ thí thắng %s!
+MSG_PK_EXERCISE_LOSE	Bạn tỷ thí thua %s!
+MSG_TONG_CREATE_ERROR01	Tên bang quá dài!
+MSG_TONG_CREATE_ERROR02	Phe bang hội bị lỗi!
+MSG_TONG_CREATE_ERROR03	Thành viên bang không thể lập bang khác!
+MSG_TONG_CREATE_ERROR04	Sát thủ mới được lập bang!
+MSG_TONG_CREATE_ERROR05	Cấp lập bang không đủ!
+MSG_TONG_CREATE_ERROR06	Cấp thống soái lập bang không đủ!
+MSG_TONG_CREATE_ERROR07	Lập bang cần %d bạc!
+MSG_TONG_CREATE_ERROR08	Đang tổ đội, không thể lập bang!
+MSG_TONG_CREATE_ERROR09	Tên bang quá dài hoặc có ký tự không phù hợp!
+MSG_TONG_CREATE_ERROR10	Bạc để lập bang không đủ!
+MSG_TONG_CREATE_ERROR11	Tên bang không phù hợp hoặc trùng tên bang khác!
+MSG_TONG_APPLY_CREATE	Bạn xin lập bang!
+MSG_TONG_CREATE_SUCCESS1	Lập bang thành công!
+MSG_TONG_CREATE_SUCCESS2	%s vào đợt thử thách!
+MSG_TONG_CREATE_SUCCESS3	Hãy mau mở rộng quy mô!
+MSG_TONG_INSTATE_FAIL_ID2	%s không trên mạng, không thể bổ nhiệm!
+MSG_TONG_INSTATE_FAIL_ID3	%s không đủ năng lực, không thể nhận chức vị mới!
+MSG_TONG_CHANGE_JOB_CALL_ERROR1	Tên gọi quá dài!
+MSG_TONG_CHANGE_JOB_CALL_ERROR2	Bạn không có quyền đổi tên gọi!
+MSG_TONG_CHANGE_JOB_CALL_ERROR3	Bạn không có quyền đổi phe!
+MSG_TONG_CHANGE_JOB_CALL_ERROR4	Tên gọi không phù hợp!
+MSG_TONG_APPLY_ADD	Bạn xin vào bang!
+MSG_TONG_APPLY_ADD_ERROR1	Thành viên bang không thể vào bang khác!
+MSG_TONG_APPLY_ADD_ERROR2	Sát thủ mới được vào bang!
+MSG_TONG_APPLY_ADD_ERROR3	Đang tổ đội, không thể vào bang!
+MSG_TONG_REFUSE_ADD	%s từ chối bạn vào bang!
+MSG_TONG_ADD_SUCCESS	Bạn vào bang!
+MSG_TONG_CANNOT_LEAVE1	Bang chủ không thể rời bang!
+MSG_TONG_CANNOT_LEAVE2	Trưởng lão không thể rời bang!
+MSG_TONG_BE_KICKED	Bạn bị trục xuất khỏi bang!
+MSG_TONG_LEAVE_SUCCESS	Bạn rời bang thành công!
+MSG_TONG_LEAVE_FAIL	Bạn rời bang thất bại!
+MSG_TONG_CHANGE_AS_MASTER	Bạn được bổ nhiệm làm bang chủ!
+MSG_TONG_CHANGE_AS_MEMBER	Bạn trở thành bang chúng!
+MSG_TONG_DISMISS	Bang của bạn không vượt qua khảo nghiệm, bị giải tán!
+MSG_TONG_CHANGE_CAMP_NO_MONEY	Đổi phe cần 100 vạn quỹ bang!
+MSG_TONG_CREATE_UNION_ERROR2	Đang liên minh, không thể lập liên minh!
+MSG_TONG_CREATE_UNION_ERROR4	Bang chỉ định không tồn tại!
+MSG_TONG_CREATE_UNION_ERROR5	Tồn tại bang hoặc liên minh bang cùng tên!
+MSG_TONG_CREATE_UNION_SUCCESS	Bạn tạo một liên minh bang trống!
+MSG_TONG_JOIN_UNION_ERROR1	Bạn xin vào liên minh không tồn tại hoặc đã giải tán!
+MSG_TONG_NO_OPRIGHT	Bạn không có quyền này!
+MSG_ADD_CONTRIBUTION	Nhận được %d điểm cống hiến
+MSG_RIGHT_ASSIGN_NEED_DIRECTOR	Đối phương không phải trưởng lão, không thể trao quyền!
+MSG_TONG_TARGET_NOTMEMBER	Đối phương không phải thành viên bổn bang!
+MSG_TONG_RIGHT_ASSIGN_SUCCESS	Bạn đã trao quyền cho %s
+MSG_TONG_SELF_RIGHT_ASSIGN	Quyền thao tác bang của bạn đã được bang chủ trao lại!
+MSG_TONG_NORIGHT_MEMBER_ONLINE	Đối phương có quyền như bang chủ và trưởng lão đều không trên mạng!
+MSG_CANT_SWITCH_HORSE	Bạn quá mệt, không thể xuống ngựa.
+MSG_CANT_SWITCH_HORSE_WHEN_SIT	Bạn đang ngồi, không thể lên ngựa.
+MSG_CANT_SWITCH_HORSE_WHEN_JUMP	Bạn đang khinh công, không thể lên ngựa.
+MSG_SOMEONE_GIVE_YOU_MONEY	%s cho bạn ít tiền.
+MSG_YOU_GIVE_SOMEONE_MONEY	Bạn cho %s ít tiền.
+MSG_ENCHASER_SUCCESS	Khảm bảo thạch thất bại!
+MSG_ENCHASER_MAGICATTRIBISFULL	Khảm bảo thạch thất bại!
+MSG_ENCHASER_SERIESISSAME	Khảm bảo thạch thất bại!
+MSG_ENCHASER_LEVELISFULL	Khảm bảo thạch thất bại!
+MSG_ENCHASER_ITEMISINVALID	Khảm bảo thạch thất bại!
+MSG_ENCHASER_CONDITIONISVALID	Khảm bảo thạch thất bại!
+MSG_ENCHASER_UNCONDITION	Khảm bảo thạch thất bại!
+MSG_CANT_STALL_NO_MARK_PRICE	Bạn chưa định giá vật phẩm nào!
+MSG_CANT_STALL_NO_MARK_SPACE	Chỗ trống không đủ, xin định giá lại!
+MSG_CANT_STALL_NO_ADV	Xin lập quảng cáo, dài 1-%d ký tự
+MSG_CANT_STALL_DISABLED	Không được bày bán!
+MSG_CANT_OFFER_DISABLED	Không được thu mua!
+MSG_CANT_STALL_OUT_TOWN	Bạn chỉ được bày bán trong thành trấn!
+MSG_CANT_OFFER_OUT_TOWN	Bạn chỉ được thu mua trong thành trấn!
+MSG_CANT_STALL_TRADE_OR_HORSE	Cưỡi ngựa, tổ đội, giao dịch không thể bày bán
+MSG_CANT_OFFER_TRADE_OR_HORSE	Cưỡi ngựa, tổ đội, giao dịch không thể thu mua
+MSG_CANT_STALL_LOWERLEVEL	Cấp 25 mới được bày bán.
+MSG_CANT_OFFER_LOWERLEVEL	Cấp 25 mới được thu mua.
+MSG_STALL_ERR_WRONGSTATUS	Đối phương đã ngừng bày bán!
+MSG_STALL_ERR_ITEMMISSING	Vật phẩm không tồn tại!
+MSG_STALL_ERR_WRONGPRICE	Đối phương đã sửa giá vật phẩm!
+MSG_STALL_ERR_STOPSELLING	Ngừng bán vật phẩm!
+MSG_STALL_ERR_LACKMONEY	Bạc túi không đủ!
+MSG_STALL_ERR_PEER_LACKMONEY	Bạc túi đối phương không đủ!
+MSG_STALL_ERR_OVERMONEY	Bạc túi vượt quá giới hạn!
+MSG_STALL_ERR_NOSPACE	Túi không đủ chỗ!
+MSG_STALL_ERR_PEER_NOSPACE	Túi đối phương không đủ chỗ!
+MSG_STALL_ERR_STOPBUYING	Vật phẩm này đã ngừng thu mua!
+MSG_STALL_ERR_PEER_OVERMONEY	Bạc đối phương vượt quá giới hạn!
+MSG_STALL_ERR_PEER_REMARK	Đối phương đã định giá mới
+MSG_STALL_ERR_PEER_LACKITEM	Vật phẩm đối phương bán không đủ.
+MSG_STALL_ERR_MONEYOVERFLOW1	Sau khi bán vật phẩm bạc túi có thể vượt quá giới hạn!
+MSG_STALL_OPENED	Bạn bắt đầu bày bán.
+MSG_STALL_CLOSED	Bạn ngưng bày bán.
+MSG_STALL_SELLER_CLOSE	Chủ quầy đã dọn hàng.
+MSG_STALL_ITEM_SELLED	Vật phẩm này đã bán.
+MSG_STALL_ITEM_PRICEUP	Chủ quầy đã tăng giá vật phẩm này.
+MSG_STALL_SELLER_DONOTSELL	Chủ quầy không bán vật phẩm này.
+MSG_STALL_ITEM_PRICEDOWN	Chủ quầy giảm giá vật phẩm này.
+MSG_STALL_NOMONEY	Bạn không đủ tiền.
+MSG_STALL_NOSPACE	Hành trang không đủ chỗ trống.
+MSG_STALL_ALL_SOLD_OUT	Đã bán hết, có thể dọn hàng rồi!
+MSG_STALL_TAX_RATE1	Thuế khu này là %d%%.
+MSG_STALL_TAX_RATE2	Quan phủ sẽ tự thu thuế mỗi lần giao dịch thành công.
+MSG_STALL_TAX_RATE3	Bạn là thành viên bang thống trị, miễn thuế giao dịch.
+MSG_STALL_LEVEL_NOT_ALLOW2	Thông báo: Để thành thị ngăn nắp, dân chúng dưới cấp %d bị cấm bày hàng!
+MSG_STALL_STALL_PERMIT	Thông báo: Để thành thị ngăn nắp, hãy mua Giấy phép bày bán ở Kỳ Trân Các mới bày hàng.
+MSG_STALL_TRADE_SUCCESS	<%s> đã mua %d <%s> của bạn.
+MSG_OFFER_TRADE_SUCCESS	%s thu mua hoàn thành.
+MSG_OFFER_ALL_FINISH	Bạn đã hoàn thành thu mua tất cả vật phẩm.
+MSG_STALL_ALL_FINISH	Bạn đã hoàn thành bày bán tất cả vật phẩm.
+MSG_OFFER_DEAL	Bạn thu mua từ %s được %d %s.
+MSG_STALL_CANNOT_STALL	Bày bán thất bại, xin kiểm tra: Có phải đã định giá [vật phẩm không thể bày bán] không?
+MSG_STALL_BUY_ACCOUNT_LOCK	Tài khoản của bạn đang khóa, không thể mua.
+MSG_STALL_SELL_ACCOUNT_LOCK	Tài khoản của bạn đang khóa, không thể bán.
+MSG_STALL_DISABLE_ACCOUNT_LOCK	Tài khoản của bạn đang khóa, không thể bày bán hoặc thu mua.
+MSG_BUYSELL_CANNOT_SELL	Bán vật phầm từ npc thất bại: vật phẩm này không thể bán.
+MSG_ACCOUNT_LOCK_NOTHROW	Tài khoản đang khóa, không thể vứt vật phẩm.
+MSG_ACCOUNT_LOCK_OPERATE	Tài khoàn đang khóa, không thể tiến hành thao tác này.
+MSG_BOX_MUST_UNLOCK	Hành trang này đã khóa, xin mở khóa trước.
+MSG_PASSWORD_NULL	Mật mã không thể để trống!
+MSG_BOX_JEWELRY_ONLY	Hành trang này chỉ có thể để trang sức.
+MSG_PARTNER_LEVEL_UP	%s tăng đến cấp %d.
+MSG_PARTNER_GET_EXP	%s nhận được %d điểm kinh nghiệm.
+MSG_PARTNER_DEC_EXP	%s tổn thất %d điểm kinh nghiệm.
+MSG_ATTRIBUTE_EXCEEDED	Tiềm năng một mục không thể vượt quá 60% tổng số, tăng điểm thất bại!
+MSG_REPUTE_VALUE_INC	Danh vọng %s tăng %d điểm.
+MSG_REPUTE_VALUE_DEC	Danh vọng %s giảm %d điểm.
+MSG_REPUTE_LEVEL_INC	Danh vọng %s tăng cấp %s.
+MSG_REPUTE_LEVEL_DEC	Danh vọng %s giảm cấp %s.
+MSG_REPUTE_REACH_LIMIT	Danh vọng %s bạn nhận tuần này đã đạt tối đa, không thể tăng nữa.
+MSG_REPUTE_LEVEL_LOW	Đẳng cấp nhân vật còn thấp, danh vọng %s không thể thăng cấp.
+MSG_REPUTE_ERR_BUYITEM	Cấp danh vọng %s chưa đạt %s, không thể mua vật phẩm này!
+MSG_HONOR_ERR_BUYITEM	Cấp vinh dự chưa đạt %d, không thể mua vật phẩm này!
+MSG_SERIES_ERR_BUYITEM	Ngũ hành của bạn hiện không hợp với vật phẩm hiện tại, không thể mua vật phẩm này!
+MSG_OFFICIAL_ERR_BUYITEM	Quan hàm của bạn chưa đạt cấp %d, không thể mua vật phẩm này!
+MSG_LOCK_ERR_BUYITEM	Bạn đang trong trạng thái khóa, không thể mua vật phẩm này!
+MSG_ITEM_SWITCH_TIME	Sau %d giây mới có thể thay trang bị!
+MSG_TRAINING_ERR_OFFLINE	Đối phương không trên mạng.
+MSG_TRAINING_ERR01	Bạn đã có 3 đệ tử, không thể nhận thêm.
+MSG_TRAINING_ERR02	Đối phương đã có 3 đệ tử, không thể nhận thêm, bạn hãy tìm người khác bái sư.
+MSG_TRAINING_ERR03	Bạn chưa đạt cấp 20, không thể bái sư.
+MSG_TRAINING_ERR04	Đối phương chưa đạt cấp 69, nên chưa thể nhận đệ tử, bạn hãy tìm người khác bái sư.
+MSG_TRAINING_ERR05	Đối phương đã vượt cấp 50, không thể bái sư.
+MSG_TRAINING_ERR06	Bạn đã vượt cấp 50, không thể bái sư.
+MSG_TRAINING_ERR07	Bạn chưa xuất sư, không thể nhận đệ tử.
+MSG_TRAINING_ERR08	Đối phương cũng chưa xuất sư, bạn hãy tìm người khác bái sư.
+MSG_TRAINING_ERR09	Đối phương chưa chọn mục \"Muốn nhận trò\".
+MSG_TRAINING_ERR10	Đối phương chưa chọn mục \"Muốn bái sư\".
+MSG_TRAINING_ERR11	Tháng này đối phương đã nhận 3 đệ tử, không thể nhận thêm, bạn hãy tìm người khác bái sư.
+MSG_TRAINING_ERR12	Tháng này bạn đã nhận 3 đệ tử, không thể nhận thêm, bạn hãy tìm người khác bái sư.
+MSG_TRAINING_ERR13	Đối phương đã có sư phụ.
+MSG_TRAINING_ERR14	Đối phương đã xuất sư.
+MSG_TRAINING_ERR15	Bái sư thất bại, hãy liên hệ đối phương để bái sư lại.
+MSG_TRAINING_ERR16	Bạc không đủ, mang đủ 10000 lượng hãy nhận đệ tử.
+MSG_TRAINING_ERR17	Quan hệ sư đồ đã đạt tối đa.
+MSG_TRAINING_ERR18	Số đệ tử của đối phương đã đạt tối đa, bái sư thất bại.
+MSG_TRAINING_ERR19	Bạn chưa đủ cấp 69, tạm thời không thể nhận đệ tử.
+MSG_TRAINING_ERR20	Bạn chưa đủ cấp 20, không thể bái sư.
+MSG_TRAINING_ERR21	Bạn đã vượt cấp 50, không thể bái sư.
+MSG_LIFESKILL_FORBIDSTATE	Không thể dùng kỹ năng sống ở trạng thái chiến đấu!
+MSG_ITEM_TIMEOUT	%s đã hết hạn sử dụng nên bị mất!
+MSG_ITEM_TIMEOUTXUANJING	Mất Huyền Tinh trong thương khố hoặc túi do hết hạn sử dụng:\nBạn mất 1 %s.
+MSG_ITEM_TIEMXUANJING	Trong thương khố hoặc túi có Huyền Tinh sắp quá hạn trong 1 tuần:\n%s: Quá hạn sau %d ngày %d giờ %d phút.
+MSG_ITEM_MAILTITLE	Huyền Tinh quá hạn
+MSG_ITEM_MAILCONTENT	Mất Huyền Tinh trong thương khố hoặc túi do hết hạn sử dụng.
+MSG_ITEM_DISABLE_TRADE	Do Phi Phong rất quý nên khi vận chuyển phải cẩn thận, do vậy đợt Phi Phong gần nhất phải sau ngày 25/11/2008 mới chuyển đến.
+MSG_IBSHOP_NOSALE	%s vật phẩm này đã ngừng bán.
+MSG_IBSHOP_WRONGPRICE	Giá thương phẩm đã đổi, xin mở lại Kỳ Trân Các để mua.
+MSG_IBSHOP_LESSMONEY	%s không đủ.
+MSG_IBSHOP_LESSSPACE	Túi đã đầy.
+MSG_IBSHOP_SELLOUT	%s còn lại không đủ.
+MSG_IBSHOP_SYSTEM	Hệ thống khá chậm, xin thử lại sau.
+MSG_IBSHOP_NOITEM	Số lượng bạn mua là 0.
+STR_IBSHOP_TAEL	Bạc
+STR_IBSHOP_COIN	Đồng
+STR_IBSHOP_BINDCOIN	Đồng khóa
+STR_IBHSOP_BANKCOIN	Tiền trang giữ đồng
+MSG_FIGHTMODE_AUTOFIGHT	Trong khu an toàn không thể mở tự chiến đấu!
+STR_ITEM_GOUHUO	Lửa trại
+MSG_AUC_ERROR_WRONG_ITEM	Vật phẩm muốn đấu giá không tồn tại
+MSG_AUC_ERROR_ITEM_CANT_TRADE	Loại vật phẩm này cấm đấu giá
+MSG_AUC_ERROR_FAILED_CANCEL	Hủy đấu giá thất bại
+MSG_AUC_COMPETE_FAILED_HIGHER_THAN_ONE_PRICE	Giá đấu mới không thể vượt giá chót
+MSG_AUC_COMPETE_FAILED_LOWER_THAN_COMPETE_PRICE	Giá đấu mới phải lớn hơn giá đấu hiện tại.
+MSG_AUC_FAILED_MONEY_NOT_ENOUPH	Tiền trên người không đủ
+MSG_AUC_SEARCH_FINAL_PAGE	Trang cuối
+MSG_AUC_WRONG_ONETIMEPRICE_AND_COMPETE_PRICE	Giá chót phải lớn hơn hoặc bằng giá đấu
+MSG_AUC_WRONG_PRICE	Giá đấu không phù hợp
+MSG_AUC_FAILED_NORMAL	Bán đấu giá thất bại
+MSG_AUC_OPER_TOO_FAST	Xin đừng thao tác quá nhanh
+MSG_AUC_OPER_WAITING	Đang thao tác
+MSG_AUC_ADVS_INFO	<color=orange>[%s] tìm người mua <color>%s<color=orange>!<color><pic=126>
+MSG_AUC_ADVS_HEAD	Đấu giá
+MSG_IBSHOP_MAILCAPTION	Mua vật phẩm thất bại Kỳ Trân Các bồi thường 
+MSG_IBSHOP_MAILCONTENT	Bạn mua %s ở Kỳ Trân Các, khi thêm vào người thất bại, hiện có bồi thường cho bạn.
+MSG_BANK_ERROREMSG	Thao tác thất bại, xin thử lại sau.
+MSG_ITEM_TAKE_MONEY_ERR	Bạc trong túi đã đạt tối đa!
+MSG_ITEM_SAVE_MONEY_ERR	Rương chứa bạc đã đạt tối đa!
+MSG_ITEM_TAKE_BIND_MONEY_ERR	Bạc khóa trong túi đã đạt tối đa!
+MSG_ITEM_ADD_BIND_MONEY	Nhận được %d bạc khóa
+MSG_ITEM_ADD_BIND_COIN	Nhận được %d đồng khóa
+G_STR_CHOOSE_ROUTE	Đã chọn hệ phái: %s
+G_STR_TYPE	Loại
+G_STR_COIN_PRICE	Giá đồng
+G_STR_COIN_SELL_ALL	Tổng đồng bán
+G_STR_BIND_COIN_PRICE	Giá đồng khóa
+G_STR_BIND_COIN_SELL_ALL	Tổng đồng khóa bán
+G_STR_GOODSINFO	Số\tTên vật phẩm\Loại chính\tLoại\tLoại chi tiết\tCấp\tGiá gốc\tHiện giá\tThời gian (phút)\r\n
+G_STR_KBUYSELLMGR_BUY	[Hao]Npc mua
+G_STR_KBUYSELLMGR_AMOUNT	Tổng
+G_STR_KPLAYER_AUTOFINDROAD	Tự tìm đường
+G_STR_KPLAYERDBFUNS_LEVEL	Cấp
+G_STR_KPLAYERDBFUNS_LASTLOGIN	Lần trước đăng nhập lúc
+G_STR_KPLAYERDBFUNS_USER	Tên tài khoản
+G_STR_KPLAYERDBFUNS_TOTALTIME	Tổng thời gian trên mạng
+G_STR_KPLAYERDBFUNS_FRIENDS_AMOUNT	Số hảo hữu
+G_STR_KPLAYERDBFUNS_MONEY_AMOUNT	Số tiền
+G_STR_KPLAYERDBFUNS_ITEMS_VALUE	Giá trị trang bị
+G_STR_KPLAYERDBFUNS_RESPECT	Uy danh giang hồ
+G_STR_KPLAYERDBFUNS_ROUTE1	Hệ phái
+G_STR_KPLAYERDBFUNS_ROUTE2	Hệ phái
+G_STR_KPLAYERDBFUNS_XIULIANZHU	Tu Luyện Châu còn 
+G_STR_KPLAYERDBFUNS_BAIHUTANG	Bạch Hổ Đường
+G_STR_KPLAYERDBFUNS_SONGJIN	Chiến trường Tống Kim
+G_STR_KPLAYERDBFUNS_YIJUN	Nhiệm vụ nghĩa quân
+G_STR_KPLAYERDBFUNS_KIN	Gia tộc phó bản
+G_STR_KPLAYERDBFUNS_MENPAI	Thi đấu môn phái
+G_STR_KPLAYERDBFUNS_WABAO	Đào bảo
+G_STR_KPLAYERDBFUNS_SHANGHUI	Nhiệm vụ thương hội
+G_STR_KPLAYERDBFUNS_GUANFU	Nhiệm vụ truy nã
+G_STR_KPLAYERDBFUNS_JUNYINGPLAY	Phó bản nhiệm vụ quân doanh ngày thường và chính tuyến
+G_STR_KPLAYERDBFUNS_DENGMI	Đoán hoa đăng
+G_STR_KPLAYERDBFUNS_LIFESKILL_WORKEXP	Tổng kinh nghiệm gia công kỹ năng sống
+G_STR_KPLAYERDBFUNS_LIFESKILL_MAKEEXP	Tổng kinh nghiệm chế tạo kỹ năng sống
+G_STR_KPLAYERITEM_MONEY_DROP	[Nơi]NPC rớt
+G_STR_KPLAYERITEM_MONEY_AMOUNT	Tổng
+G_STR_KPLAYERTRADE_TRADE	[Dịch chuyển]Giao dịch bình thường
+G_STR_KPLAYERTRADE_AMOUNT	Tổng
+KD_STR_SYSTEM	Hệ thống
+KD_STR_KIN_CALL_PREFIX	[Gia tộc]
+KD_STR_TONG_CALL_PREFIX	[Bang hội]
+KD_STR_TONG_ENVOY_CALL_DEF	Chưởng lệnh sứ
+G_STR_POINT	-
+G_Player_TiredTimeWarn1	<color=Red>Bạn đã online %d giờ<color>
+G_Player_TiredTimeWarn2	<color=Red>Bạn đã online %d giờ, hãy nghỉ ngơi, tập thể dục<color>
+G_Player_TiredTimeWarn3	<color=Red>Bạn đã mệt, chỉ nhận được 50% hiệu quả<color>
+G_Player_TiredTimeWarn4	<color=Red>Còn 5 phút sẽ vào thời gian mệt mỏi, hãy rời mạng nghỉ ngơi<color>
+G_Player_TiredTimeWarn5	<color=Red>Bạn đã online quá 5 giờ, không nhận được bất cứ hiệu quả nào.<color>
+MSG_SKILL_NOT_ALLOW	Không thể thi triển kỹ năng này

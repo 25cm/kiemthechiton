@@ -1,0 +1,54 @@
+[2022-05-17 17:08:57]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	5	Đẳng cấp nhân vật cao nhất đã mở đến cấp 200
+[2022-05-17 17:08:57]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	19	Điều chỉnh giới hạn đẳng cấp tham gia thi đấu môn phái
+[2022-05-17 17:08:57]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	4	Làm sao nhận được bạc
+[2022-05-17 17:08:57]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	6	05月17日国庆活动幸运卡民族
+[2022-05-17 17:09:12]	ATTEN	[Player]	Cap cao nhat 200
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	 Bạch Câu Hoàn 	nTimeFrameStartSale
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	 Bạch Câu Hoàn 	nTimeFrameEndSale
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	 Bạch Câu Hoàn 	36
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	Đại Bạch Câu Hoàn	nTimeFrameStartSale
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	Đại Bạch Câu Hoàn	nTimeFrameEndSale
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	Đại Bạch Câu Hoàn	180
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameStartSale
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameEndSale
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	540
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	Đặc Hiệu Bạch Câu Hoàn	nTimeFrameStartSale	53
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	Đặc Hiệu Bạch Câu Hoàn	nTimeFrameEndSale	100000
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	_LoadBaijuCoin	Đặc Hiệu Bạch Câu Hoàn	tbValue.nTimeFrameStartSale and tbValue.nTimeFrameEndSale	53	100000
+[2022-05-17 17:09:12]	INFO	[Player]	Offline	Đặc Hiệu Bạch Câu Hoàn	99999999
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	1
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	2
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	3
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	4
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	5
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	6
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	7
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	8
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	9
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	10
+[2022-05-17 17:09:12]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-17 17:09	11

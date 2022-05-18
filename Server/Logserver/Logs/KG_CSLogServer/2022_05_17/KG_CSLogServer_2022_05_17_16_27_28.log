@@ -1,0 +1,22 @@
+20220517-162728<INFO :00001808>: [KG_CSLogServer] starting ...
+20220517-162728<INFO :00001808>: [KG_CSLogServer] Loading KG_CSLogServer.ini
+20220517-162728<INFO :00001808>: [KG_CSLogServer] Init Socket thread ...
+20220517-162728<INFO :00001808>: start listen on 127.0.0.1:5100
+20220517-162728<INFO :00001808>: [KG_CSLogServer] Init Log thread ...
+20220517-162728<INFO :00001808>: [Database] character set switch to latin1
+20220517-162728<INFO :00001808>: [KG_CSLogServer] start success
+20220517-162752<INFO :000017F8>: [1] (127.0.0.1:52929) Connected
+20220517-162752<INFO :00001780>: [1] PacketID:1, Gateway "nadev" Login, Result = 1
+20220517-164012<ERROR:000017F8>: [1] (127.0.0.1:52929) Recv data error, disconnect it.
+20220517-164014<INFO :000017F8>: [2] (127.0.0.1:1986) Connected
+20220517-164014<INFO :00001780>: [2] PacketID:1, Gateway "nadev" Login, Result = 1
+20220517-164735<INFO :000017F8>: [3] (127.0.0.1:10690) Connected
+20220517-164743<ERROR:000017F8>: [3] (127.0.0.1:10690) Recv data error, disconnect it.
+20220517-164759<INFO :000017F8>: [4] (127.0.0.1:12738) Connected
+20220517-164810<ERROR:000017F8>: [4] (127.0.0.1:12738) Recv data error, disconnect it.
+20220517-165236<INFO :000017F8>: [5] (127.0.0.1:20930) Connected
+20220517-165236<INFO :00001780>: [5] PacketID:1, Gateway "nadev" Login, Result = 1
+20220517-170500<ERROR:000017F8>: [5] (127.0.0.1:20930) Recv data error, disconnect it.
+20220517-170633<INFO :000017F8>: [6] (127.0.0.1:36290) Connected
+20220517-170658<ERROR:000017F8>: [6] (127.0.0.1:36290) Recv data error, disconnect it.
+20220517-170659<ERROR:000017F8>: [2] (127.0.0.1:1986) Recv data error, disconnect it.

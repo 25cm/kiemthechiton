@@ -1,0 +1,1 @@
+Genre	Detail	Particular	Level	RandRate	Name	

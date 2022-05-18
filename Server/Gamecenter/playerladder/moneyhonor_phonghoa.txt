@@ -1,0 +1,51 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2013-08-11 00:04:21
+1	phonghoa	dendenthui	MáuLửa	 Thiên Nhẫn	 Ma Nhẫn	200	Nam	Không gia tộc	Không bang hội	806209
+2	phonghoa	tanlmtg	LeeSooIn	 Thiếu Lâm	 Đao Thiếu	200	Nam	Không gia tộc	Không bang hội	804246
+3	phonghoa	tuanthuya	sdfsdfsdfsdfa	 Đường Môn	 Tụ Tiễn	200	Nam	Không gia tộc	Không bang hội	797507
+4	phonghoa	phamvanthao	PhiêuPhiêu	 Thúy Yên	 Đao Thúy	200	Nam	zChiTonz	zSongLongz	785571
+5	phonghoa	thanhhnvn	IQconII	 Võ Đang	 Kiếm Võ	200	Nam	Không gia tộc	Không bang hội	785207
+6	phonghoa	tranthuduc	oMisaKi	 Võ Đang	 Khí Võ	200	Nữ	Không gia tộc	Không bang hội	784672
+7	phonghoa	kecondo	Nakata	 Thiếu Lâm	 Đao Thiếu	200	Nam	Không gia tộc	Không bang hội	782180
+8	phonghoa	vlkiemthelau	llllllllllllllll	 Võ Đang	 Kiếm Võ	200	Nữ	Không gia tộc	Không bang hội	781705
+9	phonghoa	petuyet	LýViêm	 Võ Đang	 Khí Võ	200	Nam	Không gia tộc	Không bang hội	780741
+10	phonghoa	lisstome	MinhAnh	 Minh Giáo	 Kiếm Minh	200	Nam	zChiTonz	zSongLongz	780166
+11	phonghoa	hunghq	HungCZ	 Minh Giáo	 Minh Giáo	200	Nam	Không gia tộc	Không bang hội	778102
+12	phonghoa	bigcucu	PhungNhi	 Võ Đang	 Khí Võ	200	Nữ	Không gia tộc	Không bang hội	777283
+13	phonghoa	cfgaww	MrPhúc	Đoàn Thị	 Chỉ Đoàn	200	Nam	Không gia tộc	Không bang hội	766110
+14	phonghoa	monkey	ChủTịchXã	 Thiên Vương	 Chùy Thiên	200	Nam	Quẩy	Xoắn	765839
+15	phonghoa	hienbun	DuyAnh	 Thiếu Lâm	 Đao Thiếu	200	Nam	Không gia tộc	Không bang hội	765757
+16	phonghoa	anhtuyen	NgườiSắt	 Thiên Nhẫn	 Chiến Nhẫn	200	Nam	Không gia tộc	Không bang hội	765739
+17	phonghoa	kephieubat	GàConlonton	 Thiên Nhẫn	 Ma Nhẫn	200	Nam	Không gia tộc	Không bang hội	763500
+18	phonghoa	judasr	Missssss	 Võ Đang	 Khí Võ	200	Nữ	Không gia tộc	Không bang hội	745163
+19	phonghoa	kenlytung	MrKenLy	 Thiên Nhẫn	 Ma Nhẫn	200	Nam	Không gia tộc	Không bang hội	744236
+20	phonghoa	epxinh	hoalong	 Minh Giáo	 Kiếm Minh	200	Nam	Không gia tộc	Không bang hội	740615
+21	phonghoa	xuanquan	ZzTriệuVânZz	 Cái Bang	 Chưởng Cái	200	Nam	zChiTonz	zSongLongz	711114
+22	phonghoa	maiyeusang	HạBàiĐiEm	 Minh Giáo	 Kiếm Minh	200	Nam	Không gia tộc	Không bang hội	695218
+23	phonghoa	tintin	BlueDragon	 Thúy Yên	 Kiếm Thúy	200	Nam	Không gia tộc	Không bang hội	668231
+24	phonghoa	johntoan	ViêmĐế	 Minh Giáo	 Kiếm Minh	200	Nam	Không gia tộc	Không bang hội	665559
+25	phonghoa	mrtucrazy	MrTuCraZy	 Thiên Vương	 Thương Thiên	200	Nam	Không gia tộc	Không bang hội	659458
+26	phonghoa	vipkiemthevip	S2NhocS2YeuVoS2	 Minh Giáo	 Kiếm Minh	200	Nam	Không gia tộc	Không bang hội	656540
+27	phonghoa	nammmm	TOPvsTEP	 Minh Giáo	 Kiếm Minh	200	Nam	Không gia tộc	Không bang hội	632943
+28	phonghoa	cunghia	TGDdayne	 Minh Giáo	 Kiếm Minh	200	Nam	Không gia tộc	Không bang hội	632567
+29	phonghoa	caonguyen	GiámĐốc	 Võ Đang	 Khí Võ	200	Nam	Không gia tộc	Không bang hội	610021
+30	phonghoa	alokiem	RồngTrungHoa	 Thiên Vương	 Thương Thiên	200	Nam	Không gia tộc	Không bang hội	573710
+31	phonghoa	langtu	DocThu	 Ngũ Độc	 Đao Độc	200	Nam	zChiTonz	zSongLongz	564758
+32	phonghoa	bykimm	NhìnGìMày	 Võ Đang	 Khí Võ	200	Nam	Không gia tộc	Không bang hội	550957
+33	phonghoa	kipphong	Trâubò	 Thiên Nhẫn	 Chiến Nhẫn	200	Nữ	Không gia tộc	Không bang hội	531781
+34	phonghoa	tuthekidtt	ThùyTrang	 Ngũ Độc	 Đao Độc	200	Nữ	Không gia tộc	Không bang hội	516748
+35	phonghoa	petuyetls	HoàngTửLs	 Thiên Nhẫn	 Ma Nhẫn	200	Nam	Không gia tộc	Không bang hội	419019
+36	phonghoa	kakaden	ZzChemzZ	 Võ Đang	 Khí Võ	200	Nam	Không gia tộc	Không bang hội	415796
+37	phonghoa	taiviplove	chuaoichua	Đoàn Thị	 Chỉ Đoàn	200	Nam	Không gia tộc	Không bang hội	414953
+38	phonghoa	kinhcucz	ProBanXoi	 Cái Bang	 Cái Bang	200	Nam	Không gia tộc	Không bang hội	373780
+39	phonghoa	bodeosoai	BốĐéoSợAi	 Võ Đang	 Khí Võ	200	Nam	Không gia tộc	Không bang hội	319781
+40	phonghoa	bekoisexy	ThanhLong	 Thiên Nhẫn	 Ma Nhẫn	200	Nam	Không gia tộc	Không bang hội	317815
+41	phonghoa	linhlinh	HỗTrợGame	 Đường Môn	 Hãm Tĩnh	200	Nam	Administrato	GameMasTer	297514
+42	phonghoa	anhyeucoi	LonTrau	 Thiếu Lâm	 Đao Thiếu	200	Nam	Không gia tộc	Không bang hội	268324
+43	phonghoa	asbinhbd	ZzTheMenzZ	 Thiên Vương	 Thương Thiên	200	Nam	Không gia tộc	Không bang hội	266842
+44	phonghoa	nocafe	tocbac	 Thiếu Lâm	 Đao Thiếu	200	Nam	Không gia tộc	Không bang hội	219168
+45	phonghoa	spzeromh	SpZero	 Thiếu Lâm	 Thiếu Lâm	200	Nam	Không gia tộc	Không bang hội	217453
+46	phonghoa	nhatngacv	Administrator	 Thúy Yên	 Thúy Yên	200	Nam	Không gia tộc	Không bang hội	197439
+47	phonghoa	balell	MarcoReus89	 Võ Đang	 Khí Võ	200	Nam	Không gia tộc	Không bang hội	168432
+48	phonghoa	johntoanz	Credit	 Nga My	 Nga My	200	Nữ	Không gia tộc	Không bang hội	72000
+49	phonghoa	tungkgmt	MìXàoCứt	Chưa	Chưa	200	Nam	Không gia tộc	Không bang hội	50000
+50	phonghoa	chiplovelove	SatThuBaVuong	Chưa	Chưa	200	Nam	Không gia tộc	Không bang hội	20226

@@ -1,0 +1,4 @@
+Genre	Detail	Particular	Level	RandRate	Name
+18	1	200	1	80000	huyet anh thuong   
+18	1	3046	1	30000	ruong mg
+18	1	3019	1	30000	ruong vp	

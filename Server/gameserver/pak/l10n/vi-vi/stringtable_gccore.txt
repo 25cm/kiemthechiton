@@ -1,0 +1,148 @@
+key	value
+KD_STR_SYSTEM	Hệ thống
+KD_STR_ANNOUNCE	Thông báo
+KD_STR_TRAINING_APPLYINGTEACHER	Xin chào! Tôi muốn nhận bạn làm Sư phụ, đồng ý chứ? [Gợi ý: Có thể nhấn phím H mở giao diện Sư đồ, nhấp tắt\"Ta muốn bái sư\", sẽ không còn nhận được tin chat mật này nữa]
+KD_STR_TRAINING_APPLYINGSTUDENT	Xin chào! Tôi muốn nhận bạn làm đệ tử, đồng ý chứ? [Gợi ý: Có thể nhấn phím H mở giao diện Sư đồ, nhấp tắt\"Ta muốn bái sư\", sẽ không còn nhận được tin chat mật này nữa]
+KD_STR_TRAINING_REFUSEAPPLYINGTEACHER	"%s từ chối làm sư phụ của bạn, tán gẫu hoặc vào giao diện Sư đồ để chọn sư phụ khác"
+KD_STR_TRAINING_REFUSEAPPLYINGSTUDENT	"%s từ chối làm đồ đệ của bạn, tán gẫu hoặc vào giao diện Sư đồ để chọn đồ đệ khác"
+KD_STR_TRAINING_BREAK_CAPTION	Thông báo hủy quan hệ sư đồ
+KD_STR_TRAINING_BREAK_TEACHERMAIL	"Do %s quá %d ngày không liên lạc, đã bị bạn hủy quan hệ sư đồ. Có thể liên hệ %s thiết lập lại!"
+KD_STR_TRAINING_BREAK_STUDENTMAIL	"Do bạn vượt quá %d ngày không liên lạc, đã bị %s hủy quan hệ sư đồ. Có thể liên hệ %s thiết lập lại!"
+KD_STR_TRAINING_STUDENTONLINEHINT	Giờ bạn có thể bái sư! Mở giao diện sư đồ để xem hướng dẫn.
+KD_STR_TRAINING_TEACHERONLINEHINT	Giờ bạn có thể nhận đồ đệ! Mở giao diện sư đồ để xem hướng dẫn.
+KD_STR_TRAINING_STUDENTONLINEMAIL	<pic=\\image\\ui\\001a\\mail\\training.spr><goto=0,0> Hiện giờ bạn đã có thể bái sư! Sư phụ sẽ giúp ít cho bạn rất nhiều trong quá trình hành tẩu giang hồ! Bạn chỉ có thể nhận một người làm sư phụ, vì vậy phải biết tôn kính sư phụ! Chi tiết có thể xem tại <link=openwnd:Cẩm nang trợ giúp,UI_HELPSPRITE>
+KD_STR_TRAINING_TEACHERONLINEMAIL	<pic=\\image\\ui\\001a\\mail\\training.spr><goto=0,0>   Bạn bây giờ đã có thể thu đồ đệ. Đồ đệ sẽ trở thành mật hữu của bạn. Chi tiết có thể xem thêm trong <link=openwnd:Giao diện sư đồ,UI_TEACHER>
+KD_STR_TRAINING_CREATERELATION	Bạn đã tạo quan hệ sư đồ với %s!
+KD_STR_TRAINING_MAILHEAD_STUDENTHINT	Cách thăng cấp nhanh nhất!
+KD_STR_TRAINING_MAILHEAD_TEACHERHINT	Thông báo nhận đồ đệ
+KD_STR_TRAINING_BUDDY1	Bạn đã trở thành mật hữu của %s
+KD_STR_TRAINING_BUDDY2	%s đã trở thành mật hữu của bạn
+KD_STR_TRAINING_GRADUATE_TOSTUDENT	Chúc mừng! Bạn đã xuất sư!
+KD_STR_TRAINING_GRADUATE_TOTEACHER	Đệ tử %s của bạn đã xuất sư!
+KD_STR_NO_MAILCOST	"Không đủ tiền, gửi thất bại!"
+KD_STR_NOTSYNCEND	Chưa thể thêm hảo hữu. Hãy thử lại sau!
+KD_STR_INTRODUCED	[%s] đã thành người được bạn giới thiệu
+KD_STR_INTRODUCER	[%s] đã thành người giới thiệu bạn
+KD_STR_INTRODUCER_MAXNUMBER	"Số lượng mật hữu đã đạt tối đa, không thể thêm thành người giới thiệu nữa!"
+KD_STR_INTRODUCED_MAXNUMBER	"Số lượng mật hữu của [%s] đã đạt tối đa, không thể thêm bạn nữa."
+KD_STR_BLACKLIST_UPTO_MAX	"Số người trong sổ đen của bạn đã đạt đối đa, không thể thêm nữa!"
+KD_STR_FRIEND_UPTO_MAX	"Danh sách hảo hữu đã đầy, có thể sử dụng IB để mở rộng danh sách hoặc xóa bớt tên."
+KD_STR_BUDDY	Bạn và [%s] trở thành mật hữu.
+KD_STR_MAKEFRIEND	Bạn và [%s] trở thành hảo hữu.
+KD_STR_BLACKLIST	Bạn đã thêm [%s] vào sổ đen.
+KD_STR_ENEMEY	Bạn đã thêm [%s] vào cừu nhân.
+KD_STR_FIRENDALREADY	Bạn và [%s] đã là hảo hữu rồi!
+KD_STR_ADDFREINED_FALSE	"Thêm [%s] thành hảo hữu thất bại, có thể đối phương không tồn tại."
+KD_STR_HAVERELATION	"Thêm thất bại, bạn và [%s] đã có quan hệ rồi. Xin hủy quan hệ cũ trước rồi thêm lại!"
+KD_STR_PLAYERISNOTONLINE	"Thêm thất bại, có thể đối phương đã rời mạng."
+KD_STR_MAKEFRIEND_FALSE	"Thêm thất bại, đối phương đã rời mạng hoặc không phù hợp trở thành hảo hữu của bạn."
+KD_STR_UPTO_MAXCOUNT	Số người bạn có thể dung nạp đã đạt tối đa!
+KD_STR_MAKE_BIDRELATION	"Bạn và %s chính thức trở thành hảo hữu, có thể tổ đội cùng luyện công để tăng thân mật"
+KD_STR_JBEXCHANGE_BILLOVERTIME	"<color=green>Bạn gửi lệnh giao dịch quá 1 tuần chưa giao dịch được, hệ thống tự động trả lại!"
+KD_STR_JBEXCHANGE_BILLOVERTIME_TITLE	Thông báo việc trả lại đồng khi giao dịch
+KD_STR_JBEXCHANGE_TRADE_ADDBILLFAIL	Gửi lệnh thất bại! Xin bạn thông cảm!
+KD_STR_JBEXCHANGE_ADDCASHTOACCOUNT	Gửi lệnh thất bại. Bạc hoặc đồng đã được trả lại! Xin bạn thông cảm!
+KD_STR_JBEXCHANGE_LOGTRADE_GIVE	Dùng %u bạc làm đơn giá bán thành công %d đồng
+KD_STR_JBEXCHANGE_LOGTRADE_GAIN	Dùng %u bạc làm đơn giá mua thành công %d đồng
+KD_STR_JBEXCHANGE_LOGADDBILL_GIVE	Dùng %u bạc làm đơn giá để bán %d đồng. Gửi lệnh thành công
+KD_STR_JBEXCHANGE_LOGADDBILL_GAIN	Dùng %u bạc làm đơn giá đặt mua %d đồng
+KD_STR_JBEXCHANGE_APPLY_SELLBILL	Xin phép dùng %d bạc làm đơn giá để bán ra %d đồng
+KD_STR_JBEXCHANGE_CANCEL_BILL_BUY	"Dùng %u bạc làm đơn giá để mua đồng, còn %u đơn hàng chưa giao dịch đã bị hủy bỏ"
+KD_STR_JBEXCHANGE_CANCEL_BILL_SELL	"Xin phép hủy bỏ, lấy %u bạc làm đơn giá để bán đồng, còn %u đơn hàng chưa giao dịch"
+KD_STR_JBEXCHANGE_CANCELRESULT_SELL	"Hủy bỏ kết quả [%s], lấy %u bạc làm đơn giá để bán đồng, còn %u chưa giao dịch"
+KD_STR_JBEXCHANGE_FREEZESTATE	Cơ số đồng: %d; Hành vi: %s; Kết quả: %s
+KD_STR_JBEXCHANGE_COINTRANSFER_RESULT	Kết quả chuyển khoản đồng. Chuyển: %s; Nhận: %s; Cơ số: %d; Kết quả: %d
+KD_STR_JBEXCHANGE_COINTRANSFER_APPLY	Xin phép chuyển khoản đồng. Chuyển: %s; Nhận: %s; Cơ số: %d; Kết quả: %d
+KD_STR_KIN_CALL_PREFIX	[Gia tộc]
+KD_STR_TONG_CALL_PREFIX	[Bang hội]
+KD_STR_TONG_ENVOY_CALL_DEF	Chưởng lệnh sứ
+KD_STR_IBBACKMAIL_TITLE	Hiển thị mật hữu trả lời
+KD_STR_IBBACKMAIL_CONTENT	"<color=green>Mật hữu của bạn đã tiêu phí tại Kỳ Trân Các, bạn sẽ nhận được đồng khóa, hãy đến Tân thủ thôn gặp Diệp Chỉ Lâm để nhận.<color>"
+G_STR_PLAYERACTION_JOINFAMILY	Gia nhập gia tộc
+G_STR_PLAYERACTION_LEAVEFAMILY	Rời gia tộc
+KD_STR_IBBACLMAIL_TIMEOVER	"  Do mật hữu %s đã đáo hạn phần thưởng tiêu phí một năm, sau này bạn sẽ không nhận được tiền huê hồng từ Kỳ Trân Các khi người này mua vật phẩm nữa!"
+KD_STR_IBBACK_TIMEOVER_RECEIVER	Quan hệ mật hữu đã tròn 1 năm, không thể nhận mật hữu hoàn trả từ %s
+KD_STR_IBBACK_TIMEOVER_SENDER	Quan hệ mật hữu đã tròn 1 năm, không cần cung cấp mật hữu hoàn trả cho %s
+KD_STR_BINDFRIEND_TYPE	Hảo hữu thường
+KD_STR_TRAINING_TYPE	Sư đồ chưa xuất sư
+KD_STR_TRAINED_TYPE	Sư đồ xuất sư
+KD_STR_INTRODUCTION_TYPE	Người giới thiệu
+KD_STR_BUDDY_TYPE	Chỉ định mật hữu
+KD_STR_PLAYERLOG_APPLYDELETE	Xóa [%s] khỏi quan hệ %s.
+KD_STR_PLAYERLOG_TARGETDELETE	 bị [%s] xóa khỏi quan hệ %s.
+KD_STR_BACKMAILMSG_NEXTDAY	Thư sẽ bị trả về sau 1 ngày.
+KD_STR_BACKMAILMSG	Hộp thư của <color=yellow>%s<color> đã đầy, gửi thất bại!
+KD_STR_AUCTION_OPER_TOO_FAST	Xin đừng thao tác quá nhanh
+KD_STR_AUCTION_NAMESEARCH_TOO_FAST	Sau khi chọn "Tìm theo tên", hãy đợi <color=yellow>5 giây<color>!
+KD_STR_AUCTION_0PER_WAITING	Bước thao thác trước bạn vẫn chưa hoàn tất
+KD_STR_AUCTION_FAILED_MAIL_TO_PLAYER	"Đấu giá thất bại, phí thủ tục và vật phẩm đã được gửi đến hộp thư."
+KD_STR_BUY_UPDATE_FAILED_MAILED	"Thao tác thất bại, tiền khấu trừ đã được trả lại vào hộp thư."
+KD_STR_AUCTION_OPER_SUC	Thao tác thành công
+KD_STR_AUCTION_OPER_FAILED_LOCKED	Thao tác thất bại. Hãy thử lại sau!
+KD_STR_AUCTION_ONETIME_BUYFAIL	"Thao tác thất bại, vật phẩm bạn đấu giá đã bị người khác mua rồi!"
+KD_STR_AUCTION_CANCEL_FAILED_UPDATE	Thao tác thất bại, vật phẩm này đã bị người khác bỏ giá!
+KD_STR_AUCTION_OPER_WRONG_RULE	Bạn không có quyền thực hiện thao tác này
+KD_STR_AUCTION_OPER_PAYED_MONEY_FAILED	Bạn không mang đủ tiền!
+KD_STR_AUCTION_OPER_UNKNOWN	Thao tác thất bại
+KD_STR_AUCTION_OPER_SUC_MAIL	Thao tác thành công! Vật phẩm đã chuyển đếp hộp thư của bạn!
+KD_STR_AUCTION_OPER_SELLITEMSUCCESS	Gửi vật đấu giá thành công. Tên vật phẩm: %s, Giá chót: %d, Giá khởi điểm: %d
+KD_STR_AUCTION_OPER_SELLITEMFAIL	"Gửi vật đấu giá thất bại. Thông qua hộp thư để trả lại! Tên: %s, Giá chót: %d, Giá khởi điểm: %d"
+KD_STR_AUCTION_OPER_AUCTIONFAIL_BACKMONEY	"Đấu giá vật phẩm thất bại, tiền khấu trừ đã được trả lại vào hộp thư. Số tiền: %d"
+KD_STR_AUCTION_OPER_AUCTION	Hủy đấu giá thành công. Vật phẩm thao tác: G: %d, D: %d, P: %d, L: %d
+KD_STR_AUCTION_OPER_TIMEOUT	Vật đấu giá đã quá hạn. Vật phẩm trả lại G: %d, D: %d, P: %d, L: %d
+KD_STR_AUCTION_OPER_COMPETE_FAIL	[%s] đấu giá [%s] thất bại, hoàn trả %d lượng
+KD_STR_AUCTION_OPER_SELLERE	Giao dịch thành công với [%s], nhận được %d bạc, đã gửi vào hộp thư
+KD_STR_AUCTION_OPER_BUYER	Giao dịch thành công với [%s], nhận được G: %d, D: %d, P: %d, L: %d, đã gửi vào hộp thư
+KD_STR_AUCTION	Đấu giá
+KD_STR_AUCTION_MAIL_CONTENT_CANCLE	Hủy đấu giá thành công. Đây là vật bạn hủy đấu giá
+KD_STR_AUCTION_MAIL_CONTENT_ONETIME_SUC	Giao dịch thành công, vật phẩm trong hộp thư
+KD_STR_AUCTION_MAIL_CONTENT_ONETIME_TO_BUYER	Vật bạn tranh mua đã bị người khác mua với giá chót
+KD_STR_AUCTION_MAIL_CONTENT_ONETIME_TO_SELLER	Vật bạn đấu giá đã bị người khác mua với giá chót
+KD_STR_AUCTION_MAIL_CONTENT_ONETIME_FAILED	"Giao dịch thất bại, tiền được trả lại"
+KD_STR_AUCTION_MAIL_CONTENT_UPDATE_SUC_TO_BUYER	Vật phẩm của bạn đang được đấu giá
+KD_STR_AUCTION_MAIL_CONTENT_COMPETE_FAILED	"Đấu giá thất bại, tiền của bạn được trả lại"
+KD_STR_AUCTION_MAIL_EXPIRE_MONEY_BACK_EXPIRE	Vật bạn đấu giá đã bị người khác trả cao hơn
+KD_STR_AUCITON_MAIL_EXPIRE_MONEY_BACK_SELLER	Vật đấu giá của bạn được người khác trả cao hơn
+KD_STR_AUCTION_MAIL_EXPIRE_ITEM_BACK_EXPIRE	"Vật đấu giá đã quá hạn, hệ thống trả lại!"
+KD_STR_AUCTION_MAIL_EXPIRE_ITEM_BACK_COMPTE	Đấu giá thành công
+KD_STR_AUCTION_MAIL_AUCTION_FAILED	Đấu giá thất bại, hãy thử lại sau!
+G_STR_KGC_LADDERMANAGER_TITLE	 Thế Giới
+G_STR_KGC_LADDERMANAGER_LEVEL	Cấp %d
+G_STR_KGC_LADDERMANAGER_JIAZHU	Gia tộc: %s
+G_STR_KGC_LADDERMANAGER_BANGHUI	Bang hội: %s
+G_STR_KGC_LADDERMANAGER_NOT_BANGHUI	Không phải thành viên bang
+G_STR_KGC_LADDERMANAGER_NOT_JIAZHU	Không phải thành viên gia tộc
+G_STR_KGC_LADDERMANAGER_GLORY1	Điểm vinh dự: %d
+G_STR_KGC_LADDERMANAGER_GLORY2	"Điểm vinh dự: %d\nNhấn danh sách có thể xem hạng người khác và mình\nChủ tiền trang mở tiệm Hồn Thạch, có thể mua trang bị quan trọng nhất - Phi phong\n"
+G_STR_KGC_LADDERMANAGER_GLORY3	Điểm vinh dự: %d
+G_STR_KGC_LADDERMANAGER_GLORY4	Điểm vinh dự: %d\nNhấn danh sách có thể xem hạng người khác và mình\n
+G_STR_KGC_LADDERMANAGER_GLORY5	%s vinh dự
+G_STR_KGC_LADDERMANAGER_NOMENPAI	Chưa vô phái
+G_STR_KGC_LADDERMANAGER_SHAOLIN	Thiếu Lâm
+G_STR_KGC_LADDERMANAGER_TIANWANG	Thiên Vương
+G_STR_KGC_LADDERMANAGER_TANGMEN	Đường Môn
+G_STR_KGC_LADDERMANAGER_WUDU	Ngũ Độc
+G_STR_KGC_LADDERMANAGER_WMEI	Nga My
+G_STR_KGC_LADDERMANAGER_CHUIYAN	Thúy Yên
+G_STR_KGC_LADDERMANAGER_GAIBANG	Cái Bang
+G_STR_KGC_LADDERMANAGER_TIANREN	Thiên Nhẫn
+G_STR_KGC_LADDERMANAGER_WUDANG	Võ Đang
+G_STR_KGC_LADDERMANAGER_KUNLUN	Côn Lôn
+G_STR_KGC_LADDERMANAGER_MINGJIAO	Minh Giáo
+G_STR_KGC_LADDERMANAGER_DUANSHI	Đoàn Thị
+G_STR_KGC_LADDERMANAGER_WULIN_GLORY	Võ Lâm
+G_STR_KGC_LADDERMANAGER_MENPAI_GLORY	Môn Phái
+G_STR_KGC_LADDERMANAGER_COMPETE_GLORY	Liên Đấu
+G_STR_KGC_LADDERMANAGER_LEADER_GLORY	Thủ Lĩnh
+G_STR_KGC_LADDERMANAGER_WEALTH_GLORY	Tài Phú
+G_STR_KGC_LADDERMANAGER_SONGJIN_GLORY	Tống Kim
+G_STR_KGC_LADDERMANAGER_NEWYEAR_GLORY	Năm Mới
+K_WORLD	Thế
+K_CITY	Thành
+K_TEAM	Nhóm
+K_NEARBY	Gần
+K_FACTION	Phái
+K_KIN	Tộc
+K_TONG	Bang
+K_TONGUNION	Minh
+K_FRIEND	Bạn

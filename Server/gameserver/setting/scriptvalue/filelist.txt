@@ -1,0 +1,10 @@
+TableName	FilePath	Desc
+_G	\setting\scriptvalue\global.txt	Bảng toàn cục
+EventManager	\setting\scriptvalue\eventmanager.txt	Bảng hệ thống hoạt động
+Item	\setting\scriptvalue\item.txt	Bảng vật phẩm
+Mail	\setting\scriptvalue\mail.txt	Bảng thư
+Npc	\setting\scriptvalue\npc.txt	Bảng Npc
+Task	\setting\scriptvalue\task.txt	Bảng nhiệm vụ
+UiManager	\setting\scriptvalue\uimanager.txt	Bảng Ui Client
+DrangonBoat	\setting\scriptvalue\dragonboat.txt	Bảng thuyền Rồng
+FightSkill	\setting\scriptvalue\fightskill.txt	Bảng kỹ năng

@@ -1,0 +1,17 @@
+nActiveId	nSubId	szName	szInfo	nMaxCount	nGrade	nWeek	nDownLevel	nUpLevel	nTimerFrame	bOneOff
+1	2501	Đăng nhập	Đăng nhập nhận 2 điểm năng động	1	2					
+2	2518	Mở Tu luyện bí cảnh 1 lần	Mở 1 lần Tu luyện bí cảnh, nhận 15 điểm năng động	1	15			50		
+3	2505	Vượt ải Tiêu Dao Cốc 1 lần	Vượt 1 lần Tiêu Dao Cốc, nhận 20 điểm năng động	1	20			50		
+4	2506	Thu thập 1 Thẻ Tiêu Dao Lục	Thu thập 1 tấm thẻ bài Tiêu Dao Lục nhận 10 điểm năng động	1	10			100		
+5	2523	Tham gia thi đấu môn phái 1 lần	Tham gia 1 lần Thi đấu môn phái, nhận 20 điểm năng động	1	20	2,4		50		
+6	2525	Tham gia Lãnh thổ tranh đoạt chiến	Tham gia lãnh thổ tranh đoạt chiến, nhận 20 điểm năng động	1	20	5,7		80		
+7	2526	Hoàn thành nhiệm vụ quân doanh 1 lần	Hoàn thành 1 lần Phó bản quân doanh hay nhiệm vụ hằng ngày, nhận 10 điểm năng động	1	10			90		
+8	2527	Dùng 10 Du Long Chiến Thư	Vào Mật Thất Du Long, sử dụng Du Long Chiến Thư khiêu chiến Thiên Thiên 10 lần, nhận 20 điểm năng động	10	20			100		
+9	2531	Hoàn thành 1 trận Mông Cổ Tây Hạ	Hoàn thành (Nhận thưởng) 1 trận Mông Cổ Tây Hạ, nhận 20 điểm năng động	1	20			60		
+10	2534	Tham gia 1 trận vượt Bạch Hổ Đường	Tham gia 1 trận vượt Bạch Hổ Đường, nhận 12 điểm năng động	1	10			50		
+11	2524	Nhóm tiêu diệt 1 boss thế giới	Nhóm tiêu diệt boss thế giới, boss cấp 55, 75, 95 đều có thể nhận 10 điểm năng động	1	10			55		
+12	2524	Nhóm tiêu diệt 1 boss Tần Thuỷ Hoàng	Nhóm tiêu diệt boss Tần Thuỷ Hoàng đều có thể nhận 10 điểm năng động	1	10			55		
+13	2542	Sửa trang bị	Sửa trang bị, nhận 8 điểm năng động	1	8					1
+14	2522	Hoàn thành nhiệm vụ truy nã 6 lần	Hoàn thành nhiệm vụ truy nã 6 lần, nhận 10 điểm năng động	6	10			50		
+15	2543	Sử dụng thực phẩm	Sử dụng thực phẩm mua ở chỗ Đại Lão Bạch tại các Tân Thủ Thôn và các thành, nhận 7 điểm năng động	1	7					1
+16	2528	Tăng độ thân mật đồng hành	Tăng độ thân mật đồng hành lớn hơn 1 điểm, nhận 20 điểm năng động	1	20			100		

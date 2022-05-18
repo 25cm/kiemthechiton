@@ -1,0 +1,2 @@
+Index	NpcId	TRPOSX	TRPOSY	备注
+1	2953	56128	95392	开启青龙白虎等

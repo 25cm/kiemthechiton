@@ -1,0 +1,570 @@
+20220518-150019<DEBUG:00001FD8>: [PrevInitCore]:1, start tickers = 76847717442761
+20220518-150021<DEBUG:00001FD8>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 6402093546
+20220518-150022<ERROR:00001FD8>: GetInteger(12, 1) failed !
+20220518-150022<ERROR:00001FD8>: NpcTemplate[20155] not found!
+20220518-150022<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150023<ERROR:00001FD8>: NpcTemplate[20121] not found!
+20220518-150024<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150024<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150025<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150030<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150030<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150033<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150034<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150034<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150037<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-150038<DEBUG:00001FD8>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-150041<WARN :00001FD8>: LostFps: 340 (+340)
+20220518-150042<WARN :00001FD8>: LostFps: 0 (-340)
+20220518-150156<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150157<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150207<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-150247<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150257<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-150318<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150323<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150333<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-150346<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150347<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150348<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150349<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150350<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150351<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150352<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150353<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150354<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150355<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150356<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150357<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150358<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150358<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150359<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150400<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150400<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150401<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150401<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150402<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150403<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150404<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150405<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150405<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150405<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150406<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150406<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150407<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150408<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150409<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150410<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150411<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150412<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150413<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150414<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150415<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150416<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150417<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150418<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150419<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150421<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150422<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150423<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150424<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150425<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150426<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150426<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150427<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150427<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150428<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150428<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150429<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150429<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150430<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150430<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150431<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150431<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150431<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150431<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150431<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150432<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150433<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150434<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150435<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150436<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150437<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150437<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150438<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150439<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150441<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150447<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150448<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150449<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150450<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150451<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150452<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150452<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150453<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150454<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150454<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150455<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150455<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150456<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150457<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150458<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150458<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150459<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150500<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150500<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150501<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150502<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150503<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150504<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150505<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150505<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150506<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150507<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150507<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150508<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150509<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150509<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150510<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150511<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150511<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150512<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150513<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150513<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150514<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150515<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150515<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150516<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150517<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150517<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150518<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150519<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150519<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150520<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150521<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150521<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150522<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150523<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150523<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150524<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150525<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150525<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150526<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150527<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150527<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150528<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150529<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150529<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150530<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150531<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150531<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150532<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150533<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150533<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150534<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150535<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150535<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150536<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150537<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150537<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150538<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150539<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150539<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150540<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150541<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150541<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150542<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150543<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150543<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150544<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150545<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150545<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150546<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150547<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150547<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150548<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150549<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150549<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150550<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150551<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150551<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150552<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150553<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150553<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150554<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150555<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150555<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150556<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150557<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150557<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150558<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150559<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150559<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150600<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150601<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150601<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150601<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150601<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150601<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150602<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150603<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150603<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150604<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150605<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150605<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150606<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150607<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150607<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150608<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150609<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150609<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150610<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150611<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150611<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150612<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150613<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150613<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150614<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150615<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150615<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150616<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150617<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150617<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150618<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150618<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150619<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150629<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-150807<INFO :00001FD8>: [Action]	IB_ApplyBuyCoinItem	[Info]	p�	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994102	[ItemTypeInfo]	18-1-118-2	[ItemGUID]	---	[nCount]	0
+20220518-150807<INFO :00001FD8>: [[Ok]]	IB_BuyItem_Ret	[Info]	ActionSuccess	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994102	[ItemTypeInfo]	18-1-118-2	[ItemGUID]	[1]:2336991876757876321	[2]:7150625967906711668	[3]:7310018658786307183	[4]:-6360242210524467611	[5]:4764923230261890080		[nCount]	5
+20220518-150807<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150809<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150813<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150816<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150818<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150820<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150821<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-150821<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-150821<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-150830<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-150926<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150935<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150940<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150940<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150941<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-150951<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-151019<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151021<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151021<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151022<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151023<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151024<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151025<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151035<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-151046<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151048<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151049<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151059<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-151105<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151107<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151108<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151109<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151110<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151111<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151112<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151122<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-151124<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151134<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-151232<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151242<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-151243<ERROR:00001FD8>: GetInteger(2, Money) failed !
+20220518-151243<ERROR:00001FD8>: GetInteger(2, BindMoney) failed !
+20220518-151243<ERROR:00001FD8>: GetInteger(2, LuckyRate) failed !
+20220518-151313<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151320<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151321<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151331<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-151853<INFO :00001FD8>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:12 BindCoin Price:130)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-5	[ItemGUID]	---	[nCount]	0
+20220518-151853<INFO :00001FD8>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:17 BindCoin Price:1690)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-7	[ItemGUID]	---	[nCount]	0
+20220518-151853<INFO :00001FD8>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:51 BindCoin Price:28800)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-9	[ItemGUID]	---	[nCount]	0
+20220518-151853<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151859<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151901<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151903<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151905<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151910<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151915<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151917<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151920<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151923<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151927<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151929<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151934<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151938<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151944<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-151951<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152001<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-152003<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152010<INFO :00001FD8>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:3 BindCoin Price:375000)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-11	[ItemGUID]	---	[nCount]	0
+20220518-152010<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152020<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-152021<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152031<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-152040<INFO :00001FD8>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:15 BindCoin Price:130)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-5	[ItemGUID]	---	[nCount]	0
+20220518-152040<INFO :00001FD8>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:15 BindCoin Price:1690)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-7	[ItemGUID]	---	[nCount]	0
+20220518-152040<INFO :00001FD8>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:41 BindCoin Price:28800)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-9	[ItemGUID]	---	[nCount]	0
+20220518-152040<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152046<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152048<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152049<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152051<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152053<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152055<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152058<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152101<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152102<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152104<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152106<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152108<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152111<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152113<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152117<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152120<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152123<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152131<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152141<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-152143<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152147<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152157<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-152259<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152300<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152301<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152303<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152304<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152305<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152306<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152308<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152309<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152310<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152311<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152311<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152311<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152312<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152313<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152314<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152315<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152316<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152317<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152319<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152320<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152321<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152322<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152322<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152323<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152324<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152325<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152326<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152326<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152327<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152328<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152329<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152330<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152331<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152332<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152333<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152334<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152335<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152336<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152337<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152338<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152339<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152341<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152342<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152343<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152344<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152345<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152346<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152349<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152351<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152351<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152352<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152353<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152354<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152356<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152357<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152358<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152359<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152400<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152401<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152402<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152403<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152404<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152405<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152406<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152407<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152408<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152409<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152410<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152411<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152412<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152413<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152414<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152415<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152416<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152417<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152418<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152419<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152420<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152421<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152423<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152424<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152425<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152426<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152427<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152428<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152429<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152430<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152431<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152432<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152433<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152434<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152435<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152436<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152437<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152438<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152439<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152449<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-152616<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152618<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152629<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-152632<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152634<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152635<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152636<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152646<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-152654<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152704<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data
+20220518-152730<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152733<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152734<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152735<INFO :00001FD8>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-152745<INFO :00001FD8>: [Player]MaNhẫn05 Excute Save Data

@@ -1,0 +1,6 @@
+Name	Value	Desc
+IVER_nShengXiaTuiGuanYuan	0	Tắt/mở Đại sứ Thịnh Hạ
+IVER_szTianLao	Cai Ngục Thiên Lao: Bạn còn %s tiếng %s phút %s giây mới có thể xuất ngục! Ngoan ngoãn về đó ngồi! Nếu muốn ra sớm thì hãy liên hệ bộ phận khách hàng.
+IVER_szTianLaoForever	Cai Ngục Thiên Lao: Ngươi đã bị nhốt vĩnh viễn! Muốn ra, liên hệ bộ phận khách hàng.
+IVER_nTuiGuanYuan	0	Tắt/mở Sứ Giả Hoạt Động
+IVER_CangBaoTuNpcStrong	1.2	Bội số Tàng Bảo Đồ boss và cường độ quái

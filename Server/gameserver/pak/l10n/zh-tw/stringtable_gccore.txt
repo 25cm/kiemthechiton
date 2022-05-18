@@ -1,0 +1,156 @@
+key	value
+KD_STR_SYSTEM	系統
+KD_STR_ANNOUNCE	公告
+KD_STR_TRAINING_APPLYINGTEACHER	你好，我想拜你為師，可以嗎？[提示：您可以按H打開師徒面板，勾掉\"我要拜師\"，將不再收到此密聊信息]
+KD_STR_TRAINING_APPLYINGSTUDENT	你好，有興趣做我的徒弟嗎？我可以帶著你一起成長。[提示：您可以按H打開師徒面板，勾掉\"我要拜師\"，將不再收到此密聊信息]
+KD_STR_TRAINING_REFUSEAPPLYINGTEACHER	%s拒絕成為你的師父，你們可以再聊聊或者通過師徒面板尋找其他合適的師父
+KD_STR_TRAINING_REFUSEAPPLYINGSTUDENT	%s拒絕成為你的徒弟，你們可以再聊聊或者通過師徒面板尋找其他合適的徒弟
+KD_STR_TRAINING_BREAK_CAPTION	師徒關系解除通知
+KD_STR_TRAINING_BREAK_TEACHERMAIL	由於您的弟子%s超過%d天沒有報道，已經你解除了師徒關系。您可以與%s聯系確認原因，重新建立師徒關系。
+KD_STR_TRAINING_BREAK_STUDENTMAIL	由於您超過%d天沒有報道，已經和%s解除了師徒關系。您可以重新找一個師父或者與%s重新建立師徒關系。
+KD_STR_TRAINING_STUDENTONLINEHINT	你現在已經可以拜師了，有一個師傅會讓你的江湖閱曆更加豐富，成長更快，你可以打開師徒面板查詢拜師相關的內容。
+KD_STR_TRAINING_TEACHERONLINEHINT	你現在已經可以招收弟子了，你可以打開師徒面板查詢關於招收弟子的內容。
+KD_STR_TRAINING_STUDENTONLINEMAIL	<pic=\\image\\ui\\001a\\mail\\training.spr><goto=0,0>   您現在已經可以拜師了。一位好師父可以幫助您升級，為您解惑，給您提供各種幫助,甚至幫您獲得大量升級所需經驗。您只能拜一位玩家為師，千萬要慎重選擇師父。詳細信息請閱讀<link=openwnd:幫助錦囊,UI_HELPSPRITE>內的相關內容
+KD_STR_TRAINING_TEACHERONLINEMAIL	<pic=\\image\\ui\\001a\\mail\\training.spr><goto=0,0>   收徒傳道，名利雙收！您現在已經可以開始招收徒弟了，招收的弟子會成為您的密友，您可以得到數不盡的好處。小小付出，終生回報。點擊查看詳細內容<link=openwnd:師徒界面,UI_TEACHER>
+KD_STR_TRAINING_CREATERELATION	現在你和%s成為師徒了！
+KD_STR_TRAINING_MAILHEAD_STUDENTHINT	最快升級方法
+KD_STR_TRAINING_MAILHEAD_TEACHERHINT	收徒提示
+KD_STR_TRAINING_BUDDY1	你已經成為了%s的密友
+KD_STR_TRAINING_BUDDY2	%s已經成為了你的密友
+KD_STR_TRAINING_GRADUATE_TOSTUDENT	恭喜，你出師了!
+KD_STR_TRAINING_GRADUATE_TOTEACHER	你的弟子%s出師了!
+KD_STR_NO_MAILCOST	郵資不夠，發送失敗。
+KD_STR_NOTSYNCEND	數據還未加載完，暫時不能進行添加好友操作，請稍後再加好友。
+KD_STR_INTRODUCED	[%s]已經成為你的被介紹人
+KD_STR_INTRODUCER	[%s]已經成為你的介紹人
+KD_STR_INTRODUCER_MAXNUMBER	您的密友人數達到上限，不能再添加成為介紹人了。
+KD_STR_INTRODUCED_MAXNUMBER	[%s]的密友人數達到上限了，不能再接受您了。
+KD_STR_BLACKLIST_UPTO_MAX	您的黑名單人數達到上限了，不能再添加。
+KD_STR_FRIEND_UPTO_MAX	您或對方的好友名單達到上限了，你們可以使用IB，來擴充上限，或把原有好友刪除，再添加新好友。
+KD_STR_COUPLE_UPTO_MAX	請注意，你已經有配偶了，重婚可是有罪滴。
+KD_STR_BUDDY	你和[%s]成為密友。
+KD_STR_MAKEFRIEND	你和[%s]成為好友了。
+KD_STR_BLACKLIST	你把[%s]添加到了黑名單。
+KD_STR_ENEMEY	你把[%s]添加為仇人了。 
+KD_STR_FIRENDALREADY	你和[%s]已經是好友了。
+KD_STR_ADDFREINED_FALSE	添加[%s]為好友失敗，對方可能不存在。
+KD_STR_HAVERELATION	添加失敗，您與[%s]已經有關系了，請把現有的關系刪除，再添加。
+KD_STR_PLAYERISNOTONLINE	添加失敗，對方可能不在線。
+KD_STR_MAKEFRIEND_FALSE	添加失敗，該玩家不存在或不符合與你成為好友的條件。
+KD_STR_UPTO_MAXCOUNT	你的人際關系容納人數已達上限。
+KD_STR_MAKE_BIDRELATION	你和 %s 成為正式好友，可以通過組隊打怪來提高親密度了。
+KD_STR_JBEXCHANGE_BILLOVERTIME	<color=green>您在金幣交易所掛的單超過一周沒有交易成功，系統已經自動退單，鎖定的金幣或劍俠幣已經解除凍結。<color>
+KD_STR_JBEXCHANGE_BILLOVERTIME_TITLE	金幣交易退單通知
+KD_STR_JBEXCHANGE_TRADE_ADDBILLFAIL	您的掛單失敗，給您帶來麻煩深表歉意。
+KD_STR_JBEXCHANGE_ADDCASHTOACCOUNT	掛單失敗，銀兩或金幣返還到您的帳戶了，對帶給您的不便深表歉意。
+KD_STR_JBEXCHANGE_LOGTRADE_GIVE	以%d劍俠幣的單價成交賣出%d數量的金幣
+KD_STR_JBEXCHANGE_LOGTRADE_GAIN	以%d劍俠幣的單價成交買入%d數量的金幣
+KD_STR_JBEXCHANGE_LOGADDBILL_GIVE	以%d劍俠幣的單價掛單賣%d數量的金幣，掛單成功
+KD_STR_JBEXCHANGE_LOGADDBILL_GAIN	以%d劍俠幣的單價掛單買%d數量的金幣
+KD_STR_JBEXCHANGE_APPLY_SELLBILL	申請以%d劍俠幣的單價掛單賣出%d數量的金幣
+KD_STR_JBEXCHANGE_CANCEL_BILL_BUY	以%u劍俠幣的單價掛單買金幣，剩餘%u數量未交易的單被撤銷
+KD_STR_JBEXCHANGE_CANCEL_BILL_SELL	申請撤銷，以%u劍俠幣的單價掛單賣出金幣，剩餘%u數量未交易的單
+KD_STR_JBEXCHANGE_CANCELRESULT_SELL	撤銷結果【%s】，以%u劍俠幣的單價掛單賣金幣，剩餘%u數量未交易
+KD_STR_JBEXCHANGE_FREEZESTATE	金幣個數：%d，行為：%s，結果：%s
+KD_STR_JBEXCHANGE_COINTRANSFER_RESULT	金幣轉賬結果，轉出：%s，接收：%s，個數：%d，結果：%d
+KD_STR_JBEXCHANGE_COINTRANSFER_APPLY	金幣轉賬申請，轉出：%s，接收：%s，個數：%d，結果：%d
+KD_STR_KIN_CALL_PREFIX	[家族]
+KD_STR_TONG_CALL_PREFIX	[幫會]
+KD_STR_TONG_ENVOY_CALL_DEF	掌令使
+KD_STR_IBBACKMAIL_TITLE	密友回饋提示
+KD_STR_IBBACKMAIL_CONTENT	<color=green>  您好，您的密友在奇珍閣進行了消費，您將獲得一定數量的綁定金幣，請即時到各新手村葉芷琳處領取。<color>
+KD_STR_DELOVERTIMERELATION_TITLE	人際關系刪除
+KD_STR_DELRELATION_TIMEOVER_BUDDY	您與<color=yellow>%s<color>的密友關系已經超過一年，將自動解除。如果你們想繼續保持密友關系，可以組隊前往葉芷琳處再次結為密友。
+KD_STR_DELRELATION_TIMEOVER_INTRODUCTION	您與<color=yellow>%s<color>的介紹人關系已經超過一年，將自動解除。如果你們想建立密友關系，可以組隊前往葉芷琳處結為密友。
+KD_STR_DELRELATION_TIMEOVER_TRAINED	您與<color=yellow>%s<color>的師徒關系已經超過一年，將自動解除。如果你們想建立密友關系，可以組隊前往葉芷琳處結為密友。
+G_STR_PLAYERACTION_JOINFAMILY	加入家族
+G_STR_PLAYERACTION_LEAVEFAMILY	退出家族
+KD_STR_IBBACLMAIL_TIMEOVER	  由於您的密友 %s 的消費獎勵1年期限已到，今後您將不會獲得他在奇珍閣的消費返還。
+KD_STR_IBBACK_TIMEOVER_RECEIVER	密友關系一年到期, 將不再獲得 %s 密友返還
+KD_STR_IBBACK_TIMEOVER_SENDER	密友關系一年到期，將不再為 %s 提供密友返還
+KD_STR_CLOSEFRIEND_OVERTIME_BUDDY	與 %s 的密友關系一年到期，關系刪除
+KD_STR_CLOSEFRIEND_OVERTIME_INTRODUCTION	與 %s 的介紹人關系一年到期，關系刪除
+KD_STR_CLOSEFRIEND_OVERTIME_TRAINED	與 %s 的師徒關系一年到期，關系刪除
+KD_STR_BINDFRIEND_TYPE	普通好友
+KD_STR_TRAINING_TYPE	未出師師徒
+KD_STR_TRAINED_TYPE	出師師徒
+KD_STR_INTRODUCTION_TYPE	介紹人
+KD_STR_BUDDY_TYPE	指定密友
+KD_STR_PLAYERLOG_APPLYDELETE	把[%s]解除了 %s 關系
+KD_STR_PLAYERLOG_TARGETDELETE	被[%s]解除了 %s 關系
+KD_STR_BACKMAILMSG_NEXTDAY	郵件將在一天後退回。
+KD_STR_BACKMAILMSG	郵件發送失敗，<color=yellow>%s<color>的郵箱可能滿了。郵件將在一天後退回。
+KD_STR_AUCTION_OPER_TOO_FAST	請不要過快操作
+KD_STR_AUCTION_NAMESEARCH_TOO_FAST	勾選“按名稱搜索”後，刷新需要間隔<color=yellow>5秒<color>，請稍候
+KD_STR_AUCTION_0PER_WAITING	您的上一步操作未完成
+KD_STR_AUCTION_FAILED_MAIL_TO_PLAYER	拍賣失敗，扣除的手續費以及您的物品已經發送至您的郵箱
+KD_STR_BUY_UPDATE_FAILED_MAILED	操作失敗，扣除的錢將用郵件發送到您的郵箱
+KD_STR_AUCTION_OPER_SUC	操作成功
+KD_STR_AUCTION_OPER_FAILED_LOCKED	操作失敗,請稍後重試
+KD_STR_AUCTION_ONETIME_BUYFAIL	操作失敗，您要拍賣的物品已經被別人拍走。
+KD_STR_AUCTION_CANCEL_FAILED_UPDATE	操作失敗,此物品已被他人競價
+KD_STR_AUCTION_OPER_WRONG_RULE	您無權進行此項操作
+KD_STR_AUCTION_OPER_PAYED_MONEY_FAILED	您身上的錢不夠
+KD_STR_AUCTION_OPER_UNKNOWN	操作失敗
+KD_STR_AUCTION_OPER_SUC_MAIL	操作成功，物品已發送至您的郵箱
+KD_STR_AUCTION_OPER_SELLITEMSUCCESS	提交拍賣物成功，物品名：%s, 一口價：%d，起拍價：%d
+KD_STR_AUCTION_OPER_SELLITEMFAIL	提交拍賣物失敗，通過郵件歸還，物品名：%s，一口價：%d，起拍價：%d
+KD_STR_AUCTION_OPER_AUCTIONFAIL_BACKMONEY	拍賣物品失敗，扣除的錢已經轉發到郵箱中 錢數：%d
+KD_STR_AUCTION_OPER_AUCTION	取消拍賣成功，操作物品：G:%d,D:%d,P:%d,L:%d
+KD_STR_AUCTION_OPER_TIMEOUT	拍賣到期物品退回 物品名稱：%s
+KD_STR_AUCTION_OPER_COMPETE_FAIL	玩家[%s]競拍物品[%s]失敗，退回%d兩
+KD_STR_AUCTION_OPER_SELLERE	與拍賣買家[%s]，成交成功，獲得%d錢，物品名稱[%s]發送到買家郵箱
+KD_STR_AUCTION_OPER_BUYER	與拍賣賣家[%s]，成交成功，扣了%d錢，獲得物品名稱[%s]，發送到郵箱，是否一口價：%d
+KD_STR_AUCTION	拍賣行
+KD_STR_AUCTION_MAIL_CONTENT_CANCLE	取消拍賣成功,這是您取消拍賣的物品
+KD_STR_AUCTION_MAIL_CONTENT_ONETIME_SUC	一口價交易成功,附件內是您購買的物品
+KD_STR_AUCTION_MAIL_CONTENT_ONETIME_TO_BUYER	您競拍的物品被人用一口價購買
+KD_STR_AUCTION_MAIL_CONTENT_ONETIME_TO_SELLER	您拍賣的物品被人用一口價購買
+KD_STR_AUCTION_MAIL_CONTENT_ONETIME_FAILED	一口價交易失敗，錢被退回
+KD_STR_AUCTION_MAIL_CONTENT_UPDATE_SUC_TO_BUYER	您在拍賣行的物品被競價
+KD_STR_AUCTION_MAIL_CONTENT_COMPETE_FAILED	競價失敗您的錢被退回
+KD_STR_AUCTION_MAIL_EXPIRE_MONEY_BACK_EXPIRE	您競拍的物品被人競價超過
+KD_STR_AUCITON_MAIL_EXPIRE_MONEY_BACK_SELLER	您拍賣的物品被競價超過
+KD_STR_AUCTION_MAIL_EXPIRE_ITEM_BACK_EXPIRE	拍賣行物品過期退回
+KD_STR_AUCTION_MAIL_EXPIRE_ITEM_BACK_COMPTE	拍賣行競拍成功
+KD_STR_AUCTION_MAIL_AUCTION_FAILED	拍賣失敗,請稍後重試
+G_STR_KGC_LADDERMANAGER_TITLE	世界修煉榜
+G_STR_KGC_LADDERMANAGER_LEVEL	%d級
+G_STR_KGC_LADDERMANAGER_JIAZHU	家族：%s
+G_STR_KGC_LADDERMANAGER_BANGHUI	幫會：%s
+G_STR_KGC_LADDERMANAGER_NOT_BANGHUI	非幫會成員
+G_STR_KGC_LADDERMANAGER_NOT_JIAZHU	非家族成員
+G_STR_KGC_LADDERMANAGER_GLORY1	榮譽點：%d
+G_STR_KGC_LADDERMANAGER_GLORY2	榮譽點：%d\n點擊列表模式可以查詢自己和他人的排名情況\n錢莊老板處開啟魂石商店，可以購買最重要的裝備—披風\n
+G_STR_KGC_LADDERMANAGER_GLORY3	榮譽點：%d
+G_STR_KGC_LADDERMANAGER_GLORY4	榮譽點：%d\n點擊列表模式可以查詢自己和他人的排名情況\n
+G_STR_KGC_LADDERMANAGER_GLORY5	%s榮譽
+G_STR_KGC_LADDERMANAGER_NOMENPAI	無門派
+G_STR_KGC_LADDERMANAGER_SHAOLIN	少林
+G_STR_KGC_LADDERMANAGER_TIANWANG	天王
+G_STR_KGC_LADDERMANAGER_TANGMEN	唐門
+G_STR_KGC_LADDERMANAGER_WUDU	五毒
+G_STR_KGC_LADDERMANAGER_WMEI	峨嵋
+G_STR_KGC_LADDERMANAGER_CHUIYAN	翠煙
+G_STR_KGC_LADDERMANAGER_GAIBANG	丐幫
+G_STR_KGC_LADDERMANAGER_TIANREN	天忍
+G_STR_KGC_LADDERMANAGER_WUDANG	武當
+G_STR_KGC_LADDERMANAGER_KUNLUN	昆侖
+G_STR_KGC_LADDERMANAGER_MINGJIAO	明教
+G_STR_KGC_LADDERMANAGER_DUANSHI	大理段氏
+G_STR_KGC_LADDERMANAGER_WULIN_GLORY	武林榮譽榜
+G_STR_KGC_LADDERMANAGER_MENPAI_GLORY	門派榮譽榜
+G_STR_KGC_LADDERMANAGER_COMPETE_GLORY	聯賽榮譽榜
+G_STR_KGC_LADDERMANAGER_LEADER_GLORY	領袖榮譽榜
+G_STR_KGC_LADDERMANAGER_WEALTH_GLORY	財富榮譽榜
+G_STR_KGC_LADDERMANAGER_SONGJIN_GLORY	宋金榮譽榜
+G_STR_KGC_LADDERMANAGER_NEWYEAR_GLORY	新年榮譽榜
+K_WORLD	世界
+K_CITY	城市
+K_TEAM	隊伍
+K_NEARBY	附近
+K_FACTION	門派
+K_KIN	家族
+K_TONG	幫會
+K_TONGUNION	幫盟
+K_FRIEND	好友

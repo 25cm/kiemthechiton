@@ -1,0 +1,15 @@
+AttribId	Desc	TipText	TipDesc
+1	lifemax_p	Diên Dương	Sinh lực tối đa
+2	manamax_p	Hoàng Quang	Nội lực tối đa
+3	fastlifereplenish_v	Cường thân	Mỗi nửa giây hồi sinh lực
+4	fastmanareplenish_v	Quy Chân	Mỗi nửa giây hồi nội lực
+5	damage_all_resist	Vô Song	Kháng tất cả tăng
+6	skilldamageptrim	Tinh Võ	Lực tấn công cơ bản
+7	defencedeadlystrikedamagetrim	Tạ Kình	Giảm sát thương chí mạng
+8	deadlystrikedamageenhance_p	Tuyệt Sát	Tăng tỷ lệ chí mạng
+9	allseriesstateresisttime	Bá Thể	Giảm thời gian hiệu quả phụ
+10	allseriesstateresistrate	Ngự Khí	Giảm tỷ lệ hiệu quả phụ
+11	seriesabate	Hóa Công	Tăng tỷ lệ hiệu quả phụ
+12	seriesenhance	Thực Cốt	Tăng thời gian hiệu quả phụ
+13	adddefense_v	Thanh Phong	Tăng né tránh
+14	ignoredefenseenhance_v	Truy Ảnh	Bỏ qua né tránh đối phương

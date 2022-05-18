@@ -1,0 +1,332 @@
+20220518-095810<DEBUG:00001934>: [PrevInitCore]:1, start tickers = 17160236930381
+20220518-095814<DEBUG:00001934>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 13660237520
+20220518-095816<ERROR:00001934>: GetInteger(12, 1) failed !
+20220518-095816<ERROR:00001934>: NpcTemplate[20155] not found!
+20220518-095816<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095816<ERROR:00001934>: NpcTemplate[20121] not found!
+20220518-095818<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095818<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095818<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095822<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-095822<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-095824<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095824<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095824<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095824<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095824<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095824<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095824<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095824<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095825<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095829<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-095830<DEBUG:00001934>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-095833<WARN :00001934>: LostFps: 310 (+310)
+20220518-095834<WARN :00001934>: LostFps: 266 (-44)
+20220518-095836<WARN :00001934>: LostFps: 294 (+28)
+20220518-095836<WARN :00001934>: LostFps: 250 (-44)
+20220518-095837<WARN :00001934>: LostFps: 205 (-45)
+20220518-095838<WARN :00001934>: LostFps: 159 (-46)
+20220518-095839<WARN :00001934>: LostFps: 113 (-46)
+20220518-095840<WARN :00001934>: LostFps: 68 (-45)
+20220518-095841<WARN :00001934>: LostFps: 21 (-47)
+20220518-095842<WARN :00001934>: LostFps: 0 (-21)
+20220518-095931<WARN :00001934>: LostFps: 28 (+28)
+20220518-095932<WARN :00001934>: LostFps: 0 (-28)
+20220518-095940<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-095950<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-100014<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-100014<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-100014<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-100037<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-100047<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-100057<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-100101<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-100104<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-100114<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-100524<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-100524<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-100524<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-100644<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-100644<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-100644<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-100737<WARN :00001934>: LostFps: 4 (+4)
+20220518-100738<WARN :00001934>: LostFps: 1 (-3)
+20220518-100739<WARN :00001934>: LostFps: 0 (-1)
+20220518-100754<WARN :00001934>: LostFps: 3 (+3)
+20220518-100755<WARN :00001934>: LostFps: 8 (+5)
+20220518-100756<WARN :00001934>: LostFps: 12 (+4)
+20220518-100757<WARN :00001934>: LostFps: 16 (+4)
+20220518-100758<WARN :00001934>: LostFps: 0 (-16)
+20220518-100802<WARN :00001934>: LostFps: 3 (+3)
+20220518-100803<WARN :00001934>: LostFps: 0 (-3)
+20220518-100851<WARN :00001934>: LostFps: 3 (+3)
+20220518-100852<WARN :00001934>: LostFps: 0 (-3)
+20220518-100939<WARN :00001934>: LostFps: 3 (+3)
+20220518-100940<WARN :00001934>: LostFps: 0 (-3)
+20220518-100954<WARN :00001934>: LostFps: 3 (+3)
+20220518-100955<WARN :00001934>: LostFps: 0 (-3)
+20220518-101141<WARN :00001934>: LostFps: 3 (+3)
+20220518-101142<WARN :00001934>: LostFps: 0 (-3)
+20220518-101313<WARN :00001934>: LostFps: 4 (+4)
+20220518-101314<WARN :00001934>: LostFps: 0 (-4)
+20220518-101549<ERROR:00001934>: GetInteger(2, Money) failed !
+20220518-101549<ERROR:00001934>: GetInteger(2, BindMoney) failed !
+20220518-101549<ERROR:00001934>: GetInteger(2, LuckyRate) failed !
+20220518-102546<WARN :00001934>: LostFps: 4 (+4)
+20220518-102547<WARN :00001934>: LostFps: 1 (-3)
+20220518-102548<WARN :00001934>: LostFps: 0 (-1)
+20220518-102554<WARN :00001934>: LostFps: 4 (+4)
+20220518-102555<WARN :00001934>: LostFps: 0 (-4)
+20220518-102628<WARN :00001934>: LostFps: 3 (+3)
+20220518-102629<WARN :00001934>: LostFps: 0 (-3)
+20220518-102639<WARN :00001934>: LostFps: 6 (+6)
+20220518-102640<WARN :00001934>: LostFps: 0 (-6)
+20220518-102724<WARN :00001934>: LostFps: 3 (+3)
+20220518-102725<WARN :00001934>: LostFps: 0 (-3)
+20220518-102739<WARN :00001934>: LostFps: 4 (+4)
+20220518-102740<WARN :00001934>: LostFps: 0 (-4)
+20220518-102938<WARN :00001934>: LostFps: 3 (+3)
+20220518-102939<WARN :00001934>: LostFps: 0 (-3)
+20220518-103050<WARN :00001934>: LostFps: 3 (+3)
+20220518-103051<WARN :00001934>: LostFps: 6 (+3)
+20220518-103052<WARN :00001934>: LostFps: 0 (-6)
+20220518-103053<WARN :00001934>: LostFps: 4 (+4)
+20220518-103054<WARN :00001934>: LostFps: 0 (-4)
+20220518-103112<WARN :00001934>: LostFps: 5 (+5)
+20220518-103113<WARN :00001934>: LostFps: 0 (-5)
+20220518-104659<WARN :00001934>: LostFps: 5 (+5)
+20220518-104700<WARN :00001934>: LostFps: 0 (-5)
+20220518-110412<WARN :00001934>: LostFps: 36 (+36)
+20220518-110413<WARN :00001934>: LostFps: 0 (-36)
+20220518-110543<INFO :00001934>: [Player]Solana Apply Save Data By Reason Value
+20220518-110553<INFO :00001934>: [Player]Solana Excute Save Data
+20220518-110603<INFO :00001934>: [Player]Solana Apply Save Data By Reason Value
+20220518-110613<INFO :00001934>: [Player]Solana Excute Save Data
+20220518-110642<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:1 BindCoin Price:7200)	[ACC]	administrator	[ROLE]	Testgame	[ItemTypeID]	301994368	[ItemTypeInfo]	18-1-384-1	[ItemGUID]	---	[nCount]	0
+20220518-110642<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-110643<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-110653<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-110803<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:1 BindCoin Price:600)	[ACC]	administrator	[ROLE]	Testgame	[ItemTypeID]	301994225	[ItemTypeInfo]	18-1-241-1	[ItemGUID]	---	[nCount]	0
+20220518-110952<WARN :00001934>: LostFps: 3 (+3)
+20220518-110952<INFO :00001934>: [Player]Solana Apply Save Data By Reason Value
+20220518-110953<WARN :00001934>: LostFps: 0 (-3)
+20220518-111002<INFO :00001934>: [Player]Solana Excute Save Data
+20220518-111044<INFO :00001934>: [Player]Solana Apply Save Data By Reason Value
+20220518-111052<INFO :00001934>: [Player]Solana Apply Save Data By Reason Value
+20220518-111057<INFO :00001934>: [Player]Solana Apply Save Data By Reason Value
+20220518-111107<INFO :00001934>: [Player]Solana Excute Save Data
+20220518-111229<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:2 BindCoin Price:600)	[ACC]	hungnv	[ROLE]	Solana	[ItemTypeID]	301994227	[ItemTypeInfo]	18-1-243-1	[ItemGUID]	---	[nCount]	0
+20220518-111229<INFO :00001934>: [Player]Solana Apply Save Data By Reason Value
+20220518-111239<INFO :00001934>: [Player]Solana Excute Save Data
+20220518-113434<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:3 BindCoin Price:20000)	[ACC]	administrator	[ROLE]	Testgame	[ItemTypeID]	301997023	[ItemTypeInfo]	18-1-3039-3	[ItemGUID]	---	[nCount]	0
+20220518-113434<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-113439<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-113446<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-113447<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-113457<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-113536<INFO :00001934>: [Action]	IB_ApplyBuyCoinItem	[Info]	p�	[ACC]	administrator	[ROLE]	Testgame	[ItemTypeID]	301997023	[ItemTypeInfo]	18-1-3039-2	[ItemGUID]	---	[nCount]	0
+20220518-113536<INFO :00001934>: [[Ok]]	IB_BuyItem_Ret	[Info]	ActionSuccess	[ACC]	administrator	[ROLE]	Testgame	[ItemTypeID]	301997023	[ItemTypeInfo]	18-1-3039-2	[ItemGUID]	[1]:-6858416369714945733	[2]:7943817942036172370	[3]:5386600614702482959		[nCount]	3
+20220518-113621<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-113631<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-113812<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:5 BindCoin Price:28800)	[ACC]	administrator	[ROLE]	Testgame	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-9	[ItemGUID]	---	[nCount]	0
+20220518-113812<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-113822<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-113840<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:6 BindCoin Price:28800)	[ACC]	administrator	[ROLE]	Testgame	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-9	[ItemGUID]	---	[nCount]	0
+20220518-113840<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-113850<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-113854<INFO :00001934>: [Player]Testgame Apply Save Data By Reason Value
+20220518-113904<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-114701<WARN :00001934>: LostFps: 3 (+3)
+20220518-114702<WARN :00001934>: LostFps: 0 (-3)
+20220518-120639<INFO :00001934>: [Player]Solana Apply Save Data By Reason 30 min TimeOut
+20220518-120649<INFO :00001934>: [Player]Solana Excute Save Data
+20220518-120904<INFO :00001934>: [Player]Testgame Apply Save Data By Reason 30 min TimeOut
+20220518-120914<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-123649<INFO :00001934>: [Player]Solana Apply Save Data By Reason 30 min TimeOut
+20220518-123700<INFO :00001934>: [Player]Solana Excute Save Data
+20220518-123914<INFO :00001934>: [Player]Testgame Apply Save Data By Reason 30 min TimeOut
+20220518-123924<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-124702<WARN :00001934>: LostFps: 5 (+5)
+20220518-124703<WARN :00001934>: LostFps: 0 (-5)
+20220518-130700<INFO :00001934>: [Player]Solana Apply Save Data By Reason 30 min TimeOut
+20220518-130710<INFO :00001934>: [Player]Solana Excute Save Data
+20220518-130924<INFO :00001934>: [Player]Testgame Apply Save Data By Reason 30 min TimeOut
+20220518-130934<INFO :00001934>: [Player]Testgame Excute Save Data
+20220518-131756<WARN :00001934>: LostFps: 41 (+41)
+20220518-131757<WARN :00001934>: LostFps: 0 (-41)
+20220518-131812<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-131822<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-131846<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-131856<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-131909<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-131914<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-131920<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-131930<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-132008<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:50 BindCoin Price:20000)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301997023	[ItemTypeInfo]	18-1-3039-3	[ItemGUID]	---	[nCount]	0
+20220518-132008<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132018<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-132021<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132030<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132036<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132041<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132051<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-132053<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132058<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132105<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132115<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-132303<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132313<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-132329<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132330<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132331<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132332<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132333<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132334<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132336<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:4 BindCoin Price:28800)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-9	[ItemGUID]	---	[nCount]	0
+20220518-132336<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132336<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132337<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132338<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132339<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132339<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132340<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132340<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132341<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132351<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-132400<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:4 BindCoin Price:28800)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-9	[ItemGUID]	---	[nCount]	0
+20220518-132400<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132410<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-132414<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-132424<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-134703<WARN :00001934>: LostFps: 4 (+4)
+20220518-134704<WARN :00001934>: LostFps: 0 (-4)
+20220518-135424<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason 30 min TimeOut
+20220518-135434<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-135521<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-135532<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-135905<INFO :00001934>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:1 BindCoin Price:7200)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994368	[ItemTypeInfo]	18-1-384-1	[ItemGUID]	---	[nCount]	0
+20220518-135905<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-135906<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-135916<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-140217<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-140227<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-140301<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-140311<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-140510<INFO :00001934>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-140520<INFO :00001934>: [Player]MaNhẫn05 Excute Save Data
+20220518-140653<INFO :00001934>: [Player]Testgame Apply Save Data By Reason 30 min TimeOut
+20220518-140703<INFO :00001934>: [Player]Testgame Excute Save Data

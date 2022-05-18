@@ -1,0 +1,13 @@
+BATTLE_LEVEL	WORLD_MAP_ID1	WORLD_MAP_ID2	WORLD_MAP_ID3	NPC_NUM_TYPE	BATTLE_MAP_NAME1	BATTLE_MAP_NAME2	BATTLE_RULE1	BATTLE_RULE2	BATTLE_RULE3
+2	1638	1638	1638	1	Gia d? quan (Ph??ng T??ng)		2		
+2	1638	1638		1	Gia d? quan (Ph??ng T??ng)		2	2	
+2	1638	1638		1	Gia d? quan (Ph??ng T??ng)		2	2	2
+2	1638	1638	1638	1	Gia d? quan (Ph??ng T??ng)		2		
+2	1638	1638		1	Gia d? quan (Ph??ng T??ng)		2	2	
+2	1638	1638		1	Gia d? quan (Ph??ng T??ng)		2	2	2
+2	1638	1638	1638	1	Gia d? quan (Ph??ng T??ng)		2		
+2	1638	1638		1	Gia d? quan (Ph??ng T??ng)		2	2	
+2	1638	1638		1	Gia d? quan (Ph??ng T??ng)		2	2	2
+2	1638	1638	1638	2	Gia d? quan (Ph??ng T??ng)		2		
+2	1638	1638		2	Gia d? quan (Ph??ng T??ng)		2	2	
+2	1638	1638		2	Gia d? quan (Ph??ng T??ng)		2	2	2

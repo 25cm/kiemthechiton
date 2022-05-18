@@ -1,0 +1,6 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2013-05-23 03:00:01
+1	wsjx01	23423	ThiênTrí	 Võ Đang	 Võ Đang	150	Nam	Không gia tộc	Không bang hội	638915
+2	wsjx01	admin	vukiemvnn	 Võ Đang	 Võ Đang	150	Nam	Không gia tộc	Không bang hội	524233
+3	wsjx01	hieubg	Testhang	Chưa	Chưa	150	Nam	Không gia tộc	Không bang hội	310655
+4	wsjx01	hieubga	hgdfhdfhdh	 Thiếu Lâm	 Thiếu Lâm	121	Nam	Không gia tộc	Không bang hội	309749
+5	wsjx01	admin	Administrator	 Võ Đang	 Võ Đang	121	Nam	Không gia tộc	Không bang hội	232463

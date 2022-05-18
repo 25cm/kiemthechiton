@@ -1,0 +1,4 @@
+SPORT_ID	TASK_ID_FIRST	TASK_ID_LAST	SYNC_BACK	TASK_DESCRIBE
+ID hoạt động	ID bắt đầu, 10 trở về trước do hệ thống để lại, hãy bắt đầu từ 11	ID kết thúc	"Có đồng bộ trở về server ban đầu (1: Có; 0: Không), đồng bộ phải tốn thêm tài nguyên, hãy chỉ ra biến lượng thật sự cần cho đồng bộ"	Miêu tả
+1	11	14	1	Đại Hội Võ Lâm
+2	11	15	1	Toàn cục Võ lâm liên đấu

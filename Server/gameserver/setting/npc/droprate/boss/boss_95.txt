@@ -1,0 +1,5 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	5002	52	180000		Rương Mảnh Ghép
+		18	1	5001	51	180000		Rương Vật Phẩm
+		18	1	3039	1	70000		Pháo Hoa			
+	

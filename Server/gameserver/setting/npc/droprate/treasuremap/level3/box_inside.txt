@@ -1,0 +1,3 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1194	4	100000		Ti?n D?ng Thu?ng
+		18	1	1194	5	100000		Ti?n D?ng Khoa

@@ -1,0 +1,1125 @@
+key	value
+G_THIEFSKILL_0	%s 從你身上偷到%d兩銀子捐給前線!
+G_THIEFSKILL_1	你成功的從%s 那裏偷到%d兩銀子捐給前線!
+G_THIEFSKILL_2	被偷成功 
+G_THIEFSKILL_3	偷竊成功 
+G_THIEFSKILL_4	%s 試圖偷你的錢,但未成功!
+G_THIEFSKILL_5	你偷%s 失敗!
+G_THIEFSKILL_6	被偷未遂
+G_THIEFSKILL_7	偷竊未遂
+G_THIEFSKILL_8	%s 當前生命值情況: %d / %d 
+G_THIEFSKILL_9	對方情報
+G_THIEFSKILL_10	%s 當前內力值情況: %d / %d 
+G_THIEFSKILL_11	%s 當前現金情況: %d 兩 
+G_FACTION_0	少林派
+G_S_METAL	金系
+G_S_WOOD	木系
+G_S_WATER	水系
+G_S_FIRE	火系
+G_S_EARTH	土系
+G_S_NONE	無系
+G_LUCKSTAR	AddGlobalNews([[恭喜！恭喜！玩家:%s 成為本日的幸運之星!]]);
+G_FACTION_NEW	初入江湖
+G_FACTION_OLD	江湖遊俠
+G_PLAYERTONG_0	擂臺賽期間幫會踢人操作被鎖定！
+G_PLAYERTONG_1	攻城戰期間幫會踢人操作被鎖定！
+G_PLAYERTONG_2	幫會傳位操作被鎖定！
+G_PLAYERTONG_3	您被踢出幫會！
+G_PLAYERTONG_4	您在幫會中的職位發生了變化！
+G_PLAYERTONG_5	幫會聯盟中，不能修改陣營！
+G_PLAYERTONG_6	每次最多只能存 %d 萬兩！
+G_PLAYERTONG_7	每次最多只能取 %d 萬兩！
+G_PLAYERTONG_8	取太多錢了，放不下！
+G_PLAYERTONG_9	幫會操作被鎖定，不能創建聯盟！
+G_PLAYERTONG_10	盟主
+G_PLAYERTONG_11	您沒有聯盟管理權限！
+G_PLAYERTONG_12	幫會聯盟成員不能加入別的幫會聯盟！
+G_PLAYERTONG_13	您向 %s 申請加入幫會聯盟！
+G_PLAYERTONG_14	幫會發錢數量錯誤！
+G_PLAYERTONG_15	每人每次最多只能發 1 億！
+G_PLAYERTONG_16	幫主才能發錢！
+G_PLAYERTONG_17	只能給在線的幫眾發錢！
+G_NPC_0	MainMan
+G_NPC_1	MainLady
+G_NPC_2	冰
+G_NPC_3	毒
+G_NPC_4	亂
+G_NPC_5	暈
+G_PLAYER_0	WriteLog([[PlayerIndex Error:%s:%s]])
+G_PLAYER_1	您的%s技能無法使用技能點升級。
+G_PLAYER_2	技能升級消息
+G_PLAYER_3	您的%s技能等級已經達到極限，不能再升級了。
+G_PLAYER_3_	您的戰鬥技能潛能點不足
+G_PLAYER_4	您的等級必須達到%d級才能升級%s技能。
+G_PLAYER_5	金元寶轉為點數成功!
+G_PLAYER_6	金元寶將在下次停機維護時轉為點數!
+G_PLAYER_7	金元寶轉為25天成功!
+G_PLAYER_8	金元寶將在下次停機維護時轉為25天!
+G_PLAYER_9	銀元寶轉為點數成功!
+G_PLAYER_10	銀元寶將在下次停機維護時轉為點數
+G_PLAYER_11	銀元寶轉為6天成功!
+G_PLAYER_12	銀元寶將在下次停機維護時轉為6天!
+G_PLAYER_13	系統消息
+G_PLAYER_14	繼續
+G_PLAYER_15	完成
+G_PLAYER_16	恭喜您！得了%d子對，贏得獎勵%d兩！
+G_PLAYER_17	恭喜您！得了%d子刻，恭喜你，贏得大獎，並獲得部分積累彩金，共計%d兩！
+G_PLAYER_18	恭喜您！得了%d %d %d 的順子，贏得獎勵%d兩!
+G_PLAYER_19	恭喜你，你獲得了獎勵！
+G_PLAYER_20	銀票轉為點數成功！
+G_PLAYER_21	銀票將在下次停機維護時轉為點數！
+G_PLAYER_22	銀票轉為7天成功！
+G_PLAYER_23	銀票將在下次停機維護時轉為7天！
+G_PLAYER_24	交易取消，請檢查背包銀兩與交易獲取的銀兩總和是否超過上限！
+G_PLAYER_25	交易取消，對方未符合交易條件！
+G_PLAYER_26	你身受重傷，並自動重生！
+G_PLAYER_27	交易取消，背包銀兩不足！
+G_PLAYER_28	交易取消，超出交易距離範圍!
+G_PLAYER_29	交易申請超時！
+G_PLAYER_30	%s不在遊戲中，他(/她)在下次上線時才會收到您剛才發送的消息。
+G_PLAYER_31	郵箱已滿，不能發送郵件！
+G_PLAYER_32	不能獲取郵件中的銀兩，請檢查背包銀兩與獲取的銀兩總和是否超過上限！
+G_PLAYER_33	制作中！
+G_PLAYER_34	增加親密度失敗：已達到本日限額或者好友關系接觸！
+G_PLAYER_35	你的背包剩餘空間不足，不能交易！
+G_PLAYER_36	交易取消，對方背包剩餘空間不足！
+G_PLAYER_37	交易取消，對方背包銀兩不足！
+G_PLAYER_38	交易取消，對方背包銀兩超出上限！
+G_PLAYER_39	交易物品消失，不能交易！
+G_PLAYER_40	交易取消，對方交易物品消失！
+G_PLAYER_41	此時不能打開奇珍閣！
+G_PLAYER_42	該玩家不存在！
+G_PLAYER_43	你被禁言了，暫時不能聊天！
+G_PLAYER_44	郵箱還沒加載完成，請稍後在試。
+G_PLAYERSET_0	我<color=green>%s<color=restore>來也，你等快來朝拜。
+G_PLAYERSET_1	<color=green>%s<color=restore>腳踏淩波微步，飄然而至。
+G_PLAYERSET_2	一道閃光，<color=green>%s<color=restore>從天而降。
+G_PLAYERSET_3	吳府管家
+G_PlayerStall_0	買東西
+G_PlayerStall_2	以後再來
+G_PlayerStall_3	【販賣】
+G_PlayerStall_4	【收購】
+G_PLAYER_TITLE_ADD	您獲得了\"%s\"稱號。
+G_PLAYER_TITLE_TIMEOUT	您的\"%s\"稱號已過期。
+G_PARTNER_0	你所取的名字不合法！
+G_ITEM_0	<color=White>臨時物品：
+G_ITEM_1	等級:%d\n
+G_ITEM_2	價格：%d %s
+G_ITEM_10	帽子
+G_ITEM_11	衣服
+G_ITEM_12	腰帶
+G_ITEM_13	武器
+G_ITEM_14	鞋子
+G_ITEM_15	護腕
+G_ITEM_16	項鏈
+G_ITEM_17	戒指
+G_ITEM_18	印鑒
+G_ITEM_19	腰墜
+G_ITEM_20	坐騎
+G_ITEM_22	 [%d級]
+G_ITEM_30	道具拾取
+G_ItemList_0	無法在這裏使用土地符！
+G_ItemList_1	儲物箱處於鎖定狀態，不能取錢！
+G_ItemList_2	儲物箱鎖定中，不能調整裝備！
+G_ItemList_3	儲物箱鎖定中！
+G_ItemList_4	密碼設定成功！
+G_ItemList_5	密碼設定失敗：密碼已設定！
+G_ItemList_6	密碼取消成功！
+G_ItemList_7	密碼取消失敗：未曾設定密碼！
+G_ItemList_8	密碼取消失敗：密碼驗證失敗！
+G_ItemList_9	密碼修改成功！
+G_ItemList_10	密碼修改失敗：未曾設定密碼，無法修改！
+G_ItemList_11	密碼修改失敗：密碼驗證失敗！
+G_ItemList_12	鎖定成功！
+G_ItemList_13	鎖定失敗：您的擴展儲物箱和密碼保護功能尚未開啟,請到巴陵縣沈九(188,198)處購買以開啟此功能！
+G_ItemList_14	解鎖成功！
+G_ItemList_15	解鎖失敗：您的擴展儲物箱和密碼保護功能尚未開啟,請到巴陵縣沈九(188,198)處購買以開啟此功能！
+G_ItemList_16	解鎖失敗：密碼驗證失敗！
+G_ItemList_17	惡名值大於或等於5的玩家使用土地符無效！
+G_SkillList_0	您的%s技能熟練級別提升了！
+G_SkillList_2	您使用這項武功時不能騎馬！
+G_SkillList_3	您使用這項武功時必須騎馬！
+G_SkillList_4	傭兵數量已達到上限，不能再雇傭了！
+G_SkillList_5	您的同伴的%s技能熟練級別提升了！
+G_SkillList_Limit_1	您當前裝備的武器不適合您想使用的武功！
+G_SkillList_Limit_2	您使用這項武功時不能騎馬！
+G_SkillList_Limit_3	您使用這項武功時必須騎馬！
+G_SkillList_Limit_4	您當前的門派不適合您想使用的武功！
+G_SkillList_Limit_5	您當前的路線不適合您想使用的武功！
+G_SkillList_Limit_6	必須在狂怒狀態下才能使用該技能
+G_SkillList_Limit_7	必須在練功狀態下才能使用該技能
+G_SkillList_Limit_8	變身後不能使用此技能！ 
+G_Skills_0	子彈技\n
+G_Skills_1	牆形 數量%d\n
+G_Skills_2	線形 數量%d\n
+G_Skills_3	散形 數量%d\n
+G_Skills_4	圓形發散 數量%d\n
+G_Skills_5	圓形區域 數量%d\n
+G_Skills_6	方形區域 數量%d\n
+G_Skills_7	定點圓形區域 數量%d\n
+G_Skills_8	定點方形區域 數量%d\n
+G_Skills_11	格鬥技\n
+G_Skills_12	主動輔助武功\n
+G_Skills_13	狀態持續時間:%d\n
+G_Skills_14	被動輔助武功\n
+G_Skills_15	區域傷害 
+G_Skills_16	原地 
+G_Skills_17	直線飛行 
+G_Skills_18	環形飛行 
+G_Skills_20	拋物飛行 
+G_Skills_21	穿透 
+G_Skills_22	傷害範圍:%d 
+G_Skills_23	震退距離:%d 
+G_Skills_24	消亡自爆 
+G_Skills_25	光環 
+G_Skills_26	物理 
+G_Skills_27	近身 
+G_Skills_28	必中 
+G_Skills_29	對友 
+G_Skills_30	對敵 
+G_Skills_31	對物 
+G_Skills_32	對已 
+G_Skills_33	考慮命中率 
+G_Skills_34	技能屬性：
+G_Skills_35	(近身攻擊)\n
+G_Skills_36	(遠程攻擊)\n
+G_Skills_37	當前等級：%d
+G_Skills_38	當前等級：%d (%d+%d)
+G_Skills_39	受技能加成：%d%%\n
+G_Skills_40	修煉度：%d%%\n
+G_Skills_41	武器限制：
+G_Skills_42	騎馬中不能施展\n
+G_Skills_43	必須騎馬施展\n
+G_Skills_44	\n<color=Red>下一級\n
+G_Skills_45	內力消耗：%d\n
+G_Skills_46	體力消耗：%d\n
+G_Skills_47	生命消耗：%d\n
+G_Skills_48	有效距離：%d\n
+G_Skills_49	對「%s」技能加成 %d%%\n
+G_Skills_50	<color=Blue>第一式:<color>
+G_Skills_51	<color=Blue>第二式:<color>
+G_Skills_52	<color=Blue>第三式:<color>
+G_Skills_53	<color=Blue>第四式:<color>
+G_Skills_54	<color=Blue>第五式:<color>
+G_Skills_55	<color=Blue>第六式:<color>
+G_Skills_56	<color=Blue>第七式:<color>
+G_Skills_57	<color=Blue>第八式:<color>
+G_Skills_58	<color=Blue>第九式:<color>
+G_Skills_59	<color=Blue>第十式:<color>
+G_Skills_60	<color=Blue>第十一式:<color>
+G_Skills_61	<color=Blue>第十二式:<color>
+G_Skills_62	<color=Blue>第十三式:<color>
+G_Skills_63	<color=Blue>第十四式:<color>
+G_Skills_64	<color=Blue>第十五式:<color>
+G_Skills_65	<color=Blue>第十六式:<color>
+G_Skills_66	<color=Blue>第十七式:<color>
+G_Skills_67	<color=Blue>第十八式:<color>
+G_Skills_68	<color=Blue>第十九式:<color>
+G_Skills_69	<color=Blue>第二十式:<color>
+G_Skills_70	屬性：金系 %d\n
+G_Skills_71	屬性：木系 %d\n
+G_Skills_72	屬性：水系 %d\n
+G_Skills_73	屬性：火系 %d\n
+G_Skills_74	屬性：土系 %d\n
+G_Skills_75	五行相克：%d%%\n
+G_PlayerPK_0	您的負經驗太多，只允許練功模式！
+G_PlayerPK_1	您的負經驗太多，不允許仇殺！
+G_PlayerPK_2	經驗達到或超過-50%%後，不能轉換PK模式！  
+G_ProtocolProcess_0	某人
+G_ProtocolProcess_1	兩
+G_ProtocolProcess_2	銀兩
+G_ProtocolProcess_3	有人
+G_ProtocolProcess_4	您的幫主給您發錢了：%d！
+G_ProtocolProcess_5	未啟動離線時轉發消息！
+G_ProtocolProcess_6	離線時消息轉發目標是%s！
+G_ProtocolProcess_7	設置了消息轉發目標為%s。
+G_ProtocolProcess_8	你現在不能接受私聊消息！\n輸入 /OfflineTrans 可以取消設置。
+G_ProtocolProcess_9	幫會創建失敗！
+G_ProtocolProcess_10	%s申請加入幫會！
+G_ProtocolProcess_11	幫會操作被鎖定，不能任命！
+G_ProtocolProcess_12	傳位失敗，對方不在線！
+G_ProtocolProcess_13	傳位失敗，對方能力不夠！
+G_ProtocolProcess_14	傳位失敗，本幫中無此人！
+G_ProtocolProcess_15	幫會操作被鎖定！
+G_ProtocolProcess_16	%s申請加入聯盟！
+G_ProtocolProcess_17	%s 拒絕接受本幫加入聯盟！
+G_ProtocolProcess_18	幫會錢不夠！
+G_ProtocolProcess_19	因為您現在的惡名值>＝3,PK前請先解除裝備欄的鎖定狀態。
+G_ProtocolProcess_20	你當前狀態禁止移動或者交易物品！
+G_ProtocolProcess_21	你的同伴仍在昏迷中，%d 秒後才能被重新召喚！
+G_ProtocolProcess_22	兩次召喚同伴的間隔太短了，請稍後再嘗試！
+G_ProtocolProcess_23	這裏不允許召喚同伴！
+G_ProtocolProcess_24	你的裝備欄處於鎖定狀態，不能解散同伴！
+G_ProtocolProcess_25	不允許解散最後一個同伴！
+G_ProtocolProcess_26	該物品在此地無法發揮功效！
+G_ProtocolProcess_27	由於你連續輸入錯誤密碼，系統中止繼續驗證，剩餘時間：%d小時
+G_ProtocolProcess_28	你連續輸入錯誤密碼已達%d次，連續輸入錯誤10次系統將中止驗證一段時間
+G_ProtocolProcess_29	對方現在無法和您交易！
+G_ProtocolProcess_30	對方賬號處於鎖定狀態，無法收到你的申請！
+G_ProtocolProcess_31	你的賬號處於鎖定狀態，無法進行交易！
+G_ScriptFuns_0	無
+G_ScriptFuns_1	<非轄區>
+G_ScriptFuns_2	本城現在擂臺賽沒有進行。
+G_ScriptFuns_3	本城區最近無擂臺戰事。
+G_ScriptFuns_4	組隊消息
+G_ScriptFuns_5	[Script]使用AddItem參數數量不符!
+G_ScriptFuns_6	[Script]使用AddGoldItem參數數量不符!
+G_ScriptFuns_7	[Script]GoldItem-目前只支持黃金裝備!
+G_ScriptFuns_8	GetItem 參數不夠!
+G_ScriptFuns_9	HaveItem 參數不夠!
+G_ScriptFuns_10	DelCommonItem 參數不夠!
+G_ScriptFuns_11	ExistCommonItem 參數不夠!
+G_ScriptFuns_12	GetItemLife 參數不夠!
+G_ScriptFuns_13	無名城
+G_ScriptFuns_14	未記錄
+G_ScriptFuns_15	未知碼頭
+G_ScriptFuns_16	您的聲望減少了%d點!
+G_ScriptFuns_17	您的聲望增加了%d點!
+G_MagicDesc_0	內力
+G_MagicDesc_1	生命
+G_MagicDesc_2	體力
+G_MagicDesc_3	銀兩
+G_MagicDesc_4	增加
+G_MagicDesc_5	減少
+G_MagicDesc_6	女性
+G_MagicDesc_7	男性
+G_MagicDesc_8	劍
+G_MagicDesc_9	單刀
+G_MagicDesc_10	棍棒
+G_MagicDesc_11	槍
+G_MagicDesc_12	錘
+G_MagicDesc_13	雙刀
+G_MagicDesc_14	所有
+G_MagicDesc_15	暗器
+G_MagicDesc_16	近身
+G_MagicDesc_17	空手
+G_MagicDesc_18	未知
+G_KDiceGame_0	你沒有足夠銀兩繼續遊戲了！
+G_KDiceGame_1	遊戲
+G_KDiceGame_2	AddGlobalNews([[熱烈慶賀！%s 中了大獎，得到積累彩金，共計%d兩！]])
+G_KDiceGame_3	%d:%d 遊樂機:%s 摸到 %d|%d|%d ,賭注: %d 獎金:%d 彩金:%d\n
+ 	
+G_STRING_AUTOHANGMSG_1	你的功力太低，無法吸收臘八粥的神奇功效。等%d級之後再來試試吧。
+G_STRING_AUTOHANGMSG_2	你必須擁有礦鎬才能挖礦，請找 桃花隱士 購買吧。
+G_STRING_AUTOHANGMSG_3	你的礦鎬已經完全損壞，你必須到 桃花隱士 那裏購買新的礦鎬才能繼續挖礦。
+G_STRING_AUTOHANGMSG_4	你的經驗增加了%d點。
+G_STRING_AUTOHANGMSG_5	你的特殊礦鎬已經完全損壞，你必須到 幫會兵甲坊 那裏購買新的特殊礦鎬才能繼續挖礦。
+G_CORESHELL_1	騎馬時無法打坐！
+G_CORESHELL_STALLPRICE	\n<color=White>販賣單價：<color=Yellow>
+G_CORESHELL_OFFERPRICE	\n<color=White>收購單價：<color=Yellow>
+G_CORESHELL_STALL_0	\n<color=White>標價(收入)：<color=Green>
+G_CORESHELL_STALL_1	\n<color=White>賣價(含稅)：<color=Yellow>
+G_CORESHELL_STALL_2	\n<color=White>賣價：<color=Yellow>
+G_CORESHELL_STALL_3	\n<color=DBlue>本地稅率：%d%%\n
+G_STRING_ALLSKILLS	所有武功
+G_STRING_BRACKET_BEGIN	「
+G_STRING_BRACKET_END	」
+G_CITYWAR_WARNING_SETTAXTIME	當前不允許設置稅率。每天可設置稅率時段為：%d點 ~ %d點
+G_CITYWAR_WARNING_TAXALREADYSET1	你已經設置過今天的稅率了！！
+G_CITYWAR_WARNING_TAXALREADYSET	你已經設置過本周的稅率了！！
+G_CITYWAR_WARNING_NOTTONGLEADER	你不是幫會幫主！！
+G_STRING_DISABLED_CHAT	你目前所在地可能屬於特殊區域，不能使用此聊天頻道
+G_STRING_ENTER_CHANNEL	公告：你加入了%s頻道
+G_STRING_LEAVE_CHANNEL	公告：你離開了頻道
+G_STRING_ANTIBOT_AFTERMSG	你受外掛的影響並未消除，在一定時間內，系統將不確保你獲得的數據是正確的。
+G_STRING_ANTIBOT_CLEARMSG	受外掛的影響已消除，你現在獲得的數據是正確的。
+G_STRING_ANTIBOT_STARTMSG	你正在使用外掛，系統將不確保你獲得的數據是正確的。
+G_STRING_SONG	宋
+G_STRING_JIN	金
+G_STRING_MONEY	兩
+G_STRING_FUYUAN	福緣
+G_STRING_COIN	銅錢
+G_STRING_SCORE	積分
+G_STRING_CONTRIBUTION	貢獻度
+G_STRING_BUILDFUND	幫會建設度
+G_STRING_HONOUR	榮譽點
+G_STR_AUTOATTACK_START	進入自動打怪模式 , 剩餘時間%d分。
+G_STR_AUTOATTACK_END	自動打怪模式已結束。
+G_STR_AUTOATTACK_SWITCH_ON	自動打怪狀態開啟！如果要切換手動模式，請用鼠標左鍵點擊空地即可。
+G_STR_AUTOATTACK_SWITCH_OFF	自動打怪狀態關閉！如果要切換自動模式，請用鼠標右鍵點擊敵人即可。
+G_STR_AUTOATTACK_INFO1	自動打怪功能可以在練功模式下進行。
+G_STR_AUTOATTACK_INFO2	自動打怪功能暫停。該功能只能在練功模式下進行。
+G_STR_AUTOATTACK_ERROR1	非戰鬥狀態無法更改自動打怪狀態！
+G_STR_AUTOATTACK_ERROR2	自動打怪模式只能在練級模式使用！
+G_STR_AUTOATTACK_ERROR3	你未使用白駒丸，所以無法使用自動打怪模式！
+G_STR_MOUSE_MAGIC_ITEM	你未使用白駒丸，所以無法使用自動打怪模式!
+G_STR_ONLY_JEWELRY	此物品框只能放入未綁定的首飾(項鏈,戒指,香囊,腰墜,玉佩)!
+G_STR_ONLY_CRYOLITE	此物品框只能放入沒有疊加的玄晶礦石.
+G_STR_ONLY_PROPMINE	此物品框只能放入屬性礦石(玄鐵礦,秘銀礦,朱砂礦,孔雀石,芙蓉石,鐘乳石).
+G_STR_ONLY_EQUIP	此物品框只能放入未綁定的藍/白色裝備.
+G_STR_ONLY_MINE	此物品框只能放入沒有疊加的玄晶礦石或屬性礦石.
+G_STR_ONLY_BW_EQUIP	此物品框只能放入非首飾，未綁定的藍/白色裝備.
+G_STR_ONLY_PURPLE_EQUIP	此物品框只能放入未綁定的紫色裝備.
+G_STR_ONLY_CONSUME	此物品框只能放入水晶,福緣露或神秘礦石.
+G_STR_ONLY_ORGMINE	此物品框只能放入原始屬性礦石(玄鐵原礦,秘銀原礦,朱砂原礦,孔雀原石,芙蓉原石,鐘乳原石).
+G_STR_ONLY_ATLAS	此物品框只能放黃金圖譜.
+G_STR_ONLY_BOOK	此物品框只能放屬性礦石或技能書.
+G_STR_DUPEDITEM_MARK	你的“%s”為非法複制物品，已被作標記！
+G_STR_DUPEDITEM_DELETE	你的“%s”為非法複制物品，已被刪除！
+G_STR_ITEM_LOWDUR	您的“%s”即將損壞，請盡快修理。
+G_STR_ITEM_ABRADETOZERO	你的“%s”已損壞，不能再使用，請修理。
+G_TIPS_PLAYEREVENT_KILLNPC	殺死“%s”的進度%d/%d
+G_STR_ORIGINAL_PRICE	物品原價：
+G_STR_ABATE_PRICE	物品促銷價：
+G_STR_ABATE_BEGIN_DATE	打折日期從：
+G_STR_TO	至：
+G_STR_SELL_BEGIN_DATE	銷售日期從：
+G_STR_ABATE_END	打折日期至：
+G_STR_SELL_END	銷售日期至：
+G_STR_CHATROOM	聊天室
+G_STR_NPC_BUYITEM_REPUTE	<color=Yellow>聲望需求：陣營(%s)，類別(%s)，等級(%d)
+G_STR_PLAYERACTION_LEVELUP	玩家升級
+G_STR_PLAYERACTION_JOINFACTION	加入門派
+G_STR_PLAYERACTION_JOINKIN	加入家族
+G_STR_PLAYERACTION_LEAVEKIN	退出家族
+G_STR_PLAYERACTION_TRADEITEM	玩家交易物品
+G_STR_PLAYERACTION_TRADEMONEY	玩家交易銀兩
+G_STR_PLAYERACTION_STALLITEM	擺攤交易物品
+G_STR_PLAYERACTION_STALLMONEY	擺攤交易銀兩
+G_STR_PLAYERACTION_LOGOUT	玩家下線
+G_STR_PLAYERACTION_LOGIN	玩家上線
+G_STR_PLAYERACTION_BEGINOFFLIVE	開始離線托管
+G_STR_PLAYERACTION_ENDOFFLIVE	結束離線托管
+G_STR_PLAYERACTION_KICKOFFLIVE	離線托管踢號
+G_STR_TEAMFRIEND_GETITEM	%s 得到了 %s
+K_S_METAL	金
+K_S_WOOD	木
+K_S_WATER	水
+K_S_FIRE	火
+K_S_EARTH	土
+K_C_BEGIN	begin
+K_C_JUSTICE	justice
+K_C_EVIL	evil
+K_C_BALANCE	balance
+K_C_FREE	free
+K_C_ANIMAL	animal
+K_C_EVENT	event
+K_NPC_0	CharacterName
+K_REPAIRSCRIPT_FUNC_PRICE	get_repair_price
+K_REPAIRSCRIPT_FUNC_REPAIR	repair_equip
+K_CHAT_TEAM_DEFAULT_NAME	我的好友
+K_MATE_UNITNAME	配偶\n
+K_BROTHER_UNITNAME	親人\n
+K_ENEMY_UNITNAME	仇人\n
+K_PLAYERCHAT_0	%04d.%02d.%02d
+K_PLAYERCHAT_1	%02d:%02d:%02d
+K_SCRIPTFUNC_GetAutoExpValue	AEXP_GetHangExpValue
+K_WEAPON_DETAILTYPE	具體類別
+K_MESSAGE_SYSTEM_ANNOUCE_HEAD	公告
+K_MESSAGE_SYSTEM_WARNING_HEAD	警告
+K_MESSAGE_SYSTEM_MESSAGE_HEAD	系統消息
+K_KIND_NAME_SECT	CharacterType
+K_KIND_NAME_SPECIAL	SpecialNpc
+K_KIND_NAME_NORMAL	NormalNpc
+L_CANT_OPEN	無法打開%s
+L_TONG_TAX	<%s>城區稅收金額: %u
+L_SHAREDATABASE_0	產生了一個寶物 %d, %d,%d\n
+L_SHAREDATABASE_1	產生了一個幸運之星 %s  %d, %d,%d\n
+L_SHAREDATABASE_2	產生了一個黃金怪物 %s  index = %d Sid=%d  %d, %d,%d\n
+L_EXCEPT_EXCUTE_RS	Exception Have Caught When Execute Relay Script !!!!!
+L_NPC_0	[數值]%s受到%d點原始毒傷害
+L_NPC_1	[數值]%s受到%d點原始魔法傷害
+L_NPC_2	[數值]%s實際傷害：%d
+L_NPC_3	[數值]%s返回傷害%d
+L_NPC_4	[數值]%s魔法盾吸收比例：%d
+L_NPC_5	[數值]%s閃過攻擊
+L_NPC_6	[zroc]Npc(%d)ServerMove RegionIdx = %d
+L_NPC_7	Packing sync data ok...\n
+L_NPC_8	Packing sync data failed...\n
+L_NPC_9	[Sync]%d:%s<%d> request to %d. size:%d
+L_NPC_10	Packing player sync data ok...\n
+L_NPC_11	Packing player sync data failed...\n
+L_NPC_12	NpcID:%d  Life:%d\nRegionIndex:%d Pos:%d,%d\nPlayerNumber:%d\n
+L_NPC_13	NpcNumber:\n%02d,%02d,%02d\n%02d,%02d,%02d\n%02d,%02d,%02d
+L_NPC_14	[數值]AttackRating %d : Defense %d: RandomPercent (%d, %d)
+L_NPC_15	[error]致命錯誤,無法正確讀取%s
+L_NPC_16	載入Npc%d模板請求非法！
+L_NPC_17	[Script]SetPos error:SubWorld:%d, Pos(%d, %d)
+L_NPC_18	[Map]World%d haven't been loaded!
+L_NPC_19	[Map]Change Pos(%d,%d) Invalid!
+L_NPC_20	[DEATH]SetMode:%d
+L_NPC_21	[DEATH] m_ProcessState: %d
+L_NPC_22	[DEATH] m_bExchangeServer: %d
+L_NPC_23	[DEATH] m_Doing: %d
+L_NPC_24	[DEATH] WaitForFrame TRUE
+L_NPC_25	[DEATH] WaitForFrame FALSE
+L_NPC_26	[error]%s Region Index < 0 when hurt
+L_NPC_27	[DEATH]On Hurt Finished
+L_NPC_28	[error]%s Region Index < 0 when dorevive
+L_NPC_29	被怪打死損失經驗%d
+L_NPC_30	被怪打死損失銀兩%d
+L_NPC_31	被玩家[%s]打死損失經驗%d
+L_NPC_32	被玩家[%s]打死損失銀兩%d
+L_NPCATTRIBM_0	[數值]%s冰傷害增加(%d)
+L_NPCATTRIBM_1	[數值]%s火傷害增加(%d)
+L_NPCATTRIBM_2	[數值]%s電傷害增加(%d)
+L_NPCATTRIBM_3	[數值]%s所有物理攻擊力增加百分之%d
+L_NPCATTRIBM_4	[數值]%s遠程物理攻擊力增加百分之%d
+L_NPCATTRIBM_5	[數值]%s空手物理攻擊力增加百分之%d
+L_NPCATTRIBM_6	[數值]%s近程物理攻擊力增加百分之%d
+L_NPCATTRIBM_7	[數值]%s近程武器%d物理攻擊力增加百分之%d
+L_NPCATTRIBM_8	[數值]%s毒狀態變為：間隔%d幀發作一次%d傷害，共持續%d幀
+L_NPCATTRIBM_9	[數值]%s物理傷害力增加(%d)
+L_NPCATTRIBM_10	[數值]%s五防抗性增加%d
+L_NPCATTRIBM_11	[數值]%s所有技能加%d級，未完成
+L_NPCATTRIBM_12	[數值]%s命中率增加百分之%d(%d點)
+L_NPCATTRIBM_13	[數值]%s攻擊速度增加%d
+L_NPCATTRIBM_14	[數值]%s施法速度增加%d
+L_NPCATTRIBM_15	[數值]%s當前陣營變為%d
+L_NPCATTRIBM_16	[數值]%s冰抗性增加了%d點
+L_NPCATTRIBM_17	[數值]%s致命一擊百分比增加%d
+L_NPCATTRIBM_18	[數值]%s當前身法增加了%d點
+L_NPCATTRIBM_19	[數值]%s土系技能加%d級
+L_NPCATTRIBM_20	[數值]%s當前內功增加了%d點
+L_NPCATTRIBM_21	[數值]%s快速命中回複增加%d
+L_NPCATTRIBM_22	[數值]%s移動速度增加%d
+L_NPCATTRIBM_23	[數值]%s火系技能加%d級
+L_NPCATTRIBM_24	[數值]%s冰凍時間減少百分之%d
+L_NPCATTRIBM_25	[數值]%s震退百分比增加%d
+L_NPCATTRIBM_26	[數值]%s生命上限增加了百分之%d(%d點)
+L_NPCATTRIBM_27	[數值]%s生命上限增加了%d點
+L_NPCATTRIBM_28	[數值]%s生命回複速度增加了%d點
+L_NPCATTRIBM_29	[數值]%s生命增加了%d點
+L_NPCATTRIBM_30	[數值]%s電抗性增加了%d點
+L_NPCATTRIBM_31	[數值]%sMF值增加了%d,未完成
+L_NPCATTRIBM_32	[數值]%s內力上限增加了百分之%d(%d點)
+L_NPCATTRIBM_33	[數值]%s內力上限增加了%d點
+L_NPCATTRIBM_34	[數值]%s內力回複速度增加了%d點
+L_NPCATTRIBM_35	[數值]%s內力增加了%d點
+L_NPCATTRIBM_36	[數值]%s吸收傷害百分比為%d，持續%d幀
+L_NPCATTRIBM_37	[數值]%s近程物理傷害反彈百分比增加%d
+L_NPCATTRIBM_38	[數值]%s近程物理傷害反彈增加%d
+L_NPCATTRIBM_39	[數值]%s金系技能加%d級, 未完成
+L_NPCATTRIBM_40	[數值]%s物理抗性增加了%d點
+L_NPCATTRIBM_41	[數值]%s傷害轉內力百分比增加了%d
+L_NPCATTRIBM_42	[數值]%s中毒傷害減少%d
+L_NPCATTRIBM_43	[數值]%s毒抗性增加了%d點
+L_NPCATTRIBM_44	[數值]%s中毒時間減少百分之%d
+L_NPCATTRIBM_45	[數值]%s遠程傷害反彈增加%d
+L_NPCATTRIBM_46	[數值]%s遠程傷害反彈百分比增加%d
+L_NPCATTRIBM_47	[數值]%s子彈減速狀態變為%d
+L_NPCATTRIBM_48	[數值]%s體力上限增加了百分之%d(%d點)
+L_NPCATTRIBM_49	[數值]%s體力上限增加了%d點
+L_NPCATTRIBM_50	[數值]%s體力回複速度增加了%d點
+L_NPCATTRIBM_51	[數值]%s體力增加了%d點
+L_NPCATTRIBM_52	[數值]%s偷生命百分比為%d(比原本上升了%d點)
+L_NPCATTRIBM_53	[數值]%s偷內力百分比為%d(比原本上升了%d點)
+L_NPCATTRIBM_54	[數值]%s偷體力百分比為%d(比原本上升了%d點)
+L_NPCATTRIBM_55	[數值]%s當前力量增加了%d點
+L_NPCATTRIBM_56	[數值]%s眩暈時間減少%d
+L_NPCATTRIBM_57	[數值]%s視野範圍增加%d
+L_NPCATTRIBM_58	[數值]%s當前外功增加了%d點
+L_NPCATTRIBM_59	[數值]%s水系技能加%d級，未完成
+L_NPCATTRIBM_60	[數值]%s木系技能加%d級，未完成
+L_NPCATTRIBM_61	[數值]%s火抗性增加了%d點
+L_NPCATTRIBM_62	[數值]%s閃避增加了%d點
+L_NPCATTRIBM_63	[數值]%s冰增強增加了%d點
+L_NPCATTRIBM_64	[數值]%s火增強增加了%d點
+L_NPCATTRIBM_65	[數值]%s電增強增加了%d點
+L_NPCATTRIBM_66	[數值]%s毒增強增加了%d點
+L_NPCATTRIBM_67	[數值]%s喝了補血藥，獲得%d幀內每10幀回複%d點生命的效果
+L_NPCATTRIBM_68	[數值]%s喝了補內力藥，獲得%d幀內每10幀回複%d點內力的效果
+L_NPCATTRIBM_69	[數值]%s物理抗性上限增加了%d點
+L_NPCATTRIBM_70	[數值]%s冰抗性上限增加了%d點
+L_NPCATTRIBM_71	[數值]%s火抗性上限增加了%d點
+L_NPCATTRIBM_72	[數值]%s電抗性上限增加了%d點
+L_NPCATTRIBM_73	[數值]%s毒抗性上限增加了%d點
+L_NPCATTRIBM_74	[數值]%s五防抗性上限增加%d
+L_NPCATTRIBM_75	[數值]%s眩暈百分比增加%d
+L_NPCATTRIBM_76	[數值]%s致命一擊抗性增加%d
+L_NPCATTRIBM_77	[數值]%s物理傷害增加(%d)
+L_NPCATTRIBM_78	[數值]%s狀態免疫狀態變為%d
+L_NPCSET_0	文件載入失敗：%s，請通知研發人員進行處理！
+L_NPCSET_1	文件載入失敗：%s
+L_NPCSET_3	[Script]Npc %s,%d
+L_NPCSET_4	[Request]Remove %d from %d on %d timeout
+L_NPCSET_5	[Request]Insert %d at %d on %d
+L_NPCSET_6	[Request]Remove %d from %d on %d
+L_NPCSET_7	                 %d:AddNpc:%d\n
+L_NPCSET_8	                 %d:RemoveNpc:%d %s\n
+L_NPCSET_9	Error!!!NpcCount is Full!!Can Not Add Any More!\n
+L_NPCTEMPLATE_0	無法找到%s\n
+L_NPCTEMPLATE_1	[%s]調用GetNpcLevelData函數的 傳入參數[%s]有誤，請檢查\n
+L_NPCTEMPLATE_2	調用GetNpcLevelData函數的 傳入參數[%s]有誤，請檢查\n
+L_NPCTEMPLATE_3	無找到該[%s]魔法的Id,請檢查！
+L_PLAYER_1	[skill]right
+L_PLAYER_2	[skill]left
+L_PLAYER_3	[skill]return
+L_PLAYER_4	SubWorld Fail.\n
+L_PLAYER_5	NPC Fail.\n
+L_PLAYER_6	player Packing sync data failed...\n
+L_PLAYER_7	Load PlayerInfo Step %d Failed...\n
+L_PLAYER_8	player Packing skill sync data failed...\n
+L_PLAYER_9	[數值]%s實際增加經驗%d點
+L_PLAYER_10	%s(%s)在%d循環撿了%d兩銀子\n
+L_PLAYER_11	%s\nSubWorld:%d\nReviveID:%d\nMpsX:%d\nMpsY:%d\n
+L_PLAYER_12	[%s][%s]把 %s 賣給了 [%s][%s]，物品生成時間：%u\r\n
+L_PLAYER_13	交易時間：%d月%d日%d時%d分%d秒！\r\n\r\n
+L_PLAYER_14	%d/%d/%d %d:%d:%d
+L_PLAYER_15	%s\t%s\t%d\t%s\t%d\t%d\r\n
+L_PLAYER_16	Account %s, Player %s UseSilver Type = %d, UseType = %d, Count = %d\n
+L_PLAYER_17	Exception Have Caught When Execute Script[%d]!!!!!
+L_PLAYER_18	[trade]trade 與%s交易開始！
+L_PLAYER_19	[trade]trade 得到交易對方錢信息：%d
+L_PLAYER_20	[trade]trade 交易完成！
+L_PLAYER_21	[trade]trade 交易取消！
+L_PLAYER_22	撿取物品
+L_PLAYER_23	撿取銀兩\t%d
+L_PLAYER_24	丟棄物品
+L_PLAYER_25	玩家相互交易賣出物品給[%s][%s]
+L_PLAYER_26	玩家相互交易對方賬號[%s]角色名[%s]收入：%d 支出：%d
+L_PLAYER_27	玩家相互交易從[%s][%s]買入物品
+L_PLAYERCHAT_0	[chat]聊天數據包錯誤！
+L_PLAYERCHAT_1	player Packing friend sync data failed...\n
+L_PLAYERCHAT_2	player Packing friend 2 sync data failed...\n
+L_PLAYERSET_0	SERVER:Player[%s] has been removed!
+L_PLAYERSET_2	[error]Attach to a connected player named %s
+L_PLAYERSET_3	[error]Find Guid to a disconnect player
+L_PLAYERSET_4	%s 腳本無法加載，可能文件不存在或語法錯誤
+L_PlayerSet_AutohangItem	%s 獲得了 %s
+L_PLAYERSTALL_0	Recv  c2s_stallmarkprice request
+L_PLAYERSTALL_1	Recv  c2s_stallmakeadv request
+L_PLAYERSTALL_2	Recv  c2s_stallstallbuyitem request
+L_PLAYERSTALL_3	Recv  c2s_stallexit request
+L_PLAYERSTALL_4	Recv  c2s_stallrequestadv request
+L_PLAYERSTALL_5	Recv  c2s_stallrequestiteminfo request
+L_PLAYERSTALL_6	In KPlayerStall::ProcessStallProtocol recv unknown protocol
+L_PLAYERSTALL_7	In KPlayerStall construcotr
+L_PLAYERSTALL_8	KPlayerStall::CheckItemPriceRange : some item price is not correctly\n
+L_PLAYERSTALL_9	KPlayerStall::GetItemPrice : the item  %d don't exist\n
+L_PLAYERSTALL_10	KPlayerStall::SetItemPrice : the item  %d don't exist\n
+L_PLAYERSTALL_11	KPlayerStall::CheckMakeStallCondition : you are in fight area\n
+L_PLAYERSTALL_12	KPlayerStall::CheckMakeStallCondition : No item in equitment room\n
+L_PLAYERSTALL_13	KPlayerStall::CheckMakeStallCondition : Player is on horse\n
+L_PLAYERSTALL_14	KPlayerStall::HasEnoughSpace : no enough space for Width = %d , Height = %d \n
+L_PLAYERSTALL_15	KPlayerStall::HasEnoughMoney : no enough Money  %d  \n
+L_PLAYERSTALL_16	KPlayerStall::HasThisItem : item haven't  existed , Itemidx = %d, nX = %d , nY = %d ,Price = %d  nIdx = %d\n
+L_PLAYERSTALL_17	KPlayerStall::HasThisItem : item couldn't be sell\n
+L_PLAYERSTALL_18	KPlayerStall::HasThisItem : price rise,now price is %d, your pay is %d  \n
+L_PLAYERSTALL_19	KPlayerStall::HasThisItem : price down,now price is %d, your pay is %d  \n
+L_PLAYERSTALL_20	KPlayerStall::c2sstallmarkprice : the item be priced number is error
+L_PLAYERSTALL_21	Recv markprice item list:
+L_PLAYERSTALL_22	Recv markprice protocol, but cann't fit the condition
+L_PLAYERSTALL_23	Recv markprice protocol, but some item has a error price
+L_PLAYERSTALL_24	KPlayerStall::c2sstallmarkprice : SellerID is 
+L_PLAYERSTALL_25	KPlayerStall::c2sstallmarkprice : SellerID is error
+L_PLAYERSTALL_26	Some marked item don't exist, something wrong??
+L_PLAYERSTALL_27	Set seller %d to Stall_Sell_State\n, m_nPlayerIndex);
+L_PLAYERSTALL_28	Recv  buy item info:
+L_PLAYERSTALL_29	SellID = %d, ItemID= %d \n
+L_PLAYERSTALL_30	%s<%s> 從 %s<%s> 處以 %d 的價格買走了 [%s]
+L_PLAYERSTALL_32	[%s]的生成時間是(%u)
+L_PLAYERSTALL_33	從[Account:%s][Name:%s]的擺攤買入物品支出：%d [%s]收入：%d 稅金：%d
+L_PlayerTrade_0	[trade]trade 得到交易狀態信息：己方鎖定 %d ，對方鎖定 %d，己方確定 %d，對方確定 %d
+L_BuySell_0	g_cBuySellMgr: %s buy idx error!
+L_BuySell_1	%s(%s)在%d循環賣了%s得到%d兩銀子
+L_BuySell_2	從npc買入物品支出銀兩：%d
+L_BuySell_3	從npc賣出物品收入銀兩：%d
+L_ITEM_0	[ITEM]\t%s(%s)的裝備<%s(%d,%d,%d,%d,%d)>被非正常清除
+L_ItemList_0	[ITEM]\t%s(%s)獲取%s(%s)的裝備<%s(%d,%d,%d,%d,%d)>
+L_ItemList_1	[ITEM] ItemListIdx:%d, Item:%d, ItemId:%d
+L_ItemList_2	[ITEM]\t%s(%s)的裝備<%s(%d,%d,%d,%d,%d)>清除時已經是%s(%s)的裝備
+L_ItemList_3	[trade]trade 對方減少物品 id:%d  PosX:%d  PosY:%d  Width:%d  Height:%d
+L_ItemList_4	[trade]trade 此物品屬性1 Genre:%d  Detail:%d  Particur:%d  Series:%d
+L_ItemList_5	[trade]trade 此物品屬性2 Level:%d  Luck:%d  RandomSeed:%d  Version:%d  Durability:%d
+L_ItemList_6	[trade]trade 此物品屬性3 GenInfo: %d %d %d %d %d %d %d %d %d %d %d %d
+L_ItemList_7	[%s]設定儲物箱密碼！
+L_ItemList_8	GM設定[%s]的儲物箱密碼！
+L_ItemList_9	[%s]取消儲物箱密碼！
+L_ItemList_10	GM取消[%s]的儲物箱密碼！
+L_ItemList_11	[%s]修改儲物箱密碼！
+L_ItemList_12	GM鎖定[%s]的儲物箱！
+L_ItemList_13	GM解鎖[%s]的儲物箱！
+L_ItemList_14	死亡掉落物品
+L_ItemList_15	死亡掉落身上裝備
+L_ItemList_16	丟棄所有藥品
+L_ItemList_17	丟棄所有紅藥
+L_ItemList_18	丟棄所有藍藥
+L_ItemList_19	丟棄所有紅藍藥
+L_ItemList_20	丟棄所有白藥
+L_ItemList_21	丟棄所有綠藥
+L_ItemList_22	%s(%s)的快捷欄物品 %s(%d,%d,%d,%d,%d) 載入錯誤，被清除
+L_ItemSet_0	%s 載入失敗，請檢查設定文件並通知研發人員！
+L_KLibOfBPT_0	[魔法屬性]%s五防抗性上限增加%d
+L_KLibOfBPT_1	[魔法屬性]m_CMAIT[前綴後綴][類型][五行][級別]\n
+L_KLibOfBPT_2	[魔法屬性]m_CMAIT[%d][%d][%d][%d]: Count = %3d, %s  \n
+L_Core_0	無法打開\\settings\\gamesetting.ini文件 ，請檢查!!\n
+L_Core_2	[Script]腳本占空間為%d
+L_Core_3	無法打開%s文件!!!\n
+L_Core_4	人物模板數量%d
+L_Core_7	%sNpc等級設定腳本無法加載，可能文件不存在或語法錯誤
+L_ProtocolProcess_0	[trade]trade 對方增加物品客戶端添加失敗!!!
+L_ProtocolProcess_1	[trade]trade 對方增加物品 id:%d  PosX:%d  PosY:%d
+L_ProtocolProcess_2	[trade]trade 此物品屬性1 Genre:%d  Detail:%d  Particur:%d  Series:%d
+L_ProtocolProcess_3	[trade]trade 此物品屬性2 Level:%d  Luck:%d  RandomSeed:%d  Version:%d  Durability:%d
+L_PLAYERDBFUN_0	[Error!]AddNpc Error DBFuns.cpp
+L_PLAYERDBFUN_1	g_cItemMgr:%d, Load item failed!\n
+L_PLAYERDBFUN_2	[%s]\nPlayerName:(%s:%s)\tNpcName:(%s)\nMoney:(%d:%d)\nPos:(%d,%d,%d)\n
+L_PLAYERDBFUN_3	ItemName:%s, Ver:%d, Rand:%d, ID:%d, Param:(%d,%d,%d), GenTime:%d, Lvl:%d, Series:%d, Local(%d:%d:%d), GenInfo(%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d), Luck:%d, Dur:%d, MaxDur:%d\n
+L_PLAYERDBFUN_4	----\n%s\nItemList Index:%d\nItem Index:%d\nItem ID:%d\nItem Place:%d
+L_PLAYERDBFUN_5	----\n MenuState: %d TradeState: %d
+L_SkillList_0	Npc的技能數量超過了限制50！！！，請檢查!!!
+L_SkillList_1	Param2PCoordinate函數獲得參數違法！nParam1 ,nParam2 [%d,%d], nPX,nPY
+L_SkillList_2	Skill::Cast(), nLauncher < 0 , Return False;
+L_SkillList_3	Call Skill::Cast(), nWaitTime < 0 
+L_SkillList_4	創建子彈貼圖失敗！！！%s
+L_ScriptFuns_0	Error!Say腳本對話過長，請更正。%s
+L_LuaFuns_0	無法找到指定的腳本對象
+L_SortScript_0	[腳本]加載腳本%s，出錯，該腳本無法加載！！請檢查！！
+L_SortScript_1	[腳本]嚴重錯誤!腳本數量超限制%d！請立即解決！！
+L_SortScript_2	[Script]腳本總容量超過%d,嚴重錯誤請檢查!
+L_SortScript_3	加載%s文件出錯
+L_CoreServerShell_0	[error]網絡接收協議大小不匹配
+L_CoreServerShell_1	[error]網絡接收協議大小不匹配<%d>, should %d, but %d\n
+L_GMCOMMAND_0	執行GM指令,發生異常!\n
+MSG_IBSHOP_TOOMUCH_ORDER	請不要頻繁提交訂單!
+MSG_IBSHOP_NOROOM	背包空間不足，無法發貨!
+MSG_IBSHOP_SEND_ITEM_ERROR	發貨失敗!
+MSG_IBSHOP_PAY_ERROR	付費失敗！
+MSG_ITEM_GM_MAIL_TITLE	物品贈送
+MSG_ITEM_GM_MAIL_CONTEXT	
+MSG_GET_EXP	您獲得%d點經驗值。
+MSG_DEC_EXP	您損失了%d點經驗值。
+MSG_LEVEL_UP	您的等級提升至%d。
+MSG_LEADER_LEVEL_UP	您的統率等級提升至%d！
+MSG_GET_ATTRIBUTE_POINT	您獲得%d點潛能！
+MSG_GET_SKILL_POINT	您獲得%d個技能點！
+MSG_GET_ATTRIBUTE_SKILL_POINT	您獲得%d點潛能和%d個技能點！
+MSG_SKILL_BEYOND_ATTACKRADIUS	您離目標點太遠，當前使用武功的有效距離不夠。
+MSG_GET_HALF_EXP	您正處於疲勞狀態，只得到一半的經驗值%d點。
+MSG_TEAM_AUTO_REFUSE_INVITE	自動拒絕他人對您的組隊邀請。
+MSG_TEAM_NOT_AUTO_REFUSE_INVITE	顯示他人對您的組隊邀請。
+MSG_TEAM_SEND_INVITE	您向%s發出組隊邀請！
+MSG_TEAM_FULL	您的隊伍已滿！
+MSG_TEAM_REFUSE_INVITE_SELF	你謝絕了%s的組隊邀請！
+MSG_TEAM_REFUSE_APPLYJOIIN	你謝絕了%s的入隊申請！
+MSG_TEAM_CAMP_BEGIN_INVITE	無門派玩家不能作為隊長邀請有門派玩家組隊。
+MSG_TEAM_CAMP_BEGIN_JOIN	門派弟子不能加入無門派玩家創建的隊伍。
+MSG_TEAM_REFUSE_INVITE	%s謝絕了您的組隊邀請！
+MSG_TEAM_REFUSE_APPLYJOIN	%s謝絕了您的入隊申請！
+MSG_TEAM_TARGET_DISABLETEM	對方目前不能組隊或接受成員！
+MSG_TEAM_CANNOT_ADD_HIM	你不能與對方組隊或加入對方隊伍！
+MSG_TEAM_CREATE	您創建了一支隊伍。
+MSG_TEAM_CREATE_FAIL	隊伍創建失敗。
+MSG_TEAM_DISABLE	您現在不能組隊或加入隊伍！
+MSG_TEAM_LOCK	您現在不能執行隊伍操作！
+MSG_TEAM_TARGET_CANNOT_ADD_TEAM	你不能加入對方隊伍！
+MSG_TEAM_TARGET_TEAM_CLOSE	對方隊伍拒絕接納隊員！
+MSG_TEAM_TARGET_TEAM_FULL	對方隊伍人數已滿！
+MSG_TEAM_TARGET_IN_TEAM	對方已在隊伍中！
+MSG_TEAM_TARGET_NOT_ONLINE	對方不在線！
+MSG_TEAM_SEARCHINFO_1	你已在隊伍中，不能發布求組信息！
+MSG_TEAM_SEARCHINFO_2	你不是隊長，不能發布求組信息！
+MSG_TEAM_SEARCHINFO_3	你的隊伍已滿，不能發布求組信息！
+MSG_TEAM_SEARCHINFO_4	您的求組信息已成功發布！
+MSG_TEAM_SEARCHINFO_5	您的招募隊友信息已成功發布！
+MSG_TEAM_SEARCHINFO_6	您取消了所發布的求組信息！
+MSG_TEAM_SEARCHINFO_7	您取消了所發布的招募隊友信息！
+MSG_TEAM_OPEN	您的隊伍現在允許接收新隊員。
+MSG_TEAM_CLOSE	您的隊伍現在不允許接收新隊員。
+MSG_TEAM_ADD_MEMBER	%s成為您的隊友了。
+MSG_TEAM_SELF_ADD	您加入%s的隊伍。
+MSG_TEAM_DISMISS_CAPTAIN	您解散了自己的隊伍！
+MSG_TEAM_DISMISS_MEMBER	%s解散了隊伍！
+MSG_TEAM_KICK_ONE	%s被開除出隊伍！
+MSG_TEAM_BE_KICKEN	您被開除出隊伍！
+MSG_TEAM_APPLY_ADD_SELF_MSG	您申請加入%s的隊伍！
+MSG_TEAM_LEAVE	%s離開隊伍。
+MSG_TEAM_LEAVE_SELF_MSG	您離開%s的隊伍。
+MSG_TEAM_LEAVE_SELF_MSG_2	您離開了自己的隊伍。
+MSG_TEAM_CHANGE_CAPTAIN_FAIL1	隊長任命失敗！
+MSG_TEAM_CHANGE_CAPTAIN_FAIL2	對方不在線，不能任命！
+MSG_TEAM_CHANGE_CAPTAIN_FAIL3	您的隊伍不能移交給新手！
+MSG_TEAM_CHANGE_CAPTAIN	%s被任命為隊長！
+MSG_TEAM_CHANGE_CAPTAIN_SELF	您被%s任命為隊長！
+MSG_TEAM_AUTO_CAPTAIN_SELF	您被系統指定為隊長！
+MSG_TEAM_AUTO_CAPTAIN	%s被系統指定為隊長！
+MSG_TEAM_ITEM_MODE	當前物品分配模式被設置為：%s
+MSG_TEAM_ITEM_MODE_0	隊伍共享
+MSG_TEAM_ITEM_MODE_1	個人拾取
+MSG_TEAM_ERROR01	系統指定的隊長，不能增加隊伍成員！
+MSG_TEAM_ERROR02	系統指定的隊長，不能踢人出隊伍！
+MSG_TEAM_ERROR03	系統指定的隊長，不能任命新隊長！
+MSG_TEAM_ERROR04	系統指定的隊長，不能邀請他人加入隊伍！
+MSG_TEAM_ERROR05	系統指定的隊長，不能開放隊伍！
+MSG_TEAM_ZHEN1	隊長目前裝備了陣法<%s>。
+MSG_TEAM_ZHEN2	隊長目前沒有裝備陣法。
+MSG_RELATION_ADD_FRIEND	添加%s為好友。
+MSG_RELATION_DEL_FRIEND	刪除好友%s。
+MSG_RELATION_ADDED_FRIEND	%s將您加為好友。
+MSG_RELATION_DEL_PLAYER	%s被刪除了。
+MSG_CHAT_APPLY_ADD_FRIEND	您向%s申請好友。
+MSG_CHAT_FRIEND_HAD_IN	%s已被加為好友。
+MSG_CHAT_GET_FRIEND_APPLY	%s申請加為好友！
+MSG_CHAT_REFUSE_FRIEND	%s拒絕好友申請！
+MSG_CHAT_ADD_FRIEND_FAIL	添加%s為好友失敗！
+MSG_CHAT_ADD_FRIEND_SUCCESS	您與%s成為好友！
+MSG_CHAT_CREATE_TEAM_FAIL1	好友分組創建失敗！
+MSG_CHAT_CREATE_TEAM_FAIL2	已存在同名組！
+MSG_CHAT_CREATE_TEAM_FAIL3	已達最大分組數！
+MSG_CHAT_RENAME_TEAM_FAIL	組名修改失敗！
+MSG_CHAT_DELETE_TEAM_FAIL1	組刪除失敗！
+MSG_CHAT_DELETE_TEAM_FAIL2	這個組不允許刪除！
+MSG_CHAT_FRIEND_ONLINE	%s上線了！
+MSG_CHAT_FRIEND_OFFLINE	%s下線了！
+MSG_CHAT_FRIEND_DELETE	%s被刪除了！
+MSG_CHAT_DELETE_FRIEND	您與%s解除了好友關系！
+MSG_CHAT_DISMISS_FRIEND	%s與您解除了好友關系！
+MSG_CHAT_DISMISS_BROTHER	%s與您解除了親人關系！
+MSG_CHAT_DISMISS_MATE	%s與您解除了夫妻關系！
+MSG_CHAT_DISMISS_RELATION	%s與您解除了關系！
+MSG_CHAT_MSG_FROM_FRIEND	%s發來消息！
+MSG_CHAT_FRIEND_NOT_NEAR	%s不在附近！
+MSG_CHAT_FRIEND_NOT_ONLINE	%s不在線！
+MSG_CHAT_TAR_REFUSE_SINGLE_TALK	%s沒有訂閱私聊頻道！
+MSG_CHAT_GMBOARD_ROLEANDACCOUNT	[問題角色信息:區服:%s 帳號:%s 角色:%s]
+MSG_CHAT_GMBOARD_ONLYZONE	[區服:%s]
+MSG_CHAT_GMBOARD_MSGTYPE	[問題類型:%s %s]
+MSG_CHAT_GMBOARD_REPORTTYPE	舉報
+MSG_CHAT_NO_SENDMAIL	不能發送幫會郵件。
+MSG_SHOP_NO_ROOM	背包空間不足！
+MSG_SHOP_NO_MONEY	銀兩不足！
+MSG_SHOP_NO_BINDMONEY	綁定銀兩不足！
+MSG_SHOP_NO_MACHINECOIN	機關力耐久度不夠！
+MSG_SHOP_NO_FUYUAN	福緣不足！
+MSG_SHOP_NO_COIN	魂石不足！
+MSG_SHOP_NO_SCORE	積分不足！
+MSG_SHOP_NO_CONTRIBUTION	貢獻度不足！
+MSG_SHOP_NO_JUNXUDIAN	軍需點！
+MSG_SHOP_NO_TONG_FUND	幫會建設資金不足！
+MSG_NPC_NO_MANA	內力不足！
+MSG_NPC_NO_STAMINA	體力不足！
+MSG_NPC_NO_LIFE	生命不足！
+MSG_NPC_DEATH	%s氣絕身亡！！
+MSG_OBJ_CANNOT_PICKUP	您不能拾取別人的物品！
+MSG_MONEY_CANNOT_PICKUP	您不能拾取別人的錢！
+MSG_OBJ_TOO_FAR	物品太遠，無法拾取！
+MSG_DEC_MONEY	您損失了%d兩銀子！
+MSG_EARN_MONEY	您獲得了%d兩銀子！
+MSG_DEATH_LOSE_ITEM	您丟失了物品%s！
+MSG_ADD_ITEM	您獲得了%d個%s！
+MSG_COSUME_BINDITEMONLY	您消耗了%d個綁定%s！
+MSG_COSUME_NOBINDITEMONLY	您消耗了%d個不綁定%s！
+MSG_COSUME_BINDANDNOBINDITEM	您消耗了%d個綁定%s，及%d個不綁定%s！
+MSG_TEAMATE_ADD_ITEM	隊友%s獲得了物品%s！
+MSG_CAN_NOT_VIEW_ITEM	現在不能察看他人裝備！
+MSG_ITEM_DAMAGED	您裝備的%s長期磨損，已經徹底損壞！
+MSG_ITEM_USINGTIMES_END	您的%s已經達到使用次數限制徹底損壞了！
+MSG_ITEM_UNFIT_SIZE_IMMEDIATE	快捷欄只能放置1×1大小的物品！
+MSG_ITEM_LEFTUSAGETIME_FADE	您的<color=yellow>%s<color>接近損壞，剩<color=yellow>%d<color>分鐘使用時間！
+MSG_ITEM_LEFTUSAGETIME_TIMEOUT	您的 %s 已經徹底損壞！
+MSG_ITEM_NOTHROW	該物品不可丟棄！
+MSG_IBSHOP_ADDITEMERROE	金幣不夠，購買失敗
+MSG_IBSHOP_DEDUCTCOIN	扣錢失敗，購買失敗
+MSG_IBSHOP_WAITCANCEL	因等待超時，您有部分商品沒有購買成功，可能是系統繁忙所致，請稍候再嘗試。
+MSG_TRADE_STATE_OPEN	您現在可以交易
+MSG_TRADE_STATE_CLOSE	您現在不能交易
+MSG_TRADE_SELF_LOCK	您交易物品已經鎖定
+MSG_TRADE_SELF_CONF	您交易物品已經確認
+MSG_TRADE_SELF_CANCEL	您取消了交易
+MSG_TRADE_SELF_UNLOCK	您交易物品解除鎖定
+MSG_TRADE_DEST_LOCK	%s交易物品已經鎖定
+MSG_TRADE_DEST_CONF	%s交易物品已經確認
+MSG_TRADE_DEST_UNLOCK	%s交易物品解除鎖定
+MSG_TRADE_DEST_CANCEL	%s取消了交易
+MSG_TRADE_SUCCESS	您與%s交易成功
+MSG_TRADE_PAY	您交付了%d兩銀子
+MSG_TRADE_EARN	您獲得了%d兩銀子
+MSG_TRADE_GIVE	您交付了%s
+MSG_TRADE_GIVE_COUNT	您交付了%d個%s
+MSG_TRADE_GAIN	您獲得了%s
+MSG_TRADE_GAIN_COUNT	您獲得了%d個%s
+MSG_TRADE_FAIL	您與%s交易失敗
+MSG_TRADE_SELF_ROOM_FULL	您的背包空間不足！
+MSG_TRADE_DEST_ROOM_FULL	%s的背包空間不足！
+MSG_TRADE_SEND_APPLY	您向%s申請交易！
+MSG_TRADE_CANTBEOFFER_ITEM	此物品不能被收購！
+MSG_TRADE_ERR_HANDITEM	手上的物品不能交易！
+MSG_TRADE_FORBITITEM	此物品不能交易！
+MSG_PK_NORMAL_FLAG_0	PK狀態變為練功模式！
+MSG_PK_NORMAL_FLAG_1	PK狀態變為戰鬥模式！
+MSG_PK_NORMAL_FLAG_2	PK狀態變為屠殺模式！
+MSG_PK_NORMAL_FLAG_3	PK狀態變為陣營模式！
+MSG_PK_NORMAL_FLAG_4	PK狀態變為幫會模式！
+MSG_PK_FIGHT_FLAG	PK開關戰鬥模式打開
+MSG_PK_KILL_ALL_FLAG	PK開關屠殺模式打開
+MSG_PK_VALUE	您目前的惡名值是%d！
+MSG_PK_REFUSE_EXERCISE	%s拒絕與你進行切磋！
+MSG_PK_ACCETP_EXERCISE	%s答應與你進行切磋！
+MSG_PK_ERROR_1	您現在處於非戰鬥狀態！
+MSG_PK_ERROR_2	白名陣營和50級以下玩家不能仇殺別人！
+MSG_PK_ERROR_3	您正與%s切磋！
+MSG_PK_ERROR_4	您正與%s仇殺！
+MSG_PK_ERROR_5	您不能仇殺白名陣營和50級以下玩家！
+MSG_PK_ERROR_6	對方正處於非戰鬥狀態！
+MSG_PK_ERROR_7	對方正與他人切磋！
+MSG_PK_ERROR_8	PK非練功模式轉換為練功模式需經過三分鐘！
+MSG_PK_ERROR_9	白名陣營不能切磋！
+MSG_PK_ERROR_10	您不能和白名陣營玩家切磋！
+MSG_PK_ERROR_11	對方正與他人仇殺！
+MSG_PK_ERROR_12	仇殺狀態下不能接受切磋邀請！
+MSG_PK_ERROR_13	白名陣營不能進行切磋！
+MSG_PK_ERROR_14	白名陣營不能進行仇殺！
+MSG_PK_ERROR_15	目前不能與%s進行切磋！
+MSG_PK_ERROR_16	目前不能對%s進行仇殺！
+MSG_PK_ERROR_17	不能向重傷者申請切磋！
+MSG_PK_ERROR_18	重傷者不能向他人申請切磋！
+MSG_PK_ERROR_19	不能仇殺重傷者！
+MSG_PK_ERROR_20	重傷者不能仇殺他人！
+MSG_PK_ERROR_21	此處禁止切磋！
+MSG_PK_ERROR_22	白名陣營和50級以下玩家不能手動切換PK狀態！
+MSG_PK_ERROR_23	現在您不能進行切磋！
+MSG_PK_ERROR_24	現在您不能進行仇殺！
+MSG_PK_ENMITY_SUCCESS_1	%s與您建立仇殺關系！
+MSG_PK_ENMITY_SUCCESS_2	10秒鐘後您與%s的仇殺開始執行！
+MSG_PK_ENMITY_CLOSE	您與%s的仇殺關系結束！
+MSG_PK_ENMITY_OPEN	您與%s仇殺現在開始執行！
+MSG_PK_EXERCISE_SUCCESS_1	%s接受了您的切磋請求，您們將於10秒鐘後正式進行切磋！
+MSG_PK_EXERCISE_SUCCESS_2	10秒鐘後您與%s的切磋開始執行！
+MSG_PK_EXERCISE_CLOSE	您與%s的切磋關系結束！
+MSG_PK_EXERCISE_OPEN	您與%s的切磋現在開始執行！
+MSG_PK_REFUSE_INVITE	%s拒絕與您進行切磋！
+MSG_PK_EXERCISE_WAITAPLY	請求與%s進行切磋，等待%s回應！
+MSG_PK_EXERCISE_WIN	切磋中您戰勝了%s！
+MSG_PK_EXERCISE_LOSE	切磋中您敗給了%s！
+MSG_TONG_CREATE_ERROR01	幫會名過長！
+MSG_TONG_CREATE_ERROR02	幫會陣營錯誤！
+MSG_TONG_CREATE_ERROR03	幫會成員不能另外建立幫會！
+MSG_TONG_CREATE_ERROR04	殺手才能建立幫會！
+MSG_TONG_CREATE_ERROR05	建立幫會的等級不夠！
+MSG_TONG_CREATE_ERROR06	建立幫會的統帥等級不夠！
+MSG_TONG_CREATE_ERROR07	建立幫會需要 %d 銀兩！
+MSG_TONG_CREATE_ERROR08	組隊中，不能建立幫會！
+MSG_TONG_CREATE_ERROR09	幫會名長度不符或用了非法字符、詞匯！
+MSG_TONG_CREATE_ERROR10	建立幫會需要的銀兩不夠！
+MSG_TONG_CREATE_ERROR11	幫會名不合法或與別的幫會重名！
+MSG_TONG_APPLY_CREATE	您申請創建幫會！
+MSG_TONG_CREATE_SUCCESS1	幫會創建成功！
+MSG_TONG_CREATE_SUCCESS2	%s進入考驗期！
+MSG_TONG_CREATE_SUCCESS3	請盡快擴大規模！
+MSG_TONG_INSTATE_FAIL_ID2	%s不在線，無法任命！
+MSG_TONG_INSTATE_FAIL_ID3	%s能力不夠，無法擔當新職位！
+MSG_TONG_CHANGE_JOB_CALL_ERROR1	稱呼名過長！
+MSG_TONG_CHANGE_JOB_CALL_ERROR2	您沒有權限修改稱呼！
+MSG_TONG_CHANGE_JOB_CALL_ERROR3	您沒有權限修改陣營！
+MSG_TONG_CHANGE_JOB_CALL_ERROR4	稱呼名不合法！
+MSG_TONG_APPLY_ADD	您申請加入幫會！
+MSG_TONG_APPLY_ADD_ERROR1	幫會成員不能另外加入幫會！
+MSG_TONG_APPLY_ADD_ERROR2	殺手才能加入幫會！
+MSG_TONG_APPLY_ADD_ERROR3	組隊中，不能加入幫會！
+MSG_TONG_REFUSE_ADD	%s拒絕您加入幫會！
+MSG_TONG_ADD_SUCCESS	您加入幫會！
+MSG_TONG_CANNOT_LEAVE1	幫主不能離開幫會！
+MSG_TONG_CANNOT_LEAVE2	長老不能離開幫會！
+MSG_TONG_BE_KICKED	您被踢出幫會！
+MSG_TONG_LEAVE_SUCCESS	您主動離開幫會成功！
+MSG_TONG_LEAVE_FAIL	您主動離開幫會失敗！
+MSG_TONG_CHANGE_AS_MASTER	您被任命為幫主！
+MSG_TONG_CHANGE_AS_MEMBER	您現在成為普通幫眾！
+MSG_TONG_DISMISS	您的幫會未通過考驗期，被解散！
+MSG_TONG_CHANGE_CAMP_NO_MONEY	更改幫會陣營需要100萬幫會資金！
+MSG_TONG_CREATE_UNION_ERROR2	已處在聯盟中，不能再建立聯盟！
+MSG_TONG_CREATE_UNION_ERROR4	指定幫會不存在！
+MSG_TONG_CREATE_UNION_ERROR5	存在同名幫會或幫會聯盟！
+MSG_TONG_CREATE_UNION_SUCCESS	您創建了一個空的幫會聯盟！
+MSG_TONG_JOIN_UNION_ERROR1	您申請加入的聯盟不存在或已被解散！
+MSG_TONG_NO_OPRIGHT	你沒有此操作權限！
+MSG_ADD_CONTRIBUTION	你獲得了%d點貢獻度
+MSG_RIGHT_ASSIGN_NEED_DIRECTOR	對方不是長老，不能授權！
+MSG_TONG_TARGET_NOTMEMBER	對方不是本幫會成員！
+MSG_TONG_RIGHT_ASSIGN_SUCCESS	你已經成功給玩家：%s 授予了權限！
+MSG_TONG_SELF_RIGHT_ASSIGN	你的幫會操作權限已被幫主重新授予！
+MSG_TONG_NORIGHT_MEMBER_ONLINE	對方有相應權限的幫主或長老均不在線！
+MSG_CANT_SWITCH_HORSE	您太累了，還不能再次上下馬。
+MSG_CANT_SWITCH_HORSE_WHEN_SIT	您坐下了，不能夠上馬。
+MSG_CANT_SWITCH_HORSE_WHEN_JUMP	您正在使用輕功，不能夠上馬。
+MSG_SOMEONE_GIVE_YOU_MONEY	%s給了你一些錢。
+MSG_YOU_GIVE_SOMEONE_MONEY	你給了%s一些錢。
+MSG_ENCHASER_SUCCESS	寶石鑲嵌操作成功！
+MSG_ENCHASER_MAGICATTRIBISFULL	寶石鑲嵌操作失敗！
+MSG_ENCHASER_SERIESISSAME	寶石鑲嵌操作失敗！
+MSG_ENCHASER_LEVELISFULL	寶石鑲嵌操作失敗！
+MSG_ENCHASER_ITEMISINVALID	寶石鑲嵌操作失敗！
+MSG_ENCHASER_CONDITIONISVALID	寶石鑲嵌操作失敗！
+MSG_ENCHASER_UNCONDITION	寶石鑲嵌操作失敗！
+MSG_CANT_STALL_NO_MARK_PRICE	您還沒有對任何物品進行標價！
+MSG_CANT_STALL_NO_MARK_SPACE	剩餘空間不足，請重新標價！
+MSG_CANT_STALL_NO_ADV	請設置廣告,長度為1-%d字符
+MSG_CANT_STALL_DISABLED	不允許擺攤！
+MSG_CANT_OFFER_DISABLED	不允許收購！
+MSG_CANT_STALL_OUT_TOWN	您只能在城鎮裏進行擺攤！
+MSG_CANT_OFFER_OUT_TOWN	您只能在城鎮裏進行收購！
+MSG_CANT_STALL_TRADE_OR_HORSE	騎馬、組隊或者交易時不能擺攤！
+MSG_CANT_OFFER_TRADE_OR_HORSE	騎馬、組隊或者交易時不能收購！
+MSG_CANT_STALL_LOWERLEVEL	等級必須達到25級才允許擺攤。
+MSG_CANT_OFFER_LOWERLEVEL	等級必須達到25級才允許收購。
+MSG_STALL_ERR_WRONGSTATUS	對方已經不在擺攤狀態！
+MSG_STALL_ERR_ITEMMISSING	物品不存在！
+MSG_STALL_ERR_WRONGPRICE	對方已經修改了物品價格！
+MSG_STALL_ERR_STOPSELLING	物品不再出售！
+MSG_STALL_ERR_LACKMONEY	背包銀兩不足！
+MSG_STALL_ERR_PEER_LACKMONEY	交易對方背包銀兩不足！
+MSG_STALL_ERR_OVERMONEY	背包銀兩超出上限！
+MSG_STALL_ERR_NOSPACE	背包空間不足！
+MSG_STALL_ERR_PEER_NOSPACE	交易對方背包空間不足！
+MSG_STALL_ERR_STOPBUYING	該物品已經停止收購！
+MSG_STALL_ERR_PEER_OVERMONEY	對方銀兩超出上限！
+MSG_STALL_ERR_PEER_REMARK	對方已重新標價
+MSG_STALL_ERR_PEER_LACKITEM	對方可售物品不足。
+MSG_STALL_ERR_MONEYOVERFLOW1	販賣物品後背包銀兩可能超出上限！
+MSG_STALL_OPENED	你開始擺攤了。
+MSG_STALL_CLOSED	你決定不再擺攤了。
+MSG_STALL_SELLER_CLOSE	攤主已經收攤了。
+MSG_STALL_ITEM_SELLED	該物品已經賣出。
+MSG_STALL_ITEM_PRICEUP	攤主已經提高了該物品的標價。
+MSG_STALL_SELLER_DONOTSELL	攤主已經不賣該物品了。
+MSG_STALL_ITEM_PRICEDOWN	攤主降低了該物品的標價。
+MSG_STALL_NOMONEY	您沒有足夠的錢。
+MSG_STALL_NOSPACE	您的物品欄沒有空間了。
+MSG_STALL_ALL_SOLD_OUT	你的東西賣完了，可以收攤咯!
+MSG_STALL_TAX_RATE1	本地區的稅率為 %d%%。
+MSG_STALL_TAX_RATE2	官府會在您的每一筆成功交易裏自動抽稅。
+MSG_STALL_TAX_RATE3	您是統治者幫會成員，在城區內交易免稅。
+MSG_STALL_LEVEL_NOT_ALLOW2	官告：為整潔市容和避免商業欺詐行為，%d 級以下民眾一律禁止擺攤！
+MSG_STALL_STALL_PERMIT	官告：為整潔市容，請您在奇珍閣購買擺攤許可證使用後再擺攤。
+MSG_STALL_TRADE_SUCCESS	<%s>買走了您攤位上的%d個<%s>。
+MSG_OFFER_TRADE_SUCCESS	%s收購完成。
+MSG_OFFER_ALL_FINISH	您已經完成了所有物品的收購。
+MSG_STALL_ALL_FINISH	您已經完成了所有物品的販賣。
+MSG_OFFER_DEAL	您從%s收購到了%d個%s。
+MSG_STALL_CANNOT_STALL	擺攤失敗，請檢查：是否對[不可擺攤的物品]作了標價？
+MSG_STALL_BUY_ACCOUNT_LOCK	你的賬號處於鎖定狀態，不能購買。
+MSG_STALL_SELL_ACCOUNT_LOCK	你的賬號處於鎖定狀態，不能售出。
+MSG_STALL_DISABLE_ACCOUNT_LOCK	你的賬號處於鎖定狀態，不能進行擺攤或收購。
+MSG_BUYSELL_CANNOT_SELL	從npc賣出物品失敗：此物品不可賣。
+MSG_ACCOUNT_LOCK_NOTHROW	賬號處於鎖定狀態，不能丟棄物品。
+MSG_ACCOUNT_LOCK_OPERATE	你的賬號處於鎖定狀態，不能進行該操作。
+MSG_BOX_MUST_UNLOCK	此物品欄已鎖定，請先解鎖。
+MSG_PASSWORD_NULL	密碼不能為空！
+MSG_BOX_JEWELRY_ONLY	此物品欄只能放入首飾。
+MSG_PARTNER_LEVEL_UP	%s等級提升至%d級了。
+MSG_PARTNER_GET_EXP	%s獲得了%d點經驗值。
+MSG_PARTNER_DEC_EXP	%s損失了%d點經驗值。
+MSG_ATTRIBUTE_EXCEEDED	單項潛能值不能超過總數的60%，加點失敗！
+MSG_REPUTE_VALUE_INC	您的%s聲望值提高了%d點。
+MSG_REPUTE_VALUE_DEC	您的%s聲望值降低了%d點。
+MSG_REPUTE_LEVEL_INC	您的%s聲望升級為%s。
+MSG_REPUTE_LEVEL_DEC	您的%s聲望降級為%s。
+MSG_REPUTE_REACH_LIMIT	您本周獲得的%s聲望已達上限，不會再提高。
+MSG_REPUTE_LEVEL_LOW	您的角色等級尚低，%s聲望不能升級，且不會再提高。
+MSG_REPUTE_ERR_BUYITEM	您的%s聲望等級沒有達到%s，不能購買這個物品！
+MSG_HONOR_ERR_BUYITEM	您的榮譽等級沒有達到%d，不能購買這個物品！
+MSG_SERIES_ERR_BUYITEM	您的五行跟當前物品不匹配，不能購買這個物品！
+MSG_OFFICIAL_ERR_BUYITEM	您的官銜等級未達到%d級， 不能購買這個物品！
+MSG_LOCK_ERR_BUYITEM	您處於鎖定狀態，不能購買這個物品！
+MSG_ITEM_SWITCH_TIME	%d秒後才能進行下一次裝備切換！
+MSG_TRAINING_ERR_OFFLINE	對方不在線。
+MSG_TRAINING_ERR01	你已經有了3個弟子，不能再接收弟子。
+MSG_TRAINING_ERR02	對方已經有了3個弟子，不能再接收弟子，您還是拜別人為師吧。
+MSG_TRAINING_ERR03	您的等級不到20級，所以不能拜師。
+MSG_TRAINING_ERR04	對方等級不到80級，所以對方不能接收你為弟子，您還是拜別人為師吧。
+MSG_TRAINING_ERR05	對方的等級已經超過了60級，不能再拜師。
+MSG_TRAINING_ERR06	你的等級已經超過了60級，不能再拜師。
+MSG_TRAINING_ERR07	你還未出師呢，不能接收弟子。
+MSG_TRAINING_ERR08	對方也還未出師呢，您還是拜別人為師吧。
+MSG_TRAINING_ERR09	對方沒有選中\"想要收徒\"選項。
+MSG_TRAINING_ERR10	對方沒有選中\"想要拜師\"選項。
+MSG_TRAINING_ERR11	對方這個月已經收過3個弟子，不能再接收弟子，您還是拜別人為師吧。
+MSG_TRAINING_ERR12	你這個月已經收過3個弟子，不能再接收弟子，您還是拜別人為師吧。
+MSG_TRAINING_ERR13	對方已經有師父了。
+MSG_TRAINING_ERR14	對方已經出師了。
+MSG_TRAINING_ERR15	拜師失敗，請與對方聯系重新申請拜師。
+MSG_TRAINING_ERR16	您銀兩不足，請帶足10000兩再來收徒。
+MSG_TRAINING_ERR17	您所擁有的師徒關系已經達到上限了。
+MSG_TRAINING_ERR18	對方的徒弟數量已經達到上限，拜師失敗。
+MSG_TRAINING_ERR19	你等級不足80級，暫時不能接受弟子。
+MSG_TRAINING_ERR20	你的等級還不滿20級，不能拜師。
+MSG_TRAINING_ERR21	你的等級超過了60級，不能拜師。
+MSG_LIFESKILL_FORBIDSTATE	不能在戰鬥狀態下使用生活技能！
+MSG_ITEM_TIMEOUT	您的%s因為使用時間到已經消失！
+MSG_ITEM_TIMEOUTXUANJING	您的背包或倉庫中的玄晶因為使用時間到期而消失：\n您損失了1個%s。
+MSG_ITEM_TIEMXUANJING	您的背包或倉庫中一周內即將過期的玄晶有：\n%s： %d天%d小時%d分鐘後過期。
+MSG_ITEM_MAILTITLE	玄晶過期
+MSG_ITEM_MAILCONTENT	您的背包或倉庫中的玄晶因為使用時間到期而消失。
+MSG_ITEM_DISABLE_TRADE	由於披風過於貴重，運送過程需十分小心，因此最近一批披風要等到2008年11月25日後才能送到。
+MSG_IBSHOP_NOSALE	%s該商品已經停止銷售。
+MSG_IBSHOP_WRONGPRICE	商品價格已經改變，請重新打開奇珍閣購買。
+MSG_IBSHOP_LESSMONEY	%s不足。
+MSG_IBSHOP_LESSSPACE	背包空間不足。
+MSG_IBSHOP_SELLOUT	%s剩餘數量不足。
+MSG_IBSHOP_SYSTEM	系統運行緩慢，請稍候再購買物品。
+MSG_IBSHOP_NOITEM	你購買的商品數量為0。
+STR_IBSHOP_TAEL	銀兩
+STR_IBSHOP_COIN	金幣
+STR_IBSHOP_BINDCOIN	綁定金幣
+STR_IBHSOP_BANKCOIN	錢莊存款金幣
+MSG_FIGHTMODE_AUTOFIGHT	安全區內不能開啟自動戰鬥！
+STR_ITEM_GOUHUO	篝火
+MSG_AUC_ERROR_WRONG_ITEM	要拍賣的物品不存在
+MSG_AUC_ERROR_ITEM_CANT_TRADE	此類物品禁止拍賣
+MSG_AUC_ERROR_FAILED_CANCEL	取消拍賣失敗
+MSG_AUC_COMPETE_FAILED_HIGHER_THAN_ONE_PRICE	新的競拍價不可超過一口價
+MSG_AUC_COMPETE_FAILED_LOWER_THAN_COMPETE_PRICE	新的競拍價必須大於當前的競拍價
+MSG_AUC_FAILED_MONEY_NOT_ENOUPH	身上的金錢不夠
+MSG_AUC_SEARCH_FINAL_PAGE	已經是最後一頁
+MSG_AUC_WRONG_ONETIMEPRICE_AND_COMPETE_PRICE	一口價必須大於或等於競拍價
+MSG_AUC_WRONG_PRICE	價格不符合要求
+MSG_AUC_FAILED_NORMAL	拍賣失敗
+MSG_AUC_OPER_TOO_FAST	請不要過快操作
+MSG_AUC_OPER_WAITING	你的上一步操作正在執行
+MSG_AUC_ADVS_INFO	拍賣行:<color=orange>[%s]在為他的<color>%s<color=orange>尋找買家！<color><pic=126>
+MSG_IBSHOP_MAILCAPTION	奇珍閣購買物品失敗補償
+MSG_IBSHOP_MAILCONTENT	您在奇珍閣購買的物品%s,添加到您身上時失敗，現在有附件補償給您。
+MSG_BANK_ERROREMSG	您的操作失敗了，請稍候再嘗試。
+MSG_ITEM_TAKE_MONEY_ERR	背包攜帶銀兩已達上限！
+MSG_ITEM_SAVE_MONEY_ERR	儲物箱存放銀兩已達上限！
+MSG_ITEM_TAKE_BIND_MONEY_ERR	背包攜帶的綁定銀兩已達上限！
+MSG_ITEM_ADD_BIND_MONEY	您獲得了%d綁定銀兩
+MSG_ITEM_ADD_BIND_COIN	您獲得了%d個綁定金幣
+G_STR_CHOOSE_ROUTE	你已經選定了路線：%s
+G_STR_TYPE	類別
+G_STR_COIN_PRICE	金幣單價
+G_STR_COIN_SELL_ALL	金幣銷售總數
+G_STR_BIND_COIN_PRICE	綁定金幣單價
+G_STR_BIND_COIN_SELL_ALL	綁定金幣銷售總數
+G_STR_MONEY	總量
+G_STR_BIND_MONEY	總量
+G_STR_GOODSINFO	編號\t道具名稱\t道具大類\t具體類別\t詳細類別\t等級\t原始價格\t當前價格\t有效時間（分）\r\n
+G_STR_KBUYSELLMGR_BUY	[消耗]Npc購買
+G_STR_KBUYSELLMGR_AMOUNT	總量
+G_STR_NPC_PROUDUCTION_BIND_MONEY	[產出]NPC掉落
+G_STR_PLAYERSTALL_BUY	[消耗]向其他玩家購買
+G_STR_IBSHOP_BUY	[消耗]奇珍閣綁定物品購買
+G_STR_KPLAYER_AUTOFINDROAD	自動尋路
+G_STR_KPLAYERDBFUNS_LEVEL	等級
+G_STR_KPLAYERDBFUNS_LASTLOGIN	上次登錄時間
+G_STR_KPLAYERDBFUNS_USER	帳號名
+G_STR_KPLAYERDBFUNS_TOTALTIME	總在線時間
+G_STR_KPLAYERDBFUNS_FRIENDS_AMOUNT	好友數
+G_STR_KPLAYERDBFUNS_MONEY_AMOUNT	劍俠幣數
+G_STR_KPLAYERDBFUNS_ITEMS_VALUE	裝備價值
+G_STR_KPLAYERDBFUNS_RESPECT	江湖威望
+G_STR_KPLAYERDBFUNS_ROUTE1	門派路線
+G_STR_KPLAYERDBFUNS_ROUTE2	門派路線
+G_STR_KPLAYERDBFUNS_XIULIANZHU	修煉珠剩餘時間
+G_STR_KPLAYERDBFUNS_BAIHUTANG	白虎堂
+G_STR_KPLAYERDBFUNS_SONGJIN	宋金戰場
+G_STR_KPLAYERDBFUNS_YIJUN	義軍任務
+G_STR_KPLAYERDBFUNS_KIN	家族副本
+G_STR_KPLAYERDBFUNS_MENPAI	門派競技
+G_STR_KPLAYERDBFUNS_WABAO	挖寶
+G_STR_KPLAYERDBFUNS_SHANGHUI	商會任務
+G_STR_KPLAYERDBFUNS_GUANFU	官府通緝任務
+G_STR_KPLAYERDBFUNS_JUNYINGPLAY	軍營任務副本日常和劇情
+G_STR_KPLAYERDBFUNS_DENGMI	花燈猜謎
+G_STR_KPLAYERDBFUNS_LIFESKILL_WORKEXP	生活技能加工總經驗
+G_STR_KPLAYERDBFUNS_LIFESKILL_MAKEEXP	生活技能制造總經驗
+G_STR_KPLAYERITEM_MONEY_DROP	[產出]NPC掉落
+G_STR_KPLAYERITEM_MONEY_AMOUNT	總量
+G_STR_KPLAYERTRADE_TRADE	[轉移]正常交易
+G_STR_KPLAYERTRADE_AMOUNT	總量
+KD_STR_SYSTEM	系統
+KD_STR_KIN_CALL_PREFIX	[家族]
+KD_STR_TONG_CALL_PREFIX	[幫會]
+KD_STR_TONG_ENVOY_CALL_DEF	掌令使
+G_STR_POINT	·

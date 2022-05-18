@@ -1,0 +1,6 @@
+nId	nActive	szInfor	nParam1	nParam2	nParam3	nParam4	nParam5	nParam6	nParam7	nParam8	nParam9	nParam10	nParam11	nParam12	nParam13	nParam14	nParam15
+1	1	Rương Huyền Thiết	binditem=18,1,80,1,nil,2	binditem=18,1,71,1													
+2	30	Rương Thanh Đồng	exp=100	bindmoney=20000	binditem=18,1,80,1,nil,2												
+3	70	Rương Bạch Ngân	prestige=10	binditem=18,1,1019,2	binditem=18,1,80,1,nil,2	binditem=18,1,66,7											
+4	110	Rương Hoàng Kim	binditem=18,1,20260,1														
+5	150	Rương Phỉ Thúy	binditem=18,1,114,7	binditem=18,1,20251,1	titlename=Ngày đi ngàn dặm đường	title=6,91,1,9											

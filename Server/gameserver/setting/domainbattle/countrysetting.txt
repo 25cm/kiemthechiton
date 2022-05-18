@@ -1,0 +1,5 @@
+CountryId	CountryName
+1	Tây Hạ, Mông Cổ
+2	Kim Quốc
+3	Đại Lý Quốc
+4	Tống Quốc

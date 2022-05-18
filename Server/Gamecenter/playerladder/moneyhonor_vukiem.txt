@@ -1,0 +1,9 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2013-06-27 03:00:01
+1	vukiem	xoakyucz	Administrator	 Cái Bang	 Cái Bang	150	Nam	Không gia tộc	Không bang hội	1010699
+2	vukiem	test123	adminminh	 Thiếu Lâm	 Thiếu Lâm	121	Nam	Không gia tộc	Không bang hội	450206
+3	vukiem	jinchinh	zzzJinzzz	 Ngũ Độc	 Ngũ Độc	121	Nữ	Không gia tộc	Không bang hội	219625
+4	vukiem	dsfsdf	KuBiTessssssssss	 Cái Bang	 Cái Bang	121	Nam	Không gia tộc	Không bang hội	217200
+5	vukiem	jinchinh	o0oJino0o	Chưa	Chưa	121	Nam	Không gia tộc	Không bang hội	212423
+6	vukiem	jinchinh	wwwJinwww	 Thiếu Lâm	 Đao Thiếu	121	Nam	Không gia tộc	Không bang hội	42106
+7	vukiem	admin	LovelyGUy	Chưa	Chưa	121	Nam	Không gia tộc	Không bang hội	21293
+8	vukiem	codysd	TiểuQủy	Chưa	Chưa	150	Nam	Không gia tộc	Không bang hội	20500

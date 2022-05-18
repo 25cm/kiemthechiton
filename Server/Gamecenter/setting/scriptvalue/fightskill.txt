@@ -1,0 +1,2 @@
+Name	Value	Desc	
+IVER_nZiXiaShenGongSeriersAbate	500	Hiệu quả kỹ năng Phi Phong (cao)	

@@ -1,0 +1,230 @@
+TaskId	TaskName	TaskType	Value1	Value2	MapId	MapName	NpcId	NpcName	Num	Level1	Level2	Level3	Level4	Level5	Level6	Level7	Level8	Level9	Level10	Level11
+Số nhiệm vụ	Tên nhân vật	Loại nhiệm vụ	Giá trị 1	Giá trị 2	Số bản đồ	Tên bản đồ	NpcId	Tên Npc	Số lượng	Cấp 1	Cấp 2	Cấp 3	Cấp 4	Cấp 5	Cấp 6	Cấp 7	Cấp 8	Cấp 9	Cấp 10	Cấp 11
+20001	Phạm Giới Tăng Nhân	KillNpc	0	1250	46	Cấm Địa Hậu Sơn	2054	Phạm Giới Tăng Nhân	24	10000	0	0	0	0	0	0	0	0	0	0
+20002	Phạm Giới Đầu Đà	KillNpc	0	1250	46	Cấm Địa Hậu Sơn	2055	Phạm Giới Đầu Đà	24	10000	0	0	0	0	0	0	0	0	0	0
+20003	Lam Diện Nhân	KillNpc	0	1250	49	Thiên Trụ Phong	2036	Lam Diện Nhân	24	10000	0	0	0	0	0	0	0	0	0	0
+20004	Hồng Cân Nhân	KillNpc	0	1250	49	Thiên Trụ Phong	2035	Hồng Cân Nhân	24	10000	0	0	0	0	0	0	0	0	0	0
+20005	Gián Điệp Kim Quốc	KillNpc	0	1250	49	Thiên Trụ Phong	2207	Gián Điệp Kim Quốc	24	10000	0	0	0	0	0	0	0	0	0	0
+20006	Đệ Tử Bái Sư	KillNpc	0	1250	49	Thiên Trụ Phong	2208	Đệ Tử Bái Sư	24	10000	0	0	0	0	0	0	0	0	0	0
+20007	Quải Tử	KillNpc	0	1250	52	Bách Hoa Cốc	2209	Quải Tử	24	10000	0	0	0	0	0	0	0	0	0	0
+20008	Đại Phu Mông Cổ	KillNpc	0	1250	52	Bách Hoa Cốc	2210	Đại Phu Mông Cổ	24	10000	0	0	0	0	0	0	0	0	0	0
+20009	Đao Khách Giang Hồ	KillNpc	0	1250	52	Bách Hoa Cốc	2037	Đao Khách Giang Hồ	24	10000	0	0	0	0	0	0	0	0	0	0
+20010	Kiếm Khách Giang Hồ	KillNpc	0	1250	52	Bách Hoa Cốc	2038	Kiếm Khách Giang Hồ	24	10000	0	0	0	0	0	0	0	0	0	0
+20011	Hắc Long	KillNpc	0	1250	53	Hồ Phỉ Thúy	2039	Hắc Long	24	10000	0	0	0	0	0	0	0	0	0	0
+20012	Độc Xà	KillNpc	0	1250	53	Hồ Phỉ Thúy	2040	Độc Xà	24	10000	0	0	0	0	0	0	0	0	0	0
+20013	Đằng Lực Sĩ	KillNpc	0	1250	53	Hồ Phỉ Thúy	2211	Đằng Lực Sĩ	24	10000	0	0	0	0	0	0	0	0	0	0
+20014	Bạch Linh	KillNpc	0	1250	53	Hồ Phỉ Thúy	2212	Bạch Linh	24	10000	0	0	0	0	0	0	0	0	0	0
+20015	Cường Tặc Tử Hòe Lâm	KillNpc	0	1250	51	Cửu Lão Phong	2213	Cường Tặc Tử Hòe Lâm	24	10000	0	0	0	0	0	0	0	0	0	0
+20016	Khổ Tu Ni	KillNpc	0	1250	51	Cửu Lão Phong	2042	Khổ Tu Ni	24	10000	0	0	0	0	0	0	0	0	0	0
+20017	Ác Viên	KillNpc	0	1250	51	Cửu Lão Phong	2041	Ác Viên	24	10000	0	0	0	0	0	0	0	0	0	0
+20018	Hành Thương Kim Quốc	KillNpc	0	1250	51	Cửu Lão Phong	2214	Hành Thương Kim Quốc	24	10000	0	0	0	0	0	0	0	0	0	0
+20019	Cường Đạo	KillNpc	0	1250	50	Cô Tô Thủy Tạ	2215	Cường Đạo	24	10000	0	0	0	0	0	0	0	0	0	0
+20020	Ẩn Sĩ Sơn Lâm	KillNpc	0	1250	50	Cô Tô Thủy Tạ	2216	Ẩn Sĩ Sơn Lâm	24	10000	0	0	0	0	0	0	0	0	0	0
+20021	Trú Thủ Cung Binh	KillNpc	0	1250	50	Cô Tô Thủy Tạ	2044	Trú Thủ Cung Binh	24	10000	0	0	0	0	0	0	0	0	0	0
+20022	Trú Thủ Thương Sĩ	KillNpc	0	1250	50	Cô Tô Thủy Tạ	2043	Trú Thủ Thương Sĩ	24	10000	0	0	0	0	0	0	0	0	0	0
+20023	Bang Chúng Diêm Bang	KillNpc	0	1250	55	Thanh Loa Đảo	2045	Bang Chúng Diêm Bang	24	10000	0	0	0	0	0	0	0	0	0	0
+20024	Thích Khách Thần Bí	KillNpc	0	1250	55	Thanh Loa Đảo	2046	Thích Khách Thần Bí	24	10000	0	0	0	0	0	0	0	0	0	0
+20025	Tùy Tùng Đại Nội	KillNpc	0	1250	55	Thanh Loa Đảo	2217	Tùy Tùng Đại Nội	24	10000	0	0	0	0	0	0	0	0	0	0
+20026	Hành Cước Thương Nhân	KillNpc	0	1250	55	Thanh Loa Đảo	2218	Hành Cước Thương Nhân	24	10000	0	0	0	0	0	0	0	0	0	0
+20027	Đao Khách Nam Man	KillNpc	0	1250	54	Bộ Lạc Nam Di	2219	Đao Khách Nam Man	24	10000	0	0	0	0	0	0	0	0	0	0
+20028	Vu Nữ Nam Man	KillNpc	0	1250	54	Bộ Lạc Nam Di	2220	Vu Nữ Nam Man	24	10000	0	0	0	0	0	0	0	0	0	0
+20029	Hắc Tâm Khuyển	KillNpc	0	1250	54	Bộ Lạc Nam Di	2048	Hắc Tâm Khuyển	24	10000	0	0	0	0	0	0	0	0	0	0
+20030	Thợ Săn Nam Man	KillNpc	0	1250	54	Bộ Lạc Nam Di	2047	Thợ Săn Nam Man	24	10000	0	0	0	0	0	0	0	0	0	0
+20031	Hộ Lăng Đao Binh	KillNpc	0	1250	47	Cấm Địa Thiên Nhẫn	2049	Hộ Lăng Đao Binh	24	10000	0	0	0	0	0	0	0	0	0	0
+20032	Thợ Đào Đất	KillNpc	0	1250	47	Cấm Địa Thiên Nhẫn	2221	Thợ Đào Đất	24	10000	0	0	0	0	0	0	0	0	0	0
+20033	Thợ Xếp Đá	KillNpc	0	1250	47	Cấm Địa Thiên Nhẫn	2222	Thợ Xếp Đá	24	10000	0	0	0	0	0	0	0	0	0	0
+20034	Hộ Lăng Cung Thủ	KillNpc	0	1250	47	Cấm Địa Thiên Nhẫn	2050	Hộ Lăng Cung Thủ	24	10000	0	0	0	0	0	0	0	0	0	0
+20035	Tham Khách	KillNpc	0	1250	48	Kiến Tính Phong	2051	Tham Khách	24	10000	0	0	0	0	0	0	0	0	0	0
+20036	Vô Danh Đao Khách	KillNpc	0	1250	48	Kiến Tính Phong	2052	Vô Danh Đao Khách	24	10000	0	0	0	0	0	0	0	0	0	0
+20037	Đệ Tử Trục Xuất Tuyết Sơn	KillNpc	0	1250	48	Kiến Tính Phong	2053	Đệ Tử Trục Xuất Tuyết Sơn	24	10000	0	0	0	0	0	0	0	0	0	0
+20038	Tuyết Viên Già	KillNpc	0	1250	48	Kiến Tính Phong	2223	Tuyết Viên Già	24	10000	0	0	0	0	0	0	0	0	0	0
+20039	Cơ Quan Mộc Nhân	KillNpc	0	1250	56	Đông Tháp Lâm	2033	Cơ Quan Mộc Nhân	24	0	10000	0	0	0	0	0	0	0	0	0
+20040	Cơ Quan Lang	KillNpc	0	1250	56	Đông Tháp Lâm	2034	Cơ Quan Lang	24	0	10000	0	0	0	0	0	0	0	0	0
+20041	Cơ Quan Đồng Nhân	KillNpc	0	1250	56	Đông Tháp Lâm	2205	Cơ Quan Đồng Nhân	24	0	10000	0	0	0	0	0	0	0	0	0
+20042	Đồng Giác Thú	KillNpc	0	1250	56	Đông Tháp Lâm	2206	Đồng Giác Thú	24	0	10000	0	0	0	0	0	0	0	0	0
+20043	Hộ Lăng Thương Sĩ	KillNpc	0	1250	57	Hoàng Lăng Kim Quốc 1	2070	Hộ Lăng Thương Sĩ	24	0	10000	0	0	0	0	0	0	0	0	0
+20044	Minh Phủ Quy Khách	KillNpc	0	1250	57	Hoàng Lăng Kim Quốc 1	2072	Minh Phủ Quy Khách	24	0	10000	0	0	0	0	0	0	0	0	0
+20045	Hộ Lăng Nõ Thủ	KillNpc	0	1250	57	Hoàng Lăng Kim Quốc 1	2071	Hộ Lăng Nõ Thủ	24	0	10000	0	0	0	0	0	0	0	0	0
+20046	Cường Hãn Tuyết Viên	KillNpc	0	1250	58	Mê Cung Băng Huyệt 1	2073	Cường Hãn Tuyết Viên	24	0	10000	0	0	0	0	0	0	0	0	0
+20047	Tuyết Viên Vương	KillNpc	0	1250	58	Mê Cung Băng Huyệt 1	2074	Tuyết Viên Vương	24	0	10000	0	0	0	0	0	0	0	0	0
+20048	Hổ Con	KillNpc	0	1250	59	Đông Long Hổ Huyễn Cảnh	2056	Hổ Con	24	0	10000	0	0	0	0	0	0	0	0	0
+20049	Hổ Cái	KillNpc	0	1250	59	Đông Long Hổ Huyễn Cảnh	2057	Hổ Cái	24	0	10000	0	0	0	0	0	0	0	0	0
+20050	Đào Phạm	KillNpc	0	1250	59	Đông Long Hổ Huyễn Cảnh	2224	Đào Phạm	24	0	10000	0	0	0	0	0	0	0	0	0
+20051	Thích Khách Bịt Mặt	KillNpc	0	1250	59	Đông Long Hổ Huyễn Cảnh	2225	Thích Khách Bịt Mặt	24	0	10000	0	0	0	0	0	0	0	0	0
+20052	Đường Lang Quyền Sư	KillNpc	0	1250	60	Ngoài Yến Tử Ổ	2232	Đường Lang Quyền Sư	24	0	10000	0	0	0	0	0	0	0	0	0
+20053	Mật Thám Kim Quốc 	KillNpc	0	1250	60	Ngoài Yến Tử Ổ	2233	Mật Thám Kim Quốc 	24	0	10000	0	0	0	0	0	0	0	0	0
+20054	Bang Chúng Diêm Bang	KillNpc	0	1250	60	Ngoài Yến Tử Ổ	2064	Bang Chúng Diêm Bang	24	0	10000	0	0	0	0	0	0	0	0	0
+20055	Võ Sĩ Đánh Thuê	KillNpc	0	1250	60	Ngoài Yến Tử Ổ	2065	Võ Sĩ Đánh Thuê	24	0	10000	0	0	0	0	0	0	0	0	0
+20056	Du Quân Thương Sĩ	KillNpc	0	1250	61	Cửu Lão Động 1	2063	Du Quân Thương Sĩ	24	0	10000	0	0	0	0	0	0	0	0	0
+20057	Du Quân Đao Binh	KillNpc	0	1250	61	Cửu Lão Động 1	2231	Du Quân Đao Binh	24	0	10000	0	0	0	0	0	0	0	0	0
+20058	Đường Gia Độc Sứ	KillNpc	0	1250	61	Cửu Lão Động 1	2230	Đường Gia Độc Sứ	24	0	10000	0	0	0	0	0	0	0	0	0
+20059	Đường Gia Nõ Thủ	KillNpc	0	1250	61	Cửu Lão Động 1	2062	Đường Gia Nõ Thủ	24	0	10000	0	0	0	0	0	0	0	0	0
+20060	Sói Hoang	KillNpc	0	1250	62	Ngoài Bách Hoa Trận	2058	Sói Hoang	24	0	10000	0	0	0	0	0	0	0	0	0
+20061	Tích Lịch Chùy	KillNpc	0	1250	62	Ngoài Bách Hoa Trận	2059	Tích Lịch Chùy	24	0	10000	0	0	0	0	0	0	0	0	0
+20062	Vân Du Hiệp Khách	KillNpc	0	1250	62	Ngoài Bách Hoa Trận	2226	Vân Du Hiệp Khách	24	0	10000	0	0	0	0	0	0	0	0	0
+20063	Bách Hoa Hộ Pháp	KillNpc	0	1250	62	Ngoài Bách Hoa Trận	2227	Bách Hoa Hộ Pháp	24	0	10000	0	0	0	0	0	0	0	0	0
+20064	Ô Y Kiếm Sĩ	KillNpc	0	1250	63	Đông Bờ Hồ Trúc Lâm	2228	Ô Y Kiếm Sĩ	24	0	10000	0	0	0	0	0	0	0	0	0
+20065	Trúc Lâm Phỉ	KillNpc	0	1250	63	Đông Bờ Hồ Trúc Lâm	2229	Trúc Lâm Phỉ	24	0	10000	0	0	0	0	0	0	0	0	0
+20066	Võ Sư Mã Bang	KillNpc	0	1250	63	Đông Bờ Hồ Trúc Lâm	2061	Võ Sư Mã Bang	24	0	10000	0	0	0	0	0	0	0	0	0
+20067	Thôi Thủ Mã Bang	KillNpc	0	1250	63	Đông Bờ Hồ Trúc Lâm	2060	Thôi Thủ Mã Bang	24	0	10000	0	0	0	0	0	0	0	0	0
+20068	Dũng Sĩ Nam Di	KillNpc	0	1250	64	Đông Rừng Nguyên Sinh	2068	Dũng Sĩ Nam Di	24	0	10000	0	0	0	0	0	0	0	0	0
+20069	Tế Tư Nam Di	KillNpc	0	1250	64	Đông Rừng Nguyên Sinh	2069	Tế Tư Nam Di	24	0	10000	0	0	0	0	0	0	0	0	0
+20070	Hoa Mãng	KillNpc	0	1250	64	Đông Rừng Nguyên Sinh	2236	Hoa Mãng	24	0	10000	0	0	0	0	0	0	0	0	0
+20071	Thổ Dân Vu Nữ	KillNpc	0	1250	64	Đông Rừng Nguyên Sinh	2237	Thổ Dân Vu Nữ	24	0	10000	0	0	0	0	0	0	0	0	0
+20072	Bổ Khoái	KillNpc	0	1250	65	Đông Nam Lư Vĩ Đãng	2067	Bổ Khoái	24	0	10000	0	0	0	0	0	0	0	0	0
+20073	Mật Thám Giả Trang	KillNpc	0	1250	65	Đông Nam Lư Vĩ Đãng	2066	Mật Thám Giả Trang	24	0	10000	0	0	0	0	0	0	0	0	0
+20074	Lữ Khách Qua Đường	KillNpc	0	1250	65	Đông Nam Lư Vĩ Đãng	2234	Lữ Khách Qua Đường	24	0	10000	0	0	0	0	0	0	0	0	0
+20075	Hành Cước Thương Nhân	KillNpc	0	1250	65	Đông Nam Lư Vĩ Đãng	2235	Hành Cước Thương Nhân	24	0	10000	0	0	0	0	0	0	0	0	0
+20076	Trộm Thuốc	KillNpc	0	1250	66	Tây Tháp Lâm	2238	Trộm Thuốc	24	0	0	10000	0	0	0	0	0	0	0	0
+20077	Bạo Dân Sơn Nam	KillNpc	0	1250	66	Tây Tháp Lâm	2075	Bạo Dân Sơn Nam	24	0	0	10000	0	0	0	0	0	0	0	0
+20078	Đạo Phỉ Sơn Bắc	KillNpc	0	1250	66	Tây Tháp Lâm	2076	Đạo Phỉ Sơn Bắc	24	0	0	10000	0	0	0	0	0	0	0	0
+20079	Đào Thoát Hòa Thượng	KillNpc	0	1250	66	Tây Tháp Lâm	2239	Đào Thoát Hòa Thượng	24	0	0	10000	0	0	0	0	0	0	0	0
+20080	Thợ Xây Lăng Mộ	KillNpc	0	1250	67	Hoàng Lăng Kim Quốc 2	2093	Thợ Xây Lăng Mộ	24	0	0	10000	0	0	0	0	0	0	0	0
+20081	Hiệu Úy Kim Quốc	KillNpc	0	1250	67	Hoàng Lăng Kim Quốc 2	2252	Hiệu Úy Kim Quốc	24	0	0	10000	0	0	0	0	0	0	0	0
+20082	Tham Quan Gia Đinh	KillNpc	0	1250	67	Hoàng Lăng Kim Quốc 2	2092	Tham Quan Gia Đinh	24	0	0	10000	0	0	0	0	0	0	0	0
+20083	U Minh Lang	KillNpc	0	1250	67	Hoàng Lăng Kim Quốc 2	2091	U Minh Lang	24	0	0	10000	0	0	0	0	0	0	0	0
+20084	Huyệt Cư Nam Dã Nhân	KillNpc	0	1250	68	Mê Cung Băng Huyệt 2	2095	Huyệt Cư Nam Dã Nhân	24	0	0	10000	0	0	0	0	0	0	0	0
+20085	Huyệt Cư Tiểu Dã Nhân	KillNpc	0	1250	68	Mê Cung Băng Huyệt 2	2096	Huyệt Cư Tiểu Dã Nhân	24	0	0	10000	0	0	0	0	0	0	0	0
+20086	Huyệt Cư Nữ Dã Nhân	KillNpc	0	1250	68	Mê Cung Băng Huyệt 2	2094	Huyệt Cư Nữ Dã Nhân	24	0	0	10000	0	0	0	0	0	0	0	0
+20087	Hắc Thủy Đao Khách	KillNpc	0	1250	69	Tây Long Hổ Huyễn Cảnh	2077	Hắc Thủy Đao Khách	24	0	0	10000	0	0	0	0	0	0	0	0
+20088	Hắc Thủy Kiếm Sĩ	KillNpc	0	1250	69	Tây Long Hổ Huyễn Cảnh	2078	Hắc Thủy Kiếm Sĩ	24	0	0	10000	0	0	0	0	0	0	0	0
+20089	Nam Ảnh	KillNpc	0	1250	70	Giữa Yến Tử Ổ	2086	Nam Ảnh	24	0	0	10000	0	0	0	0	0	0	0	0
+20090	Nữ Ảnh	KillNpc	0	1250	70	Giữa Yến Tử Ổ	2085	Nữ Ảnh	24	0	0	10000	0	0	0	0	0	0	0	0
+20091	Khinh Nõ Thủ	KillNpc	0	1250	70	Giữa Yến Tử Ổ	2246	Khinh Nõ Thủ	24	0	0	10000	0	0	0	0	0	0	0	0
+20092	Trọng Giáp Binh	KillNpc	0	1250	70	Giữa Yến Tử Ổ	2247	Trọng Giáp Binh	24	0	0	10000	0	0	0	0	0	0	0	0
+20093	Võ Sĩ U Minh	KillNpc	0	1250	71	Cửu Lão Động 2	2083	Võ Sĩ U Minh	24	0	0	10000	0	0	0	0	0	0	0	0
+20094	Bạch Cốt Kiếm Khách	KillNpc	0	1250	71	Cửu Lão Động 2	2084	Bạch Cốt Kiếm Khách	24	0	0	10000	0	0	0	0	0	0	0	0
+20095	Thị Kiếm Tôn Giả	KillNpc	0	1250	71	Cửu Lão Động 2	2244	Thị Kiếm Tôn Giả	24	0	0	10000	0	0	0	0	0	0	0	0
+20096	Lăng Ba Tiên Tử	KillNpc	0	1250	71	Cửu Lão Động 2	2245	Lăng Ba Tiên Tử	24	0	0	10000	0	0	0	0	0	0	0	0
+20097	Thạch Thành Liệt Binh	KillNpc	0	1250	72	Trong Bách Hoa Trận	2079	Thạch Thành Liệt Binh	24	0	0	10000	0	0	0	0	0	0	0	0
+20098	Điện Quang Mâu	KillNpc	0	1250	72	Trong Bách Hoa Trận	2080	Điện Quang Mâu	24	0	0	10000	0	0	0	0	0	0	0	0
+20099	Tiểu Mao Tặc	KillNpc	0	1250	72	Trong Bách Hoa Trận	2240	Tiểu Mao Tặc	24	0	0	10000	0	0	0	0	0	0	0	0
+20100	Tầm Bảo Lữ Nhân	KillNpc	0	1250	72	Trong Bách Hoa Trận	2241	Tầm Bảo Lữ Nhân	24	0	0	10000	0	0	0	0	0	0	0	0
+20101	Đới Đao Võ Sĩ	KillNpc	0	1250	73	Tây Bờ Hồ Trúc Lâm	2242	Đới Đao Võ Sĩ	24	0	0	10000	0	0	0	0	0	0	0	0
+20102	Người Bắt Rắn	KillNpc	0	1250	73	Tây Bờ Hồ Trúc Lâm	2243	Người Bắt Rắn	24	0	0	10000	0	0	0	0	0	0	0	0
+20103	Hoàng Cân Khách	KillNpc	0	1250	73	Tây Bờ Hồ Trúc Lâm	2081	Hoàng Cân Khách	24	0	0	10000	0	0	0	0	0	0	0	0
+20104	Bạch Diện Khách	KillNpc	0	1250	73	Tây Bờ Hồ Trúc Lâm	2082	Bạch Diện Khách	24	0	0	10000	0	0	0	0	0	0	0	0
+20105	Lạc Phách Sát Thủ	KillNpc	0	1250	74	Tây Rừng Nguyên Sinh	2250	Lạc Phách Sát Thủ	24	0	0	10000	0	0	0	0	0	0	0	0
+20106	Lưu Phóng Đao Khách	KillNpc	0	1250	74	Tây Rừng Nguyên Sinh	2251	Lưu Phóng Đao Khách	24	0	0	10000	0	0	0	0	0	0	0	0
+20107	Lưu Phóng Vu Nữ	KillNpc	0	1250	74	Tây Rừng Nguyên Sinh	2089	Lưu Phóng Vu Nữ	24	0	0	10000	0	0	0	0	0	0	0	0
+20108	Lạc Phách Võ Sĩ	KillNpc	0	1250	74	Tây Rừng Nguyên Sinh	2090	Lạc Phách Võ Sĩ	24	0	0	10000	0	0	0	0	0	0	0	0
+20109	Khoái Kiếm Khách	KillNpc	0	1250	75	Tây Bắc Lư Vĩ Đãng	2088	Khoái Kiếm Khách	24	0	0	10000	0	0	0	0	0	0	0	0
+20110	Khoái Đao Khách	KillNpc	0	1250	75	Tây Bắc Lư Vĩ Đãng	2087	Khoái Đao Khách	24	0	0	10000	0	0	0	0	0	0	0	0
+20111	Tà Ác Bảng Phỉ	KillNpc	0	1250	75	Tây Bắc Lư Vĩ Đãng	2249	Tà Ác Bảng Phỉ	24	0	0	10000	0	0	0	0	0	0	0	0
+20112	Phỉ Đồ Bang Hung	KillNpc	0	1250	75	Tây Bắc Lư Vĩ Đãng	2248	Phỉ Đồ Bang Hung	24	0	0	10000	0	0	0	0	0	0	0	0
+20113	Sào Phỉ Binh	KillNpc	0	1250	86	Thái Hành Cổ Kính	2119	Sào Phỉ Binh	24	0	0	0	10000	0	0	0	0	0	0	0
+20114	Vũ Trang Thôn Dân	KillNpc	0	1250	86	Thái Hành Cổ Kính	2117	Vũ Trang Thôn Dân	24	0	0	0	10000	0	0	0	0	0	0	0
+20115	Bạo Nộ Khoáng Công	KillNpc	0	1250	86	Thái Hành Cổ Kính	2118	Bạo Nộ Khoáng Công	24	0	0	0	10000	0	0	0	0	0	0	0
+20116	Mã Tặc Du Kỵ	KillNpc	0	1250	87	Đại Tán Quan	2133	Mã Tặc Du Kỵ	24	0	0	0	10000	0	0	0	0	0	0	0
+20117	Thiết Diều Tử	KillNpc	0	1250	87	Đại Tán Quan	2132	Thiết Diều Tử	24	0	0	0	10000	0	0	0	0	0	0	0
+20118	Du Binh Tây Hạ	KillNpc	0	1250	87	Đại Tán Quan	2134	Du Binh Tây Hạ	24	0	0	0	10000	0	0	0	0	0	0	0
+20119	Đà Thủ Tào Bang	KillNpc	0	1250	88	Hán Thủy Cổ Độ	2120	Đà Thủ Tào Bang	24	0	0	0	10000	0	0	0	0	0	0	0
+20120	Thủ Lĩnh Tào Bang	KillNpc	0	1250	88	Hán Thủy Cổ Độ	2121	Thủ Lĩnh Tào Bang	24	0	0	0	10000	0	0	0	0	0	0	0
+20121	Quan Binh Tương Dương	KillNpc	0	1250	88	Hán Thủy Cổ Độ	2122	Quan Binh Tương Dương	24	0	0	0	10000	0	0	0	0	0	0	0
+20122	Quan Văn Tị Nạn	KillNpc	0	1250	89	Hàn Sơn Cổ Sát	2126	Quan Văn Tị Nạn	24	0	0	0	10000	0	0	0	0	0	0	0
+20123	Quan Võ Tị Nạn	KillNpc	0	1250	89	Hàn Sơn Cổ Sát	2127	Quan Võ Tị Nạn	24	0	0	0	10000	0	0	0	0	0	0	0
+20124	Cấm Quân Đại Tống	KillNpc	0	1250	89	Hàn Sơn Cổ Sát	2128	Cấm Quân Đại Tống	24	0	0	0	10000	0	0	0	0	0	0	0
+20125	Hưởng Thủy Tử Sĩ	KillNpc	0	1250	90	Cán Hoa Khê	2125	Hưởng Thủy Tử Sĩ	24	0	0	0	10000	0	0	0	0	0	0	0
+20126	Đao Binh Ngô Gia	KillNpc	0	1250	90	Cán Hoa Khê	2124	Đao Binh Ngô Gia	24	0	0	0	10000	0	0	0	0	0	0	0
+20127	Thương Sĩ Ngô Gia	KillNpc	0	1250	90	Cán Hoa Khê	2123	Thương Sĩ Ngô Gia	24	0	0	0	10000	0	0	0	0	0	0	0
+20128	Ô Man Sĩ Binh	KillNpc	0	1250	91	Nhĩ Hải Ma Nham	2135	Ô Man Sĩ Binh	24	0	0	0	10000	0	0	0	0	0	0	0
+20129	Ô Man Cung Thủ	KillNpc	0	1250	91	Nhĩ Hải Ma Nham	2136	Ô Man Cung Thủ	24	0	0	0	10000	0	0	0	0	0	0	0
+20130	Ô Man Thần Vu	KillNpc	0	1250	91	Nhĩ Hải Ma Nham	2137	Ô Man Thần Vu	24	0	0	0	10000	0	0	0	0	0	0	0
+20131	Bang Chúng Tào Bang	KillNpc	0	1250	92	Thái Thạch Cơ	2129	Bang Chúng Tào Bang	24	0	0	0	10000	0	0	0	0	0	0	0
+20132	Võ Sư Mã Bang	KillNpc	0	1250	92	Thái Thạch Cơ	2131	Võ Sư Mã Bang	24	0	0	0	10000	0	0	0	0	0	0	0
+20133	Thủ Quân Lâm An	KillNpc	0	1250	92	Thái Thạch Cơ	2130	Thủ Quân Lâm An	24	0	0	0	10000	0	0	0	0	0	0	0
+20134	Thú Vương Thợ Săn	KillNpc	0	1250	93	Dược Vương Động	2139	Thú Vương Thợ Săn	24	0	0	0	0	10000	0	0	0	0	0	0
+20135	Thú Vương Tuần Du	KillNpc	0	1250	93	Dược Vương Động	2140	Thú Vương Tuần Du	24	0	0	0	0	10000	0	0	0	0	0	0
+20136	Thú Vương Tế Tư	KillNpc	0	1250	93	Dược Vương Động	2138	Thú Vương Tế Tư	24	0	0	0	0	10000	0	0	0	0	0	0
+20137	Ưng Kỵ Hoành Sơn	KillNpc	0	1250	94	Cư Diên Trạch	2155	Ưng Kỵ Hoành Sơn	24	0	0	0	0	10000	0	0	0	0	0	0
+20138	Khương Bộ Binh Hoành Sơn	KillNpc	0	1250	94	Cư Diên Trạch	2153	Khương Bộ Binh Hoành Sơn	24	0	0	0	0	10000	0	0	0	0	0	0
+20139	Hổ Kỵ Hoành Sơn	KillNpc	0	1250	94	Cư Diên Trạch	2154	Hổ Kỵ Hoành Sơn	24	0	0	0	0	10000	0	0	0	0	0	0
+20140	Lâu La Ngưu Lan Trại	KillNpc	0	1250	95	Phục Ngưu Sơn	2141	Lâu La Ngưu Lan Trại	24	0	0	0	0	10000	0	0	0	0	0	0
+20141	Đao Thủ Ngưu Lan Trại	KillNpc	0	1250	95	Phục Ngưu Sơn	2142	Đao Thủ Ngưu Lan Trại	24	0	0	0	0	10000	0	0	0	0	0	0
+20142	Nam Đệ Tử Tà Giáo	KillNpc	0	1250	95	Phục Ngưu Sơn	2143	Nam Đệ Tử Tà Giáo	24	0	0	0	0	10000	0	0	0	0	0	0
+20143	Tinh Kỵ Binh	KillNpc	0	1250	96	Hổ Khâu Kiếm Trì	2149	Tinh Kỵ Binh	24	0	0	0	0	10000	0	0	0	0	0	0
+20144	Cấm Quân Bắc Doanh	KillNpc	0	1250	96	Hổ Khâu Kiếm Trì	2147	Cấm Quân Bắc Doanh	24	0	0	0	0	10000	0	0	0	0	0	0
+20145	Cấm Quân Nam Doanh	KillNpc	0	1250	96	Hổ Khâu Kiếm Trì	2148	Cấm Quân Nam Doanh	24	0	0	0	0	10000	0	0	0	0	0	0
+20146	Hưởng Thủy Khoái Đao	KillNpc	0	1250	97	Hưởng Thủy Động	2145	Hưởng Thủy Khoái Đao	24	0	0	0	0	10000	0	0	0	0	0	0
+20147	Hưởng Thủy Thần Xạ Thủ	KillNpc	0	1250	97	Hưởng Thủy Động	2144	Hưởng Thủy Thần Xạ Thủ	24	0	0	0	0	10000	0	0	0	0	0	0
+20148	Hưởng Thủy Tử Sĩ	KillNpc	0	1250	97	Hưởng Thủy Động	2146	Hưởng Thủy Tử Sĩ	24	0	0	0	0	10000	0	0	0	0	0	0
+20149	Tinh Binh Ô Bố Trại	KillNpc	0	1250	98	Điểm Thương Sơn	2156	Tinh Binh Ô Bố Trại	24	0	0	0	0	10000	0	0	0	0	0	0
+20150	Tuần Thủ Ô Bố Trại	KillNpc	0	1250	98	Điểm Thương Sơn	2157	Tuần Thủ Ô Bố Trại	24	0	0	0	0	10000	0	0	0	0	0	0
+20151	Hắc Thủy Khinh Kỵ	KillNpc	0	1250	98	Điểm Thương Sơn	2158	Hắc Thủy Khinh Kỵ	24	0	0	0	0	10000	0	0	0	0	0	0
+20152	Ngựa Hoang	KillNpc	0	1250	99	Bành Lãi Cổ Trạch	2152	Ngựa Hoang	24	0	0	0	0	10000	0	0	0	0	0	0
+20153	Khỉ Hoang	KillNpc	0	1250	99	Bành Lãi Cổ Trạch	2151	Khỉ Hoang	24	0	0	0	0	10000	0	0	0	0	0	0
+20154	Hươu Rừng	KillNpc	0	1250	99	Bành Lãi Cổ Trạch	2150	Hươu Rừng	24	0	0	0	0	10000	0	0	0	0	0	0
+20155	Mãnh An Mưu Khắc Quân	KillNpc	0	1250	100	Phong Lăng Độ	2159	Mãnh An Mưu Khắc Quân	24	0	0	0	0	0	10000	0	0	0	0	0
+20157	Thôi Thủ Mã Bang	KillNpc	0	1250	100	Phong Lăng Độ	2161	Thôi Thủ Mã Bang	24	0	0	0	0	0	10000	0	0	0	0	0
+20158	Đà Thủ Tào Bang	KillNpc	0	1250	100	Phong Lăng Độ	2160	Đà Thủ Tào Bang	24	0	0	0	0	0	10000	0	0	0	0	0
+20159	Thần Tí Cung	KillNpc	0	1250	101	Mê Cung Sa Mạc	2174	Thần Tí Cung	24	0	0	0	0	0	10000	0	0	0	0	0
+20161	Hắc Thủy Khoái Kỵ Binh	KillNpc	0	1250	101	Mê Cung Sa Mạc	2176	Hắc Thủy Khoái Kỵ Binh	24	0	0	0	0	0	10000	0	0	0	0	0
+20162	Mã Tặc Khinh Phủ Thủ	KillNpc	0	1250	101	Mê Cung Sa Mạc	2175	Mã Tặc Khinh Phủ Thủ	24	0	0	0	0	0	10000	0	0	0	0	0
+20163	Bốc Sư Tà Giáo	KillNpc	0	1250	102	Kê Quán Động	2164	Bốc Sư Tà Giáo	24	0	0	0	0	0	10000	0	0	0	0	0
+20165	Nam Đệ Tử Tà Giáo	KillNpc	0	1250	102	Kê Quán Động	2162	Nam Đệ Tử Tà Giáo	24	0	0	0	0	0	10000	0	0	0	0	0
+20166	Nữ Đệ Tử Tà Giáo	KillNpc	0	1250	102	Kê Quán Động	2163	Nữ Đệ Tử Tà Giáo	24	0	0	0	0	0	10000	0	0	0	0	0
+20167	Tống Khinh Kỵ Binh	KillNpc	0	1250	103	Thục Cương Sơn	2168	Tống Khinh Kỵ Binh	24	0	0	0	0	0	10000	0	0	0	0	0
+20169	Tống Thương Sĩ	KillNpc	0	1250	103	Thục Cương Sơn	2169	Tống Thương Sĩ	24	0	0	0	0	0	10000	0	0	0	0	0
+20170	Tống Nõ Thủ	KillNpc	0	1250	103	Thục Cương Sơn	2170	Tống Nõ Thủ	24	0	0	0	0	0	10000	0	0	0	0	0
+20171	Nam Ảnh	KillNpc	0	1250	104	Kiếm Các Thục Đạo	2166	Nam Ảnh	24	0	0	0	0	0	10000	0	0	0	0	0
+20173	Thần Hành Binh	KillNpc	0	1250	104	Kiếm Các Thục Đạo	2167	Thần Hành Binh	24	0	0	0	0	0	10000	0	0	0	0	0
+20174	Nữ Ảnh	KillNpc	0	1250	104	Kiếm Các Thục Đạo	2165	Nữ Ảnh	24	0	0	0	0	0	10000	0	0	0	0	0
+20175	Thổ Bố Bốc Sư	KillNpc	0	1250	105	Hoàng Lăng Đoàn Thị	2178	Thổ Bố Bốc Sư	24	0	0	0	0	0	10000	0	0	0	0	0
+20177	Tử Diện Võ Sĩ	KillNpc	0	1250	105	Hoàng Lăng Đoàn Thị	2179	Tử Diện Võ Sĩ	24	0	0	0	0	0	10000	0	0	0	0	0
+20178	Thổ Bố Tộc Nhân	KillNpc	0	1250	105	Hoàng Lăng Đoàn Thị	2177	Thổ Bố Tộc Nhân	24	0	0	0	0	0	10000	0	0	0	0	0
+20179	Kiếm Khách Giang Hồ	KillNpc	0	1250	106	Cửu Nghi Khê	2171	Kiếm Khách Giang Hồ	24	0	0	0	0	0	10000	0	0	0	0	0
+20181	Đao Khách Giang Hồ	KillNpc	0	1250	106	Cửu Nghi Khê	2172	Đao Khách Giang Hồ	24	0	0	0	0	0	10000	0	0	0	0	0
+20182	Đại Nội Mật Thám	KillNpc	0	1250	106	Cửu Nghi Khê	2173	Đại Nội Mật Thám	24	0	0	0	0	0	10000	0	0	0	0	0
+20183	Cấm Vệ Quân Đại Kim	KillNpc	0	1250	107	Long Môn Thạch Quật	2180	Cấm Vệ Quân Đại Kim	24	0	0	0	0	0	0	10000	0	0	0	0
+20185	Phi Kỵ Binh Đại Kim	KillNpc	0	1250	107	Long Môn Thạch Quật	2181	Phi Kỵ Binh Đại Kim	24	0	0	0	0	0	0	10000	0	0	0	0
+20186	Bang Chúng Ảnh Hội	KillNpc	0	1250	107	Long Môn Thạch Quật	2182	Bang Chúng Ảnh Hội	24	0	0	0	0	0	0	10000	0	0	0	0
+20187	Hoàng Lăng Khán Thủ	KillNpc	0	1250	108	Hoàng Lăng Tây Hạ	2195	Hoàng Lăng Khán Thủ	24	0	0	0	0	0	0	10000	0	0	0	0
+20189	Đao Thủ Phản Quân	KillNpc	0	1250	108	Hoàng Lăng Tây Hạ	2196	Đao Thủ Phản Quân	24	0	0	0	0	0	0	10000	0	0	0	0
+20190	Cổn Đao Thủ	KillNpc	0	1250	108	Hoàng Lăng Tây Hạ	2197	Cổn Đao Thủ	24	0	0	0	0	0	0	10000	0	0	0	0
+20191	Lưu Vong Đao Binh	KillNpc	0	1250	109	Hoàng Hạc Lâu	2183	Lưu Vong Đao Binh	24	0	0	0	0	0	0	10000	0	0	0	0
+20193	Trú Thành Thủ Quân	KillNpc	0	1250	109	Hoàng Hạc Lâu	2184	Trú Thành Thủ Quân	24	0	0	0	0	0	0	10000	0	0	0	0
+20194	Lưu Khấu	KillNpc	0	1250	109	Hoàng Hạc Lâu	2185	Lưu Khấu	24	0	0	0	0	0	0	10000	0	0	0	0
+20195	Khổ Công	KillNpc	0	1250	110	Tiến Cúc Động	2190	Khổ Công	24	0	0	0	0	0	0	10000	0	0	0	0
+20197	Bang Chúng Bắc Mã	KillNpc	0	1250	110	Tiến Cúc Động	2191	Bang Chúng Bắc Mã	24	0	0	0	0	0	0	10000	0	0	0	0
+20198	Bang Chúng Diêm Bang	KillNpc	0	1250	110	Tiến Cúc Động	2189	Bang Chúng Diêm Bang	24	0	0	0	0	0	0	10000	0	0	0	0
+20199	Thủ Quân Kiếm Môn	KillNpc	0	1250	111	Kiếm Môn Quan	2186	Thủ Quân Kiếm Môn	24	0	0	0	0	0	0	10000	0	0	0	0
+20201	Hắc Thủy Vân Kỵ Binh	KillNpc	0	1250	111	Kiếm Môn Quan	2188	Hắc Thủy Vân Kỵ Binh	24	0	0	0	0	0	0	10000	0	0	0	0
+20202	Hộ Quan Thiết Kỵ Binh	KillNpc	0	1250	111	Kiếm Môn Quan	2187	Hộ Quan Thiết Kỵ Binh	24	0	0	0	0	0	0	10000	0	0	0	0
+20203	Hộ Tự Tăng Binh	KillNpc	0	1250	112	Thiên Long Tự	2199	Hộ Tự Tăng Binh	24	0	0	0	0	0	0	10000	0	0	0	0
+20205	Dũng Sĩ Ô Man	KillNpc	0	1250	112	Thiên Long Tự	2200	Dũng Sĩ Ô Man	24	0	0	0	0	0	0	10000	0	0	0	0
+20206	Kỵ Binh Tây Hạ	KillNpc	0	1250	112	Thiên Long Tự	2198	Kỵ Binh Tây Hạ	24	0	0	0	0	0	0	10000	0	0	0	0
+20207	Giang Nam Nghĩa Sĩ	KillNpc	0	1250	113	Bang Nguyên Bí Động	2192	Giang Nam Nghĩa Sĩ	24	0	0	0	0	0	0	10000	0	0	0	0
+20209	Đông Nam Nghĩa Sĩ	KillNpc	0	1250	113	Bang Nguyên Bí Động	2193	Đông Nam Nghĩa Sĩ	24	0	0	0	0	0	0	10000	0	0	0	0
+20210	Giang Bắc Nghĩa Sĩ	KillNpc	0	1250	113	Bang Nguyên Bí Động	2194	Giang Bắc Nghĩa Sĩ	24	0	0	0	0	0	0	10000	0	0	0	0
+20211	Truy Binh Thát Đát	KillNpc	0	1250	114	Sắc Lặc Xuyên	2253	Truy Binh Thát Đát	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20212	Kỵ Binh Kim Quốc	KillNpc	0	1250	114	Sắc Lặc Xuyên	2254	Kỵ Binh Kim Quốc	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20213	Đà Lôi Bộ Kỵ Binh	KillNpc	0	1250	114	Sắc Lặc Xuyên	2255	Đà Lôi Bộ Kỵ Binh	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20214	Đại Mạc Đao Khách	KillNpc	0	1250	114	Sắc Lặc Xuyên	2256	Đại Mạc Đao Khách	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20215	Quân Sĩ Tây Hạ	KillNpc	0	1250	115	Gia Dụ Quan	2257	Quân Sĩ Tây Hạ	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20216	Mật Bộ Sĩ Binh	KillNpc	0	1250	115	Gia Dụ Quan	2258	Mật Bộ Sĩ Binh	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20217	Thủ Quân Gia Dụ Quan	KillNpc	0	1250	115	Gia Dụ Quan	2259	Thủ Quân Gia Dụ Quan	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20218	Tái Ngoại Hào Lang	KillNpc	0	1250	115	Gia Dụ Quan	2260	Tái Ngoại Hào Lang	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20219	Diệp Hầu Hoa Sơn	KillNpc	0	1250	116	Hoa Sơn	2261	Diệp Hầu Hoa Sơn	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20220	Thủ Quân Hoa Sơn	KillNpc	0	1250	116	Hoa Sơn	2262	Thủ Quân Hoa Sơn	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20221	Dị Nhân Kiếm Khách	KillNpc	0	1250	116	Hoa Sơn	2263	Dị Nhân Kiếm Khách	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20222	Cường Tặc Hoa Sơn	KillNpc	0	1250	116	Hoa Sơn	2264	Cường Tặc Hoa Sơn	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20223	Phù Du Tán Binh	KillNpc	0	1250	117	Thục Cương Bí Cảnh	2265	Phù Du Tán Binh	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20224	Mâu Thủ Bí Cảnh	KillNpc	0	1250	117	Thục Cương Bí Cảnh	2266	Mâu Thủ Bí Cảnh	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20225	Lang Trung Giang Hồ	KillNpc	0	1250	117	Thục Cương Bí Cảnh	2267	Lang Trung Giang Hồ	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20226	Sơn Miêu	KillNpc	0	1250	117	Thục Cương Bí Cảnh	2268	Sơn Miêu	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20227	Độc Đồng Tử	KillNpc	0	1250	118	Phong Đô Quỷ Thành	2269	Độc Đồng Tử	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20228	Quỷ Nô	KillNpc	0	1250	118	Phong Đô Quỷ Thành	2270	Quỷ Nô	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20229	Quỷ Sứ	KillNpc	0	1250	118	Phong Đô Quỷ Thành	2271	Quỷ Sứ	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20230	Mai Cốt Binh	KillNpc	0	1250	118	Phong Đô Quỷ Thành	2272	Mai Cốt Binh	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20231	Thợ Săn Hắc Miêu	KillNpc	0	1250	119	Miêu Lĩnh	2273	Thợ Săn Hắc Miêu	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20232	Man Nữ Tế Tư	KillNpc	0	1250	119	Miêu Lĩnh	2274	Man Nữ Tế Tư	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20233	Thợ Săn Bạch Miêu	KillNpc	0	1250	119	Miêu Lĩnh	2275	Thợ Săn Bạch Miêu	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20234	Thủ Quân Miêu Lĩnh	KillNpc	0	1250	119	Miêu Lĩnh	2276	Thủ Quân Miêu Lĩnh	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20235	Sĩ Tử Trường Ca Môn	KillNpc	0	1250	120	Vũ Di Sơn	2277	Sĩ Tử Trường Ca Môn	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20236	Lâu La Hồng Y	KillNpc	0	1250	120	Vũ Di Sơn	2278	Lâu La Hồng Y	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20237	Lâu La Tử Y	KillNpc	0	1250	120	Vũ Di Sơn	2279	Lâu La Tử Y	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20238	Hổ Hoang Hoa Nam	KillNpc	0	1250	120	Vũ Di Sơn	2280	Hổ Hoang Hoa Nam	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20239	Thủ Quân Vũ Lăng Sơn	KillNpc	0	1250	121	Vũ Lăng Sơn	2281	Thủ Quân Vũ Lăng Sơn	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20240	Xích Luyện Vương Xà	KillNpc	0	1250	121	Vũ Lăng Sơn	2282	Xích Luyện Vương Xà	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20241	Bưu Bá Khán Thủ	KillNpc	0	1250	121	Vũ Lăng Sơn	2283	Bưu Bá Khán Thủ	24	0	0	0	0	0	0	0	10000	10000	10000	10000
+20242	Thảo Quỷ Bà	KillNpc	0	1250	121	Vũ Lăng Sơn	2284	Thảo Quỷ Bà	24	0	0	0	0	0	0	0	10000	10000	10000	10000

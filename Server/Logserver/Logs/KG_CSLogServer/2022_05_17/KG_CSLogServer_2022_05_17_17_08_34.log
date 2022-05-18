@@ -1,0 +1,11 @@
+20220517-170834<INFO :00000CD0>: [KG_CSLogServer] starting ...
+20220517-170834<INFO :00000CD0>: [KG_CSLogServer] Loading KG_CSLogServer.ini
+20220517-170834<INFO :00000CD0>: [KG_CSLogServer] Init Socket thread ...
+20220517-170834<INFO :00000CD0>: start listen on 127.0.0.1:5100
+20220517-170834<INFO :00000CD0>: [KG_CSLogServer] Init Log thread ...
+20220517-170834<INFO :00000CD0>: [Database] character set switch to latin1
+20220517-170834<INFO :00000CD0>: [KG_CSLogServer] start success
+20220517-170848<INFO :00000E80>: [1] (127.0.0.1:8896) Connected
+20220517-170848<INFO :00000EA4>: [1] PacketID:1, Gateway "nadev" Login, Result = 1
+20220517-170857<INFO :00000E80>: [2] (127.0.0.1:10432) Connected
+20220517-170857<INFO :00000EA4>: [2] PacketID:1, Gateway "nadev" Login, Result = 1

@@ -1,0 +1,475 @@
+20220518-095618<INFO :00000818>: [Bishop] Begin to start ... ...
+20220518-095618<INFO :00000818>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20220518-095618<INFO :00000818>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 01E80D68
+20220518-095618<INFO :00000818>: [Goddess] Login() nResult = 1
+20220518-095618<INFO :00000818>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20220518-095618<INFO :00000818>: [PlayerManager] Init() Acceptor Open(: 5622), nRetCode = 1
+20220518-095618<INFO :00000818>: [Report] Init() Acceptor Open(127.0.0.1: 5636), nRetCode = 1
+20220518-095625<INFO :00000FF4>: [Relay] ThreadFunction() Accept from (127.0.0.1: 59082) SocketStream = 01E80DB0
+20220518-095625<INFO :00000FF4>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20220518-095625<DEBUG:00000FF4>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 36
+20220518-095816<INFO :000008C0>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 59092) SocketStream = 01E80D20
+20220518-095816<INFO :000013B8>: [GameServer 0]  === Start ===
+20220518-095816<INFO :000013B8>: [GameServer 0] Connected from 26.99.77.244, internet address = 26.99.77.244, open port = 6041, protocol version (79-->79)
+20220518-095833<DEBUG:000013B8>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20220518-095833<DEBUG:00000FF4>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1025; Key = 1
+20220518-095849<DEBUG:000012E0>: [Player 15] ThreadFunction() Accept from (26.99.78.68 : 1033) SocketStream = 01E80C00
+20220518-095859<DEBUG:000012E0>: [Player 15] Account administrator login bishop ... ... [OK]
+20220518-095859<DEBUG:000012E0>: [InterlockedAccountStateTable] administrator, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-095859<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 25; Key = 1
+20220518-095859<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 11; Key = 1
+20220518-095901<DEBUG:000012E0>: [Player 15] ProcessRoleList() RoleCount = 0!
+20220518-095901<DEBUG:000012E0>: [Player 15] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-095901<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 24; Key = 2
+20220518-095901<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 15; Key = 2
+20220518-095902<DEBUG:000012E0>: [Player 15] QueryRoleListInZone() Role Count In Zone = 0!
+20220518-095909<DEBUG:000012E0>: [Player 15] ReadPlayerRequest() Protocol = 33, Size = 37!
+20220518-095909<DEBUG:000012E0>: [Player 15] Account administrator create role Administrator to goddess ... ... [OK]
+20220518-095909<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 80; Key = 3
+20220518-095909<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 11; Key = 3
+20220518-095927<DEBUG:000012E0>: [Player 15] ReadPlayerRequest() Protocol = 33, Size = 37!
+20220518-095927<DEBUG:000012E0>: [Player 15] Account administrator create role Testgame to goddess ... ... [OK]
+20220518-095927<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 80; Key = 4
+20220518-095927<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 366; Key = 4
+20220518-095928<DEBUG:000012E0>: [InterlockedAccountStateTable] administrator, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-095928<DEBUG:000012E0>: [Player 15] Request enter game: ask for permission, account = administrator, role name = Testgame ... ... [OK]
+20220518-095928<DEBUG:000013B8>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 498; Key = 1
+20220518-095928<DEBUG:000013B8>: [GameServer 0] g2b_player_login_permission() , Account = administrator, Role = Testgame, Permit = true
+20220518-095929<DEBUG:000012E0>: [Player 15] Notify player login game: ip = 26.99.77.244, port = 6041, account = administrator, role = Testgame
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 0 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 1 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 2 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 3 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 4 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 5 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 6 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 7 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 8 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 9 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 10 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 11 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 12 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 13 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 14 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 15 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 16 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 17 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 18 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 19 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 20 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 21 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 22 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 23 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 24 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 25 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 26 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 27 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 28 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 29 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 30 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 31 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 32 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 33 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 34 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 35 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 36 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 37 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 38 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 39 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 40 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 41 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 42 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 43 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 44 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 45 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 46 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 47 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 48 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 49 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 50 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 51 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 52 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 53 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 54 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 55 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 56 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 57 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 58 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 59 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 60 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 61 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 62 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 63 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 64 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 65 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 66 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 67 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 68 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 69 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 70 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 71 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 72 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 73 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 74 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 75 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 76 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 77 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 78 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 79 ... ... [OK]
+20220518-095930<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 80 ... ... [OK]
+20220518-095931<DEBUG:000013B8>: [GameServer 0] g2b_player_enter_game() AccountName = administrator
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 81 ... ... [OK]
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 82 ... ... [OK]
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 83 ... ... [OK]
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 84 ... ... [OK]
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 85 ... ... [OK]
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 86 ... ... [OK]
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 87 ... ... [OK]
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 88 ... ... [OK]
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 89 ... ... [OK]
+20220518-100037<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = administrator , PlayerDataIndex = 90 ... ... [OK]
+20220518-100536<DEBUG:000013B8>: [GameServer 0] g2b_player_leave_game() , Account administrator 
+20220518-100536<DEBUG:000013B8>: [GameServer 0] _LeaveGame_Normal() AccountName = administrator
+20220518-100536<DEBUG:000013B8>: [InterlockedAccountStateTable] administrator, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20220518-100536<DEBUG:000013B8>: [GameServer 0] Unregister account administrator in game server ... ... [OK]
+20220518-100536<DEBUG:000013B8>: [InterlockedAccountStateTable] administrator, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-100536<DEBUG:000013B8>: [InterlockedAccountStateTable] administrator, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-104244<DEBUG:0000081C>: [Player 473] ThreadFunction() Accept from (26.99.78.68 : 1026) SocketStream = 01E80C00
+20220518-104254<DEBUG:0000081C>: [Player 473] Account administrator login bishop ... ... [OK]
+20220518-104254<DEBUG:0000081C>: [InterlockedAccountStateTable] administrator, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-104254<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 25; Key = 5
+20220518-104255<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 5
+20220518-104255<DEBUG:0000081C>: [Player 473] ProcessRoleList() RoleCount = 1!
+20220518-104255<DEBUG:0000081C>: [Player 473] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-104255<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 24; Key = 6
+20220518-104255<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 6
+20220518-104256<DEBUG:0000081C>: [Player 473] QueryRoleListInZone() Role Count In Zone = 1!
+20220518-104257<DEBUG:0000081C>: [Player 473] ReadPlayerRequest() Protocol = 35, Size = 33!
+20220518-104257<DEBUG:0000081C>: [Player 473] EnterGame_QueryRoleData() RoleName = Testgame
+20220518-104257<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 19; Key = 7
+20220518-104258<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3305; Key = 7
+20220518-104259<DEBUG:0000081C>: [InterlockedAccountStateTable] administrator, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-104259<DEBUG:0000081C>: [Player 473] Request enter game: ask for permission, account = administrator, role name = Testgame ... ... [OK]
+20220518-104259<DEBUG:000013B8>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3437; Key = 2
+20220518-104259<DEBUG:000013B8>: [GameServer 0] g2b_player_login_permission() , Account = administrator, Role = Testgame, Permit = true
+20220518-104300<DEBUG:0000081C>: [Player 473] Notify player login game: ip = 26.99.77.244, port = 6041, account = administrator, role = Testgame
+20220518-104300<DEBUG:000013B8>: [GameServer 0] g2b_player_enter_game() AccountName = administrator
+20220518-110331<DEBUG:0000044C>: [Player 383] ThreadFunction() Accept from (26.219.108.28 : 63628) SocketStream = 01E80C00
+20220518-110339<DEBUG:0000044C>: [Player 383] Account hungnv login bishop ... ... [OK]
+20220518-110339<DEBUG:0000044C>: [InterlockedAccountStateTable] hungnv, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-110339<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 8
+20220518-110339<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 11; Key = 8
+20220518-110340<DEBUG:0000044C>: [Player 383] ProcessRoleList() RoleCount = 0!
+20220518-110340<DEBUG:0000044C>: [Player 383] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-110340<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 9
+20220518-110340<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 15; Key = 9
+20220518-110341<DEBUG:0000044C>: [Player 383] QueryRoleListInZone() Role Count In Zone = 0!
+20220518-110406<DEBUG:0000044C>: [Player 383] ReadPlayerRequest() Protocol = 33, Size = 37!
+20220518-110406<DEBUG:0000044C>: [Player 383] Account hungnv create role Solana to goddess ... ... [OK]
+20220518-110406<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 80; Key = 10
+20220518-110406<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 366; Key = 10
+20220518-110407<DEBUG:0000044C>: [InterlockedAccountStateTable] hungnv, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-110407<DEBUG:0000044C>: [Player 383] Request enter game: ask for permission, account = hungnv, role name = Solana ... ... [OK]
+20220518-110407<DEBUG:000013B8>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 498; Key = 3
+20220518-110407<DEBUG:000013B8>: [GameServer 0] g2b_player_login_permission() , Account = hungnv, Role = Solana, Permit = true
+20220518-110409<DEBUG:0000044C>: [Player 383] Notify player login game: ip = 26.99.77.244, port = 6041, account = hungnv, role = Solana
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 91 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 92 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 93 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 94 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 95 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 96 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 97 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 98 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 99 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 100 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 101 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 102 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 103 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 104 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 105 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 106 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 107 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 108 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 109 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 110 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 111 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 112 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 113 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 114 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 115 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 116 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 117 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 118 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 119 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 120 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 121 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 122 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 123 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 124 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 125 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 126 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 127 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 128 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 129 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 130 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 131 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 132 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 133 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 134 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 135 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 136 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 137 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 138 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 139 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 140 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 141 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 142 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 143 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 144 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 145 ... ... [OK]
+20220518-110410<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 146 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 147 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 148 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 149 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 150 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 151 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 152 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 153 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 154 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 155 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 156 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 157 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 158 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 159 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 160 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 161 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 162 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 163 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 164 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 165 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 166 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 167 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 168 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 169 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 170 ... ... [OK]
+20220518-110411<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 171 ... ... [OK]
+20220518-110412<DEBUG:000013B8>: [GameServer 0] g2b_player_enter_game() AccountName = hungnv
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 172 ... ... [OK]
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 173 ... ... [OK]
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 174 ... ... [OK]
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 175 ... ... [OK]
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 176 ... ... [OK]
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 177 ... ... [OK]
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 178 ... ... [OK]
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 179 ... ... [OK]
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 180 ... ... [OK]
+20220518-110952<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = hungnv , PlayerDataIndex = 181 ... ... [OK]
+20220518-113016<DEBUG:00001558>: [Player 491] ThreadFunction() Accept from (26.99.78.68 : 8762) SocketStream = 01E80C00
+20220518-113119<DEBUG:00001558>: [Player 491] Account testgamea login bishop ... ... [OK]
+20220518-113119<DEBUG:00001558>: [InterlockedAccountStateTable] testgamea, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-113119<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 21; Key = 11
+20220518-113119<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 11; Key = 11
+20220518-113120<DEBUG:00001558>: [Player 491] ProcessRoleList() RoleCount = 0!
+20220518-113120<DEBUG:00001558>: [Player 491] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-113120<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 20; Key = 12
+20220518-113120<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 15; Key = 12
+20220518-113120<DEBUG:00001558>: [Player 491] QueryRoleListInZone() Role Count In Zone = 0!
+20220518-113128<DEBUG:00001558>: [Player 491] ReadPlayerRequest() Protocol = 33, Size = 37!
+20220518-113128<DEBUG:00001558>: [Player 491] Account testgamea create role Administrator to goddess ... ... [OK]
+20220518-113128<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 80; Key = 13
+20220518-113128<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 11; Key = 13
+20220518-113235<DEBUG:000013B8>: [GameServer 0] g2b_player_leave_game() , Account hungnv 
+20220518-113235<DEBUG:000013B8>: [GameServer 0] _LeaveGame_Normal() AccountName = hungnv
+20220518-113235<DEBUG:000013B8>: [InterlockedAccountStateTable] hungnv, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20220518-113235<DEBUG:000013B8>: [GameServer 0] Unregister account hungnv in game server ... ... [OK]
+20220518-113235<DEBUG:000013B8>: [InterlockedAccountStateTable] hungnv, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-113235<DEBUG:000013B8>: [InterlockedAccountStateTable] hungnv, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-113428<DEBUG:00001558>: KGLOG_PROCESS_ERROR(nRetCode > 0) at line 2229 in KG_BishopPlayer::ReadPlayerRequest
+20220518-113428<DEBUG:00001558>: [Player 491] ReadPlayerRequest() Failed!
+20220518-113428<DEBUG:00001558>: KGLOG_PROCESS_ERROR(nRetCode) at line 545 in KG_BishopPlayer::OnPlayerRequest
+20220518-113428<DEBUG:00001558>: [InterlockedAccountStateTable] testgamea, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20220518-113428<DEBUG:00001558>: [InterlockedAccountStateTable] testgamea, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20220518-113525<DEBUG:000018F0>: [Player 200] ThreadFunction() Accept from (26.219.108.28 : 52773) SocketStream = 01E80C00
+20220518-113529<DEBUG:000018F0>: [Player 200] Account hungnv login bishop ... ... [OK]
+20220518-113529<DEBUG:000018F0>: [InterlockedAccountStateTable] hungnv, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-113529<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 14
+20220518-113529<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 14
+20220518-113530<DEBUG:000018F0>: [Player 200] ProcessRoleList() RoleCount = 1!
+20220518-113530<DEBUG:000018F0>: [Player 200] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-113530<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 15
+20220518-113530<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 15
+20220518-113531<DEBUG:000018F0>: [Player 200] QueryRoleListInZone() Role Count In Zone = 1!
+20220518-113600<DEBUG:000018F0>: [Player 200] ReadPlayerRequest() Protocol = 33, Size = 37!
+20220518-113600<DEBUG:000018F0>: [Player 200] Account hungnv create role Avalanche to goddess ... ... [OK]
+20220518-113600<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 80; Key = 16
+20220518-113600<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 11; Key = 16
+20220518-113615<DEBUG:000018F0>: [Player 200] ReadPlayerRequest() Protocol = 33, Size = 37!
+20220518-113615<DEBUG:000018F0>: [Player 200] Account hungnv create role Avalance to goddess ... ... [OK]
+20220518-113615<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 80; Key = 17
+20220518-113615<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 11; Key = 17
+20220518-113637<DEBUG:000018F0>: [Player 200] ReadPlayerRequest() Protocol = 35, Size = 25!
+20220518-113637<DEBUG:000018F0>: [Player 200] EnterGame_QueryRoleData() RoleName = Solana
+20220518-113637<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 17; Key = 18
+20220518-113637<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 4092; Key = 18
+20220518-113638<DEBUG:000018F0>: [InterlockedAccountStateTable] hungnv, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-113638<DEBUG:000018F0>: [Player 200] Request enter game: ask for permission, account = hungnv, role name = Solana ... ... [OK]
+20220518-113638<DEBUG:000013B8>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 4224; Key = 4
+20220518-113638<DEBUG:000013B8>: [GameServer 0] g2b_player_login_permission() , Account = hungnv, Role = Solana, Permit = true
+20220518-113638<DEBUG:000018F0>: [Player 200] Notify player login game: ip = 26.99.77.244, port = 6041, account = hungnv, role = Solana
+20220518-113639<DEBUG:000013B8>: [GameServer 0] g2b_player_enter_game() AccountName = hungnv
+20220518-131658<DEBUG:000013B8>: [GameServer 0] g2b_player_leave_game() , Account administrator 
+20220518-131658<DEBUG:000013B8>: [GameServer 0] _LeaveGame_Normal() AccountName = administrator
+20220518-131658<DEBUG:000013B8>: [InterlockedAccountStateTable] administrator, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20220518-131658<DEBUG:000013B8>: [GameServer 0] Unregister account administrator in game server ... ... [OK]
+20220518-131658<DEBUG:000013B8>: [InterlockedAccountStateTable] administrator, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-131658<DEBUG:000013B8>: [InterlockedAccountStateTable] administrator, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-131708<DEBUG:0000194C>: [Player 87] ThreadFunction() Accept from (26.99.78.68 : 4193) SocketStream = 01E80C00
+20220518-131716<DEBUG:0000194C>: [Player 87] Account testgamea login bishop ... ... [OK]
+20220518-131716<DEBUG:0000194C>: [InterlockedAccountStateTable] testgamea, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-131716<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 21; Key = 19
+20220518-131716<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 11; Key = 19
+20220518-131718<DEBUG:0000194C>: [Player 87] ProcessRoleList() RoleCount = 0!
+20220518-131718<DEBUG:0000194C>: [Player 87] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-131718<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 20; Key = 20
+20220518-131718<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 15; Key = 20
+20220518-131718<DEBUG:0000194C>: [Player 87] QueryRoleListInZone() Role Count In Zone = 0!
+20220518-131751<DEBUG:0000194C>: [Player 87] ReadPlayerRequest() Protocol = 33, Size = 37!
+20220518-131751<DEBUG:0000194C>: [Player 87] Account testgamea create role MaNhẫn05 to goddess ... ... [OK]
+20220518-131752<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 80; Key = 21
+20220518-131752<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 366; Key = 21
+20220518-131752<DEBUG:0000194C>: [InterlockedAccountStateTable] testgamea, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-131752<DEBUG:0000194C>: [Player 87] Request enter game: ask for permission, account = testgamea, role name = MaNhẫn05 ... ... [OK]
+20220518-131752<DEBUG:000013B8>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 498; Key = 5
+20220518-131752<DEBUG:000013B8>: [GameServer 0] g2b_player_login_permission() , Account = testgamea, Role = MaNhẫn05, Permit = true
+20220518-131753<DEBUG:0000194C>: [Player 87] Notify player login game: ip = 26.99.77.244, port = 6041, account = testgamea, role = MaNhẫn05
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 182 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 183 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 184 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 185 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 186 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 187 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 188 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 189 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 190 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 191 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 192 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 193 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 194 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 195 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 196 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 197 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 198 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 199 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 200 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 201 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 202 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 203 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 204 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 205 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 206 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 207 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 208 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 209 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 210 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 211 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 212 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 213 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 214 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 215 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 216 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 217 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 218 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 219 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 220 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 221 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 222 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 223 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 224 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 225 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 226 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 227 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 228 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 229 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 230 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 231 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 232 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 233 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 234 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 235 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 236 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 237 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 238 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 239 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 240 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 241 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 242 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 243 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 244 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 245 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 246 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 247 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 248 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 249 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 250 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 251 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 252 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 253 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 254 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 255 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 256 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 257 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 258 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 259 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 260 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 261 ... ... [OK]
+20220518-131754<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 262 ... ... [OK]
+20220518-131756<DEBUG:000013B8>: [GameServer 0] g2b_player_enter_game() AccountName = testgamea
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 263 ... ... [OK]
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 264 ... ... [OK]
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 265 ... ... [OK]
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 266 ... ... [OK]
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 267 ... ... [OK]
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 268 ... ... [OK]
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 269 ... ... [OK]
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 270 ... ... [OK]
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 271 ... ... [OK]
+20220518-131846<DEBUG:000013B8>: [GameServer 0] Player change ext point: Account = testgamea , PlayerDataIndex = 272 ... ... [OK]
+20220518-132653<DEBUG:000013B8>: [GameServer 0] g2b_player_leave_game() , Account hungnv 
+20220518-132653<DEBUG:000013B8>: [GameServer 0] _LeaveGame_Normal() AccountName = hungnv
+20220518-132653<DEBUG:000013B8>: [InterlockedAccountStateTable] hungnv, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20220518-132653<DEBUG:000013B8>: [GameServer 0] Unregister account hungnv in game server ... ... [OK]
+20220518-132653<DEBUG:000013B8>: [InterlockedAccountStateTable] hungnv, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-132653<DEBUG:000013B8>: [InterlockedAccountStateTable] hungnv, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-133639<DEBUG:00001820>: [Player 213] ThreadFunction() Accept from (26.99.78.68 : 1033) SocketStream = 01E80C00
+20220518-133647<DEBUG:00001820>: [Player 213] Account administrator login bishop ... ... [OK]
+20220518-133647<DEBUG:00001820>: [InterlockedAccountStateTable] administrator, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-133648<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 25; Key = 22
+20220518-133648<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 22
+20220518-133649<DEBUG:00001820>: [Player 213] ProcessRoleList() RoleCount = 1!
+20220518-133649<DEBUG:00001820>: [Player 213] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-133649<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 24; Key = 23
+20220518-133649<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 23
+20220518-133650<DEBUG:00001820>: [Player 213] QueryRoleListInZone() Role Count In Zone = 1!
+20220518-133651<DEBUG:00001820>: [Player 213] ReadPlayerRequest() Protocol = 35, Size = 33!
+20220518-133651<DEBUG:00001820>: [Player 213] EnterGame_QueryRoleData() RoleName = Testgame
+20220518-133651<DEBUG:000012A0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 19; Key = 24
+20220518-133651<DEBUG:000012A0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3808; Key = 24
+20220518-133652<DEBUG:00001820>: [InterlockedAccountStateTable] administrator, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-133652<DEBUG:00001820>: [Player 213] Request enter game: ask for permission, account = administrator, role name = Testgame ... ... [OK]
+20220518-133652<DEBUG:000013B8>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3940; Key = 6
+20220518-133652<DEBUG:000013B8>: [GameServer 0] g2b_player_login_permission() , Account = administrator, Role = Testgame, Permit = true
+20220518-133653<DEBUG:00001820>: [Player 213] Notify player login game: ip = 26.99.77.244, port = 6041, account = administrator, role = Testgame
+20220518-133653<DEBUG:000013B8>: [GameServer 0] g2b_player_enter_game() AccountName = administrator
+20220518-141838<DEBUG:000013B8>: nSocket = 8880, nSendFlag = 0, Error = 10054
+20220518-141838<DEBUG:000013B8>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20220518-141838<DEBUG:000013B8>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20220518-141838<INFO :000013B8>: [GameServer 0]  === End ===
+20220518-141838<DEBUG:000013B8>: [InterlockedAccountStateTable] administrator, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-141838<DEBUG:000013B8>: [InterlockedAccountStateTable] administrator, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-141838<INFO :000013B8>: [GameServer 0] unlock No.0 accounts in game server : [administrator] ... ... [OK]
+20220518-141838<DEBUG:000013B8>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-141838<DEBUG:000013B8>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-141855<DEBUG:00000FF4>: nSocket = 8840, nSendFlag = 0, Error = 10054
+20220518-141855<DEBUG:00000FF4>: KGLOG_PROCESS_ERROR(nRetCode) at line 305 in KG_BishopRelay::ReceivePackagesFromRelay
+20220518-141855<INFO :00000FF4>: [Relay] === End ===

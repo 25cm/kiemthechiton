@@ -1,0 +1,21 @@
+20220517-162109<INFO :00000ACC>: [KG_Goddess] starting ...
+20220517-162109<INFO :00000ACC>: [KG_Goddess] Loading kg_goddess.ini
+20220517-162109<INFO :00000ACC>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20220517-162109<INFO :00000ACC>: [KG_Goddess] Initializing role database ...
+20220517-162109<DEBUG:00000ACC>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20220517-162109<INFO :00000ACC>: [KG_Goddess] Initializing role statistic ...
+20220517-162109<INFO :00000ACC>: [KG_Goddess] Initializing server manager ...
+20220517-162109<INFO :00000ACC>: [KG_Goddess] Initializing Sequence ...
+20220517-162109<INFO :00000ACC>: [KG_Goddess] Initializing NameServer ...
+20220517-162109<DEBUG:00000ACC>: [Database] character set switch to latin1
+20220517-162109<INFO :00000ACC>: [ServerManager] Listening at 127.0.0.1:5001
+20220517-162109<INFO :00000ACC>: [KG_Goddess] RoleLock disable
+20220517-162109<INFO :00000ACC>: [KG_Goddess] Set log level to DEBUG
+20220517-162109<INFO :00000ACC>: [KG_Goddess] Start success
+20220517-162116<INFO :00001304>: [ServerManager] Accept from (127.0.0.1: 49540) SocketStream = 009A34E8
+20220517-162116<INFO :00000F58>: [Goddess Server 00] Started, service for 127.0.0.1:49540
+20220517-162116<DEBUG:00000F58>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20220517-162122<INFO :00001304>: [ServerManager] Accept from (127.0.0.1: 49546) SocketStream = 009A3530
+20220517-162122<INFO :0000197C>: [Goddess Server 01] Started, service for 127.0.0.1:49546
+20220517-162122<DEBUG:0000197C>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20220517-162136<DEBUG:00000F58>: [Goddess Server 00] Enter KG_GoddessServer::_ping()

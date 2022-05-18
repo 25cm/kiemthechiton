@@ -1,0 +1,7 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2012-02-16 04:43:12
+1	91jx	linhtute	Jackie	天王	枪天王	99	女	无家族	无帮会	131488
+2	91jx	thevan	PhungTien	无门派	无门派	99	男	无家族	无帮会	72163
+3	91jx	duykakaka	T芒yThi	无门派	无门派	99	女	无家族	无帮会	59963
+4	91jx	gamezonevn	DanhKiemVN	无门派	无门派	99	女	无家族	无帮会	14291
+5	91jx	idkuty	B茅膼i峄噓	无门派	无门派	99	女	无家族	无帮会	1000
+6	91jx	quaithan	NhanhConkip	武当	剑武当	99	男	无家族	无帮会	216

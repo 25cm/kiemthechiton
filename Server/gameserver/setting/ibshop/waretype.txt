@@ -1,0 +1,5 @@
+ID loại thương phẩm	Tên loại thương phẩm	Miêu tả loại thương phẩm
+2	Vật phẩm mới	Vật phẩm mới
+101	Huyền Tinh	Huyền Tinh
+102	Thường dùng	Thường dùng
+103	Đạo cụ	Đạo cụ

@@ -1,0 +1,2 @@
+nType	szName	szTxtName	nCount	IsDaily	nTime
+1	ÂäÓ¢Ëş	comfuben1.txt	5	1	20

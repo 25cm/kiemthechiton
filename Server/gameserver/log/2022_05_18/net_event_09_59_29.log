@@ -1,0 +1,72 @@
+[2022-05-18 09:59:29]	INFO	linkid:0 connect, free linkid count:999
+[2022-05-18 09:59:29]	INFO	Send syncend OK: Account[administrator], Role[Testgame], linkid:0, PlayerIndex:1
+[2022-05-18 10:05:36]	INFO	Send data error, connection(0)
+
+[2022-05-18 10:05:36]	INFO	Send data error, connection(0)
+
+[2022-05-18 10:05:36]	INFO	Send data error, connection(0)
+
+[2022-05-18 10:05:36]	INFO	Send data error, connection(0)
+
+[2022-05-18 10:05:36]	INFO	Send data error, connection(0)
+
+[2022-05-18 10:05:36]	INFO	administrator(Testgame) linkid:0, disconnect: Normal
+[2022-05-18 10:05:36]	INFO	linkid:0 disconnect, free linkid count:1000
+[2022-05-18 10:43:00]	INFO	linkid:0 connect, free linkid count:999
+[2022-05-18 10:43:00]	INFO	Send syncend OK: Account[administrator], Role[Testgame], linkid:0, PlayerIndex:1
+[2022-05-18 11:04:09]	INFO	linkid:1 connect, free linkid count:998
+[2022-05-18 11:04:09]	INFO	Send syncend OK: Account[hungnv], Role[Solana], linkid:1, PlayerIndex:2
+[2022-05-18 11:32:34]	INFO	shutdown linkid:1, game status:2
+[2022-05-18 11:32:34]	INFO	Send data error, connection(1)
+
+[2022-05-18 11:32:34]	INFO	Send data error, connection(1)
+
+[2022-05-18 11:32:34]	INFO	Send data error, connection(1)
+
+[2022-05-18 11:32:34]	INFO	Send data error, connection(1)
+
+[2022-05-18 11:32:34]	INFO	Send data error, connection(1)
+
+[2022-05-18 11:32:34]	INFO	hungnv(Solana) linkid:1, disconnect: Normal
+[2022-05-18 11:32:34]	INFO	linkid:1 disconnect, free linkid count:999
+[2022-05-18 11:36:38]	INFO	linkid:1 connect, free linkid count:998
+[2022-05-18 11:36:39]	INFO	Send syncend OK: Account[hungnv], Role[Solana], linkid:1, PlayerIndex:2
+[2022-05-18 13:16:58]	INFO	shutdown linkid:0, game status:2
+[2022-05-18 13:16:58]	INFO	Send data error, connection(0)
+
+[2022-05-18 13:16:58]	INFO	Send data error, connection(0)
+
+[2022-05-18 13:16:58]	INFO	Send data error, connection(0)
+
+[2022-05-18 13:16:58]	INFO	Send data error, connection(0)
+
+[2022-05-18 13:16:58]	INFO	Send data error, connection(0)
+
+[2022-05-18 13:16:58]	INFO	Send data error, connection(0)
+
+[2022-05-18 13:16:58]	INFO	Send data error, connection(0)
+
+[2022-05-18 13:16:58]	INFO	Send data error, connection(0)
+
+[2022-05-18 13:16:58]	INFO	Send data error, connection(0)
+
+[2022-05-18 13:16:58]	INFO	administrator(Testgame) linkid:0, disconnect: Normal
+[2022-05-18 13:16:58]	INFO	linkid:0 disconnect, free linkid count:999
+[2022-05-18 13:17:53]	INFO	linkid:0 connect, free linkid count:998
+[2022-05-18 13:17:53]	INFO	Send syncend OK: Account[testgamea], Role[MaNhẫn05], linkid:0, PlayerIndex:1
+[2022-05-18 13:26:53]	INFO	shutdown linkid:1, game status:2
+[2022-05-18 13:26:53]	INFO	Send data error, connection(1)
+
+[2022-05-18 13:26:53]	INFO	Send data error, connection(1)
+
+[2022-05-18 13:26:53]	INFO	Send data error, connection(1)
+
+[2022-05-18 13:26:53]	INFO	Send data error, connection(1)
+
+[2022-05-18 13:26:53]	INFO	Send data error, connection(1)
+
+[2022-05-18 13:26:53]	INFO	Send data error, connection(1)
+
+[2022-05-18 13:26:53]	INFO	hungnv(Solana) linkid:1, disconnect: Normal
+[2022-05-18 13:26:53]	INFO	linkid:1 disconnect, free linkid count:999
+[2022-05-18 13:36:53]	INFO	linkid:1 connect, free linkid count:998

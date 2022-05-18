@@ -1,0 +1,54 @@
+nClassParamID	nLevelId	Desc	szItem	szTitle	szFun	nCount	nBind	nTimeOut	nBindCoin	nBindMoney	nMoney	info
+1	1	Danh hiệu: Người chơi trung thành 3 năm		6,79,1,1								szItem và szTitle được cách nhau bởi dấy phẩy, ví dụ: 18,1,1,1
+1	2	800000 Bạc khóa								800000		
+1	3	2 Vé đồng khóa trả lại (5000 điểm)	18,1,1309,3			2	1	43200				
+2	1	Danh hiệu: Người chơi trung thành 2 năm		6,80,1,1								
+2	2	500000 Bạc khóa								500000		
+2	3	1 Vé đồng khóa trả lại (5000 điểm)	18,1,1309,3			1	1	43200				
+2	3	1 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			1	1	43200				
+3	1	Danh hiệu: Người chơi trung thành 1 năm		6,81,1,1								
+3	2	300000 Bạc khóa								300000		
+3	3	3 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			3	1	43200				
+4	1	Danh hiệu: Tân Hiệp Sĩ Giang Hồ		6,82,1,1								
+4	2	150000 Bạc khóa								150000		
+4	3	1 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			1	1	43200				
+5	1	1 Ủy Thác Rời Mạng Hoàn (60 Giờ)	18,1,1322,5			1	1	43200				
+5	2	2 Bản đồ bí cảnh	18,1,251,1			2	1	43200				
+5	3	1 Vé đồng khóa trả lại (5000 điểm)	18,1,1309,3			1	1	43200				
+5	3	1 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			1	1	43200				
+5	4	2000 Đồng khóa							2000			
+6	1	1 Ủy Thác Rời Mạng Hoàn (32 giờ)	18,1,1322,4			1	1	43200				
+6	2	2 Bản đồ bí cảnh	18,1,251,1			2	1	43200				
+6	3	3 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			3	1	43200				
+6	4	2000 Đồng khóa							2000			
+7	1	2 Ủy Thác Rời Mạng Hoàn (16 giờ)	18,1,1322,3			1	1	43200				
+7	2	1 Bản đồ bí cảnh	18,1,251,1			1	1	43200				
+7	3	2 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			2	1	43200				
+7	4	1000 Đồng khóa							1000			
+20	1	Danh hiệu: Trưởng Lão		6,79,1,1								szItem và szTitle được cách nhau bởi dấy phẩy, ví dụ: 18,1,1,1
+20	2	1000000 Bạc khóa								1000000		
+20	3	2 Vé đồng khóa trả lại (5000 điểm)	18,1,1309,3			2	1	43200				
+21	1	Danh hiệu: Tiền Bối		6,80,1,1								
+21	2	800000 Bạc khóa								800000		
+21	3	1 Vé đồng khóa trả lại (5000 điểm)	18,1,1309,3			1	1	43200				
+21	3	3 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			3	1	43200				
+22	1	Danh hiệu: Hiệp Khách		6,81,1,1								
+22	2	500000 Bạc khóa								500000		
+22	3	1 Vé đồng khóa trả lại (5000 điểm)	18,1,1309,3			1	1	43200				
+23	1	Danh hiệu: Tân Hiệp Sĩ Giang Hồ		6,82,1,1								
+23	2	150000 Bạc khóa								150000		
+23	3	1 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			1	1	43200				
+24	1	8 Ủy Thác Rời Mạng Hoàn (60 giờ)	18,1,1322,5			8	1	43200				
+24	2	3 Bộ Bản Đồ Bí Cảnh (lớn)	18,1,494,1			3	1	43200				
+24	3	4 Vé đồng khóa trả lại (5000 điểm)	18,1,1309,3			4	1	43200				
+24	4	5000 Đồng khóa							5000			
+25	1	4 Ủy Thác Rời Mạng Hoàn (60 giờ)	18,1,1322,5			4	1	43200				
+25	2	2 Bộ Bản Đồ Bí Cảnh (lớn)	18,1,494,1			2	1	43200				
+25	3	3 Vé đồng khóa trả lại (5000 điểm)	18,1,1309,3			3	1	43200				
+25	3	1 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			1	1	43200				
+25	4	4000 Đồng khóa							4000			
+26	1	2 Ủy Thác Rời Mạng Hoàn (60 giờ)	18,1,1322,5			2	1	43200				
+26	2	1 Bộ Bản Đồ Bí Cảnh (lớn)	18,1,494,1			1	1	43200				
+26	3	2 Vé đồng khóa trả lại (5000 điểm)	18,1,1309,3			2	1	43200				
+26	3	2 Vé đồng khóa trả lại (1000 điểm)	18,1,1309,1			2	1	43200				
+26	4	3000 Đồng khóa							3000			

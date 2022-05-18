@@ -1,0 +1,40 @@
+ID vật phẩm	Miêu tả vật phẩm
+7	Huyền Tinh Cấp 5
+8	Huyền Tinh thường (cấp 7)
+20036	Huyền Tinh Cấp 9
+790	Huyền Tinh Cấp 11
+335	Đặc Hiệu Bạch Câu Hoàn
+136	Bông Tuyết
+1025	Sách Kinh Nghiệm Đồng Hành
+4	Thỏi vàng (đại)
+1021	Nguyệt Ảnh Thạch (Rương)
+1017	Tiền đồng may mắn (tiểu)
+1018	Tiền đồng may mắn (trung)
+1019	Tiền đồng may mắn (đại)
+11	Thùng rượu (50 bình)
+13	Vô Hạn Truyền Tống Phù (1 tháng)
+22	Càn Khôn Phù (10)
+25	Giấy phép bày bán
+27	Lệnh Bài Hình Bộ
+28	Từ Bi Tâm Kinh
+35	Lệnh bài Tẩy Tủy Đảo
+41	Tinh Khí Tán (10.000)
+44	Hoạt Khí Tán (10.000)
+775	Nguyệt Ảnh Thạch
+57	Lệnh Bài Nghĩa Quân
+58	Lệnh bài thi đấu môn phái (sơ)
+59	Lệnh Bài Bạch Hổ Đường (sơ)
+60	Lệnh Bài Gia Tộc (sơ)
+129	Bồ Đề Quả
+138	[Chân nguyên] Bảo Ngọc
+144	[Thánh Linh] Kim Quang Phát Hoạt
+148	Đồng hành Tẩy Tủy Kinh (đặc biệt)
+1011	Ốc biển truyền thanh (đại)
+1013	Thiên lý truyền âm (lớn)
+234	Giỏ Hoa Tình (1000)
+914	Tinh phách thần kỳ (cấp 4)
+915	Thư Đồng Hành
+906	Võ Lâm Mật Tịch (sơ)
+907	Võ Lâm Mật Tịch (trung)
+911	Bánh ít thập cẩm
+1012	Thương Hải Nguyệt Minh

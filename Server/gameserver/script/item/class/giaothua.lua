@@ -1,0 +1,55 @@
+local tbGiaoThua = Item:GetClass("hopquademgiaothua");
+function tbGiaoThua:OnUse()
+	if me.CountFreeBagCell() < 43 then
+		me.Msg( "Hành trang của bạn không đủ 43 ô trống.")
+		return 0;
+	end	
+local tbItemId1	= {18,1,25250,1,0,0};
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+me.AddItem(18,1,25252,1).Bind(1)
+--------
+me.AddItem(18,1,543,2).Bind(1)
+me.AddItem(18,1,543,2).Bind(1)
+me.AddItem(18,1,543,2).Bind(1)
+me.AddItem(18,1,543,2).Bind(1)
+me.AddItem(18,1,543,2).Bind(1)
+me.AddItem(18,1,543,2).Bind(1)
+me.AddItem(18,1,543,2).Bind(1)
+me.AddItem(18,1,543,2).Bind(1)
+me.AddItem(18,1,543,2).Bind(1)
+me.AddItem(18,1,543,2).Bind(1)
+--------
+me.AddItem(18,1,377,1).Bind(1)
+me.AddItem(18,1,377,1).Bind(1)
+me.AddItem(18,1,377,1).Bind(1)
+me.AddItem(18,1,377,1).Bind(1)
+me.AddItem(18,1,377,1).Bind(1)
+me.AddItem(18,1,377,1).Bind(1)
+me.AddItem(18,1,377,1).Bind(1)
+me.AddItem(18,1,377,1).Bind(1)
+me.AddItem(18,1,377,1).Bind(1)
+me.AddItem(18,1,377,1).Bind(1)
+
+me.AddItem(18,1,547,2).Bind(1)
+me.AddItem(18,1,547,2).Bind(1)
+me.AddJbCoin(10000)
+Task:DelItem(me, tbItemId1, 1);
+end

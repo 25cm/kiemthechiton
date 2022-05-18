@@ -1,0 +1,36 @@
+Name	Genre	Detail	Particular	Level	Five	Rate	Text
+Hoang Vu Giới	2	4	106	6	1	6000	Trang bị tím PVP_Hoang Vu Giới cho tất cả hệ phái hệ Kim
+Hỏa Phủ Giới	2	4	107	7	1	4000	Trang bị tím PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Kim
+Thương Khung Giới	2	4	108	8	1	2500	Trang bị tím PVP_Thương Khung Giới cho tất cả hệ phái hệ Kim
+Hoang Vu Giới	2	4	116	6	1	6000	Trang bị tím PVP_Hoang Vu Giới cho tất cả hệ phái hệ Mộc
+Hỏa Phủ Giới	2	4	117	7	1	4000	Trang bị tím PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Mộc
+Thương Khung Giới	2	4	118	8	1	2500	Trang bị tím PVP_Thương Khung Giới cho tất cả hệ phái hệ Mộc
+Hoang Vu Giới	2	4	126	6	1	6000	Trang bị tím PVP_Hoang Vu Giới cho tất cả hệ phái hệ Thủy
+Hỏa Phủ Giới	2	4	127	7	1	4000	Trang bị tím PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Thủy
+Thương Khung Giới	2	4	128	8	1	2500	Trang bị tím PVP_Thương Khung Giới cho tất cả hệ phái hệ Thủy
+Hoang Vu Giới	2	4	136	6	1	6000	Trang bị tím PVP_Hoang Vu Giới cho tất cả hệ phái hệ Hỏa
+Hỏa Phủ Giới	2	4	137	7	1	4000	Trang bị tím PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Hỏa
+Thương Khung Giới	2	4	138	8	1	2500	Trang bị tím PVP_Thương Khung Giới cho tất cả hệ phái hệ Hỏa
+Hoang Vu Giới	2	4	146	6	1	6000	Trang bị tím PVP_Hoang Vu Giới cho tất cả hệ phái hệ Thổ
+Hỏa Phủ Giới	2	4	147	7	1	4000	Trang bị tím PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Thổ
+Thương Khung Giới	2	4	148	8	1	2500	Trang bị tím PVP_Thương Khung Giới cho tất cả hệ phái hệ Thổ
+Hoang Vu Giới	2	4	206	6	1	800	Trang bị cam PVP_Hoang Vu Giới cho tất cả hệ phái hệ Kim
+Hỏa Phủ Giới	2	4	207	7	1	560	Trang bị cam PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Kim
+Thương Khung Giới	2	4	208	8	1	340	Trang bị cam PVP_Thương Khung Giới cho tất cả hệ phái hệ Kim
+Hoang Vu Giới	2	4	216	6	1	800	Trang bị cam PVP_Hoang Vu Giới cho tất cả hệ phái hệ Mộc
+Hỏa Phủ Giới	2	4	217	7	1	560	Trang bị cam PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Mộc
+Thương Khung Giới	2	4	218	8	1	340	Trang bị cam PVP_Thương Khung Giới cho tất cả hệ phái hệ Mộc
+Hoang Vu Giới	2	4	226	6	1	800	Trang bị cam PVP_Hoang Vu Giới cho tất cả hệ phái hệ Thủy
+Hỏa Phủ Giới	2	4	227	7	1	560	Trang bị cam PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Thủy
+Thương Khung Giới	2	4	228	8	1	340	Trang bị cam PVP_Thương Khung Giới cho tất cả hệ phái hệ Thủy
+Hoang Vu Giới	2	4	236	6	1	800	Trang bị cam PVP_Hoang Vu Giới cho tất cả hệ phái hệ Hỏa
+Hỏa Phủ Giới	2	4	237	7	1	560	Trang bị cam PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Hỏa
+Thương Khung Giới	2	4	238	8	1	340	Trang bị cam PVP_Thương Khung Giới cho tất cả hệ phái hệ Hỏa
+Hoang Vu Giới	2	4	246	6	1	800	Trang bị cam PVP_Hoang Vu Giới cho tất cả hệ phái hệ Thổ
+Hỏa Phủ Giới	2	4	247	7	1	560	Trang bị cam PVP_Hỏa Phủ Giới cho tất cả hệ phái hệ Thổ
+Thương Khung Giới	2	4	248	8	1	340	Trang bị cam PVP_Thương Khung Giới cho tất cả hệ phái hệ Thổ
+Huyền Tinh cấp 4	18	1	1	4	1	670000	Huyền Tinh cấp 4
+Huyền Tinh cấp 5	18	1	1	5	1	216000	Huyền Tinh cấp 5
+Huyền Tinh cấp 6	18	1	1	6	1	36000	Huyền Tinh cấp 6
+Huyền Tinh cấp 7	18	1	1	7	1	6000	Huyền Tinh cấp 7
+Huyền Tinh cấp 8	18	1	1	8	1	1000	Huyền Tinh cấp 8

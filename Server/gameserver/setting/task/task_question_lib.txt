@@ -1,0 +1,60 @@
+Id	QuestionContent	Answer_A	Answer_B	Answer_C	Answer_D	CorrectIdx	QuestionPic
+1	Kiếm Hiệp Tình Duyên do bộ phận nào nghiên cứu và phát triển?	Liệt Hỏa	Thái Kình	Tây Sơn Cư	Á Đinh	3	\image\ui\ui1\tasksystem\award\award_money.spr
+2	Người có dấu chấm than trên đầu biểu thị?	Có nhiệm vụ có thể giao	Có nhiệm vụ có thể nhận	Là 1 biểu cảm	Hắn rất phẫn nộ	2	
+3	Nhấn phím nào để mở bản đồ nhỏ?	Phím Ctrl	Phím Altl	Phím Tab	Phím Enter	3	
+4	Hình này biểu thị?	Giao diện 'Túi'	Giao diện 'Kỹ năng'	Giao diện 'Nhiệm vụ'	Giao diện 'Nhân vật'	4	\image\ui\001b\main\btn_sidebar_player.spr
+5	Hình này biểu thị?	Giao diện 'Kỹ năng'	Giao diện 'Nhiệm vụ'	Giao diện 'Túi'	Giao diện 'Kỹ năng sống'	3	\image\ui\001b\main\btn_sidebar_itembox.spr
+6	Hình này biểu thị?	Giao diện 'Kỹ năng sống'	Giao diện 'Tổ đội'	Giao diện 'Bang hội gia tộc'	Giao diện 'Kỹ năng'	4	\image\ui\001b\main\btn_sidebar_skill.spr
+7	Hình này biểu thị?	Giao diện 'Hệ thống'	Giao diện 'Nhân vật'	Giao diện 'Kỹ năng sống'	Giao diện 'Quan hệ'	3	\image\ui\001b\main\btn_sidebar_lifeskill.spr
+8	Hình này biểu thị?	Giao diện 'Nhiệm vụ'	Giao diện 'Túi'	Giao diện 'Kỹ năng'	Giao diện 'Nhân vật'	1	\image\ui\001b\main\btn_sidebar_task.spr
+9	Hình này biểu thị?	Giao diện 'Bang hội gia tộc'	Giao diện 'Quan hệ'	Giao diện 'Tổ đội'	Giao diện 'Hệ thống'	2	\image\ui\001b\main\btn_sidebar_friend.spr
+10	Hình này biểu thị?	Giao diện 'Hệ thống'	Giao diện 'Kỹ năng sống'	Giao diện 'Tổ đội'	Giao diện 'Nhiệm vụ'	3	\image\ui\001b\main\btn_sidebar_team.spr
+11	Hình này biểu thị?	Giao diện 'Bang hội gia tộc'	Giao diện 'Túi'	Giao diện 'Kỹ năng'	Giao diện 'Tổ đội'	1	\image\ui\001b\main\btn_sidebar_tong.spr
+12	Hình này biểu thị?	Giao diện 'Quan hệ'	Giao diện 'Hệ thống'	Giao diện 'Nhiệm vụ'	Giao diện 'Nhân vật'	2	\image\ui\001b\main\btn_sidebar_system.spr
+13	1 con mèo đen đang dạo bước bên bờ sông, đột nhiên thấy 1 con mèo trắng đang bị chìm, bèn cứu nó lên. Sau khi được cứu lên, nó nói câu gì với mèo đen?	Mèo đen hay trắng, nếu biết bơi đều là mèo giỏi	Đừng tưởng rằng nhuộm màu rồi thì ta không nhận ra ngươi	Mèo làm sao biết bơi?	Meo meo	4	
+14	Tiệm ta có thể cung cấp gì cho nghĩa quân?	Có thể mua trang sức, sửa trang bị	Có thể mua dược phẩm, sửa trang bị	Có thể mua phòng cụ, sửa trang bị	Có thể mua vũ khí, sửa trang bị	3	
+15	Ta đẹp không?	Đẹp	Khá đẹp	Quá đẹp	Đẹp đến nổi không tả được	1	
+16	Tiệm ta có thể cung cấp gì cho nghĩa quân?	Có thể mua vũ khí, sửa trang bị	Có thể mua dược phẩm, sửa trang bị	Có thể mua phòng cụ, sửa trang bị	Có thể mua trang sức, sửa trang bị	4	
+17	Tinh lực là gì?	Tinh lực là máu huyết, chỉ mức tối đa của lượng máu	Nguyên khí của tinh lực, là chỉ mức tối đa của nội lực	Tinh lực dùng để chế tạo các loại đạo cụ trong kỹ năng sống	Tinh lực gia công các loại đạo cụ trong kỹ năng sống	3	
+18	Hoạt lực là gì?	Hoạt lực nghĩa là máu huyết, chỉ mức tối đa của lượng máu	Nguyên khí của hoạt lực, là chỉ mức tối đa của nội lực	Hoạt lực dùng để chế tạo các loại đạo cụ trong kỹ năng sống	Hoạt lực dùng để gia công các loại đạo cụ trong kỹ năng sống	4	
+19	Làm sao để tinh lực và hoạt lực hồi phục?	Thông qua làm nhiệm vụ sư môn, nhiệm vụ sư đồ, nhiệm vụ bang hội	Thông qua chiến trường Tống Kim, nhiệm vụ ngẫu nhiên, ủy thác rời mạng	Thông qua làm nhiệm vụ thế giới, nhiệm vụ chính tuyến	Thông qua làm nhiệm vụ ngẫu nhiên, nhiệm vụ chính tuyến, ủy thác rời mạng	3	
+20	Làm sao để tự động tìm đường?	Nhấn phím F4	Nhấn phím F	Nhấn phím F4 mở giao diện nhiệm vụ, nhấn nút cuối cùng của giao diện	Nhấn phím F4 mở giao diện nhiệm vụ, nhấn chữ gạch dưới màu vàng	4	
+21	Dùng thanh tắt nào dưới đây không chính xác?	Kéo biểu tượng đến thanh tắt, chọn phím 1~0	Kéo biểu tượng kỹ năng đến thanh tắt, chọn phím 1~0	Kéo biểu tượng trang bị đến thanh tắt, nhấp chuột phải trên thanh tắt	Chọn phím số trên biểu tượng, sau đó dùng phím này	4	
+22	Làm sao sử dụng đạo cụ trong túi?	Nhấn chuột trái trên hình đạo cụ	Nhấn chuột phải trên hình đạo cụ	Nói lớn với đạo cụ: "Dùng nhanh! Nếu không ta đánh mi!"	Nói lớn với đạo cụ: "Sử dụng"	2	
+23	Đáp án nào sửa trang bị sau đây không chính xác?	Tìm chủ tiệm rèn	Tìm chủ tiệm trang sức	Tìm chủ tiệm nào cũng được	Tìm Thu Di sửa	4	
+24	Đáp án về tổ đội nào sau đây không chính xác?	Mở giao diện tổ đội, gia nhập đội nào đó	Dùng CTRL + phím phải nhấp chọn ai đó, rồi chọn tổ đội trong danh sách	Chọn trực tiếp ai đó, sau đó nhấn nút giao diện tổ đội	Dùng CTRL + phím phải nhấp chọn ai đó, rồi chọn tổ đội trong danh sách	3	
+25	Làm sao chọn điểm trị thương?	Rời mạng ở thôn trang, thành nào thì điểm trị thương ở đó.	Mua dược phẩm ở thôn trang, thành nào thì điểm trị thương ở đó	Cất rương ở thôn trang, thành nào, thì vị trí lắp đặt ở đó	Không có điểm trị thương, hệ thống sẽ đưa đi ngẫu nhiên	3	
+26	Đáp àn nào về trò chuyện dưới đây không chính xác?	Nhấn Enter, gõ vào khung trò chuyện, sau đó nhấn Enter để gửi	Nhấp chuột vào khung trò chuyện, gõ tin, sau đó nhấn Enter để gửi	Nhấn CTRL + phím trái chọn ai đó, rồi bắt đầu trò chuyện	Chọn ai đó, khung trò chuyện tự động mở	4	
+27	Được rồi, ta muốn mở, vị khách quan này mua đơn hay là mua đôi?	Mua đôi	Mua đơn	Xem trước	Bỏ qua	1	
+28	Được rồi! Thêm 1 cái nữa, ngài muốn mua đôi hay là mua đơn?	Mua đôi	Mua đơn	Xem trước	Bỏ qua	2	
+29	Mại dô, mại dô, mua đôi mua đơn, mua nhiều thắng nhiều đây!	Mua đôi	Mua đơn	Xem trước	Bỏ qua	1	
+30	Cơ quan này chuyển động theo hướng nào?	Hướng Đông	Hướng Nam	Hướng Tây	Hướng Bắc	4	
+31	Cơ quan này chuyển động theo hướng nào?	Hướng Đông	Hướng Nam	Hướng Tây	Hướng Bắc	3	
+32	Cơ quan này chuyển động theo hướng nào?	Hướng Đông	Hướng Nam	Hướng Tây	Hướng Bắc	2	
+33	Cơ quan này chuyển động theo hướng nào?	Hướng Đông	Hướng Nam	Hướng Tây	Hướng Bắc	1	
+34	Ta nên đến đâu tìm đồng hành?	Tân Thủ Thôn	Thành	<color=yellow>Khu luyện công và Tiêu Dao Cốc<color>	Chiến Trường Tống Kim	3	
+35	Đã mở những khu luyện công nào?	Đã mở hết	<color=yellow>Cấp 15-Cấp 55<color>	Cấp 100 trở lên	Cấp 55-90	2	
+36	Cần mang những đạo cụ nào để thuyết phục đồng hành?	<color=yellow>"Thiệp" không cùng cấp<color>	Trực tiếp bắt về	Vàng, bạc	Lễ vật	1	
+37	Bản đồ cấp 15-55 cần thiệp gì?	<color=yellow>Thiệp lụa<color>	Thiệp bạc	Thiệp ngọc	Thiệp đỏ	1	
+38	Bản đồ Tiêu Dao Cốc cần thiệp gì?	Thiệp lụa	<color=yellow>Thiệp bạc<color>	Thiệp ngọc	Thiệp đỏ	2	
+39	Đã có thiệp làm sao thuyết phục đồng hành?	Đợi họ tự theo qua đây	Đánh ngất rồi kéo về	<color=yellow>Sau khi chọn dùng thiệp và đợi<color>	Nhập "Thuyết phục"	3	
+40	Thuyết phục thất bại, có bị mất thiệp không?	Tất nhiên là không	<color=yellow>Có<color>	Mất một tỉ lệ nhất định.	Tùy tình hình	2	
+41	Làm sao tìm được giao diện đồng hành?	Hô to "Đồng hành mau ra đây!"	<color=yellow>Nhấp vào nút đồng hành gần biểu tượng nhân vật<color>	Nhấp lung tung thế nào cũng trúng	Nhấp đồng hành	2	
+42	Làm sao gọi đồng hành?	Huýt sáo	Nhờ NPC giúp đỡ	<color=yellow>Nhấp vào [Giúp đỡ] trong giao diện đồng hành<color>	Lúc cần sẽ tự động xuất hiện	3	
+43	Làm sao ẩn đồng hành?	Hô to "Về đi!"	<color=yellow>Nhấp [Đứng nhìn] trong giao diện đồng hành<color>	Đuổi nó đi	Về thành sẽ tự động biến mất	2	
+44	Độ thân mật ít hơn bao nhiêu không thể gọi đồng hành?	100	50	<color=yellow>40<color>	20	3	
+45	Làm sao nhận được độ thân mật đồng hành?	Theo thời gian từ từ sẽ nhận được	<color=yellow>Nhận được khi dùng Nguyệt Ảnh Thạch đổi đạo cụ<color>	Làm cho nó vui bằng những lời ngon ngọt	Đánh quái	2	
+46	Làm sao nhận được kinh nghiệm đồng hành?	Chỉ cần tùy tiện đánh quái	<color=yellow>Đánh bại Tinh Anh và Thủ Lĩnh<color>	Làm nhiệm vụ	Đánh quái thường	2	
+47	Đồng hành có thể tự thăng cấp không?	Có	Một tỉ lệ nào đó	<color=yellow>Không, phải thăng cấp thủ công<color>	Đồng hành không thể thăng cấp	3	
+48	Làm sao thăng cấp kỹ năng đồng hành?	Dùng nhiều thì sẽ thăng cấp thôi	Không thể thăng cấp	<color=yellow>Đồng hành cứ lên 5 cấp sẽ có 1 lần tăng điểm<color>	Mỗi cấp đều có thể tăng	3	
+49	Có phải mỗi lần thăng cấp kỹ năng đồng hành đều thành công 100% không?	Phải	50%	<color=yellow>Dựa vào lĩnh ngộ của đồng hành<color>	20%	3	
+50	Có phải mỗi lần thăng cấp kỹ năng đồng hành thì tất cả kỹ năng đều thăng cấp không?	Phải	Một nửa	<color=yellow>1 kỹ năng ngẫu nhiên<color>	Theo thứ tự	3	
+51	Lĩnh ngộ của đồng hành có thể tăng không?	<color=yellow>Tăng qua việc tặng quà<color>	Không thể tăng	Tự động tăng khi thăng cấp	Sẽ tăng khi đánh quái	1	
+52	Các bước hôn lễ nào sau đây là đúng?	Chọn địa điểm thời gian, cầu hôn, cử hành hôn lễ	Cầu hôn, chọn địa điểm thời gian, cử hành hôn lễ.	Chọn địa điểm thời gian, cử hành hôn lễ, cầu hôn.	Người chơi có thể tự quyết định các bước hôn lễ	2	
+53	Trong lúc làm lễ, Dâu Phụ và Rể Phụ làm gì?	Giúp uống rượu	Bắn pháo hoa, làm trò	Mời và đuổi khách, bắt đầu các bước của hôn lễ	Ăn uống	3	
+54	Trong lúc làm lễ nếu có khách gây rối thì làm sao?	Tân nhân hoặc Dâu Phụ, Rể Phụ dùng Trục Khách Lệnh đuổi hắn ra ngoài	Tán gẫu mắng hắn	Không thể ngăn cản người gây rối	Tự nhận xui xẻo	1	
+55	Nô BộcTỳ Nữ và Hoa Đồng có thể đặt ở đâu?	Chiến Trường Tống Kim	Hải Lăng Vương phó bản	Bản đồ phi chiến đấu bất kì	Lăng Tần Thủy Hoàng	3	
+56	Hôn lễ nào có thể nhận thú cưỡi Bạch Hổ Bạch Lộc?	Hiệp Sĩ	Quý Tộc	Vương Hầu	Hoàng Gia	4	
+57							
+58							
+59							

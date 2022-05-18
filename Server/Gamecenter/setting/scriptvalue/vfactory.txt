@@ -1,0 +1,2 @@
+base	class	description
+localehelp	vnlocalehelp	Giúp đỡ xử lý số thư bản địa hóa

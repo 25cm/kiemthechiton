@@ -1,0 +1,666 @@
+ClassParamID	Desc	Probability	Name	BindMoney	Money	Coin	Genre	DetailType	ParticularType	Level	Series	EnhTimes	Amount	Exp	BaseExp	MKP	GTP	Bind	TimeLimit	Announce	FriendMsg
+物品ExtParam1	随机宝箱	概率	开出东西	 bạc khóa	银两		大类	子类	详细类	等级	五行	强化	数量	kinh nghiệm	基准kinh nghiệm	精力	活力	khóa	有效期（格式同ItemTimeOut格式）	世界公告	好友公告
+1	Bảo rương thi đấu môn phái	9000	Tiền đồng may mắn (trung)				18	1	1194	2	0	0									
+1	Bảo rương thi đấu môn phái	1000	Tiền đồng may mắn (đại)				18	1	81	3	0	0									
+1	Bảo rương thi đấu môn phái	2000	Tần Lăng-Hòa Thị Bích				18	1	377	1	0	0									
+1	Bảo rương thi đấu môn phái	3000	Tinh Thạch Đoạn Hải				18	1	1331	3	0	0									
+2	Bảo rương gia tộc	1000	Gia tộc lệnh bài ( sơ cấp )				18	1	110	1	0	0									
+2	Bảo rương gia tộc	500	Gia tộc lệnh bài ( trung cấp )				18	1	110	2	0	0									
+2	Bảo rương gia tộc	300	Gia tộc lệnh bài ( cao cấp )				18	1	110	3	0	0									
+2	Bảo rương gia tộc	5000	Huyền tinh cấp 5				18	1	1	5	0	0						1			
+2	Bảo rương gia tộc	3090	Huyền tinh cấp 6				18	1	1	6	0	0						1			
+2	Bảo rương gia tộc	100	Huyền tinh cấp 7				18	1	1	7	0	0						1			
+2	Bảo rương gia tộc	10	Huyền tinh cấp 8				18	1	1	8	0	0						1			
+3	Bảo rương Hắc Thiết gia tộc	7000	Huyền tinh cấp 6				18	1	1	6	0	0									
+3	Bảo rương Hắc Thiết gia tộc	2000	Bạc thường 100000		100000																
+3	Bảo rương Hắc Thiết gia tộc	1000	Huyền tinh cấp 7				18	1	1	7	0	0									
+4	Bảo rương Thanh Đồng gia tộc	8400	Huyền tinh cấp 7				18	1	1	7	0	0									
+4	Bảo rương Thanh Đồng gia tộc	1500	Bạc thường 300000		300000																
+4	Bảo rương Thanh Đồng gia tộc	100	Huyền tinh cấp 8				18	1	1	8	0	0									
+5	Bảo rương Bạch Ngân gia tộc	7700	Huyền tinh cấp 7				18	1	1	7	0	0									
+5	Bảo rương Bạch Ngân gia tộc	1500	Bạc thường 600000		600000																
+5	Bảo rương Bạch Ngân gia tộc	800	Huyền tinh cấp 8				18	1	1	8	0	0									
+6	Bảo rương Hoàng Kim gia tộc	8700	Huyền tinh cấp 8				18	1	1	8	0	0									
+6	Bảo rương Hoàng Kim gia tộc	1000	Bạc thường 1000000		1000000																
+6	Bảo rương Hoàng Kim gia tộc	300	Huyền tinh cấp 9				18	1	1	9	0	0									
+7	Túi quân hưởng	200	Ngưu lan trại yêu bài				20	1	485	1	0	0									
+7	Túi quân hưởng	800	Chìa khóa mê cung				20	1	486	1	0	0									
+7	Túi quân hưởng	100	Cốt ngọc đồ đằng				20	1	487	1	0	0									
+7	Túi quân hưởng	500	Thịt bò				20	1	488	1	0	0									
+7	Túi quân hưởng	400	Khảo am thuần				20	1	488	2	0	0									
+7	Túi quân hưởng	4500	10000 kinh nghiệm											10000							
+7	Túi quân hưởng	1500	300  bạc khóa	300																	
+7	Túi quân hưởng	2000	8 Hồn thạch khóa				18	1	205	1	0	0	8					1			
+8	Kim sơn nhị thập chu niên khánh điển bao	3879	Huyền tinh cấp 4				18	1	1	4	0	0						1			
+8	Kim sơn nhị thập chu niên khánh điển bao	1000	Huyền tinh cấp 5				18	1	1	5	0	0						1			
+8	Kim sơn nhị thập chu niên khánh điển bao	100	Huyền tinh cấp 6				18	1	1	6	0	0						1		1	1
+8	Kim sơn nhị thập chu niên khánh điển bao	10	Huyền tinh cấp 7				18	1	1	7	0	0						1		1	1
+8	Kim sơn nhị thập chu niên khánh điển bao	1	Huyền tinh cấp 8				18	1	1	8	0	0						1		1	1
+8	Kim sơn nhị thập chu niên khánh điển bao	3000	Nhị thập tái bách luyện đan				18	1	257	1	0	0							43200		
+8	Kim sơn nhị thập chu niên khánh điển bao	10	Bí cảnh địa đồ				18	1	251	1	0	0						1		1	1
+8	Kim sơn nhị thập chu niên khánh điển bao	400	Tiên linh nguyên mộc				22	1	35	1	0	0									
+8	Kim sơn nhị thập chu niên khánh điển bao	400	Tiên linh quả				22	1	43	1	0	0									
+8	Kim sơn nhị thập chu niên khánh điển bao	400	Da linh thú				22	1	37	1	0	0									
+8	Kim sơn nhị thập chu niên khánh điển bao	400	Tử tinh nguyên thạch				22	1	41	1	0	0									
+8	Kim sơn nhị thập chu niên khánh điển bao	400	Linh thú huyết				22	1	39	1	0	0									
+8	Kim sơn nhị thập chu niên khánh điển bao		 Đồng khóa			500												1			
+9	Liên đấu lễ bao	4790	Huyền tinh cấp 4				18	1	1	4	0	0						1			
+9	Liên đấu lễ bao	3600	Huyền tinh cấp 5				18	1	1	5	0	0						1			
+9	Liên đấu lễ bao	1500	Huyền tinh cấp 6				18	1	1	6	0	0						1			
+9	Liên đấu lễ bao	100	Huyền tinh cấp 7				18	1	1	7	0	0						1		1	1
+9	Liên đấu lễ bao	10	Huyền tinh cấp 8				18	1	1	8	0	0						1		1	1
+9	Liên đấu lễ bao		Túi phúc hoàng kim				18	1	80	1	0	0						1			
+9	Liên đấu lễ bao		Túi phúc hoàng kim				18	1	80	1	0	0						1			
+11	Bảo rương gia tộc	1200	Bạc thường 50000	50000																	
+11	Bảo rương gia tộc	500	Bạc thường 100000	100000																	
+11	Bảo rương gia tộc	200	Bạc thường 150000	150000																	
+11	Bảo rương gia tộc	7469	Huyền tinh cấp 6				18	1	114	6	0	0									
+11	Bảo rương gia tộc	600	Huyền tinh cấp 7				18	1	114	7	0	0									
+11	Bảo rương gia tộc	30	Huyền tinh cấp 8				18	1	114	8	0	0									
+11	Bảo rương gia tộc	1	Huyền tinh cấp 9				18	1	114	9	0	0									
+12	Bảo rương niên thú	517	Huyền tinh cấp 4（khóa）				18	1	114	4	0										
+12	Bảo rương niên thú	200	Huyền tinh cấp 5（khóa）				18	1	114	5	0										
+12	Bảo rương niên thú	30	Huyền tinh cấp 6（khóa）				18	1	114	6	0										
+12	Bảo rương niên thú	3	Huyền tinh cấp 7（khóa）				18	1	114	7	0										1
+12	Bảo rương niên thú	150	10000  bạc khóa	10000																	
+12	Bảo rương niên thú	60	20000  bạc khóa	20000																	
+12	Bảo rương niên thú	20	50000  bạc khóa	50000																	
+12	Bảo rương niên thú	5	100000  bạc khóa	100000																	
+12	Bảo rương niên thú	5	Dẫn hồn vụ(khóa)				18	1	277	1	0							1			1
+12	Bảo rương niên thú	10	Hồng phấn liên hoa(không khóa)				18	1	280	1	0										
+13	Bảo rương Tuyết trượng	467	Huyền tinh cấp 5（khóa）				18	1	114	5	0										
+13	Bảo rương Tuyết trượng	150	Huyền tinh cấp 6（khóa）				18	1	114	6	0										
+13	Bảo rương Tuyết trượng	30	Huyền tinh cấp 7（khóa）				18	1	114	7	0										1
+13	Bảo rương Tuyết trượng	10	Huyền tinh cấp 8（khóa）				18	1	114	8	0									1	1
+13	Bảo rương Tuyết trượng	200	20000 bạc khóa	20000																	
+13	Bảo rương Tuyết trượng	100	50000 bạc khóa	50000																	
+13	Bảo rương Tuyết trượng	30	100000 bạc khóa	100000																	
+13	Bảo rương Tuyết trượng	10	200000 bạc khóa	200000																	1
+13	Bảo rương Tuyết trượng	3	500000 bạc khóa	500000																1	1
+14	Hồng bao	840	499 Đồng khóa			499												1			
+14	Hồng bao	119	999 Đồng khóa			999															
+14	Hồng bao	30	1999 Đồng khóa			1999															1
+14	Hồng bao	10	2999 Đồng khóa			2999															1
+14	Hồng bao	1	4999 Đồng khóa			4999														1	1
+14	Hồng bao		Hi vọng chi chủng（khóa）*1				18	1	552	1	0										
+14	Hồng bao		Câu đối xuân[chưa giám định]（khóa）*1				18	1	555	1	0										
+14	Hồng bao		Tranh tết[chưa giám định]（khóa）*1				18	1	557	1	0										
+14	Hồng bao		30phút tiêu chuẩn cơ bản kinh nghiệm												30						
+15	Túi quân hưởng	800	Thịt bò				20	1	488	1	0	0									
+15	Túi quân hưởng	500	Khảo am thuần				20	1	488	2	0	0									
+15	Túi quân hưởng	4800	kinh nghiệm12000											12000							
+15	Túi quân hưởng	1900	tiền vàng 400		400																
+15	Túi quân hưởng	2000	9 Hồn thạch khóa				18	1	205	1	0	0	9					1			
+16	Đàn mộc hạp	6000	Huyền tinh cấp 6				18	1	114	6	0										
+16	Đàn mộc hạp	700	Huyền tinh cấp 7				18	1	114	7	0										1
+16	Đàn mộc hạp	100	Huyền tinh cấp 8				18	1	114	8	0									1	1
+16	Đàn mộc hạp	3200	Bách hợp hoa				18	1	293	1	0							1			1
+17	Mặc lục mộc hạp	2500	kinh nghiệm											40000000							
+17	Mặc lục mộc hạp	1600	50000 bạc khóa	50000																	
+17	Mặc lục mộc hạp	1200	150000 bạc khóa	150000																	
+17	Mặc lục mộc hạp	1200	Ma đao thạch rương cấp 7				18	1	72	7	0								43200		
+17	Mặc lục mộc hạp	1200	Hộ giáp phiến rương cấp 7				18	1	73	7	0								43200		
+17	Mặc lục mộc hạp	1200	Ngũ hành thạch rương cấp 7				18	1	74	7	0								43200		
+17	Mặc lục mộc hạp	900	6 Huyền (khóa kỳ hạn 1 tháng)				18	1	114	6	0							1	43200		
+17	Mặc lục mộc hạp	150	7 Huyền (khóa kỳ hạn 1 tháng)				18	1	114	7	0							1	43200	1	1
+17	Mặc lục mộc hạp	0	Vinh dự huy chương				18	1	920	1	0							1		0	
+17	Mặc lục mộc hạp	50	8 Huyền (khóa kỳ hạn 1 tháng)				18	1	114	8	0							1	43200	1	1
+18	Cổ cựu hạp tử	7190	6 Huyền (khóa kỳ hạn 1 tháng)				18	1	114	6	0								43200		
+18	Cổ cựu hạp tử	2500	7 Huyền (khóa kỳ hạn 1 tháng)				18	1	114	7	0								43200		1
+18	Cổ cựu hạp tử	300	8 Huyền (khóa kỳ hạn 1 tháng)				18	1	114	8	0								43200	1	1
+18	Cổ cựu hạp tử	10	9 Huyền (khóa kỳ hạn 1 tháng)				18	1	114	9									43200	1	1
+19	Rương bạch ngân Hải Lăng Vương Mộ	3000	Ruương Mảnh Ghép				18	1	3046	1								1			
+19	Rương bạch ngân Hải Lăng Vương Mộ	2000	Rương Vật Phẩm				18	1	3019	1								1			
+19	Rương bạch ngân Hải Lăng Vương Mộ	200	Kim Nguyên Bảo (Tiểu)				18	1	1194	1											
+20	Rương Thanh Đồng Hải Lăng Vương Mộ	3000	Ruương Mảnh Ghép				18	1	3046	1								1			
+20	Rương Thanh Đồng Hải Lăng Vương Mộ	2000	Rương Vật Phẩm				18	1	3019	1								1			
+20	Rương Thanh Đồng Hải Lăng Vương Mộ	200	Kim Nguyên Bảo (Tiểu)				18	1	1194	1											
+21	Rương Hắc Thiết Hải Lăng Vương Mộ	3000	Ruương Mảnh Ghép				18	1	3046	1								1			
+21	Rương Hắc Thiết Hải Lăng Vương Mộ	2000	Rương Vật Phẩm				18	1	3019	1								1			
+21	Rương Hắc Thiết Hải Lăng Vương Mộ	200	Kim Nguyên Bảo (Tiểu)				18	1	1194	1											
+22	Rương Hoàng Kim Hải Lăng Vương Mộ	3000	Tinh Thạch Ảnh Nguyệt				18	1	1331	2											
+22	Rương Hoàng Kim Hải Lăng Vương Mộ	50	Tần Lăng-Hòa Thị Bích				18	1	377	1								1			1
+22	Rương Hoàng Kim Hải Lăng Vương Mộ	3000	Kim Nguyên Bảo (Tiểu)				18	1	1194	1											
+23	Túi quân hưởng	800	Thịt bò				20	1	488	1											
+23	Túi quân hưởng	500	Khảo am thuần				20	1	488	2											
+23	Túi quân hưởng	4500	kinh nghiệm13500											13500							
+23	Túi quân hưởng	1900	tiền vàng 500		500																
+23	Túi quân hưởng	2000	10 Hồn thạch khóa				18	1	205	1	0	0	10					1			
+24	Hoa thủy tiên phong kim rương tử	3450	Huyền tinh cấp 6（khóa）				18	1	114	6	0								43200		
+24	Hoa thủy tiên phong kim rương tử	4000	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+24	Hoa thủy tiên phong kim rương tử	500	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+24	Hoa thủy tiên phong kim rương tử	50	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+24	Hoa thủy tiên phong kim rương tử	700	Hồ lô hương khê tống				18	1	326	4	0										
+24	Hoa thủy tiên phong kim rương tử	1260	Tiên hương nhục tống				18	1	326	1	0										
+24	Hoa thủy tiên phong kim rương tử	20	Bát bảo tống				18	1	326	2	0									1	1
+24	Hoa thủy tiên phong kim rương tử	20	Thập cẩm bách quả tống				18	1	326	3	0									1	1
+25	Hoa thủy tiên phong ngân rương tử	6280	Huyền tinh cấp 6（khóa）				18	1	114	6	0								43200		
+25	Hoa thủy tiên phong ngân rương tử	1500	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+25	Hoa thủy tiên phong ngân rương tử	200	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+25	Hoa thủy tiên phong ngân rương tử	20	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+25	Hoa thủy tiên phong ngân rương tử	700	Hồ lô hương khê tống				18	1	326	4	0										
+25	Hoa thủy tiên phong ngân rương tử	1260	Tiên hương nhục tống				18	1	326	1	0										
+25	Hoa thủy tiên phong ngân rương tử	20	Bát bảo tống				18	1	326	2	0									1	1
+25	Hoa thủy tiên phong ngân rương tử	20	Thập cẩm bách quả tống				18	1	326	3	0									1	1
+26	Hoa thủy tiên phong đồng rương tử	4090	Huyền tinh cấp 6（khóa）				18	1	114	6	0								43200		
+26	Hoa thủy tiên phong đồng rương tử	3300	Huyền tinh cấp 6（khóa）				18	1	114	6	0								43200		
+26	Hoa thủy tiên phong đồng rương tử	1000	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+26	Hoa thủy tiên phong đồng rương tử	100	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+26	Hoa thủy tiên phong đồng rương tử	10	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+26	Hoa thủy tiên phong đồng rương tử	525	Hồ lô hương khê tống				18	1	326	4	0										
+26	Hoa thủy tiên phong đồng rương tử	945	Tiên hương nhục tống				18	1	326	1	0										
+26	Hoa thủy tiên phong đồng rương tử	15	Bát bảo tống				18	1	326	2	0									1	1
+26	Hoa thủy tiên phong đồng rương tử	15	Thập cẩm bách quả tống				18	1	326	3	0									1	1
+27	Thuyền rồng nguyên hình	3100	Thuyền rồng: phá lãng				18	1	327	1	0										
+27	Thuyền rồng nguyên hình	3100	Thuyền rồng：Thuận gió				18	1	327	2	0										
+27	Thuyền rồng nguyên hình	3100	Thuyền rồng：ly thủy				18	1	327	3	0										
+27	Thuyền rồng nguyên hình	700	Thuyền rồng：Phách chu				18	1	327	4	0										
+28	Hồng nhan đích quỹ tặng	8350	Huyền tinh cấp 8				18	1	114	8	0								43200		1
+28	Hồng nhan đích quỹ tặng	1500	Huyền tinh cấp 9				18	1	114	9	0								43200	1	1
+28	Hồng nhan đích quỹ tặng	150	Huyền tinh cấp 10				18	1	114	10	0								43200	1	1
+29	Bảo rương may mắn	1200	Huyền tinh cấp 6				18	1	114	6	0								43200		
+29	Bảo rương may mắn	100	Huyền tinh cấp 7				18	1	114	7	0								43200		1
+29	Bảo rương may mắn	10	Huyền tinh cấp 8				18	1	114	8	0								43200	1	1
+29	Bảo rương may mắn	1200	100000 bạc khóa	100000																	
+29	Bảo rương may mắn	300	200000 bạc khóa	200000																	
+29	Bảo rương may mắn	30	500000 bạc khóa	500000																	1
+29	Bảo rương may mắn	10	1000000 bạc khóa	1000000																1	1
+29	Bảo rương may mắn	5040	300 đồng khóa			300												1			
+29	Bảo rương may mắn	1500	500 đồng khóa			500												1			
+29	Bảo rương may mắn	500	1000 đồng khóa			1000												1			
+29	Bảo rương may mắn	100	2000 đồng khóa			2000												1			1
+29	Bảo rương may mắn	10	5000 đồng khóa			5000												1		1	1
+30	Rương thịnh hạ Hoàng Kim	100	Huyền tinh cấp 10（khóa）				18	1	114	10	0								43200	1	1
+30	Rương thịnh hạ Hoàng Kim	1000	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+30	Rương thịnh hạ Hoàng Kim	7400	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+30	Rương thịnh hạ Hoàng Kim	1500	Quả Thịnh Hạ				18	1	380	1	0							1	43200	1	1
+31	Rương thịnh hạ Bạch Ngân	500	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+31	Rương thịnh hạ Bạch Ngân	2500	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+31	Rương thịnh hạ Bạch Ngân	7000	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		1
+32	Bảo rương huyền tinh	9600	Huyền tinh cấp 8				18	1	114	8	0								43200		1
+32	Bảo rương huyền tinh	350	Huyền tinh cấp 9				18	1	114	9	0								43200	1	1
+32	Bảo rương huyền tinh	50	Huyền tinh cấp 10				18	1	114	10	0								43200	1	1
+33	Đại mã tam bảo rương		Lan hoa rương				18	1	390	1								1	10080		
+33	Đại mã tam bảo rương		Hồ điệp rương				18	1	390	2								1	10080		
+33	Đại mã tam bảo rương		Cự viên rương				18	1	390	3								1	10080		
+34	Bảo rương cổ mộc		Tử đàn rương				18	1	391	1								1	10080		
+34	Bảo rương cổ mộc		Hồng mộc rương				18	1	391	2								1	10080		
+34	Bảo rương cổ mộc		Hương chương rương				18	1	391	3								1	10080		
+35	Lan hoa rương	800	[Mặt nạ] Tĩnh ca ca				13	1	29	1											
+35	Lan hoa rương	800	[Mặt nạ]Dong muội muội				13	1	30	1											
+35	Lan hoa rương	2500	Tiên hương nhục tống				18	1	326	1									43200		
+35	Lan hoa rương	5900	Cửu chuyển tục mệnh hoàn				18	1	24	1			3					1	43200		
+36	Hồ điệp rương	3700	Tinh khí tán（500）				18	1	89	1			3					1	43200		
+36	Hồ điệp rương	1300	Tinh khí tán（1000）				18	1	89	2			3					1	43200		
+36	Hồ điệp rương	3700	Hoạt khí tán（500）				18	1	90	1			3					1	43200		
+36	Hồ điệp rương	1300	Hoạt khí tán（1000）				18	1	90	2			3					1	43200		
+37	Cự viên rương	400	Phiếu ưu đãi：3% mua 1 Huyền tinh cấp 7				18	1	394	1								1	43200		
+37	Cự viên rương	80	Phiếu ưu đãi：3% mua 1 Huyền tinh cấp 9				18	1	395	1								1	43200		
+37	Cự viên rương	1900	Phiếu ưu đãi：3% mua 10 Bạch câu hoàn				18	1	392	1								1	43200		
+37	Cự viên rương	5900	Cường hiệu Bạch câu hoàn				18	1	71	3								1	43200		
+37	Cự viên rương	1720	Giang hồ uy vọng lệnh bài				18	1	236	1								1	43200		
+38	Tử đàn rương	3690	Tinh khí tán（1000）				18	1	89	2			3					1	43200		
+38	Tử đàn rương	1300	Tinh khí tán（1500）				18	1	89	3			3					1	43200		
+38	Tử đàn rương	3690	Hoạt khí tán（1000）				18	1	90	2			3					1	43200		
+38	Tử đàn rương	1300	Hoạt khí tán（1500）				18	1	90	3			3					1	43200		
+38	Tử đàn rương	20	Túi phúc hoàng kim·rương（50）				18	1	303	1								1	43200		
+39	Hồng mộc rương	170	Đặc hiệu Bạch câu hoàn				18	1	71	4								1	43200		
+39	Hồng mộc rương	1200	Thiên sơn ngọc lộ				19	4	1	5								1	43200		
+39	Hồng mộc rương	2140	Càn khôn phù				18	1	85	1								1	43200		
+39	Hồng mộc rương	4340	Huyền tinh cấp 5（khóa）				18	1	1	5								1	43200		
+39	Hồng mộc rương	1130	Huyền tinh cấp 6（khóa）				18	1	1	6								1	43200		
+39	Hồng mộc rương	40	Huyền tinh cấp 7（khóa）				18	1	1	7								1	43200		
+39	Hồng mộc rương	880	Hồn thạch rương 100				18	1	244	1								1	43200		
+39	Hồng mộc rương	100	Vạn hoa cốc địa đồ				18	1	245	1								1	43200		
+40	Hương chương rương	2270	Ma đao thạch (cấp 5)				18	1	66	5			5					1	43200		
+40	Hương chương rương	2410	Hộ giáp phiến (cấp 5)				18	1	67	5			5					1	43200		
+40	Hương chương rương	2570	Ngũ hành thạch (cấp 5)				18	1	68	5			5					1	43200		
+40	Hương chương rương	770	Ma đao thạch (cấp 8)				18	1	66	8			2					1	43200		
+40	Hương chương rương	910	Hộ giáp phiến (cấp 8)				18	1	67	8			2					1	43200		
+40	Hương chương rương	1060	Ngũ hành thạch(cấp 8)				18	1	68	8			2					1	43200		
+40	Hương chương rương	10	Phiếu ưu đãi：3% mua 1 Huyền tinh cấp 9				18	1	395	1								1	43200		
+41	Tiêu dao bảo rương ( bạc )	8400	Huyền tinh cấp 7（khóa）				18	1	114	7	0							1	43200		
+41	Tiêu dao bảo rương ( bạc )	1500	Huyền tinh cấp 8（khóa）				18	1	114	8	0							1	43200		1
+41	Tiêu dao bảo rương ( bạc )	100	Huyền tinh cấp 9（khóa）				18	1	114	9	0							1	43200	1	1
+42	Tiêu dao bảo rương ( vàng )	8400	Huyền tinh cấp 8（khóa）				18	1	114	8	0							1	43200		1
+42	Tiêu dao bảo rương ( vàng )	1500	Huyền tinh cấp 9（khóa）				18	1	114	9	0							1	43200	1	1
+42	Tiêu dao bảo rương ( vàng )	100	Huyền tinh cấp 10（khóa）				18	1	114	10	0							1	43200	1	1
+43	Dân tộc đại đoàn viên tạp	5600	Huyền tinh cấp 5（khóa)				18	1	114	5	0							1	43200		
+43	Dân tộc đại đoàn viên tạp	1000	Huyền tinh cấp 6（khóa)				18	1	114	6	0							1	43200		
+43	Dân tộc đại đoàn viên tạp	300	Huyền tinh cấp 7（khóa)				18	1	114	7	0							1	43200		1
+43	Dân tộc đại đoàn viên tạp	100	Huyền tinh cấp 8（khóa)				18	1	114	8	0							1	43200	1	1
+43	Dân tộc đại đoàn viên tạp	2900	Nguyệt mãn tây lâu				18	1	463	1									43200		1
+43	Dân tộc đại đoàn viên tạp	50	Thải vân truy nguyệt				18	1	464	1									43200	1	1
+43	Dân tộc đại đoàn viên tạp	50	Thương hải nguyệt minh				18	1	465	1									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	194	Bạch câu hoàn				18	1	71	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Đại Bạch câu hoàn				18	1	71	2									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Cường hiệu Bạch câu hoàn				18	1	71	3									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Thỏi vàng (đại)				18	1	118	2									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tiểu khối huyền tinh toái phiến (Huyền tinh cấp 1)				18	1	1	1	0								43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tiểu khối huyền tinh tàn phiến (Huyền tinh cấp 3) 				18	1	1	3	0								43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Vị điêu trác đích huyền tinh（Huyền tinh cấp 5）				18	1	1	5	0								43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	50	Phổ thông đích huyền tinh（Huyền tinh cấp 7）				18	1	1	7	0								43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	150	Thỏi vàng				18	1	118	1									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tửu rương (5 bình )				18	1	189	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tửu rương (50 bình )				18	1	189	2									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Vô hạn truyện tống phù (1 tuần )				18	1	195	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Vô hạn truyện tống phù (1 tháng )				18	1	235	1									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Vô hạn hồi thành phù (1 tuần )				18	1	23	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Vô hạn hồi thành phù (1 tháng )				18	1	234	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Càn khôn phù（10 lần）				18	1	85	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Gia tộc triệu hoán lệnh bài				18	1	87	1									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Bãi than hứa khả chứng				18	1	116	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Cửu chuyển tục mệnh hoàn				18	1	24	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Hình bộ lệnh bài				18	1	17	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Không bạch đích tâm đắc thư ( sơ cấp )				20	1	463	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Không bạch đích tâm đắc thư ( trung cấp )				20	1	464	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Không bạch đích tâm đắc thư ( cao cấp )				20	1	465	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Kim tê (cấp 4)				18	1	2	4									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Kim tê (cấp 3)				18	1	2	3									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tẩy tủy đảo lệnh bài				18	1	79	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Mã bài ( đại uyển mã )				1	12	15	2									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Mã bài ( ô chuy )				1	12	16	2									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tinh khí tán ( hồi 500)				18	1	89	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tinh khí tán ( hồi 1000)				18	1	89	2									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tinh khí tán（hồi 1500）				18	1	89	3									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Hoạt khí tán（hồi 500）				18	1	90	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Hoạt khí tán（hồi 1000）				18	1	90	2									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Hoạt khí tán（hồi 1500）				18	1	90	3									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Thiên nhãn phù				18	1	206	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	100	Sơ cấp kỳ phúc lệnh bài				18	1	212	1									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Trung cấp kỳ phúc lệnh bài				18	1	212	2									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	5	Vô hạ đích huyền tinh（Huyền tinh cấp 9）				18	1	1	9	0								43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	100	Đặc hiệu Bạch câu hoàn				18	1	71	4									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	100	Thần bí dây cương				18	1	237	1									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	50	Vũ lâm bí tịch ( trung cấp )				18	1	191	2									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	50	Tẩy tủy kinh ( trung cấp )				18	1	192	2									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Nghĩa quân lệnh bài				18	1	84	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Thi đấu môn phái cao cấp lệnh bài				18	1	81	3									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Bạch hổ đường cao cấp lệnh bài				18	1	111	3									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Gia tộc lệnh bài ( cao cấp )				18	1	110	3									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Chiến tràng lệnh bài ( dương châu )				18	1	112	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Chiến tràng lệnh bài ( phượng tường )				18	1	112	2									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Cao cấp câu hồn ngọc				18	1	146	3									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	150	Giang hồ uy vọng lệnh bài				18	1	236	1									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	180	Hồn thạch rương (100)				18	1	244	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Hồn thạch rương (1000)				18	1	244	2									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	100	Bí cảnh địa đồ				18	1	251	1									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	1	Cao cấp kỳ phúc lệnh bài				18	1	212	3									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Bang hội ngân đĩnh ( tiểu )				18	1	284	1									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Bang hội ngân đĩnh ( đại )				18	1	284	2									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Bang hội tiền thưởng lệnh bài				18	1	340	1									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Dạ minh châu · rương				18	1	382	1									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Vạn vật quy nguyên đan				18	1	384	1									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Linh chi tục mệnh hoàn · rương				18	1	241	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tuyết tham phản khí hoàn · rương				18	1	242	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Dao trì đại hoàn đan · rương				18	1	243	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Nghĩa quân bổ cấp bao				18	1	341	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	50	Vũ lâm liên đấu hắc thiết lệnh bài				18	1	215	1									43200		1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Vũ lâm liên đấu hoàng kim lệnh bài				18	1	215	4									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Bách bộ xuyên dương cung			18	1	263	1									43200			
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	200	Tần lăng · mạc kim phù				18	1	366	1									43200		
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Bát bảo tống				18	1	326	2									43200	1	1
+44	Dân tộc đại đoàn viên hạnh vận tạp phiến	10	Thập cẩm bách quả tông				18	1	326	3									43200	1	1
+45	Hoạt động thi đấu gia tộc kim bảo rương	1450	Huyền tinh cấp 6（khóa）				18	1	114	6	0								43200		
+45	Hoạt động thi đấu gia tộc kim bảo rương	6000	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+45	Hoạt động thi đấu gia tộc kim bảo rương	500	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+45	Hoạt động thi đấu gia tộc kim bảo rương	50	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+45	Hoạt động thi đấu gia tộc kim bảo rương	2000	Ngọc như ý				18	1	475	1											
+46	Hoạt động thi đấu gia tộc ngân bảo rương	6380	Huyền tinh cấp 6（khóa）				18	1	114	6	0								43200		
+46	Hoạt động thi đấu gia tộc ngân bảo rương	3000	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+46	Hoạt động thi đấu gia tộc ngân bảo rương	200	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+46	Hoạt động thi đấu gia tộc ngân bảo rương	20	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+46	Hoạt động thi đấu gia tộc ngân bảo rương	400	Ngọc như ý				18	1	475	1											
+47	Hoạt động thi đấu gia tộc đồng bảo rương	5690	Huyền tinh cấp 5（khóa）				18	1	114	5	0								43200		
+47	Hoạt động thi đấu gia tộc đồng bảo rương	3000	Huyền tinh cấp 6（khóa）				18	1	114	6	0								43200		
+47	Hoạt động thi đấu gia tộc đồng bảo rương	1000	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+47	Hoạt động thi đấu gia tộc đồng bảo rương	100	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+47	Hoạt động thi đấu gia tộc đồng bảo rương	10	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+47	Hoạt động thi đấu gia tộc đồng bảo rương	200	Ngọc như ý				18	1	475	1											
+48	Võ lâm đại hội vinh dự bảo rương	2000	Võ lâm đại hội anh hùng lệnh bài				18	1	487	1											1
+48	Võ lâm đại hội vinh dự bảo rương	6900	Huyền tinh cấp 8				18	1	114	8	0								43200		
+48	Võ lâm đại hội vinh dự bảo rương	1000	Huyền tinh cấp 9				18	1	114	9	0								43200		1
+48	Võ lâm đại hội vinh dự bảo rương	100	Huyền tinh cấp 10				18	1	114	10	0								43200	1	1
+49	Bí cảnh địa đồ sáo trang		Tửu rương (50 bình )				18	1	189	2									43200		
+49	Bí cảnh địa đồ sáo trang		Tu luyện đan				18	1	258	1									43200		
+49	Bí cảnh địa đồ sáo trang		Bí cảnh địa đồ				18	1	251	1									43200		
+50	Bí cảnh địa đồ sáo trang（đại）		Tửu rương (50 bình )				18	1	189	2			2						43200		
+50	Bí cảnh địa đồ sáo trang（đại）		Tu luyện đan				18	1	258	1			3						43200		
+50	Bí cảnh địa đồ sáo trang（đại）		Bí cảnh địa đồ				18	1	251	1									43200		
+51	Bí cảnh địa đồ sáo trang（đại）		Tửu rương (50 bình )				18	1	189	2			2					1	43200		
+51	Bí cảnh địa đồ sáo trang（đại）		Tu luyện đan				18	1	258	1			3					1	43200		
+51	Bí cảnh địa đồ sáo trang（đại）		Bí cảnh địa đồ				18	1	251	1								1	43200		
+52	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	200	8888 Đồng khóa			8888												1			1
+52	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	300	4888 Đồng khóa			4888												1			
+52	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	3000	Lục thao tập chú				18	1	320	1								1	43200		1
+52	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	4000	Ngũ hành hồn thạch				18	1	244	1			6					1			
+52	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	2500	Bí cảnh sáo trang ( đại )				18	1	494	1								1	43200		1
+53	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	2000	Đặc biệt đích tinh phách				18	1	544	2			5					1	43200		1
+53	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	500	4888 Đồng khóa			4888												1			
+53	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	4000	Chiến thư · du long mật thất ( rương )				18	1	524	2								1			
+53	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	2000	Xuyên châu ngân thiếp				18	1	541	2			5					1			1
+53	Hạnh vận trừu tưởng đồng bảo rương [ mở cấp 150 ]	1500	Bí cảnh sáo trang ( đại )				18	1	494	1								1	43200		1
+54	Khóa phục Liên đấu lễ bao	6889	Huyền tinh cấp 5（khóa)				18	1	1	5	0	0						1			
+54	Khóa phục Liên đấu lễ bao	3000	Huyền tinh cấp 6（khóa)				18	1	1	6	0	0						1			
+54	Khóa phục Liên đấu lễ bao	100	Huyền tinh cấp 7（khóa)				18	1	1	7	0	0						1		1	1
+54	Khóa phục Liên đấu lễ bao	10	Huyền tinh cấp 8（khóa)				18	1	1	8	0	0						1	43200	1	1
+54	Khóa phục Liên đấu lễ bao	1	Huyền tinh cấp 9（khóa）				18	1	1	9	0	0						1	43200	1	1
+54	Khóa phục Liên đấu lễ bao		Túi phúc hoàng kim				18	1	80	1	0	0						1			
+54	Khóa phục Liên đấu lễ bao		Túi phúc hoàng kim				18	1	80	1	0	0						1			
+55	Tân niên lễ vật [ tặng ]	668	Huyền tinh cấp 7				18	1	114	7	0	0							43200		
+55	Tân niên lễ vật [ tặng ]	30	Huyền tinh cấp 8				18	1	114	8	0	0							43200		1
+55	Tân niên lễ vật [ tặng ]	2	Huyền tinh cấp 9				18	1	114	9	0	0							43200	1	1
+55	Tân niên lễ vật [ tặng ]	300	99999 bạc khóa	99999																	1
+56	Tranh tết thu thập thưởng cho bảo rương (mở ra đồng hành)	1000	Tài liệu đặc thù đồng hành（không khóa）				18	1	556	1	0										1
+56	Tranh tết thu thập thưởng cho bảo rương (mở ra đồng hành)	50	Đồng bạn đặc biệt tẩy tủy kinh				18	1	563	1	0								43200		
+56	Tranh tết thu thập thưởng cho bảo rương (mở ra đồng hành)	7639	Huyền tinh cấp 7（khóa）				18	1	114	7	0	0							43200		
+56	Tranh tết thu thập thưởng cho bảo rương (mở ra đồng hành)	1200	Huyền tinh cấp 8（khóa）				18	1	114	8	0	0							43200		1
+56	Tranh tết thu thập thưởng cho bảo rương (mở ra đồng hành)	100	Huyền tinh cấp 9（khóa）				18	1	114	9	0	0							43200	1	1
+56	Tranh tết thu thập thưởng cho bảo rương (mở ra đồng hành)	10	Huyền tinh cấp 10（khóa）				18	1	114	10	0	0							43200	1	1
+56	Tranh tết thu thập thưởng cho bảo rương (mở ra đồng hành)	1	Tân niên đồng bạn（không khóa）				18	1	547	2	0										1
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	300	29999 bạc khóa	29999																	
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	215	Đồng bạn kinh nghiệm thư（không khóa）				18	1	543	1	0										
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	300	Huyền tinh cấp 6（khóa）				18	1	114	6	0	0							43200		
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	100	Huyền tinh cấp 7（khóa）				18	1	114	7	0	0							43200		
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	10	Huyền tinh cấp 8（khóa）				18	1	114	8	0	0							43200		1
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	1	Huyền tinh cấp 9（khóa）				18	1	114	9	0	0							43200	1	1
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	10	Mặt nạ Tân niên (nam)（không khóa）				1	13	33	1	0								43200		
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	10	Mặt nạ Tân niên (nữ)（không khóa）				1	13	34	1	0								43200		
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	50	Tân niên lễ vật（khóa）				18	1	551	1	0							1	43200		
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	1	Tài liệu đặc thù đồng hành（không khóa）				18	1	556	1	0									1	1
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]	3	Đồng bạn phổ thông tẩy tủy kinh				18	1	562	1	0								43200		
+57	Hoa đăng bảo rương [ mở ra đồng bạn ]		15 phút tiêu chuẩn cơ bản kinh nghiệm												15						
+58	Tranh tết thu thập thưởng cho bảo rương (vị mở ra đồng hành)	859	Huyền tinh cấp 7（khóa）				18	1	114	7	0	0							43200		
+58	Tranh tết thu thập thưởng cho bảo rương (vị mở ra đồng hành)	100	Huyền tinh cấp 8（khóa）				18	1	114	8	0	0							43200		1
+58	Tranh tết thu thập thưởng cho bảo rương (vị mở ra đồng hành)	10	Huyền tinh cấp 9（khóa）				18	1	114	9	0	0							43200	1	1
+58	Tranh tết thu thập thưởng cho bảo rương (vị mở ra đồng hành)	1	Huyền tinh cấp 10（khóa）				18	1	114	10	0	0							43200	1	1
+58	Tranh tết thu thập thưởng cho bảo rương (vị mở ra đồng hành)	30	Nguyệt quế hoa（không khóa）				18	1	462	1	0										
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]	2000	29999 bạc khóa	29999																	
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]	3967	Huyền tinh cấp 5（khóa）				18	1	114	5	0	0							43200		
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]	3000	Huyền tinh cấp 6（khóa）				18	1	114	6	0	0							43200		
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]	300	Huyền tinh cấp 7（khóa）				18	1	114	7	0	0							43200		
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]	30	Huyền tinh cấp 8（khóa）				18	1	114	8	0	0							43200		1
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]	3	Huyền tinh cấp 9（khóa）				18	1	114	9	0	0							43200	1	1
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]	100	Mặt nạ Tân niên (nam)（không khóa）				1	13	33	1	0								43200		
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]	100	Mặt nạ Tân niên (nữ)（không khóa）				1	13	34	1	0								43200		
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]	500	Tân niên lễ vật（khóa）				18	1	551	1	0							1			
+59	Hoa đăng bảo rương [ vị mở ra đồng bạn ]		15 phút tiêu chuẩn cơ bản kinh nghiệm												15						
+60	Hoàng gia hỉ yến	660000	50000 bạc khóa	50000																	
+60	Hoàng gia hỉ yến	280000	100000 bạc khóa	100000																	
+60	Hoàng gia hỉ yến	50000	300000 bạc khóa	300000																	1
+60	Hoàng gia hỉ yến	10000	500000 bạc khóa	500000																1	1
+61	Vương hầu hỉ yến	216000	20000 bạc khóa	20000																	
+61	Vương hầu hỉ yến	630000	50000 bạc khóa	50000																	
+61	Vương hầu hỉ yến	140000	100000 bạc khóa	100000																	
+61	Vương hầu hỉ yến	14000	300000 bạc khóa	300000																	1
+62	Quý tộc hỉ yến	282000	20000 bạc khóa	20000																	
+62	Quý tộc hỉ yến	630000	50000 bạc khóa	50000																	
+62	Quý tộc hỉ yến	80000	100000 bạc khóa	100000																	
+62	Quý tộc hỉ yến	8000	300000 bạc khóa	300000																	
+63	Bình dân hỉ yến	456000	20000 bạc khóa	20000																	
+63	Bình dân hỉ yến	500000	50000 bạc khóa	50000																	
+63	Bình dân hỉ yến	40000	100000 bạc khóa	100000																	
+63	Bình dân hỉ yến	4000	300000 bạc khóa	300000																	
+64	Đồng tâm quả	8400	Huyền tinh cấp 7（khóa）				18	1	114	7	0							1	43200		
+64	Đồng tâm quả	1500	Huyền tinh cấp 8（khóa）				18	1	114	8	0							1	43200		1
+64	Đồng tâm quả	100	Huyền tinh cấp 9（khóa）				18	1	114	9	0							1	43200	1	1
+65	Đồng tâm quả	8400	Huyền tinh cấp 8（khóa）				18	1	114	8	0							1	43200		1
+65	Đồng tâm quả	1500	Huyền tinh cấp 9（khóa）				18	1	114	9	0							1	43200	1	1
+65	Đồng tâm quả	100	Huyền tinh cấp 10（khóa）				18	1	114	10	0							1	43200	1	1
+66	Hôn lễ hạnh vận luân bàn	8400	Huyền tinh cấp 7（khóa）				18	1	114	7	0							1	43200		
+66	Hôn lễ hạnh vận luân bàn	1500	Huyền tinh cấp 8（khóa）				18	1	114	8	0							1	43200		1
+66	Hôn lễ hạnh vận luân bàn	100	Huyền tinh cấp 9（khóa）				18	1	114	9	0							1	43200	1	1
+67	Tài thần đại bảo rương	1200	Huyền tinh cấp 6				18	1	114	6	0								43200		
+67	Tài thần đại bảo rương	100	Huyền tinh cấp 7				18	1	114	7	0								43200		1
+67	Tài thần đại bảo rương	10	Huyền tinh cấp 8				18	1	114	8	0								43200	1	1
+67	Tài thần đại bảo rương	1200	100000 bạc khóa	100000																	
+67	Tài thần đại bảo rương	300	200000 bạc khóa	200000																	
+67	Tài thần đại bảo rương	30	500000 bạc khóa	500000																	1
+67	Tài thần đại bảo rương	10	1000000 bạc khóa	1000000																1	1
+67	Tài thần đại bảo rương	5040	300 đồng khóa			300												1			
+67	Tài thần đại bảo rương	1500	500 đồng khóa			500												1			
+67	Tài thần đại bảo rương	500	1000 đồng khóa			1000												1			
+67	Tài thần đại bảo rương	100	2000 đồng khóa			2000												1			1
+67	Tài thần đại bảo rương	10	5000 đồng khóa			5000												1		1	1
+68	Tài thần tiểu bảo rương	120	Huyền tinh cấp 6				18	1	114	6	0								43200		
+68	Tài thần tiểu bảo rương	10	Huyền tinh cấp 7				18	1	114	7	0								43200		1
+68	Tài thần tiểu bảo rương	1	Huyền tinh cấp 8				18	1	114	8	0								43200	1	1
+68	Tài thần tiểu bảo rương	2379	10000 bạc khóa	10000																	
+68	Tài thần tiểu bảo rương	300	20000 bạc khóa	20000																	
+68	Tài thần tiểu bảo rương	30	50000 bạc khóa	50000																	
+68	Tài thần tiểu bảo rương	10	100000 bạc khóa	100000																	1
+68	Tài thần tiểu bảo rương	5040	30 đồng khóa			30												1			
+68	Tài thần tiểu bảo rương	1500	50 đồng khóa			50												1			
+68	Tài thần tiểu bảo rương	500	100 đồng khóa			100												1			
+68	Tài thần tiểu bảo rương	100	200 đồng khóa			200												1			
+68	Tài thần tiểu bảo rương	10	500 đồng khóa			500												1			1
+69	Kiếm hiệp thế giới đại lễ bao		2010 đồng khóa			2010												1			1
+69	Kiếm hiệp thế giới đại lễ bao		200000 bạc khóa	200000														1			1
+69	Kiếm hiệp thế giới đại lễ bao		Ngựa cấp 60				1	12	3	2	0							1			1
+69	Kiếm hiệp thế giới đại lễ bao		Kim sang dược ( trung )· rương				18	1	31	1	0							1			1
+69	Kiếm hiệp thế giới đại lễ bao		Ngưng thần đan ( trung )· rương				18	1	32	1	0							1			
+69	Kiếm hiệp thế giới đại lễ bao		Thừa tiên mật ( trung )· rương				18	1	33	1	0							1			
+69	Kiếm hiệp thế giới đại lễ bao		Ngũ hành hồn thạch 5				18	1	205	1	0		5					1	30		
+70	Khóa phục liên kết bảo rương	5000	Huyền tinh cấp 6				18	1	114	6	0							1			
+70	Khóa phục liên kết bảo rương	3200	Huyền tinh cấp 7				18	1	114	7	0							1			1
+70	Khóa phục liên kết bảo rương	500	Huyền tinh cấp 8				18	1	114	8	0							1			1
+70	Khóa phục liên kết bảo rương	100	Huyền tinh cấp 9				18	1	114	9	0							1		1	
+70	Khóa phục liên kết bảo rương	1000	999 Đồng khóa			999															
+70	Khóa phục liên kết bảo rương	200	9999 Đồng khóa			9999														1	
+71	Tổ tiên chi hồn hoàng kim bảo rương	1400	Huyền tinh cấp 6（khóa）				18	1	114	6	0										
+71	Tổ tiên chi hồn hoàng kim bảo rương	5500	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+71	Tổ tiên chi hồn hoàng kim bảo rương	500	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+71	Tổ tiên chi hồn hoàng kim bảo rương	50	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+71	Tổ tiên chi hồn hoàng kim bảo rương	1000	Tổ tiên chi hồn				18	1	634	1											
+71	Tổ tiên chi hồn hoàng kim bảo rương	2000	Ngọc như ý				18	1	475	1											
+72	Tổ tiên chi hồn bạch ngân bảo rương	4080	Huyền tinh cấp 6（khóa）				18	1	114	6	0										
+72	Tổ tiên chi hồn bạch ngân bảo rương	4300	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+72	Tổ tiên chi hồn bạch ngân bảo rương	200	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+72	Tổ tiên chi hồn bạch ngân bảo rương	20	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+72	Tổ tiên chi hồn bạch ngân bảo rương	1000	Tổ tiên chi hồn				18	1	634	1											
+72	Tổ tiên chi hồn bạch ngân bảo rương	400	Ngọc như ý				18	1	475	1											
+73	Tổ tiên chi hồn thanh đồng bảo rương	7190	Huyền tinh cấp 6（khóa）				18	1	114	6	0										
+73	Tổ tiên chi hồn thanh đồng bảo rương	2000	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+73	Tổ tiên chi hồn thanh đồng bảo rương	100	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+73	Tổ tiên chi hồn thanh đồng bảo rương	10	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+73	Tổ tiên chi hồn thanh đồng bảo rương	300	Tổ tiên chi hồn				18	1	634	1											
+73	Tổ tiên chi hồn thanh đồng bảo rương	200	Ngọc như ý				18	1	475	1											
+74	Chiến công lễ bao	8000	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+74	Chiến công lễ bao	1000	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+74	Chiến công lễ bao	100	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200		1
+74	Chiến công lễ bao	10	Huyền tinh cấp 10（khóa）				18	1	114	10	0								43200	1	1
+74	Chiến công lễ bao	1000	Ngọc như ý（không khóa）				18	1	475	1	0								43200		
+74	Chiến công lễ bao		10000000kinh nghiệm											10000000							
+75	Chiến công lễ bao_vn	2330	1000000kinh nghiệm											1000000							
+75	Chiến công lễ bao_vn	1250	2000000kinh nghiệm											2000000							
+75	Chiến công lễ bao_vn	2000	60000  bạc khóa	60000																	
+75	Chiến công lễ bao_vn	1000	100000  bạc khóa	100000																	
+75	Chiến công lễ bao_vn	300	200000  bạc khóa	200000																	
+75	Chiến công lễ bao_vn	2000	Huyền tinh cấp 6（khóa）				18	1	114	6	0								43200		
+75	Chiến công lễ bao_vn	1000	Huyền tinh cấp 7（khóa）				18	1	114	7	0								43200		
+75	Chiến công lễ bao_vn	100	Huyền tinh cấp 8（khóa）				18	1	114	8	0								43200		1
+75	Chiến công lễ bao_vn	10	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	1
+75	Chiến công lễ bao_vn	10	Trung cấp vũ lâm bí tịch (không khóa)				18	1	191	2	0								43200		1
+76	Dương danh anh hùng bảo rương	1500	1000000  bạc khóa	1000000																	
+76	Dương danh anh hùng bảo rương	1000	2000000  bạc khóa	2000000																	
+76	Dương danh anh hùng bảo rương	2000	Huyền tinh cấp 9				18	1	114	9	0								43200	1	1
+76	Dương danh anh hùng bảo rương	1200	Huyền tinh cấp 10				18	1	114	10	0								43200	1	1
+76	Dương danh anh hùng bảo rương	800	Huyền tinh cấp 11				18	1	114	11	0								43200	1	1
+76	Dương danh anh hùng bảo rương	500	Ma đao thạch rương cấp 10				18	1	72	10	0								43200	1	1
+76	Dương danh anh hùng bảo rương	500	Hộ giáp phiến rương cấp 10				18	1	73	10	0								43200	1	1
+76	Dương danh anh hùng bảo rương	500	Ngũ hành thạch rương cấp 10				18	1	74	10	0								43200	1	1
+76	Dương danh anh hùng bảo rương	1000	Nghiễm hàn nguyệt quế hoa				18	1	462	1	0								43200	1	1
+76	Dương danh anh hùng bảo rương	1000	Trung cấp vũ lâm bí tịch				18	1	191	2	0								43200	1	1
+77	Túi phúc Huyền vũ	100	Huyền tinh cấp 9				18	1	1	9	0										
+77	Túi phúc Huyền vũ	500	Trữ vật rương mở rộng lệnh bài				18	1	917	1	1							0			
+77	Túi phúc Huyền vũ	200	Huyền tinh cấp 8				18	1	1	8	0										
+77	Túi phúc Huyền vũ	400	Huyền tinh cấp 7				18	1	1	7	0										
+77	Túi phúc Huyền vũ	800	Đặc hiệu bạch câu hoàn				18	1	71	4	1										
+77	Túi phúc Huyền vũ	800	Bang hội ngân đĩnh ( tiểu )				18	1	918	1	1										
+77	Túi phúc Huyền vũ	800	Cường hiệu bạch câu hoàn				18	1	71	4	1										
+77	Túi phúc Huyền vũ	800	Kim tê (cấp 3 )				18	1	2	3	1										
+77	Túi phúc Huyền vũ	800	Thiên nhãn phù				18	1	206	1	1										
+77	Túi phúc Huyền vũ	800	Truyện thanh hải loa ( trung )				18	1	113	2	1										
+77	Túi phúc Huyền vũ	800	Hoạt khí tán ( hồi 1500)				18	1	90	3	1										
+77	Túi phúc Huyền vũ	800	Tinh khí tán ( hồi 1500)				18	1	89	3	1										
+77	Túi phúc Huyền vũ	800	Càn khôn phù				18	1	85	1	1										
+77	Túi phúc Huyền vũ	800	Cửu chuyển tục mệnh đan				18	1	24	1	1		5								
+77	Túi phúc Huyền vũ	800	1000tiền  Đồng khóa			1000												1			
+78	Túi phúc Bạch hổ	200	Trung cấp kỳ phúc lệnh bài				18	1	212	2	1										
+78	Túi phúc Bạch hổ	500	Bạch hổ đường cao cấp lệnh bài				18	1	111	3	0		3								
+78	Túi phúc Bạch hổ	500	Gia tộc triệu hoán lệnh bài				18	1	87	1	1										
+78	Túi phúc Bạch hổ	800	Hình bộ lệnh bài				18	1	17	1	1										
+78	Túi phúc Bạch hổ	800	Đặc hiệu bạch câu hoàn				18	1	71	4	1										
+78	Túi phúc Bạch hổ	800	Bang hội ngân đĩnh ( tiểu )				18	1	918	1	1										
+78	Túi phúc Bạch hổ	400	Kim điều				18	1	118	1	1										
+78	Túi phúc Bạch hổ	400	Giang hồ uy vọng lệnh bài				18	1	236	1	0										
+78	Túi phúc Bạch hổ	800	Thiên nhãn phù				18	1	206	1	1										
+78	Túi phúc Bạch hổ	800	Truyện thanh hải loa ( trung )				18	1	113	2	1										
+78	Túi phúc Bạch hổ	800	Hoạt khí tán ( hồi 1500)				18	1	90	3	1										
+78	Túi phúc Bạch hổ	800	Tinh khí tán ( hồi 1500)				18	1	89	3	1										
+78	Túi phúc Bạch hổ	800	Càn khôn phù				18	1	85	1	1										
+78	Túi phúc Bạch hổ	800	Cửu chuyển tục mệnh đan				18	1	24	1	1		5								
+78	Túi phúc Bạch hổ	800	Tửu rương (50 bình )				18	1	189	2	1										
+79	Bình an sử giả bảo rương	6500	Huyền tinh cấp 9（khóa）				18	1	114	9	0								43200	1	
+79	Bình an sử giả bảo rương	3000	Huyền tinh cấp 10（khóa）				18	1	114	10	0								43200	1	
+79	Bình an sử giả bảo rương	500	Du long cổ tệ				18	1	553	1	0		10000							1	
+80	Rương Anh Hùng Kiếm Thế	1500	Huyền Tinh có tì vết (cấp 8)				18	1	114	8	0							1	43200	0	0
+80	Rương Anh Hùng Kiếm Thế	800	Huyền Tinh Vô Hạ (cấp 9)				18	1	114	9	0							1	43200	1	1
+80	Rương Anh Hùng Kiếm Thế	200	Huyền Tinh Hoàn Mỹ (cấp 10)				18	1	114	10	0							1	43200	1	1
+80	Rương Anh Hùng Kiếm Thế	50	Huyền Tinh Óng Ánh (cấp 11)				18	1	114	11	0							1	43200	1	1
+80	Rương Anh Hùng Kiếm Thế	5	Huyền Tinh Trời Ban (cấp 12)				18	1	114	12	0							1	43200	1	1
+80	Rương Anh Hùng Kiếm Thế	1500	100 Vạn Bạc Khóa	1000000																0	0
+80	Rương Anh Hùng Kiếm Thế	800	250 Vạn Bạc Khóa	2500000																0	1
+80	Rương Anh Hùng Kiếm Thế	400	500 Vạn Bạc Khóa	5000000																1	1
+80	Rương Anh Hùng Kiếm Thế	436	30 Vạn Bạc		300000															0	0
+80	Rương Anh Hùng Kiếm Thế	100	100 Vạn Bạc		1000000															0	1
+80	Rương Anh Hùng Kiếm Thế	50	200 Vạn Bạc		2000000															1	1
+80	Rương Anh Hùng Kiếm Thế	130	10 Vạn Đồng khóa			100000														1	1
+80	Rương Anh Hùng Kiếm Thế	60	20 Vạn Đồng khóa			200000														1	1
+80	Rương Anh Hùng Kiếm Thế	30	50 Vạn Đồng Khóa			500000														1	1
+80	Rương Anh Hùng Kiếm Thế	1500	5.000.000 Điểm Kinh nghiệm											5000000						0	0
+80	Rương Anh Hùng Kiếm Thế	1200	10.000.000 Điểm Kinh nghiệm											10000000						0	1
+80	Rương Anh Hùng Kiếm Thế	600	50.000.000 Điểm Kinh nghiệm 											50000000						1	1
+80	Rương Anh Hùng Kiếm Thế	600	100.000.000 Điểm Kinh nghiệm 											100000000						1	1
+80	Rương Anh Hùng Kiếm Thế	100	Võ lâm mật tịch trung				18	1	191	2	0								43200	1	1
+80	Rương Anh Hùng Kiếm Thế	100	Tẩy tủy kinh trung				18	1	192	2	0								43200	1	1
+80	Rương Anh Hùng Kiếm Thế	50	Mã bài (Phiên Vũ -có kháng ) 30 ngày				1	12	20001	4	0								43200	1	1
+80	Rương Anh Hùng Kiếm Thế	20	Mã bài (Phiên Vũ -có kháng ) 60 ngày				1	12	20001	4	0								86400	1	1
+80	Rương Anh Hùng Kiếm Thế	5	Mã bài (Phiên Vũ -có kháng ) 90 ngày				1	12	20001	4	0								129600	1	1
+80	Rương Anh Hùng Kiếm Thế	1	Mã bài (Phiên Vũ-có kháng )(vĩnh viễn)				1	12	20001	4	0									1	1
+84	Tiền đồng may mắn (trung)	300	Tiền đồng may mắn (trung)				18	1	1194	2	0		2							1	1
+84	Tuyết Vũ Thiên Hương	300	Tuyết Vũ Thiên Hương				1	12	20063	10	0								4320	1	1
+84	Hỏa Vũ Thiên Hương	300	Hỏa Vũ Thiên Hương				1	12	20070	10	0								4320	1	1
+84	Tham Tướng Ấn	300	Tham Tướng Ấn				1	18	19	10	0								4320	1	1
+84	Đô Úy Ấn	300	Đô Úy Ấn				1	18	18	10	0								4320	1	1
+84	Trùng Sinh Đơn	300	Trùng Sinh Đơn				18	1	1193	1	0		5							1	1
+84	Bát Mạch Đơn	300	Bát Mạch Đơn				18	1	3057	2	0		20							1	1
+84	Chân Khí Hoàn	300	Chân Khí Hoàn				18	1	3057	1	0		20							1	1
+85	Tiền đồng may mắn (trung)	300	Tiền đồng may mắn (trung)				18	1	1194	2	0		5							1	1
+85	Tuyết Vũ Thiên Hương	300	Tuyết Vũ Thiên Hương				1	12	20063	10	0								4320	1	1
+85	Hỏa Vũ Thiên Hương	300	Hỏa Vũ Thiên Hương				1	12	20070	10	0								4320	1	1
+85	Thống Lĩnh Ấn	300	Thống Lĩnh Ấn				1	18	20	10	0								4320	1	1
+85	Đại Tướng Ấn	300	Đại Tướng Ấn				1	18	21	10	0								4320	1	1
+85	Trùng Sinh Đơn	300	Trùng Sinh Đơn				18	1	1193	1	0		10							1	1
+85	Bát Mạch Đơn	300	Bát Mạch Đơn				18	1	3057	2	0		30							1	1
+85	Chân Khí Hoàn	300	Chân Khí Hoàn				18	1	3057	1	0		30							1	1
+86	Tiền đồng may mắn (đại)	300	Tiền đồng may mắn (đại)				18	1	1194	3	0		2							1	1
+86	Phi Phong Bá Điệp	300	Phi Phong Bá Điệp				1	17	20090	10	0								2880	1	1
+86	Phi Phong Yêu Tinh	300	Phi Phong Yêu Tinh				1	17	20091	10	0								2880	1	1
+86	Thiên Sứ Vũ Dực	300	Thiên Sứ Vũ Dực				1	17	20092	10	0								2880	1	1
+86	Thiên Sứ Chi Vũ	300	Thiên Sứ Chi Vũ				1	17	20093	10	0								2880	1	1
+86	Hắc huyết thần ngưu	300	Hắc huyết thần ngưu				1	12	229	4	0								4320	1	1
+86	Hắc Sư Lam Mao	300	Hắc Sư Lam Mao				1	12	230	4	0								4320	1	1
+86	Quân Lâm Miện	300	Quân Lâm Miện				1	13	161	4	0								2880	1	1
+86	Nguyên Soái Ấn	300	Nguyên Soái Ấn				1	18	22	10	0								4320	1	1
+86	Lệnh Bài Triệu Hồi	300	Lệnh Bài Triệu Hồi				18	1	3048	6	0									1	1
+86	Trùng Sinh Đơn	300	Trùng Sinh Đơn				18	1	1193	1	0		15							1	1
+86	Bát Mạch Đơn	300	Bát Mạch Đơn				18	1	3057	2	0		80							1	1
+86	Chân Khí Hoàn	300	Chân Khí Hoàn				18	1	3057	1	0		80							1	1
+87	Tiền đồng may mắn (đại)	300	Tiền đồng may mắn (đại)				18	1	1194	3	0		5							1	1
+87	Bạch Long Lam Mao	300	Bạch Long Lam Mao				1	12	231	4	0								7200	1	1
+87	Thiên Thú Thần Ma	300	Thiên Thú Thần Ma				1	12	232	4	0								7200	1	1
+87	Thánh Thú Hồng Sư	300	Thánh Thú Hồng Sư				1	12	233	4	0								7200	1	1
+87	Phi Phong Bá Điệp	300	Phi Phong Bá Điệp				1	17	20090	10	0								7200	1	1
+87	Phi Phong Yêu Tinh	300	Phi Phong Yêu Tinh				1	17	20091	10	0								7200	1	1
+87	Thiên Sứ Vũ Dực	300	Thiên Sứ Vũ Dực				1	17	20092	10	0								7200	1	1
+87	Thiên Sứ Chi Vũ	300	Thiên Sứ Chi Vũ				1	17	20093	10	0								7200	1	1
+87	Quân Lâm Miện	300	Quân Lâm Miện				1	13	161	4	0								7200	1	1
+87	Nguyên Soái Ấn	300	Nguyên Soái Ấn				1	18	22	10	0								7200	1	1
+87	Lệnh Bài Triệu Hồi	300	Lệnh Bài Triệu Hồi				18	1	3048	6	0		2							1	1
+87	Trùng Sinh Đơn	300	Trùng Sinh Đơn				18	1	1193	1	0		20							1	1
+87	Bát Mạch Đơn	300	Bát Mạch Đơn				18	1	3057	2	0		150							1	1
+87	Chân Khí Hoàn	300	Chân Khí Hoàn				18	1	3057	1	0		150							1	1
+91	Rương Huyền Thoại Anh Hùng	1000	Mảnh tạo đồ luyện hoá				18	1	25115	1	0							1		1	1
+91	Rương Huyền Thoại Anh Hùng	1000	Di Tích Huyền Thoại				18	1	25116	1	0							1		1	1
+91	Rương Huyền Thoại Anh Hùng	1000	Linh Hồn Huyền Thoại				18	1	25114	1	0							1		1	1
+83	Rương Mảnh Ghép	500	Mảnh Già Lam Kinh				18	1	3051	1	0							1			
+83	Rương Mảnh Ghép	500	Mảnh Trận Pháp				18	1	26000	1	0							1			
+83	Rương Mảnh Ghép	500	Mảnh Ghép Ngựa				18	1	1192	1	0							1			
+83	Rương Mảnh Ghép	500	Mảnh Ghép Mặt Nạ				18	1	25117	1	0							1			
+83	Rương Mảnh Ghép	500	Mảnh Ghép Ấn				18	1	20316	1	0							1			
+83	Rương Mảnh Ghép	500	Chân Khí Hoàn				18	1	3057	1	0							1			
+83	Rương Mảnh Ghép	1000	Mảnh Ghép Vũ Khí Đồng Hành				18	1	2004	1	0							1			
+83	Rương Mảnh Ghép	1000	Mảnh Ghép Áo Đồng Hành				18	1	2005	1	0							1			
+83	Rương Mảnh Ghép	1000	Mảnh Ghép Nhẫn Đồng Hành				18	1	2006	1	0							1			
+83	Rương Mảnh Ghép	1000	Mảnh Ghép Tay Đồng Hành				18	1	2007	1	0							1			
+83	Rương Mảnh Ghép	1000	Mảnh Ghép Phù Đồng Hành				18	1	2008	1	0							1			
+89	Rương Đồng Hành	100	Hạ Hầu Tiểu Tiểu				18	1	666	1	0							1		0	1
+89	Rương Đồng Hành	5	Tiêu Bất Thực (5 kỹ năng)				18	1	666	2	0							1		1	1
+89	Rương Đồng Hành	1	Diệp Tịnh (6 kỹ năng)				18	1	666	3	0							1		1	1
+89	Rương Đồng Hành	100	Hạ Tiểu Sảnh				18	1	666	4	0							1		0	1
+89	Rương Đồng Hành	100	Tử Uyển				18	1	666	5	0							1		0	1
+89	Rương Đồng Hành	5	Bảo Ngọc (5 kỹ năng)				18	1	666	6	0							1		1	1
+89	Rương Đồng Hành	5	Diệp Tịnh (5 kỹ năng)				18	1	666	7	0							1		1	1
+89	Rương Đồng Hành	3000	50 Vạn Bạc Khóa	500000																0	0
+89	Rương Đồng Hành	874	Thiệp lụa (cấp 1)				18	1	541	1	0							1		0	0
+89	Rương Đồng Hành	300	Thiệp bạc (cấp 2)				18	1	541	2	0							1		0	0
+89	Rương Đồng Hành	500	Dịch Cân Tán				18	1	542	1	0							1		0	0
+89	Rương Đồng Hành	500	Sách kinh nghiệm đồng hành				18	1	543	1	0							0		0	0
+92	Rương Vật Phẩm	10000	Thánh Linh Bảo Hạp Hồn				18	1	1334	10	0							1			
+92	Rương Vật Phẩm	3000	Chân Nguyên Tu Luyện Đơn				18	1	1333	10	0							1			
+92	Rương Vật Phẩm	10000	Tiền Đồng Thường				18	1	1194	4	0							1			
+92	Rương Vật Phẩm	10000	Tiền Đồng Khóa				18	1	1194	5	0							1			
+92	Rương Vật Phẩm	10000	Kinh Nghiệm Đơn				18	1	25194	1	0							1			
+92	Rương Vật Phẩm	2000	Tinh Thạch Phượng Hoàng				18	1	1331	1	0										
+92	Rương Vật Phẩm	500	Tinh Thạch Ảnh Nguyệt				18	1	1331	2	0										
+92	Rương Vật Phẩm	50	Tinh Thạch Đoạn Hải				18	1	1331	3	0							1			1
+92	Rương Vật Phẩm	2	Tinh Thạch Thánh Hỏa				18	1	1331	4	0							1			1
+92	Rương Vật Phẩm	10	Tần Lăng - Hòa Thị Bích				18	1	377	1	0										1
+90	Rương Đại Cát Đại Lợi	1000	Hãn Tuyết Thần Mã (Vĩnh Viễn)				1	12	20043	10	0									1	1
+90	Rương Đại Cát Đại Lợi	1000	[Thần Thú] Ngựa Đeo Hoa (Vĩnh Viễn)				1	12	20061	10	0									1	1
+90	Rương Đại Cát Đại Lợi	1000	Rương Tiền Vinh Danh (Đại)				18	1	25139	2	0									1	1
+90	Rương Đại Cát Đại Lợi	1000	Rương Tiền Vinh Danh (Đại Hoàng Kim)				18	1	25139	3	0									1	1
+81	Rương Mảnh Trang Bị Đồng Hành	1000	Mảnh Vũ Khí Đồng Hành				18	1	2004	1	0										
+81	Rương Mảnh Trang Bị Đồng Hành	1000	Mảnh Y Phục Đồng Hành				18	1	2005	1	0										
+81	Rương Mảnh Trang Bị Đồng Hành	1000	Mảnh Nhẫn Đồng Hành				18	1	2006	1	0										
+81	Rương Mảnh Trang Bị Đồng Hành	1000	Mảnh Hộ Uyển Đồng Hành				18	1	2007	1	0										
+81	Rương Mảnh Trang Bị Đồng Hành	1000	Mảnh Bội Đồng Hành				18	1	2008	1	0										
+93	Rương Vật Phẩm	10000	Thánh Linh Bảo Hạp Hồn				18	1	1334	1	0										
+93	Rương Vật Phẩm	3000	Chân Nguyên Tu Luyện Đơn				18	1	1333	1	0										
+93	Rương Vật Phẩm	10000	Tiền Đồng Thường				18	1	1194	4	0							1			
+93	Rương Vật Phẩm	10000	Tiền Đồng Khóa				18	1	1194	5	0							1			
+93	Rương Vật Phẩm	10000	Kinh Nghiệm Đơn				18	1	25194	1	0							1			
+93	Rương Vật Phẩm	2000	Tinh Thạch Phượng Hoàng				18	1	1331	1	0										
+93	Rương Vật Phẩm	500	Tinh Thạch Ảnh Nguyệt				18	1	1331	2	0										
+93	Rương Vật Phẩm	50	Tinh Thạch Đoạn Hải				18	1	1331	3	0							1			1
+93	Rương Vật Phẩm	2	Tinh Thạch Thánh Hỏa				18	1	1331	4	0							1			1
+93	Rương Vật Phẩm	10	Tần Lăng - Hòa Thị Bích				18	1	377	1	0										1
+10	Rương tranh đoạt lãnh thổ	500	Mảnh Ghép Ngựa				18	1	1192	1	0							1			
+10	Rương tranh đoạt lãnh thổ	500	Mảnh Ghép Mặt Nạ				18	1	25117	1	0							1			
+10	Rương tranh đoạt lãnh thổ	500	Mảnh Ghép Ấn				18	1	20316	1	0							1			
+10	Rương tranh đoạt lãnh thổ	500	Chân Khí Hoàn				18	1	3057	1	0							1			
+10	Rương tranh đoạt lãnh thổ	1000	Mảnh Ghép Vũ Khí Đồng Hành				18	1	2004	1	0							1			
+10	Rương tranh đoạt lãnh thổ	1000	Mảnh Ghép Áo Đồng Hành				18	1	2005	1	0							1			1
+10	Rương tranh đoạt lãnh thổ	1000	Mảnh Ghép Nhẫn Đồng Hành				18	1	2006	1	0							1			1
+10	Rương tranh đoạt lãnh thổ	1000	Mảnh Ghép Tay Đồng Hành				18	1	2007	1	0							1			1
+10	Rương tranh đoạt lãnh thổ	1000	Mảnh Ghép Phù Đồng Hành				18	1	2008	1	0							1			
+10	Rương tranh đoạt lãnh thổ	1000	Kim Nguyên Bảo (Tiểu)				18	1	1194	1	0										1
+10	Rương tranh đoạt lãnh thổ	500	Pháo Hoa				18	1	3039	1	0							1			
+10	Rương tranh đoạt lãnh thổ	500	Bông Tuyết				18	1	3039	2	0							1			
+10	Rương tranh đoạt lãnh thổ	500	Hộp Quà				18	1	3039	3	0							1			
+10	Rương tranh đoạt lãnh thổ	500	Tinh Thạch Ảnh Nguyệt				18	1	1331	2	0										
+10	Rương tranh đoạt lãnh thổ	50	Tinh Thạch Đoạn Hải				18	1	1331	3	0										
+10	Rương tranh đoạt lãnh thổ	10	Tần Lăng - Hòa Thị Bích				18	1	377	1	0										
+10	Rương tranh đoạt lãnh thổ	500	Mảnh Già Lam Kinh				18	1	3051	1	0							1			
+10	Rương tranh đoạt lãnh thổ	500	Mảnh Trận Pháp				18	1	26000	1	0							1			

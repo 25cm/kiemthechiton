@@ -1,0 +1,16 @@
+Id	Name	TimeFrameDay	TimeFrameTime	ClassName
+ID关键字	描述名称	开服几天开放	时刻开放(时分)	类名
+1	开放69级	0	0	OpenLevel69
+2	开放79级	0	0	OpenLevel79
+3	开放89级	0	0	OpenLevel89
+4	开放99级	0	0	OpenLevel99
+5	开启55级世界boss（开服后5天）	0	0	OpenBoss55
+6	开启75级世界boss（开放79级后7天）	0	0	OpenBoss75
+7	开启95级世界boss（开放99级后7天）	0	0	OpenBoss95
+8	开放150级	0	0	OpenLevel150
+9	关闭白虎堂初级2（开放99级一周后）	0	0	CloseBaiHuTangChu2
+10	高级白虎堂只开一场（开放99级后120天）	0	0	OpenOneAdvBaiHuTang
+11	凤翔战场（开放150级后150天之后）	0	0	OpenOneFengXiangBattle
+12	逍遥谷任务开启（开放99级后7天）	0	0	OpenXoyoGameTask
+13	开启120级世界boss（开放150级后50天）	0	0	OpenBoss120
+14	开启黄金白虎堂（开放150级后60天）	0	0	OpenBaiHuTangGolden

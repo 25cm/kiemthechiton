@@ -1,0 +1,9 @@
+Level	Title	TitleNP	Charge
+1	Trí Sự	Trí Sự	400000
+2	Tư Mã	Tư Mã	600000
+3	Thái Thú	Thái Thú	1000000
+4	Thiếu Khanh	Thiếu Khanh	3000000
+5	Thượng Khanh	Thượng Khanh	6000000
+6	Quốc Công	Quốc Công	10000000
+7	Thừa Tướng	Thừa Tướng	18000000
+8	Hoàng Đế	Hoàng Đế	42000000

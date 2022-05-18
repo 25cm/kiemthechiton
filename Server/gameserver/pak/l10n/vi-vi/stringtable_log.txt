@@ -1,0 +1,94 @@
+key	value
+STR_PLAYERLOG_TYPE_FACTIONSPORTS	Thi đấu môn phái
+STR_PLAYERLOG_TYPE_CREATEFAMILY	Xây dựng gia tộc
+STR_PLAYERLOG_TYPE_FAMILYAPPOINT	Bổ nhiệm gia tộc
+STR_PLAYERLOG_TYPE_FAMILYDISMISS	Giải tán gia tộc
+STR_PLAYERLOG_TYPE_CREATETONG	Xây dựng bang hội
+STR_PLAYERLOG_TYPE_TONGAPPOINT	Bổ nhiệm bang hội
+STR_PLAYERLOG_TYPE_TONGDISMISS	Giải tán bang hội
+STR_PLAYERLOG_TYPE_TONGCONTRIBUTE	Góp vào quỹ xây dựng bang
+STR_PLAYERLOG_TYPE_TONGPAYOFF	Thao tác quỹ bang hội
+STR_PLAYERLOG_TYPE_JBEXCHANGE	Giao dịch tiền đồng
+STR_PLAYERLOG_TYPE_USEGOLDCOIN_APP	Xin tiêu hao tiền đồng
+STR_PLAYERLOG_TYPE_USEGOLDCOIN_RES	Kết quả tiêu hao tiền đồng
+STR_PLAYERLOG_TYPE_FINISHTASK	Hoàn thành nhiệm vụ
+STR_PLAYERLOG_TYPE_JOINSPORT	Tham gia hoạt động
+STR_PLAYERLOG_TYPE_LEVELUP	Thăng cấp người chơi
+STR_PLAYERLOG_TYPE_PLAYERTRADE	Giao dịch người chơi
+STR_PLAYERLOG_TYPE_STALLSELL	Lập quầy bán hàng
+STR_PLAYERLOG_TYPE_STALLBUY	Lập quầy thu mua
+STR_PLAYERLOG_TYPE_LOGIN	Người chơi đăng nhập
+STR_PLAYERLOG_TYPE_LOGOUT	Người chơi thoát ra
+STR_PLAYERLOG_TYPE_MAILATTACH	Đính kèm theo thư
+STR_PLAYERLOG_TYPE_GETFRIENDCOINBACK	Hoàn trả đồng khóa mật hữu
+STR_PLAYERLOG_TYPE_AUCTION	Đấu giá
+STR_PLAYERLOG_TYPE_PROMTION	Hoạt động khuyến mãi tiêu phí đồng nhận đồng khóa
+STR_PLAYERLOG_TYPE_COINBANK	Thao tác tiền trang
+STR_PLAYERLOG_TYPE_COINSTATE	Hành vi tiền đồng
+STR_PLAYERLOG_TYPE_BINDCOIN	Đồng khóa
+STR_PLAYERLOG_TYPE_RELATION	Quan hệ
+STR_PLAYERLOG_TYPE_COMPENSATE	Liên quan bồi thường
+STR_PLAYERLOG_TYPE_GM_OPERATION	Thao tác GM
+STR_PLAYERLOG_TYPE_ANTIBOT_SCORE	Điểm chống auto
+STR_PLAYERLOG_TYPE_ANTIBOT_PROCESS	Xử lý chống auto
+STR_ITEMLOG_TYPE_USE	Sử dụng đạo cụ
+STR_ITEMLOG_TYPE_ADDITEM	Nhận đạo cụ
+STR_ITEMLOG_TYPE_REMOVEITEM	Mất đạo cụ
+STR_PLAYERLOG_TYPE_ORDER_APPLY	Gửi đơn đặt hàng
+STR_PLAYERLOG_TYPE_ORDER_DEL	Xóa đơn đặt hàng
+STR_PLAYERLOG_TYPE_ORDER_PAY	Thanh toán đơn đặt hàng
+STR_PLAYERLOG_TYPE_ORDER_COMPLETE	Hoàn thành đơn đặt hàng
+STR_TONGLOG_TONGSTRUCTURE	Kết cấu bang hội
+STR_TONGLOG_TONGBUILDFUND	Quỹ xây dựng bang hội
+STR_TONGLOG_TONGFUND	Quỹ bang hội
+STR_KINLOG_KINSTRUCTURE	Kết cấu gia tộc
+KD_STR_TONGFUND_PAY	%s chia %d quỹ bang cho %s (tên chức vị)
+STR_TONG_DIRECTOR	Trưởng lão
+STR_TONG_ENVOY	Chưởng lệnh sứ
+STR_TONG_EXCELLENT	Tinh anh
+STR_TONG_NORMAL	Bang chúng
+STR_TONG_SIGNED	Thành viên ký danh
+STR_PLAYERLOG_COMMENT_USEGOLDCOIN_APPLY	Xin mua %s, số lượng: %d, đơn giá: %d đồng, %d đồng gửi
+STR_PLAYERLOG_COMMENT_USEGOLDCOIN_IBSHOP_SUCCESS	Mua thành công %d - %s, tốn %d đồng, %d đồng gửi, thêm vào túi thất bại số lượng %d
+STR_PLAYERLOG_COMMENT_BUYIBITEM_SUCCESS_BYMAIL	Mua thành công %d - %s, tốn %d đồng, %d đồng gửi, đã bồi thường qua thư.
+STR_PLAYERLOG_COMMENT_BUYIBITEM_BINDCOIN_SUCCESS_BYMAIL Thành công mua %d %s, mất %d đồng khóa, bồi thường thành công.
+STR_PLAYERLOG_COMMENT_BUYIBITEM_BYMAIL_FAIL	Mua %d %s, loại tiền: %s, giá: %d, bồi thường thất bại.
+STR_PLAYERLOG_COMMENT_USEGOLDCOIN_IBSHOP_FAIL	Mua %s thất bại, dùng loại tiền: %s
+STR_PLAYERLOG_COMMENT_LEVELUP	Tăng đến cấp %d
+STR_PLAYERLOG_COMMENT_SENDMAIL_MONEYANDITEM	Gửi cho %s, %u tiền, đính kèm %s
+STR_PLAYERLOG_COMMENT_GETMAIL_MONEY	Từ hộp thư %s nhận được %d
+STR_PLAYERLOG_COMMENT_PLAYERTRADE	Giao dịch với %s (tài khoản: %s), nhận được vật phẩm trị giá %d ngàn, mất vật phẩm trị giá %d ngàn, %d bạc
+STR_PLAYERLOG_COMMENT_STALLSELL	Bắt đầu bày hàng rao bán
+STR_PLAYERLOG_COMMENT_STALLBUY	Bắt đầu bày hàng thu mua
+STR_PLAYERLOG_COMMENT_GETACCOUNTMONEY	Rút %d bạc từ tài khoản
+STR_PLAYERLOG_COMMENT_TRADEDECMONEY	Giao dịch mua vào từ %s, tốn %d bạc, vật phẩm [%s], đơn giá [%d], số lượng [%d]
+STR_PLAYERLOG_COMMENT_TRADEINCMONEY	Giao dịch bán cho %s, nhận được %d bạc, vật phẩm [%s], đơn giá [%d], số lượng [%d]
+STR_PLAYERLOG_COMMENT_GETFRIENDCOINBACK	Từ mật hữu [%s] nhận được %d đồng khóa hoàn trả
+STR_PLAYERLOG_COMMENT_AUCTION_SELLITEM	Xóa vật phẩm đấu giá PlayerName: %s, giá khởi điểm: %d, giá chót: %d, ItemGUID: %s
+STR_PLAYERLOG_COMMENT_COMPETEPRICE_SUCCESS	Đấu giá thành công, tiền khấu trừ %d, tên vật phẩm %s
+STR_PLAYERLOG_COMMENT_RESTORECOINTOBANK	Xin gửi [%d] đồng vào ngân hàng, đơn xin có thành công hay không: [%d]
+STR_PLAYERLOG_COMMENT_TAKEOUTCOIN	Xin rút [%d] đồng từ ngân hàng, đơn xin có thành công hay không: [%d]
+STR_PLAYERLOG_COMMENT_APPLYEXCHANGECOIN2BIND	Xin đổi [%d] đồng thành đồng khóa, đơn xin có thành công hay không [%d]
+STR_PLAYERLOG_COMMENT_ONRETINFO	Thao tác tiền đồng tiền trang [%s], kết quả: [%s], lượng tiền đồng: [%d]
+STR_PLAYERLOG_COMMENT_ORDER_APPLY	Gửi đơn đặt hàng: [%s]\t[%s]
+STR_PLAYERLOG_COMMENT_ORDER_TIMEOUT	Đơn đặt hàng time-out, hủy đơn đặt hàng: [%s]
+STR_PLAYERLOG_COMMENT_ORDER_COMPLETE	Hoàn thành đơn đặt hàng: [%s]
+STR_PLAYERLOG_COMMENT_ORDER_PAYERROR	Thanh toán thất bại, hủy đơn đặt hàng: [%s], nguyên nhân: [%s]
+STR_PLAYERLOG_COMMENT_ORDER_PAYEOK	Thanh toán thành công, xin xuất hàng: [%s]
+STR_PLAYERLOG_COMMENT_ORDER_GM_ITEM	GM tặng vật phẩm Đơn hàng [%s]:  %s [%d cái]
+STR_ITEMLOG_COMMENT_IBSHOPBUY	Kỳ Trân Các mua %s, số lượng: %d, tốn %s%d
+STR_ITEMLOG_COMMENT_MAILGIVE	Gửi vật đính kèm thư cho %s
+STR_ITEMLOG_COMMENT_MAILGAIN	Nhận vật đính kém thư từ %s
+STR_ITEMLOG_COMMENT_STALLGIVE	[Bán] Bán cho %s%d cái
+STR_ITEMLOG_COMMENT_STALLGAIN	[Bán] Mua từ %s %d cái
+STR_ITEMLOG_COMMENT_OFFERGIVE	[Thu mua] Bán cho %s%d cái
+STR_ITEMLOG_COMMENT_OFFERGAIN	[Thu mua] Mua %d %s
+STR_ITEMLOG_COMMENT_TRADEGAIN	Giao dịch mua từ %s
+STR_ITEMLOG_COMMENT_TRADEGIVE	Giao dịch bán cho %s
+STR_ITEMLOG_COMMENT_PICKUP_AUTODISTRIBUTE	Tổ đội tự phân phối
+STR_CURRENCYTYPE_COIN	Đồng
+STR_CURRENCYTYPE_BINDCOIN	Đồng khóa
+STR_CURRENCYTYPE_TAEL	Bạc
+STR_CURRENCYTYPE_UNKNOWN	Đơn vị tiền tệ chưa xác định
+STR_PLAYER_FORBIT_MULITCLINET	Mở nhiều client
+STR_PLAYER_FORBIT_VERIFY	Client không hợp pháp

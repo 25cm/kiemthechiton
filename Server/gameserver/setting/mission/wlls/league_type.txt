@@ -1,0 +1,9 @@
+LeagueType	ClassName	FileName	FileNameTrap	Desc
+联赛类型Id	类型名	类型配置	比赛场Trap点	diễn tả
+1	Double	double.txt	minimap_trap.txt	2vs2[Tự Do]
+1	Double	double.txt	minimap_trap.txt	2vs2[Tự Do]
+1	Double	double.txt	minimap_trap.txt	2vs2[Tự Do]
+1	Double	double.txt	minimap_trap.txt	2vs2[Tự Do]
+1	Double	double.txt	minimap_trap.txt	2vs2[Tự Do]
+1	Double	double.txt	minimap_trap.txt	2vs2[Tự Do]
+1	Double	double.txt	minimap_trap.txt	2vs2[Tự Do]

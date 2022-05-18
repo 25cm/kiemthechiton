@@ -1,0 +1,8 @@
+Thứ tự	Bộ phận hợp thành	Bộ phận 1	Bộ phận 2	Bộ phận 3	Bộ phận 4
+0	helm	head	hair		
+1	armor	shoulder	body	lefthand	righthand
+2	weapon	leftweapon	rightweapon		
+3	horse	horsefront	horsemiddle	horseback	
+4	mantle	mantle			
+5	wind	leftwind	rightwind		
+

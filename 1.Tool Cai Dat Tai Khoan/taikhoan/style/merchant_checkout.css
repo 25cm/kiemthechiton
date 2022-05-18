@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+.merchantCkbox { background:url(../images/background.png) no-repeat -1118px bottom; padding-bottom:11px; width:558px;}
+.MrchntCktop { background:url(../images/background.png) no-repeat; width:100%; font-size:1px; height:11px;}
+.MrchntCkmd { background:url(../images/background.png) repeat-y -559px 0px; padding:0px 15px; font-family:Arial, Helvetica, sans-serif;}
+.MrchntCkmd h3 { margin:0px; padding-bottom:4px; padding-top:4px; border-bottom:1px solid #e4e4e4; margin-bottom:10px; font-size:18px; color:#ff6600; position:relative}
+.MrchntCkmd h1 { padding-left:14px; font-size:14px; margin:0px; padding-bottom:8px}
+.MrchntCkmd h1 a, .MrchntCkmd h1 a:visited { text-decoration:none; color:#0072bc;}
+
+.CkRaw { padding-top:12px; padding-left:14px; font-size:12px;}
+.CkLabel { width:110px; float:left; line-height:19px;}
+.CkContn { width:190px; float:right;}
+.MrchntNLcpy { border-top:1px solid #e4e4e4; padding-top:5px; margin-top:10px; font-size:11px; color:#666666}
+.MrchntNLcpy a { color:#0072bc; }
+.NLpaynowS1, a.NLcancel { background:url(../images/checkout_uiBtn.png) no-repeat; display:inline-block; vertical-align:middle; cursor:pointer; margin-right:4px; border:none;}
+.NLpaynowS1 { width:108px; height:25px; background-position:0px 0px;}
+.NLpaynowS1:hover { background-position:0px -27px}
+a.NLcancel { background-position:-115px 0px; width:91px; height:25px;}
+a.NLcancel:hover { background-position:-115px -27px;}
+label.error { font-size:11px;  background:url(../images/error_small.png) no-repeat left 2px;padding:4px 0px 3px 20px; color:#F00;display:block;clear:both;}
+input.error { border:1px solid #C00;margin-bottom:2px;display:block;clear:both;}
+
+a.Ckclose { background:url(../images/close_btn.png) no-repeat; width:20px; height:26px; position:absolute; top:-6px; right:-7px; outline:none; cursor:pointer;}
+a.Ckclose:hover { background-position:-20px 0px;}
+/* Clearing ------------------------------------------------------------ */
+.clearfix:after { clear:both; content:"."; display:block; height:0; visibility:hidden; overflow: hidden; }
+.clearfix { display:inline-block; }
+* html .clearfix { height:1%; }
+.clearfix { display:block; }
+.clear { clear:both; }
+
+#backgroundPopup{display:none;position:fixed;_position:absolute;height:100%;width:100%;top:0;left:0;background:#000;z-index:1}
+#popupContact{display:none;position:fixed;_position:absolute;z-index:2}
+a#popupContactClose{font-size:14px;line-height:14px;right:15px;top:10px;position:absolute;color:#6fa5fd;font-weight:700;display:block}
+.price,.qty,.fee{display:none}
+
+.CardFormCont { background: none repeat scroll 0 0 #E7FCFE; border: 0 solid #C1D4F0;padding: 10px 8px;font-size:11px;}
+.CardFormCont th{text-align:right;font-weight:bold;padding:15px 5px 5px 5px;font-size:11px;width:85px;color:#333333;}
+.redfont { color:#C00;}
+.cardtype { width:70px; float:left; margin-right:4px; text-align:center}
+.cardtype img { border:1px solid #E5E5E5; margin-bottom:5px;height:30px;width:70px;}
+.cardtype input { margin:0px; padding:0px;}
+input.paymentbtns { background:url(../images/nlbtns.png) no-repeat; width:112px; height:30px; cursor:pointer; border:none;}
+input.paymentbtns:hover { background-position:0px -31px;}
+.warningbox { border:1px solid #ff9900; background:#ffffcc; padding:8px 8px 0px 8px; -moz-border-radius: 5px; border-radius: 5px;;margin-bottom: 10px;}
+.warningbox h4, .warningbox div { background:url(https://www.nganluong.vn/webskins/skins/nganluong/images/error_16x16.gif) no-repeat left 0px; display:block; padding-left:25px; font-size:12px; padding-top:0px}
+.warningbox p { margin:0px; padding-bottom:8px;}
+
+
+.payment { display: block; margin: 10px 0; width: 100%;}
+.mytabs { border-bottom: 1px solid #E7FCFE; height: 25px;list-style: none outside none;margin: 0 !important; padding: 0;}
+.mytabs li {-webkit-border-top-left-radius: 4px;-webkit-border-top-right-radius: 4px;-moz-border-radius-topleft: 4px;-moz-border-radius-topright: 4px;border-top-left-radius: 4px;border-top-right-radius: 4px; float: left; list-style-image: none !important; margin: 0 2px 0 0 !important; padding: 0;text-indent: 0;}
+li { list-style: none outside none;}
+.mytabs a.current, .mytabs a.current:hover { background: -moz-linear-gradient(center top , #E7FCFE, #FFFFFF) repeat scroll 0 0 transparent; border-top: 1px solid #ff9900; color: #165D83 !important; cursor: default !important; text-shadow: 0 1px 0 #FFFFFF;}
+.mytabs a.current {font-weight: bold;}
+.mytabs a { border: 1px solid #E7FCFE; -webkit-border-top-left-radius: 4px;-webkit-border-top-right-radius: 4px;-moz-border-radius-topleft: 4px;-moz-border-radius-topright: 4px;border-top-left-radius: 4px;border-top-right-radius: 4px;  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset; color: #666666;display: block;font-size: 11px; height: 24px; line-height: 24px; margin: 0; padding: 0 30px;position: relative; text-align: center;text-decoration: none;text-shadow: 0 1px 0 #FFFFFF; top: 0;cursor:pointer;}
+.panes {-moz-border-bottom-colors: none; -moz-border-image: none; -moz-border-left-colors: none;-moz-border-right-colors: none; -moz-border-top-colors: none; border-color: -moz-use-text-color #E8F1FE #E8F1FE; border-right: 1px solid #E8F1FE; border-style: none solid solid; border-width: 0 1px 1px;}
+

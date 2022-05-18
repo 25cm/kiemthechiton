@@ -1,0 +1,4 @@
+InstantId	EffectId	Tên động tác
+0	86	Thăng cấp
+1	87	Trùng sinh
+3	88	Thăng cấp danh vọng

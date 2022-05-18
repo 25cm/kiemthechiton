@@ -1,0 +1,11 @@
+Name	Value	Desc
+IVER_nFuDaiLevel	100	Mở nhiều Túi Phúc
+IVER_nEventCheck	1	Tắt/mở sự kiện
+IVER_nEquipEnhance	0	Cường hóa trang bị cấp tối đa (0-16, 1-14)
+IVER_nInsightbookLevel	5	Sử dụng sách thấp hơn cấp giới hạn
+IVER_nXiuLianZhuLevel	20	Cấp sử dụng Tu Luyện Châu
+IVER_nXiuLianZhuSkillLevel	20	Cấp tăng kinh nghiệm Tu Luyện Châu
+IVER_nOpenBaiJuWanLevel	2	Mở cấp tối đa của Bạch Câu Hoàn
+IVER_nShenMiHorse	30	Thời gian hiệu lực của ngựa được điều khiển bởi dây cương bí ẩn (ngày)
+IVER_nEquipStrengthen	0	Công tắc chuyển đổi thiết bị (chuyển đổi 15,5)
+IVER_bOpenEquipBind	1	Mở khóa trang bị

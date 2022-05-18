@@ -1,0 +1,71 @@
+TreasureId	Level	MapName	MapId	MapX	MapY	Desc	Pic	InstancingMapId	InstancingMapX	InstancingMapY	Duration	MaxMap	EnterLimtPerWeek
+1	1	Nhạn Đãng Long Thu	36	1655	3231	Dưới cây cổ thụ phía Tây Nhạn Đãng Long Thu	image\icon\task\treasure\map_001.spr	253	1613	3298	55	0	0
+2	1	Nhạn Đãng Long Thu	36	1673	3344	Dưới sườn núi phía Tây Nhạn Đãng Long Thu	image\icon\task\treasure\map_002.spr	253	1613	3298	55	0	0
+3	1	Nhạn Đãng Long Thu	36	1716	3132	Thung lũng núi phía Bắc Nhạn Đãng Long Thu	image\icon\task\treasure\map_003.spr	253	1613	3298	55	0	0
+4	1	Nhạn Đãng Long Thu	36	1905	3351	Bờ sông phía Bắc Nhạn Đãng Long Thu	image\icon\task\treasure\map_004.spr	253	1613	3298	55	0	0
+5	1	Nhạn Đãng Long Thu	36	1914	3394	Bờ sông phía Đông Nhạn Đãng Long Thu	image\icon\task\treasure\map_005.spr	253	1613	3298	55	0	0
+6	1	Nhạn Đãng Long Thu	36	1918	3601	Dưới gốc cây ở Nhạn Đãng Long Thu	image\icon\task\treasure\map_006.spr	253	1613	3298	55	0	0
+7	1	Nhạn Đãng Long Thu	36	1818	3737	Hồ hoa sen ở Nhạn Đãng Long Thu	image\icon\task\treasure\map_007.spr	253	1613	3298	55	0	0
+8	1	Nhạn Đãng Long Thu	36	1905	3256	Dưới thác nước Nhạn Đãng Long Thu	image\icon\task\treasure\map_008.spr	253	1613	3298	55	0	0
+9	1	Nhạn Đãng Long Thu	36	1676	3509	Dưới hòn đá Nhạn Đãng Long Thu	image\icon\task\treasure\map_009.spr	253	1613	3298	55	0	0
+10	1	Quán Trọ Long Môn	31	1625	3878	Dưới đống xương trắng ngoài Quán Trọ Long Môn	image\icon\task\treasure\map_010.spr	253	1613	3298	55	0	0
+11	1	Quán Trọ Long Môn	31	1695	3681	Dưới đống xương trắng ngoài Quán Trọ Long Môn	image\icon\task\treasure\map_011.spr	253	1613	3298	55	0	0
+12	1	Quán Trọ Long Môn	31	1960	3304	Dưới đống đổ nát ngoài Quán Trọ Long Môn	image\icon\task\treasure\map_012.spr	253	1613	3298	55	0	0
+13	1	Quán Trọ Long Môn	31	1692	3364	Cạnh đám cây ngoài Quán Trọ Long Môn	image\icon\task\treasure\map_013.spr	253	1613	3298	55	0	0
+14	1	Quán Trọ Long Môn	31	1741	3645	Cạnh ốc đảo Quán Trọ Long Môn	image\icon\task\treasure\map_014.spr	253	1613	3298	55	0	0
+15	1	Quán Trọ Long Môn	31	1951	3723	Cạnh ốc đảo Quán Trọ Long Môn	image\icon\task\treasure\map_015.spr	253	1613	3298	55	0	0
+16	1	Quán Trọ Long Môn	31	1946	3417	Cạnh gò đất ngoài Quán Trọ Long Môn	image\icon\task\treasure\map_016.spr	253	1613	3298	55	0	0
+17	1	Quán Trọ Long Môn	31	1999	3999	Cạnh ốc đảo Quán Trọ Long Môn	image\icon\task\treasure\map_017.spr	253	1613	3298	55	0	0
+18	1	Quán Trọ Long Môn	31	1928	3761	Dưới gốc cây khô ngoài Quán Trọ Long Môn	image\icon\task\treasure\map_018.spr	253	1613	3298	55	0	0
+19	2	Thị trấn Bạch Tộc	35	2020	3772	Dưới gốc cây khô ngoài thị trấn Bạch Tộc	image\icon\task\treasure\map_019.spr	254	1572	3172	60	0	6
+20	2	Thị trấn Bạch Tộc	35	1924	3716	Dưới 1 pho tượng bỏ hoang ngoài thị trấn Bạch Tộc	image\icon\task\treasure\map_020.spr	254	1572	3172	60	0	6
+21	2	Thị trấn Bạch Tộc	35	1748	3696	Dưới cây đại thụ thị trấn Bạch Tộc	image\icon\task\treasure\map_021.spr	254	1572	3172	60	0	6
+22	2	Thị trấn Bạch Tộc	35	1704	3681	Dưới cây đại thụ thị trấn Bạch Tộc	image\icon\task\treasure\map_022.spr	254	1572	3172	60	0	6
+23	2	Thị trấn Bạch Tộc	35	1802	3618	Bờ hồ thị trấn Bạch Tộc	image\icon\task\treasure\map_023.spr	254	1572	3172	60	0	6
+24	2	Thị trấn Bạch Tộc	35	1994	3802	Dưới gốc cây khô ngoài thị trấn Bạch Tộc	image\icon\task\treasure\map_024.spr	254	1572	3172	60	0	6
+25	2	Thị trấn Bạch Tộc	35	1863	3252	Dưới cây đại thụ thị trấn Bạch Tộc	image\icon\task\treasure\map_025.spr	254	1572	3172	60	0	6
+26	2	Thị trấn Bạch Tộc	35	1730	3271	Dưới cây đại thụ thị trấn Bạch Tộc	image\icon\task\treasure\map_026.spr	254	1572	3172	60	0	6
+27	2	Đồng Quan	40	1630	3779	Cạnh cây khô phía Tây Nam Đồng Quan	image\icon\task\treasure\map_027.spr	272	1546	3560	60	0	6
+28	2	Đồng Quan	40	1605	3556	Dưới tường thành ngoài Đồng Quan	image\icon\task\treasure\map_028.spr	272	1546	3560	60	0	6
+29	2	Đồng Quan	40	1611	3323	Cạnh mấy rương cũ nát phía Nam Đồng Quan	image\icon\task\treasure\map_029.spr	272	1546	3560	60	0	6
+30	2	Đồng Quan	40	1651	3665	Dưới cây đại thụ ngoài Đồng Quan	image\icon\task\treasure\map_030.spr	272	1546	3560	60	0	6
+31	2	Đồng Quan	40	1980	3780	Cạnh mấy cây đại thụ phía Tây Đồng Quan	image\icon\task\treasure\map_031.spr	272	1546	3560	60	0	6
+32	2	Đồng Quan	40	1745	3650	Cạnh đống xác xe ngựa ngoài Đồng Quan	image\icon\task\treasure\map_032.spr	272	1546	3560	60	0	6
+33	2	Đồng Quan	40	1997	3594	Giữa mấy cây đại thụ phía Đông Đồng Quan	image\icon\task\treasure\map_033.spr	272	1546	3560	60	0	6
+34	2	Cư Diên Trạch	94	1829	3851	Ngôi mộ đổ nát ngoài Cư Diên Trạch	image\icon\task\treasure\map_034.spr	272	1546	3560	60	0	6
+35	2	Cư Diên Trạch	94	1838	3770	Dưới vách Trung bộ Cư Diên Trạch	image\icon\task\treasure\map_035.spr	272	1546	3560	60	0	6
+36	2	Cư Diên Trạch	94	1785	3410	Bờ đê Bắc Cư Diên Trạch	image\icon\task\treasure\map_036.spr	272	1546	3560	60	0	6
+37	2	Cư Diên Trạch	94	1614	3447	Dưới cây đại thụ bờ Tây Cư Diên Trạch	image\icon\task\treasure\map_037.spr	272	1546	3560	60	0	6
+38	2	Cư Diên Trạch	94	1726	3703	Giữa mấy cây đại thụ Trung bộ Cư Diên Trạch	image\icon\task\treasure\map_038.spr	272	1546	3560	60	0	6
+39	3	Kỳ Liên Sơn	39	1798	3539	Dưới sườn núi Kỳ Liên Sơn	image\icon\task\treasure\map_039.spr	287	1527	3276	120	0	6
+40	3	Kỳ Liên Sơn	39	1602	3617	Dưới cây sườn núi Kỳ Liên Sơn	image\icon\task\treasure\map_040.spr	287	1527	3276	120	0	6
+41	3	Kỳ Liên Sơn	39	1850	3611	Giữa 2 cây Kỳ Liên Sơn	image\icon\task\treasure\map_041.spr	287	1527	3276	120	0	6
+42	3	Kỳ Liên Sơn	39	1885	3758	Trong 1 đống đất Kỳ Liên Sơn	image\icon\task\treasure\map_042.spr	287	1527	3276	120	0	6
+43	3	Kỳ Liên Sơn	39	1646	3448	Dưới đống đất Kỳ Liên Sơn	image\icon\task\treasure\map_043.spr	287	1527	3276	120	0	6
+44	3	Kỳ Liên Sơn	39	1857	3353	Trong nơi dân cư Kỳ Liên Sơn	image\icon\task\treasure\map_044.spr	287	1527	3276	120	0	6
+45	3	Kỳ Liên Sơn	39	2025	3350	Dưới sườn núi Kỳ Liên Sơn	image\icon\task\treasure\map_045.spr	287	1527	3276	120	0	6
+46	3	Kỳ Liên Sơn	39	1616	3496	Dưới đống đất Kỳ Liên Sơn	image\icon\task\treasure\map_046.spr	287	1527	3276	120	0	6
+47	3	Kỳ Liên Sơn	39	1903	3636	Dưới gốc cây ở Kỳ Liên Sơn	image\icon\task\treasure\map_047.spr	287	1527	3276	120	0	6
+48	3	Kỳ Liên Sơn	39	2009	3670	Một bên sườn núi ở Kỳ Liên Sơn	image\icon\task\treasure\map_048.spr	287	1527	3276	120	0	6
+49	3	Kỳ Liên Sơn	39	1664	3768	Một bên dốc núi Kỳ Liên Sơn	image\icon\task\treasure\map_049.spr	287	1527	3276	120	0	6
+50	3	Kỳ Liên Sơn	39	1849	3241	Dưới sườn núi Kỳ Liên Sơn	image\icon\task\treasure\map_050.spr	287	1527	3276	120	0	6
+51	3	Quân Mã Trường	32	2048	3511	Dưới sườn núi Quân Mã Trường	image\icon\task\treasure\map_051.spr	287	1527	3276	120	0	6
+52	3	Quân Mã Trường	32	1952	3549	Trước 1 giao lộ Quân Mã Trường	image\icon\task\treasure\map_052.spr	287	1527	3276	120	0	6
+53	3	Quân Mã Trường	32	1799	3553	Dưới 1 bên dốc Quân Mã Trường	image\icon\task\treasure\map_053.spr	287	1527	3276	120	0	6
+54	3	Quân Mã Trường	32	1757	3490	Giữa 2 cây Quân Mã Trường	image\icon\task\treasure\map_054.spr	287	1527	3276	120	0	6
+55	3	Quân Mã Trường	32	1705	3460	Bên sườn núi Quân Mã Trường	image\icon\task\treasure\map_055.spr	287	1527	3276	120	0	6
+56	3	Quân Mã Trường	32	1748	3430	Trong lùm hoa Quân Mã Trường	image\icon\task\treasure\map_056.spr	287	1527	3276	120	0	6
+57	3	Quân Mã Trường	32	1882	3596	Cạnh dân cư Quân Mã Trường	image\icon\task\treasure\map_057.spr	287	1527	3276	120	0	6
+58	3	Quân Mã Trường	32	2035	3680	Trong lùm hoa Quân Mã Trường	image\icon\task\treasure\map_058.spr	287	1527	3276	120	0	6
+59	3	Quân Mã Trường	32	2016	4058	Bờ sông Quân Mã Trường	image\icon\task\treasure\map_059.spr	287	1527	3276	120	0	6
+60	3	Quân Mã Trường	32	1655	3990	Trong lùm hoa Quân Mã Trường	image\icon\task\treasure\map_060.spr	287	1527	3276	120	0	6
+61	3	Chiến Trường Cổ	30	1835	4033	Bờ sông phía Nam Chiến Trường Cổ	image\icon\task\treasure\map_061.spr	344	1565	3202	120	0	6
+62	3	Chiến Trường Cổ	30	1959	3903	Dưới sườn núi Chiến Trường Cổ	image\icon\task\treasure\map_062.spr	344	1565	3202	120	0	6
+63	3	Chiến Trường Cổ	30	1943	3766	Bờ sông Chiến Trường Cổ	image\icon\task\treasure\map_063.spr	344	1565	3202	120	0	6
+64	3	Chiến Trường Cổ	30	1737	3836	Cạnh dòng suối Chiến Trường Cổ	image\icon\task\treasure\map_064.spr	344	1565	3202	120	0	6
+65	3	Chiến Trường Cổ	30	1764	3688	Dưới sườn núi Chiến Trường Cổ	image\icon\task\treasure\map_065.spr	344	1565	3202	120	0	6
+66	3	Chiến Trường Cổ	30	1694	3540	Dưới đại thụ Chiến Trường Cổ	image\icon\task\treasure\map_066.spr	344	1565	3202	120	0	6
+67	3	Chiến Trường Cổ	30	1800	3371	Trong khu dân cư bỏ hoang Chiến Trường Cổ	image\icon\task\treasure\map_067.spr	344	1565	3202	120	0	6
+68	3	Chiến Trường Cổ	30	1979	3704	Cạnh thác nước Chiến Trường Cổ	image\icon\task\treasure\map_068.spr	344	1565	3202	120	0	6
+69	3	Chiến Trường Cổ	30	1915	3433	Trước ngã tư Chiến Trường Cổ	image\icon\task\treasure\map_069.spr	344	1565	3202	120	0	6
+70	3	Chiến Trường Cổ	30	1916	4073	Bờ sông Chiến Trường Cổ	image\icon\task\treasure\map_070.spr	344	1565	3202	120	0	6

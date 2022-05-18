@@ -1,0 +1,24 @@
+NpcId	Rate	Item_G	Item_D	Item_P	Item_L	Name
+3261	80000	22	1	35	1	Tiên Linh Nguyên Mộc
+3261	80000	22	1	37	1	Da lông Linh Thú
+3261	80000	22	1	39	1	Linh Thú Huyết
+3261	80000	22	1	41	1	Tử Tinh Nguyên Thạch
+3261	80000	22	1	43	1	Tiên Linh Quả
+3261	270000	18	1	114	4	Huyền Tinh Cấp 4(khóa)
+3261	30000	18	1	114	5	Huyền Tinh Cấp 5(khóa)
+3261	150000	18	1	289	8	Lệnh bài Thương hội (cấp 4 Tiêu Dao Cốc)
+3261	150000	18	1	314	1	[Thẻ đặc biệt] Biến Huyễn
+3303	100000	22	1	35	1	Tiên Linh Nguyên Mộc
+3303	100000	22	1	37	1	Da lông Linh Thú
+3303	100000	22	1	39	1	Linh Thú Huyết
+3303	100000	22	1	41	1	Tử Tinh Nguyên Thạch
+3303	100000	22	1	43	1	Tiên Linh Quả
+3303	100000	18	1	114	4	Huyền Tinh Cấp 4(khóa)
+3303	100000	18	1	114	5	Huyền Tinh Cấp 5(khóa)
+3303	150000	18	1	289	7	Lệnh bài Thương hội (cấp 5 Tiêu Dao Cốc)
+3303	150000	18	1	314	1	[Thẻ đặc biệt] Biến Huyễn
+3317	0	18	1	315	1	Tà Linh
+3318	0	18	1	316	1	Thánh Ngấn
+3321	0	18	1	317	1	Băng Liên
+3325	0	18	1	334	1	Oán Linh
+3326	0	18	1	335	1	Tuyết Tinh Thạch

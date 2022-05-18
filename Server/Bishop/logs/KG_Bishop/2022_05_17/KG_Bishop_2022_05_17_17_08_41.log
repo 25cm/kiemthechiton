@@ -1,0 +1,15 @@
+20220517-170841<INFO :00000EE4>: [Bishop] Begin to start ... ...
+20220517-170841<INFO :00000EE4>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20220517-170842<INFO :00000EE4>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 01DB0D68
+20220517-170842<INFO :00000EE4>: [Goddess] Login() nResult = 1
+20220517-170842<INFO :00000EE4>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20220517-170842<INFO :00000EE4>: [PlayerManager] Init() Acceptor Open(: 5622), nRetCode = 1
+20220517-170842<INFO :00000EE4>: [Report] Init() Acceptor Open(127.0.0.1: 5636), nRetCode = 1
+20220517-170848<INFO :00000F04>: [Relay] ThreadFunction() Accept from (127.0.0.1: 49188) SocketStream = 01DB0DB0
+20220517-170848<INFO :00000F04>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20220517-170848<DEBUG:00000F04>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20220517-170857<INFO :00000F84>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 49193) SocketStream = 01DB0D20
+20220517-170857<INFO :00001758>: [GameServer 0]  === Start ===
+20220517-170857<INFO :00001758>: [GameServer 0] Connected from 127.0.0.1, internet address = 127.0.0.1, open port = 6041, protocol version (79-->79)
+20220517-170914<DEBUG:00001758>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20220517-170914<DEBUG:00000F04>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1025; Key = 1

@@ -1,0 +1,4 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+2000						250000		B?c kh¡§?a
+		18	1	543	1	6000		S¡§¡éch kinh nghi?m ??ng h¡§¡ènh
+		18	1	25194	1	25000		Kinh Nghi?m Ðoen

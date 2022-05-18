@@ -1,0 +1,17 @@
+Type	Desc	LevelRequire	CalRate	RateOf2Skills	RateOf3Skills	RateOf4Skills	RateOf5Skills	RateOf6Skills	RateOf7Skills	RateOf8Skills	RateOf9Skills	RateOf10Skills	bichuSkill1Id	bichuSkill2Id	bichuSkill3Id	bichuSkill4Id	bichuSkill5Id	bichuSkill6Id	RandomSkillTemplateId
+1	Mức 1	100	0.9	0	0	80	15	5	0	0	0	0	0	0	0	0	0	0	1
+2	Mức 2	120	0.9	0	0	80	15	5	0	0	0	0	0	0	0	0	0	0	0
+3	Mức 3	140	0.9	0	0	80	15	5	0	0	0	0	0	0	0	0	0	0	0
+4	Mức 4	100	0.9	0	0	80	15	5	0	0	0	0	0	0	0	0	0	0	2
+5	Mức 5	110	0.9	0	0	80	15	5	0	0	0	0	0	0	0	0	0	0	2
+6	Mức 6	120	0.9	0	0	80	15	5	0	0	0	0	0	0	0	0	0	0	2
+7	Mức 7	140	0.9	0	0	80	15	5	0	0	0	0	0	0	0	0	0	0	2
+8	4 mức khuyến mãi	100	0.9	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+9	Mức 8	150	0.9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+10	Mức 4 (Hoạt động Tết)	100	0.9	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	2
+11	Mức 4 (Đồng hành VIP)	100	0.9	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	2
+12	Khuyến mãi mức 4 (Snda)	100	0.9	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	2
+13	Cấp 4 (Đoan Ngọ)	100	0.9	0	0	0	100	0	0	0	0	0	0	0	0	0	0	0	2
+14	Cấp 4 (Đoan Ngọ 2)	100	0.9	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	2
+15	Mức 4	100	0.9	0	0	0	0	100	0	0	0	0	0	0	0	0	0	0	2
+16	Mức 4 (Hoạt động Hàn Vũ)	100	0.9	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	2

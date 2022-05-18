@@ -1,0 +1,108 @@
+QID	Use	Kind	Question	Answer	Select1	Setect2
+1	0	Kỹ năng chiên đấu	Tác dụng của rượu là gì ?	Tăng kinh nghiệm lửa trại	Tăng kinh nghiệm giết quái	Tăng độ thân mật hảo hữu
+2	0	Kỹ năng chiên đấu	Tác dụng của rượu có thể kéo dài bao lâu?	3 phút	1 phút	5 phút
+3	0	Kỹ năng chiên đấu	Tổ hợp phím để mở tự động đánh?	Ctrl+F	Ctrl+C	Ctrl+A
+4	0	Kỹ năng chiên đấu	Kỹ năng nộ khí dùng khi nào? 	Khi đánh quoái	Dùng khi PK	Lúc nào cũng sử dụng được
+5	0	Chữa thương	Mua Cửu chuyển tục mệnh hoàn ở đâu?	Kỳ trân các	Dược điếm	Tạp hóa
+6	0	Chữa thương	Có thể dùng Cửu chuyển tục mệnh hoàn ở đâu?	Map luyện công	Tống Kim	Thi đấu loạn phái
+7	0	Chữa thương	Giá bán của  Cửu chuyển tục mệnh hoàn là bao nhiêu? 	100 Đồng Khóa	40 Đồng Khóa	50 Đồng Khóa
+8	0	Chữa thương	 Cửu chuyển tục mệnh hoàn có sử dụng được trong trạng thái Tranh Đoạt Lãnh Thổ không ?	Không	Có	Không biết
+9	0	Hình thức chiến đấu	Có thể sử dụng quan hệ tỷ thí ở đâu?	Map luyện công	Thi đấu loạn phái	Tân Thủ Thôn
+10	0	Hình thức chiến đấu	Trạng thái PK nào khi giết người chơi khác có thể tăng trị số PK ?	Đồ sát	Bang hội	Luyện Công
+11	0	Hình thức chiến đấu	Trạng thái PK trong Tống Kim của người chơi là gì ?	Phe	Luyện Công	Bang Hội
+12	0	Tai tiếng của nhà thanh	Tên NPC để Tụng Từ Bi Tâm Kinh là gì ?	Vân Du Tăng Nhân	Bổ Đầu Hình Bộ	Nha Dịch
+13	0	Tai tiếng của nhà thanh	NPC để Tụng Từ Bi Tâm Kinh ở đâu ?	Thành Biện Kinh	Thành Lâm An	Thành Đại Lý
+14	0	Tai tiếng của nhà thanh	Có thể mua Từ Bi Tâm Kinh ở đâu ?	Kỳ trân các	Dược điếm	Tạp hóa
+15	0	Tai tiếng của nhà thanh	Tác dụng của Từ Bi Tâm Kinh là gì ?	Giảm trừ PK	Gia tù	Tăng kinh nghiệm
+16	0	Lôi đài	Tên NPC ghi danh lôi đài là gì ?	Công Bình Tử	Lễ Quan	Bạch Thu Lâm
+17	0	Lôi đài	Hình thức chiến đấu có thể tham gia trong lôi đài là？	1 vs 1	8vs8	10vs10
+18	0	Tống kim	1 ngày có bao nhiêu trận Tống Kim ?	7 Trận	9 Trận 	10 Trận
+19	0	Tống kim	Map Tống Kim sử dụng là ?	Gia Dụ Quan - Phượng Tường	Gia Du Quan - Tương Dương	Gia Du Quan - Dương Châu
+20	0	Tống kim	Hình thức trân chiến Tống Kim là gì?	Bảo vệ Long Trụ	Hộ Cờ	Bảo vệ Soái
+21	0	Tống kim	Trận Tống Kim đầu tiên trong ngày báo danh lúc mấy giờ?	10h50	11h	10h55
+22	0	Tống kim	Trận Tống Kim cuối cùng trong ngày báo danh lúc mấy giờ?	22h50	22h55	23h
+23	0	Tống kim	Trong Tống Kim có thể tổ đội với người khác không?	Có	Không	Không biết
+24	0	Tống kim	Trong Tống Kim người giết Đại Tướng được bao nhiêu điểm tích lũy?	500 Điểm	1000 Điểm	200 Điểm 
+25	0	Tống kim	Trong Tống Kim người giết Nguyên Soái được bao nhiêu điểm tích lũy?	1500 Điểm	1000 Điểm	2000 Điểm
+26	0	Tống kim	Trong Tống Kim có thế đồ sát người khác không ?	Không	Có	Không biết
+27	0	Tống kim	Trong Tống Kim có thể đổi phái không?	Không	Có	Không biết
+28	0	Tống kim	Trong Tống Kim có thể mở hộp thư không?	Không	Không biết	Có
+29	0	Tống kim	Trong Tống Kim có thể giao dịch không?	Không	Có	Không biết
+30	0	Tống kim	Trong Tống Kim thưởng liên trảm giết địch là bao nhiêu?	150 Điểm	200 Điểm	300 Điểm
+31	0	Tống kim	NPC để báo danh Tống Kim là ai ?	Hiệu Úy Mộ Binh	Quan Quân Nhu	Nha Dịch
+32	0	Tống kim	Có thể sử dụng vật phẩm nào để đến khu báo danh Tống Kim?	Vô Hạn Truyền Tống Phù	Càn Khôn Phù	Lệnh Bài Hình Bộ
+33	0	Tống kim	Thời gian của 1 trận Tống Kim là bao nhiêu?	30 Phút	55 Phút	60 Phút
+34	0	Tống kim	Thời gian bắt đàu báo danh đến khi bắt đầu cuôc chiến Tống Kim là bao nhiêu?	5 Phút	10 Phút	15 Phút
+35	0	Tống kim	Bạn thấy phần  thưởng Tống Kim có hợp lý không?	Có	Không	Không biết
+36	0	Tống kim	Bạn có thích hoạt động Tống Kim không?	Có	Không	Không biết
+37	0	Kỹ năng sống	Nguyên liệu chế đồ có thể mua ở đâu?	Tạp hóa	Tửu Lầu	Tiệm Thuốc
+38	0	Kỹ năng sống	Thứ cần thiết để dùng trong Chế tạo đồ là gì?	Tinh Hoạt Lực	Bạc	Đồng
+39	0	Kỹ năng sống	Cấp cao nhất của Kỹ Năng Sống là bao nhiêu?	120	100	150
+40	0	Kỹ năng sống	Cấp cần thiết của Kỹ Năng Sống để chế Vỏ Sò Vàng là bao nhiêu?	80	100	120
+41	0	Kỹ năng sống	Cấp cần thiết của Kỹ Năng Sống để chế Nguyên Liêu Tần Lăng là bao nhiêu?	100	120	150
+42	0	Kỹ năng sống	Có mấy loại Kỹ Năng Sống?	5	7	10
+43	0	Kỹ năng sống	Phím để mở Kỹ Năng Sống?	F8	F4	F1
+44	0	Kỹ năng sống	Đồ có gia trị nhất có tỉ lệ chế tạo là bao nhiêu  %?	4%	5%	10%
+45	0	Kỹ năng sống	Đồ không có giá trị có tỉ lệ chế tạo là bao nhiêu  %?	76%	80%	90%
+46	0		Phím để mở Mở bản đồ con?	Tab	F2	F3
+47	0		Phím để mở Rương Đồ?	F2	F3       	F4       
+48	0	Tổ đội	Tổ đội có tối đa bao nhiêu thành viên?	6	10	12
+49	0	Tổ đội	Tổ đội có tối thiểu bao nhiêu thành viên?	1	2	6
+50	0	Tổ đội	Ai là người có quyền Kick người chơi khác ra khỏi pt?	Đội Trưởng	Thành Viên	Người ngoài
+51	0	Tổ đội	Có thể mời tổ đội người chơi khác phe không?	Có	Không	Không biết
+52	0	Tổ đội	Có thể đồ sát người chơi trong cùng tổ đội không?	Không	Có	Không biết
+53	0	Tổ đội	Trong trạng thái Tổ Đội có thể đổi phái không?	Không	Có	Không biết
+54	0	Tổ đội	Màu sắc tên của người chơi sẽ hiển thị theo màu tên của ai?	Chủ pt	Thành Viên	Đối thủ
+55	0	Tổ đội	Phím để mở giao diện Tổ Đội?	P	I	M
+56	0	Hảo Hữu	khi hảo hữu 10 người hảo hữu đầu tiên sẽ nhận dược bao nhiêu Đồng Khóa?	20 Đồng Khóa	50 Đồng Khóa	100 Đồng Khóa
+57	0	Hảo Hữu	Phím tăt mở giao diện Hảo Hữu?	F5	F4	F8
+58	0	Hảo Hữu	Đơn vị sử dụng trong Hảo Hữu?	Độ Thân Mật	Điểm danh vọng	Uy danh
+59	0	Hảo Hữu	Trong giao diện Hảo hữu có thể làm gì?	Gửi thư	Di chuyển đến	Không biết
+60	0	Cường hóa	Tên NPC để sử dụng chức năng cường hóa?	Dã Luyện Đại Sư	Hỗ Trợ Tân Thủ	NPC nâng cấp
+61	0	Cường hóa	Cấp cường hóa trang bị tối đa?	16	14	12
+62	0	Cường hóa	Nguyên liệu sử dụng trong cường hóa trang bị?	Huyền Tinh	Ngũ hành hồn thạch	Dạ minh châu
+63	0		1 ngày có bao nhiêu trận Thi đấu loạn phái ?	1	2	3
+64	0		Để vào thi đấu Loạn Phái cần loại Vật phẩm nào?	LB tham gia Thi Đấu Loạn Phái	LB tham gia Tống Kim	Đồng
+65	0		Trận thi đấu loạn phái báo danh lúc mấy giờ?	20h	20h30	21h
+66	0		Thi đấu loạn phái có tất cả bao nhiêu phái tham gia?	12	1	24
+67	0		Tên NPC để vào thi đấu loạn phái?	Hỗ Trợ Tân Thủ	Sứ giả Event	NPC nâng cấp
+68	0	Sư đồ	Có mấy Tân Nhân Vương trong thi đấu loạn phái?	1	24	12
+69	0	Sư đồ	Thi đấu loạn phái diễn ra sau khi báo danh bao nhiêu thời gian?	30 Phút	15 Phút	10 Phút
+70	0	Sư đồ	Tranh Đoạt Lãnh Thổ diễn ra vào ngày nào trong tuần?	Tất cả các ngày trong tuần	Thứ 7	Chủ nhật
+71	0	Sư đồ	Các bang chủ có thể tuyên chiến từ lúc mấy giờ?	21h	20h30	20h
+72	0	Sư đồ	Thời gian trận chiến Tranh đoạt lãnh thổ bắt đầu?	21h30	20h30	20h
+73	0		Thời gian của  trận chiến Tranh đoạt lãnh thổ dài bao nhiêu?	30 Phút	50 Phút	60 Phút
+74	0		Phím tắt mở giao diện Kỹ Năng môn phái?	F3	F4	F5
+75	0		Phím tắt mở giao diện Gia Tộc?	F6	F7	F3
+76	0		Phím tắt mở giao diện Bang Hội?	F7	F8	F9
+77	0		Phím tắt mở giao diện Đồng Hành?	F9	F10	F11
+78	0		Tên NPC nhận nhiệm vụ Truy Nã?	Bổ Đầu Hình Bộ	Nha Dich	Quan Quân Nhu
+79	0		Số nhiệm vụ truy nã tích lũy tối đa?	30 Nhiệm Vụ	10 Nhiệm Vụ	36 Nhiệm Vụ
+80	0		Số nhiệm vụ hàng ngày có thể nhận được?	10 Nhiệm Vụ	6 Nhiệm Vụ	12 Nhiệm Vụ
+81	0		Số nhiệm vụ Bao Vạn Đồng có thể nhận tối đa trong 1 ngày?	50 Nhiệm Vụ	100 Nhiệm Vụ	Không giới hạn
+82	0		Số lần tham gia Bạch Hổ Đường tối đa trong 1 ngày?	2 Lần	3 Lần	1 Lần
+83	0		Số lần tham gia Tiêu Dao Cốc  tối đa trong 1 ngày?	2 Lần	3 Lần	1 Lần
+84	0		Thời gian người chơi có thể ở trong Tần Lăng tối đa trong 1 ngày?	2h	3h	4h
+85	0	Tiền vàng	Thời gian Hảo Kỳ Lân xuất hiện trong ngày?	20h	20h30	21h
+86	0		Thời gian Tần Thủy Hoàng xuất hiện trong ngày?	15h35 -22h35	15h-22h	9h-19h
+87	0		Kiếm thế có bao nhiêu Tân thủ thôn?	7	8	9
+88	0	Tiền vàng	Kiếm thế có bao nhiêu Thành thị?	6	7	8
+89	0	Tiền vàng	Kiếm thế có bao nhiêu Môn Phái?	12	24	14
+90	0	Tiền vàng	Kiếm thế có bao nhiêu Hệ Phái?	24	12	26
+91	0		Nhiệm Vụ 110 làm = nguyên liệu gì?	Ngũ Hành Hồn Thạch	Thành phẩm TDC	Huyền Tinh
+92	0	Bạn thân	Cáp để học mật tịch trung?	70	90	110
+93	0	Bạn thân	Cáp để học mật tịch cao?	100	110	120
+94	0	Bạn thân	Số lầm đi du long tối đa trong 1 ngày?	200 lần	100 lần	250 lần
+95	0	Bạn thân	Tên NPC để nâng cấp trang bị?	Npc nâng câp	Hỗ Trợ Tân Thủ	Dã Luyện Đại Sư
+96	0	Bạn thân	Tên NPC để mua vật phẩm igame?	Shop Vât Phẩm	Tạp Hóa	Long Ngũ Thái Gia
+97	0	Bạn thân	Tên NPC để đổi vật phẩm sang đồng?	Sứ Giả Event	Lễ quan	Hỗ trợ Tân thủ
+98	0	Bạn thân	Tên NPC để làm nhiệm vụ Đặc sản 12 Môn Phái?	Lễ Quan	Hỗ Trợ Tân Thủ	Sứ Giả Event
+99	0		Tên NPC để tham gia event đốt pháo hoa?	Lò Lửa Chiến Thần	Cây Thông Noel	Người Tuyết
+100	0		Tên NPC để tham gia event treo quà Tết?	Cây Thông Noel	Lò Lửa Chiến Thần	Người Tuyết
+101	0		Tên NPC để tham gia event đắp người Tuyết?	Người Tuyết	Cây Thông Noel	Lò Lửa Chiến Thần
+102	0		Tên vật phẩm sử dụng trong event đốt Pháo Hoa?	Pháo Hoa	Bông Tuyết	Họp quà Tết
+103	0		Tên vật phẩm sử dụng trong event treo Quà Tết?	Họp quà Tết	Pháo Hoa	Bông Tuyết
+104	0		Tên vật phẩm sử dụng trong event đắp người Tuyết?	Bông Tuyết	Họp quà Tết	Pháo Hoa
+105	0		Tên thành chính trong kiếm thế Chí Tôn là gì?	Đạo Hương Thôn	Phượng Tường	Ba Lăng Huyện
+106	0		Thời gian hoạt động Đoán Hoa Đăng hàng ngày?	12h-12h30, 20h30-20h30	12h30-13h30, 20h-21h	12h-13h, 20h-21h
+107	0		Hoạt động Đoán Hoa Đăng diễn ra vào?	Tất cả các ngày trong tuần	Thứ 2 - Thứ 5	Thứ 3 - Thứ 6

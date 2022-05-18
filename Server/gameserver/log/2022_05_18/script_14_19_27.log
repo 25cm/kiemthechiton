@@ -1,0 +1,448 @@
+[2022-05-18 14:19:27]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	1	Testgame đạt cấp 69 đầu tiên!
+[2022-05-18 14:19:27]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	5	Đẳng cấp nhân vật cao nhất đã mở đến cấp 200
+[2022-05-18 14:19:27]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	6	05月18日国庆活动幸运卡民族
+[2022-05-18 14:19:27]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	4	Làm sao nhận được bạc
+[2022-05-18 14:19:27]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	19	Điều chỉnh giới hạn đẳng cấp tham gia thi đấu môn phái
+[2022-05-18 14:19:40]	ATTEN	[Player]	Cap cao nhat 200
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:40]	INFO	[Domain]	Statuary	AddNpc	there is no tbInfo.tbPlayerInfo[self.INFOID_PLAYERNAME]
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	 Bạch Câu Hoàn 	nTimeFrameStartSale
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	 Bạch Câu Hoàn 	nTimeFrameEndSale
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	 Bạch Câu Hoàn 	36
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	Đại Bạch Câu Hoàn	nTimeFrameStartSale
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	Đại Bạch Câu Hoàn	nTimeFrameEndSale
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	Đại Bạch Câu Hoàn	180
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameStartSale
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameEndSale
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	540
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	Đặc Hiệu Bạch Câu Hoàn	nTimeFrameStartSale	53
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	Đặc Hiệu Bạch Câu Hoàn	nTimeFrameEndSale	100000
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	_LoadBaijuCoin	Đặc Hiệu Bạch Câu Hoàn	tbValue.nTimeFrameStartSale and tbValue.nTimeFrameEndSale	53	100000
+[2022-05-18 14:19:41]	INFO	[Player]	Offline	Đặc Hiệu Bạch Câu Hoàn	99999999
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	1
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	2
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	3
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	4
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	5
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	6
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	7
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	8
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	9
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	10
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	11
+[2022-05-18 14:19:41]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:19	12
+[2022-05-18 14:20:12]	INFO	[Player]	SetPlayerComeBackFlag	MaNhẫn05	 is right new player
+[2022-05-18 14:20:12]	INFO	[Player]	Offline	ProcessOfflineTime	MaNhẫn05 Last Logout time and now login time: 1652857520 1652858412
+[2022-05-18 14:20:12]	INFO	[Player]	Offline	ProcessOfflineTime	MaNhẫn05 nOffLiveTime, nTodayUsedtime = 892, 892
+[2022-05-18 14:20:12]	INFO	[Player]	Offline	ProcessOfflineTime	MaNhẫn05	nCurLevel, nCurExp, nLevelLimit 	110	2399000	150
+[2022-05-18 14:20:12]	INFO	[Player]	Offline	ProcessOfflineTime	Player MaNhẫn05 use BaiJu Đặc Hiệu Bạch Câu Hoàn , Original BaiJu Time is 0; Used Baiju Time is 0; Rest Baiju Time is 0  !
+[2022-05-18 14:20:12]	INFO	[Player]	Offline	ProcessOfflineTime	Player MaNhẫn05 use BaiJu Cường Hiệu Bạch Câu Hoàn , Original BaiJu Time is 0; Used Baiju Time is 0; Rest Baiju Time is 0  !
+[2022-05-18 14:20:12]	INFO	[Player]	Offline	ProcessOfflineTime	Player MaNhẫn05 use BaiJu Đại Bạch Câu Hoàn , Original BaiJu Time is 0; Used Baiju Time is 0; Rest Baiju Time is 0  !
+[2022-05-18 14:20:12]	INFO	[Player]	Offline	ProcessOfflineTime	Player MaNhẫn05 use BaiJu  Bạch Câu Hoàn  , Original BaiJu Time is 0; Used Baiju Time is 0; Rest Baiju Time is 0  !
+[2022-05-18 14:20:12]	INFO	[Player]	Offline	ProcessOfflineTime	MaNhẫn05 The really rest time is 0, nTotalAddExp 0, nTotalAddPoint 0 !
+[2022-05-18 14:20:12]	INFO	[Player]	Offline	ProcessWasteTime	Player MaNhẫn05 have nWasteTime 892, nNowAddExp 624400 !
+[2022-05-18 14:20:12]	INFO	[Player]	plugin_log	玩家	MaNhẫn05	使用了插件，插件数量	27
+[2022-05-18 14:20:56]	INFO	[Player]	Offline	ProcessOfflineTime	MaNhẫn05 Last Logout time and now login time: 1652858420 1652858456
+[2022-05-18 14:20:56]	INFO	[Player]	Offline	ProcessOfflineTime	MaNhẫn05 nOffLiveTime, nTodayUsedtime = 0, 0
+[2022-05-18 14:20:56]	INFO	[Player]	Offline	ProcessOfflineTime	MaNhẫn05	nCurLevel, nCurExp, nLevelLimit 	110	2399000	150
+[2022-05-18 14:20:56]	INFO	[Player]	Offline	ProcessWasteTime	Player MaNhẫn05 have nWasteTime 892, nNowAddExp 624400 !
+[2022-05-18 14:20:56]	INFO	[Player]	plugin_log	玩家	MaNhẫn05	使用了插件，插件数量	27
+[2022-05-18 14:24:29]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	7100
+[2022-05-18 14:24:30]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1485682467
+[2022-05-18 14:24:30]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1485693717
+[2022-05-18 14:24:31]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1485704967
+[2022-05-18 14:24:36]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh vô hạ (cấp 9),Tăng lĩnh ngộ]	
+[2022-05-18 14:24:36]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh vô hạ (cấp 9),Tăng lĩnh ngộ]	
+[2022-05-18 14:24:36]	ATTEN	[Spreader:OnItemConsumed]	Tiêu Thụ:	zone.x(nadev)	testgamea	[MaNhẫn05] Quà Tặng Đồng Hành Hạ Hầu Tiểu Tiểu，Thêm [0]
+[2022-05-18 14:24:36]	ATTEN	[Đồng Hành Log:]	MaNhẫn05	Bằng quà tặng,lĩnh ngộ tăng :	4514292
+[2022-05-18 14:24:38]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:24:38]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1486199967
+[2022-05-18 14:24:39]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1486307967
+[2022-05-18 14:24:39]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1486415967
+[2022-05-18 14:24:40]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1486523967
+[2022-05-18 14:24:40]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1486631967
+[2022-05-18 14:24:42]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:24:42]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1486739967
+[2022-05-18 14:24:49]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:24:49]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:24:49]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:24:49]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:24:49]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:24:49]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:24:49]	ATTEN	[Spreader:OnItemConsumed]	Tiêu Thụ:	zone.x(nadev)	testgamea	[MaNhẫn05] Quà Tặng Đồng Hành Hạ Hầu Tiểu Tiểu，Thêm [0]
+[2022-05-18 14:24:49]	ATTEN	[Đồng Hành Log:]	MaNhẫn05	Bằng quà tặng,lĩnh ngộ tăng :	1044972
+[2022-05-18 14:24:54]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh vô hạ (cấp 9),Tăng lĩnh ngộ]	
+[2022-05-18 14:24:54]	ATTEN	[Spreader:OnItemConsumed]	Tiêu Thụ:	zone.x(nadev)	testgamea	[MaNhẫn05] Quà Tặng Đồng Hành Hạ Hầu Tiểu Tiểu，Thêm [0]
+[2022-05-18 14:24:54]	ATTEN	[Đồng Hành Log:]	MaNhẫn05	Bằng quà tặng,lĩnh ngộ tăng :	2257146
+[2022-05-18 14:24:55]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1486847967
+[2022-05-18 14:24:57]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	14950
+[2022-05-18 14:24:58]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1486955967
+[2022-05-18 14:24:58]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1487063967
+[2022-05-18 14:24:58]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1487171967
+[2022-05-18 14:24:58]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:24:58]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1487279967
+[2022-05-18 14:24:59]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1487387967
+[2022-05-18 14:24:59]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1487495967
+[2022-05-18 14:24:59]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1487603967
+[2022-05-18 14:25:00]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1487711967
+[2022-05-18 14:25:01]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:25:01]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1487819967
+[2022-05-18 14:25:02]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1487927967
+[2022-05-18 14:25:05]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	24300
+[2022-05-18 14:25:06]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	3550
+[2022-05-18 14:25:12]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh vô hạ (cấp 9),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:12]	ATTEN	[Spreader:OnItemConsumed]	Tiêu Thụ:	zone.x(nadev)	testgamea	[MaNhẫn05] Quà Tặng Đồng Hành Hạ Hầu Tiểu Tiểu，Thêm [0]
+[2022-05-18 14:25:12]	ATTEN	[Đồng Hành Log:]	MaNhẫn05	Bằng quà tặng,lĩnh ngộ tăng :	2257146
+[2022-05-18 14:25:13]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1488035967
+[2022-05-18 14:25:13]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1488143967
+[2022-05-18 14:25:13]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1488251967
+[2022-05-18 14:25:15]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:25:15]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1488359967
+[2022-05-18 14:25:16]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1488467967
+[2022-05-18 14:25:16]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1488575967
+[2022-05-18 14:25:16]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1488683967
+[2022-05-18 14:25:16]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1488791967
+[2022-05-18 14:25:18]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:25:18]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1488899967
+[2022-05-18 14:25:19]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489007967
+[2022-05-18 14:25:27]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:27]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:27]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:27]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:27]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:27]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:27]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:27]	ATTEN	[Spreader:OnItemConsumed]	Tiêu Thụ:	zone.x(nadev)	testgamea	[MaNhẫn05] Quà Tặng Đồng Hành Hạ Hầu Tiểu Tiểu，Thêm [0]
+[2022-05-18 14:25:27]	ATTEN	[Đồng Hành Log:]	MaNhẫn05	Bằng quà tặng,lĩnh ngộ tăng :	1219134
+[2022-05-18 14:25:30]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	32400
+[2022-05-18 14:25:32]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	8850
+[2022-05-18 14:25:33]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	7100
+[2022-05-18 14:25:34]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489115967
+[2022-05-18 14:25:35]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489223967
+[2022-05-18 14:25:35]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489331967
+[2022-05-18 14:25:37]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:25:37]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489439967
+[2022-05-18 14:25:38]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489547967
+[2022-05-18 14:25:38]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489655967
+[2022-05-18 14:25:38]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489763967
+[2022-05-18 14:25:39]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489871967
+[2022-05-18 14:25:40]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:25:40]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1489979967
+[2022-05-18 14:25:46]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh vô hạ (cấp 9),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:46]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:46]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:46]	ATTEN	[Đồng Hành Log:MaNhẫn05Sử Dụng 1Huyền Tinh thường (cấp 7),Tăng lĩnh ngộ]	
+[2022-05-18 14:25:46]	ATTEN	[Spreader:OnItemConsumed]	Tiêu Thụ:	zone.x(nadev)	testgamea	[MaNhẫn05] Quà Tặng Đồng Hành Hạ Hầu Tiểu Tiểu，Thêm [0]
+[2022-05-18 14:25:46]	ATTEN	[Đồng Hành Log:]	MaNhẫn05	Bằng quà tặng,lĩnh ngộ tăng :	2779632
+[2022-05-18 14:25:47]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1490087967
+[2022-05-18 14:25:50]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	47700
+[2022-05-18 14:25:52]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1490195967
+[2022-05-18 14:25:52]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1490303967
+[2022-05-18 14:25:52]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1490411967
+[2022-05-18 14:25:53]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:25:53]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1490519967
+[2022-05-18 14:25:54]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1490627967
+[2022-05-18 14:25:57]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	47700
+[2022-05-18 14:25:58]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	47700
+[2022-05-18 14:25:59]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	13800
+[2022-05-18 14:26:02]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1490735967
+[2022-05-18 14:26:02]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1490843967
+[2022-05-18 14:26:02]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1490951967
+[2022-05-18 14:26:04]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:26:04]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1491059967
+[2022-05-18 14:26:04]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1491167967
+[2022-05-18 14:26:05]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1491275967
+[2022-05-18 14:26:05]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1491383967
+[2022-05-18 14:26:05]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1491491967
+[2022-05-18 14:26:07]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:26:07]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1491599967
+[2022-05-18 14:26:08]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1491707967
+[2022-05-18 14:26:13]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	21300
+[2022-05-18 14:26:14]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	21300
+[2022-05-18 14:26:16]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	21300
+[2022-05-18 14:26:17]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	21300
+[2022-05-18 14:26:19]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	21300
+[2022-05-18 14:26:21]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	21300
+[2022-05-18 14:26:22]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1491815967
+[2022-05-18 14:26:22]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1491923967
+[2022-05-18 14:26:22]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1492031967
+[2022-05-18 14:26:24]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:26:24]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1492139967
+[2022-05-18 14:26:25]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1492247967
+[2022-05-18 14:26:26]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1492355967
+[2022-05-18 14:26:26]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1492463967
+[2022-05-18 14:26:39]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:26:41]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:26:42]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:26:44]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:26:45]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:26:47]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:26:48]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1492571967
+[2022-05-18 14:26:49]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:26:49]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1492679967
+[2022-05-18 14:26:51]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1492787967
+[2022-05-18 14:26:51]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1492895967
+[2022-05-18 14:26:52]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493003967
+[2022-05-18 14:26:52]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493111967
+[2022-05-18 14:27:00]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	2700
+[2022-05-18 14:27:02]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:03]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:05]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:06]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:08]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:09]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:11]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:12]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:14]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:15]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:17]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:20]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	26700
+[2022-05-18 14:27:22]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	5600
+[2022-05-18 14:27:24]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:27:24]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493219967
+[2022-05-18 14:27:25]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493327967
+[2022-05-18 14:27:25]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493435967
+[2022-05-18 14:27:26]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493543967
+[2022-05-18 14:27:26]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493651967
+[2022-05-18 14:27:27]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:27:27]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493759967
+[2022-05-18 14:27:29]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493867967
+[2022-05-18 14:27:29]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1493975967
+[2022-05-18 14:27:29]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1494083967
+[2022-05-18 14:27:29]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1494191967
+[2022-05-18 14:27:38]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:39]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:41]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:42]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:43]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:45]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:46]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:48]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:49]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:51]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:52]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:54]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:56]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:57]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:27:59]	ATTEN	[Log đồng hành:]	MaNhẫn05	Sử dụng	<color=green>Sách kinh nghiệm đồng hành	Kinh nghiệm tăng：	34800
+[2022-05-18 14:28:01]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:28:01]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1494299967
+[2022-05-18 14:28:01]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1494407967
+[2022-05-18 14:28:02]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1494515967
+[2022-05-18 14:28:02]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1494623967
+[2022-05-18 14:28:02]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1494731967
+[2022-05-18 14:28:02]	ATTEN	[Log đồng hành: Đồng hành của MaNhẫn05 nâng cấp skill lên 1 mức mới]	
+[2022-05-18 14:28:02]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1494839967
+[2022-05-18 14:28:03]	INFO	[PlayerHonor]	UpdataMaxWealth	MaNhẫn05	3	8	0	1494947967
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	1
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	2
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	3
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	4
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	5
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	6
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	7
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	8
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	9
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	10
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	11
+[2022-05-18 14:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	22-05-18 14:30	12
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:30:00]	ATTEN	[BaiHuTang]	10800	ShowGongGao	1	14:30-00
+[2022-05-18 14:30:20]	ATTEN	[XoyoGame]	
+[2022-05-18 14:30:20]	ATTEN	[XoyoGame]	
+[2022-05-18 14:30:20]	ATTEN	[XoyoGame]	
+[2022-05-18 14:30:20]	ATTEN	[XoyoGame]	
+[2022-05-18 14:30:20]	ATTEN	[XoyoGame]	
+[2022-05-18 14:30:20]	ATTEN	[XoyoGame]	
+[2022-05-18 14:30:20]	ATTEN	[XoyoGame]	
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:33:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:36:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:39:00]	ERR!	[Npc]	Npc[ruongdong1] not found！
+[2022-05-18 14:40:00]	ATTEN	[BaiHuTang]	10800	ShowGongGao	2	14:40-00

@@ -1,0 +1,1095 @@
+TASK_GROUP	TASK_ID_FIRST	TASK_ID_LAST	TASK_NAME	TASK_OVERDATE	SYNC_FLAG	CLIENT_FLAG	TASK_DESCRIBE
+Phân nhóm ID (ID chiếm dụng không liên tục xin xoá hàng trống)	ID bắt đầu	ID kết thúc	Tên nhiệm vụ	Thời hạn (20091010)	0: Không đồng bộ, 1: Cùng Client	0: Không thể; 1:Client có thể quyết định	Miêu tả nhiệm vụ
+0			Tương thích Script cũ				
+0	2389	2389	Bảo lưu Uy danh giang hồ		0	0	
+0	2341	2341	Độ cống hiến Bang hội		1	0	
+0	2342	2342	Thời gian người chơi nhận thưởng độ cống hiến trong tuần		1	0	
+0	2042	2042	Số lần sử dụng Bách Luyện Đơn		0	0	
+0	2043	2043	Thời gian xin khóa thời gian gần đây nhất (bỏ)		1	0	
+0	2046	2046	Thời gian bị bắt vào Thiên lao Đào Nguyên				
+0	2047	2047	Thời gian bị nhốt ở Thiên lao Đào Nguyên				
+0	2080	2080	技能随机种子		1	0	
+0	3000	3000	Dùng tìm BUG				
+1			*Khu vực nguy hiểm, không dùng cũng không nên xóa*		0	0	
+2	1	1	Log Nhân vật tẩy điểm		1	0	
+3	1	21	Ghi nhớ thanh phím tắt (số thứ 21 căn cứ theo bit từ thấp lên cao, mỗi 3 bit là 1 biến lượng cho loại hình phương tức phím tắt)		1	1	
+4	1	13	Ghi nhớ Phím tắt kỹ năng (Mỗi 4 bit là 1 biến lượng)		1	1	
+5			Ủy thác rời mạng		0	0	
+5	1	4	Ủy thác rời mạng, ghi lại thời gian sử dụng Bạch Câu Hoàn		1	0	
+5	18	18	Ngày nào đó đã sử dụng Ủy thác rời mạng		1		
+5	23	23	Ký hiệu có phải tiếp tục nhận bồi thường sau khi bồi thường thời gian ủy thác rời mạng cho người chơi gộp server		0	0	
+5	24	24	Thời gian nhận thưởng gộp server		0	0	
+6	1	100	Link nhiệm vụ môn phái (back-up)		1	0	
+6	101	101	Đã nhận số uy danh thông qua Bao Vạn Đồng		1	0	
+7			Liên quan chuyển môn phái		1		
+8			Dữ liệu môn phái đã back up-Môn phái 1		1	0	
+9			Dữ liệu môn phái đã back up-Môn phái 2		1	0	
+10			Dữ liệu môn phái đã back up-Môn phái 3		1	0	
+11			Dữ liệu môn phái đã back up-Môn phái 4		1	0	
+12			Dữ liệu môn phái đã back up-Môn phái 5		1	0	
+13			Dữ liệu môn phái đã back up-Môn phái 6		1	0	
+14			Dữ liệu môn phái đã back up-Môn phái 7		1	0	
+15			Dữ liệu môn phái đã back up-Môn phái 8		1	0	
+16			Dữ liệu môn phái đã back up-Môn phái 9		1	0	
+17			Dữ liệu môn phái đã back up-Môn phái 10		1	0	
+18			Dữ liệu môn phái đã back up-Môn phái 11		1	0	
+19			Dữ liệu môn phái đã back up-Môn phái 12		1	0	
+20			Dữ liệu môn phái đã back up-Môn phái 13		1	0	
+31			Dữ liệu môn phái đã back up-Ngũ hành 1		1	0	
+32			Dữ liệu môn phái đã back up-Ngũ hành 2		1	0	
+33			Dữ liệu môn phái đã back up-Ngũ hành 3		1	0	
+34			Dữ liệu môn phái đã back up-Ngũ hành 4		1	0	
+35			Dữ liệu môn phái đã back up-Ngũ hành 5		1	0	
+1000			Log phương thức hoàn thành nhiệm vụ				
+1001			Phương thức nhiệm vụ-nhiệm vụ 1				
+1002			Phương thức nhiệm vụ-nhiệm vụ 2				
+1003			Phương thức nhiệm vụ-nhiệm vụ 3				
+1004			Phương thức nhiệm vụ-nhiệm vụ 4				
+1005			Phương thức nhiệm vụ-nhiệm vụ 5				
+1006			Phương thức nhiệm vụ-nhiệm vụ 6				
+1007			Phương thức nhiệm vụ-nhiệm vụ 7				
+1008			Phương thức nhiệm vụ-nhiệm vụ 8				
+1009			Phương thức nhiệm vụ-nhiệm vụ 9				
+1010			Phương thức nhiệm vụ-nhiệm vụ 10				
+1011			Phương thức nhiệm vụ-nhiệm vụ 11				
+1012			Phương thức nhiệm vụ-nhiệm vụ 12				
+1013			Phương thức nhiệm vụ-nhiệm vụ 13				
+1014			Phương thức nhiệm vụ-nhiệm vụ 14				
+1015			Phương thức nhiệm vụ-nhiệm vụ 15				
+1016			Phương thức nhiệm vụ-nhiệm vụ 16				
+1017			Phương thức nhiệm vụ-nhiệm vụ 17				
+1018			Phương thức nhiệm vụ-nhiệm vụ 18				
+1019			Phương thức nhiệm vụ-nhiệm vụ 19				
+1020			Phương thức nhiệm vụ-nhiệm vụ 20				
+1021	1	1	Số lần sử dụng Gia thư thần bí		1		
+1021	2	2	Có phải đã qua bước chỉ dẫn của Trần Bích Nương		1		
+1021	3	3	Đã/chưa làm nhiệm vụ môn phái		1		
+1021	4	4	Biến lượng 1 biểu hiện đã hoàn thành nhiệm vụ Giáo dục của chương môn thập đại môn phái. Có thể tiếp tục làm nhiệm vụ Giáo dục Tân Thủ Thôn		1		
+1021	5	5	Biến lượng 1 biểu hiện đã hoàn thành nhiệm vụ Giáo dục: Kỳ Trân Mê. Có thể tiếp nhận 3 nhiệm vụ Giáo dục chính tuyến		1		
+1021	6	6	Tân thủ mới đăng nhập trò chơi sẽ được giao 1 nhiệm vụ		1		
+1021	7	7	Tiến cử hướng luyện môn phái của Trần Bích Nương		1		
+1021	8	8	Có phải sau khi nhiệm vụ Giáo dục hoàn thành sẽ đề nghị chọn trong 3 hướng phát triển		1		
+1022	1	1	Địa lao		1		
+1022	2	2	Phòng Bùi Dực Phi		1		
+1022	3	3	Phòng Cầu Chỉ Thủy		1		
+1022	4	4	Phòng Đầu lĩnh thương nhân		1		
+1022	5	5	Đường nhỏ thần bí		1		
+1022	6	6	Hình Thiên Lĩnh		1		
+1022	7	7	Phòng trại chính		1		
+1022	8	8	Khoang Thuyền 2		1		
+1022	9	9	Khoang Thuyền 3		1		
+1022	10	10	Thuyền phu truyền tống 		1		
+1022	11	11	Thiên Vương to Cái Bang		1		
+1022	12	12	Cái Bang-Tiếp nhận Chính tuyến		1		
+1022	13	13	Kính Nguyệt Nham truyền tống		1		
+1022	14	14	Bạch Sơn Thạch Trường		1		
+1022	15	15	Mãnh Hổ Hạng		1		
+1022	16	16	Tàng Vân Hiên		1		
+1022	17	17	Trích Thủy Động		1		
+1022	18	18	Đảo khỉ		1		
+1022	19	19	Liễu Quỷ		1		
+1022	20	20	Thính Đào Các		1		
+1022	21	21	Ngoại Chủng		1		
+1022	22	22	Ưng Chuẩn Giác		1		
+1022	23	23	Cái Bang to Ngũ Độc		1		
+1022	24	24	Ngũ Độc nam nữ Chính tuyến-phân đàn		1		
+1022	25	25	Phòng Quần hùng yến		1		
+1022	26	26	Phòng Ngư Tàng Phong		1		
+1022	27	27	Ân Phương		1		
+1022	28	28	Ân Đồng		1		
+1022	29	29	Vật Quy Cốc		1		
+1022	30	30	Cam Lộ Cốc		1		
+1022	31	31	Định Đào Lĩnh		1		
+1022	32	32	Thủ Lĩnh Nữ Vu		1		
+1022	33	33	Cát Hà Lĩnh		1		
+1022	34	34	Bế Nguyệt Sơn đường		1		
+1022	35	35	Nội Doanh Hành Tại		1		
+1022	36	36	Từ Vân Am		1		
+1022	37	37	Phòng Cừu Tuyết		1		
+1022	38	38	Kiến Tuyết Đình		1		
+1022	39	39	Ngô Hy truyền tống		1		
+1022	40	40	Đường nhỏ sau núi		1		
+1022	41	41	Nga My to Đường Môn		1		
+1022	42	42	Đường Môn tiếp nhận Chính tuyến		1		
+1022	43	43	Gian tây		1		
+1022	44	44	Đại sảnh		1		
+1022	45	45	Chuyết Giả Cư		1		
+1022	46	46	Bố Y Các		1		
+1022	47	47	Kiến Long Động		1		
+1022	48	48	Khu săn bắn		1		
+1022	49	49	Đường Môn to Thúy Yên		1		
+1022	50	50	Thúy Yên tiếp nhận Chính tuyến		1		
+1022	51	51	Xuân Mai Nhã Trúc		1		
+1022	52	52	Hậu đình Xuân Mai Nhã Trúc		1		
+1022	53	53	Dịch Quán		1		
+1022	54	54	Hậu viện Dịch Quán		1		
+1022	55	55	Phẩm Hà Đường 		1		
+1022	56	56	Trận pháp tầng kế		1		
+1022	57	57	Phiêu Bình Kiếm Khách		1		
+1022	58	58	Gia Luật Cừu		1		
+1022	59	59	Côn Lôn toVõ Đang		1		
+1022	60	60	Võ Đang tiếp nhận Chính tuyến		1		
+1022	61	61	Giải Kiếm Trì		1		
+1022	62	62	Thanh Hư Chân Thất		1		
+1022	63	63	Nơi ở Đào Vĩnh Xương		1		
+1022	64	64	Nơi ở Ngụy Trường Phong		1		
+1022	65	65	Vân Lộc Thủy Cư		1		
+1022	66	66	Vương Trùng Dương		1		
+1022	67	67	Võ Đang to Thiếu Lâm		1		
+1022	68	68	Thiếu Lâm tiếp nhận Chính tuyến		1		
+1022	69	69	Hồi Phong Giác Thảo Đường		1		
+1022	70	70	Kim Cang Lĩnh		1		
+1022	71	71	Tiệm cháo Trừng Huệ		1		
+1022	72	72	Thiếu Lâm to Thiên Nhẫn		1		
+1022	73	73	Thiên Nhẫn tiếp nhận Chính tuyến		1		
+1022	74	74	Nơi ở Ngột Tát		1		
+1022	75	75	Thiên Hình Điện		1		
+1022	76	76	Ngư Tàng Phong truyền tống		1		
+1022	77	77	Cơ Chú truyền tống Vấn Tâm		1		
+1022	78	78	Chung Linh Tú truyền tống Huyền Nguyệt		1		
+1022	79	79	Thạch Hiên Viên truyền tống 		1		
+1022	80	80	Đồng Tử Truyền Tống Xà Động		1		
+1022	81	81	Thạch bài truyền tống 1		1		
+1022	82	82	Thạch bài truyền tống 2		1		
+1022	83	83	Thạch bài truyền tống 3		1		
+1022	84	84	Khu vực nhiệm vụ hạn chế		1		
+1022	85	85	Thiên Vương LC nhiệm vụ		1		
+1022	86	86	Hoa Hương Loa		1		
+1022	87	87	Ủy thác của Đệ Tử Thiên Vương		1		
+1022	88	88	Nạn Cá Sấu		1		
+1022	89	89	Hồi môn của Như Ý		1		
+1022	90	90	Hộ Vệ Hành Thương		1		
+1022	91	91	Nga My LC nhiệm vụ		1		
+1022	92	92	3 Vạn Con Ác Viên		1		
+1022	93	93	Đường Môn LC nhiệm vụ		1		
+1022	94	94	Vật Thị Nhân Phi		1		
+1022	95	95	Bì Giáp Y		1		
+1022	96	96	Hổ Huyệt Mê Tung		1		
+1022	97	97	Quả sồi		1		
+1022	98	98	Đoạt lại pháp khí		1		
+1022	99	99	Cùng chống quan quân		1		
+1022	100	100	Đường Lang Quyền Sư		1		
+1022	101	101	Ảnh Xã Anh Linh 		1		
+1022	102	102	Cơ Quan Thú Cốt		1		
+1022	103	103	Trừng trị tù phạm		1		
+1022	104	104	Thuyền cỏ mượn tên		1		
+1022	105	105	Sơn dân vô tội		1		
+1022	106	106	Xuân tàm tân ty		1		
+1022	107	107	Quyết định phần thưởng bồi thường		1		
+1022	108	108	Chọn khu vực nhiệm vụ Chính tuyến		1		
+1022	109	109	Chuyện Cũ Thần Châu		1		
+1022	110	110	Liễu Thanh Thanh		1		
+1022	111	111	Đại Mã Hổ		1		
+1022	112	112	Cửu Tuyệt Kiếm Ma		1		
+1022	113	113	Lưu Thiết Tượng		1		
+1022	114	114	Tri Xuân Đài		1		
+1022	115	115	Tàng Kiếm Sơn Trang		1		
+1022	116	116	Lệnh Bài Nghĩa Quân Tinh Anh		1		
+1022	117	117	Binh Thư/Cơ Quan Thuật Thư		1		
+1022	118	118	90 binh thư thường ngày		1		
+1022	119	119	90 binh thư (biến lượng hoàn thành)		1		
+1022	120	120	90 Cơ quan thư (biến lượng hoàn thành)		1		
+1022	121	121	Mở rộng khu vực nhiệm vụ (thống kê số lượng hoàn thành)		1		
+1022	122	122	90-91		1		
+1022	123	123	91-92		1		
+1022	124	124	92-93		1		
+1022	125	125	93-94		1		
+1022	126	126	94-95		1		
+1022	127	127	95-96		1		
+1022	128	128	96-97		1		
+1022	129	129	97-98		1		
+1022	130	130	98-99		1		
+1022	131	131	90 cơ quan thư thường ngày		1		
+1022	132	132	90 Túi quân hưởng thường ngày		1		
+1022	133	133	90 Túi quân hưởng (biến lượng hoàn thành)		1		
+1022	134	134	Khu vực Chu Hy dạy học		1		
+1022	135	135	Hậu viện Bành Quy Niên		1		
+1022	136	136	Hạn chế nhiệm vụ ngẫu nhiên (phó bản)		1		
+1022	137	137	Phán đoán Triệu phủ		1		
+1022	138	138	Phán đoán lối ra Triệu phủ 2		1		
+1022	139	139	Lối ra Chu phủ 2 đến Thẩm phủ		1		
+1022	140	140	Mật Thất Thẩm Phủ		1		
+1022	141	141	Phán đoán Chu phủ		1		
+1022	142	142	100-101		1		
+1022	143	143	101-102		1		
+1022	144	144	102-103		1		
+1022	145	145	103-104		1		
+1022	146	146	104-105		1		
+1022	147	147	105-106		1		
+1022	148	148	106-107		1		
+1022	149	149	107-108		1		
+1022	150	150	108-109		1		
+1022	151	151	Phòng trinh sát Trường Ca Môn		1		
+1022	152	152	Mật Thất Chu Hy		1		
+1022	153	153	Hàn Phủ		1		
+1022	154	154	Đậu Hạo truyền tống 		1		
+1022	155	155	110-111		1		
+1022	156	156	111-112		1		
+1022	157	157	112-113		1		
+1022	158	158	113-114		1		
+1022	159	159	114-115		1		
+1022	160	160	115-116		1		
+1022	161	161	116-117		1		
+1022	162	162	117-118		1		
+1022	163	163	118-119		1		
+1022	164	164	110 binh thư thường ngày		1		
+1022	165	165	110 binh thư hoàn thành		1		
+1022	166	166	110 cơ quan thư thường ngày		1		
+1022	167	167	110 cơ quan thư hoàn thành		1		
+1022	168	168	Kết nối cấp 90-100		1		
+1022	169	169	Kết nối cấp 100-110		1		
+1022	170	170	Kết nối cấp 110-120		1		
+1022	171	171	110 Túi quân hưởng thường ngày		1		
+1022	172	172	110 Túi quân hưởng (biến lượng hoàn thành)		1		
+1022	173	173	Điều kiện để tiếp nhận nhiệm vụ Sư đồ truyền công		1		
+1022	174	174	Hạn chế số lượng nhiệm vụ truyền công trong tuần		1		
+1022	175	175	Liên kết đẳng cấp từ 120-130		1		
+1022	176	176	Hải Lăng Vương Mộ_Khống chế nhiệm vụ		1		
+1022	177	177	Hải Lăng Vương Mộ_Khu vực ẩn 1		1		
+1022	178	178	Hải Lăng Vương Mộ_Khu vực ẩn 2		1		
+1022	179	179	Hải Lăng Vương Mộ_Khu vực ẩn 3		1		
+1022	180	180	Giới hạn số lần nhiệm vụ khu mở rộng		1		
+1022	181	181	130-Binh thư thường ngày		1		
+1022	182	182	130-Binh thư hoàn thành		1		
+1022	183	183	130-Cơ quan thư thường ngày		1		
+1022	184	184	130-Cơ quan thư hoàn thành		1		
+1022	185	185	130 Túi quân hưởng hàng ngày		1		
+1022	186	186	130 Túi quân hưởng-biến lượng hoàn thành		1		
+1022	187	187	Khống chế nhiệm vụ Thám Thính Quân Doanh		1		
+1022	188	188	Khống chế nhiệm vụ môn phái cấp 20		1		
+1022	189	189	Khống chế nhiệm vụ môn phái cấp 30		1		
+1022	190	190	Khống chế nhiệm vụ môn phái cấp 40		1		
+1022	200	202	Ghi chép nhiệm vụ 4 lần		1		
+1022	203	203	Khống chế kỹ năng cấp 110_Thiếu Lâm		1		
+1022	204	204	Khống chế kỹ năng cấp 110_Thiên Vương		1		
+1022	205	205	Khống chế kỹ năng cấp 110_Đường Môn		1		
+1022	206	206	Khống chế kỹ năng cấp 110_Ngũ Độc		1		
+1022	207	207	Khống chế kỹ năng cấp 110_Nga My		1		
+1022	208	208	Khống chế kỹ năng cấp 110_Thúy Yên		1		
+1022	209	209	Khống chế kỹ năng cấp 110_Cái Bang		1		
+1022	210	210	Khống chế kỹ năng cấp 110_Thiên Nhẫn		1		
+1022	211	211	Khống chế kỹ năng cấp 110_Võ Đang		1		
+1022	212	212	Khống chế kỹ năng cấp 110_Côn Lôn		1		
+1022	213	213	Khống chế kỹ năng cấp 110_Minh Giáo		1		
+1022	214	214	Khống chế kỹ năng cấp 110_Đoàn Thị		1		
+1022	215	215	Đã nâng cấp ghi chép yêu cầu nhiệm vụ kỹ năng cấp 110 chưa, mỗi môn phái chiếm một chỗ		1		
+1022	216	216	Tìm hiểu Hồng Nương 1		1		
+1022	217	217	Tìm hiểu Hồng Nương 2		1		
+1022	218	218	Tìm hiểu Hồng Nương 3		1		
+1022	219	219	Tìm hiểu Hồng Nương 4		1		
+1022	220	220	Tìm hiểu Hồng Nương 5		1		
+1022	221	221	Tìm hiểu Hồng Nương 6		1		
+1022	222	222	Lần lượt thử kỹ năng của 12 môn phái		1		
+1022	223	223	Thêm hảo hữu, độ thân mật cấp 2		1		
+1022	224	224	Trở thành thành viên ký danh, nhận thưởng tuần		1		
+1022	225	225	Người chơi đang trong nhiệm vụ Thập Nhị Môn Phái		1		
+1022	226	226	Giới thiệu người mới tháng 10-Điều kiện nhiệm vụ thấy và nhận được		1		
+1022	227	227	Phán đoán biến lượng nhiệm vụ 6 Túi Quà 1-6		1		
+1022	228	228	完成采石矶第一阶段周常		1		
+1022	229	229	采石矶第一阶段周常次数控制		1		
+1022	230	230	采石矶第二阶段周常次数控制		1		
+1022	231	231	完成采石矶第二阶段周常		1		
+1022	232	232	周常控制，接取任务两个任务互斥		1		
+1022	233	233	周常第一任务识别变量		1		
+1022	234	234	周常进阶任务识别变量		1		
+1022	235	235	江南联中原		1		
+1022	236	236	中原联西南		1		
+1022	237	237	江南开始		1		
+1022	238	238	趣味/家族竞技		1		
+1022	239	239	本日进行西夏任务标识		1		
+1022	240	240	西夏军需任务识别		1		
+1022	241	241	西夏选择任务数量控制		1		
+1022	242	242	西夏过渡任务完成识别		1		
+1022	243	243	西夏普通任务完成识别1		1		
+1022	244	244	西夏普通任务完成识别2		1		
+1022	245	245	西夏普通任务完成识别3		1		
+1022	246	246	西夏普通任务完成识别4		1		
+1022	247	247	西夏普通任务完成识别5		1		
+1022	248	248	西夏普通任务完成识别6		1		
+1022	249	249	西夏普通任务进行识别1		1		
+1022	250	250	西夏普通任务进行识别2		1		
+1022	251	251	西夏普通任务进行识别3		1		
+1022	252	252	西夏普通任务进行识别4		1		
+1022	253	253	西夏普通任务进行识别5		1		
+1022	254	254	西夏普通任务进行识别6		1		
+1022	255	255	西夏高级任务完成1		1		
+1022	256	256	西夏高级任务完成2		1		
+1022	257	257	西夏高级任务完成3		1		
+1022	258	258	西夏高级任务完成4		1		
+1022	259	259	西夏高级任务完成5		1		
+1022	260	260	本日进行蒙古任务标识		1		
+1022	261	261	蒙古军需任务完成		1		
+1022	262	262	蒙古选择任务数量控制		1		
+1022	263	263	蒙古过渡任务完成识别		1		
+1022	264	264	蒙古普通任务完成识别1		1		
+1022	265	265	蒙古普通任务完成识别2		1		
+1022	266	266	蒙古普通任务完成识别3		1		
+1022	267	267	蒙古普通任务完成识别4		1		
+1022	268	268	蒙古普通任务完成识别5		1		
+1022	269	269	蒙古普通任务完成识别6		1		
+1022	270	270	蒙古普通任务进行识别1		1		
+1022	271	271	蒙古普通任务进行识别2		1		
+1022	272	272	蒙古普通任务进行识别3		1		
+1022	273	273	蒙古普通任务进行识别4		1		
+1022	274	274	蒙古普通任务进行识别5		1		
+1022	275	275	蒙古普通任务进行识别6		1		
+1022	276	276	蒙古高级任务完成1		1		
+1022	277	277	蒙古高级任务完成2		1		
+1022	278	278	蒙古高级任务完成3		1		
+1022	279	279	蒙古高级任务完成4		1		
+1022	280	280	蒙古高级任务完成5		1		
+1023	1	1	Thời gian cập nhật hệ thống luyện công cuối cùng gần nhất		1	0	
+1023	2	2	Thời gian tích lũy hệ thống luyện công còn lại; đơn vị: giờ*10		1	0	
+1023	3	3	Trị số nhân đôi kinh nghiệm còn lại của hệ thống luyện công		1	0	
+1023	4	4	Số lượng tu luyện còn lại của hệ thống Mật tịch		1	0	
+1023	5	5	Người chơi cũ quay lại còn được nhận thêm thời gian luyện công		1	0	
+1023	6	6	Người chơi cũ quay lại có (không) thể nhận được phần thưởng thời gian luyện công?		1	0	
+1023	7	7	Tặng thêm thời gian tu luyện		1	0	
+1024	1	1	Nhà nhỏ Khấu Nhuệ trap (phán đoán)		1		
+1024	2	2	Hiệp cốc (phán đoán)		1		
+1024	3	3	Thái Tổ Bảo Khố (phán đoán)		1		
+1024	4	4	Võ Đang Thương Khố (phán đoán)		1		
+1024	5	5	Phòng Tri Khách Thiếu Lâm (phán đoán)		1		
+1024	6	6	Phòng Tri Khách Thiếu Lâm (phán đoán)		1		
+1024	7	7	Phòng Thái hậu Lâm An (phán đoán)				
+1024	8	8	Nơi nhốt Thái Hậu TRAP (phán đoán)				
+1024	9	9	Nhu Nga trap (phán đoán)				
+1024	10	10	Cổ Nữ trap				
+1024	11	11	Đại Lý Đao Hoàng Hậu-Ký hiệu là 2 không thể vào				
+1024	12	12	Điểm Thương Sơn Chú Kiếm Sơn Cốc trap điểm (phán đoán)				
+1024	13	13	Mai Nhất Chi trap điểm (phán đoán)				
+1024	14	14	Mật đạo Đại Lý trap (phán đoán)				
+1024	15	15	Lôi vào Kiếm Các Thục Đạo Hoàn Phong trap				
+1024	16	16	Phòng giam Hàn Trung ở Cửu Nghi Khê trap				
+1024	17	17	Cửu Nghi Khê Lâu 1 trap				
+1024	18	18	Biệt Viện Đường Môn trap (phán đoán)				
+1024	19	19	Đại Tán Quan trap (phán đoán)				
+1024	20	20	Hậu viện Ngu Tẩu trap (phán đoán)				
+1024	21	21	Thái hậu loan giá trap (phán đoán)				
+1024	22	22	Mật thất Long mạch trap (phán đoán)				
+1024	23	23	Mật thất Quái Lão Đầu trap (phán đoán)				
+1024	24	24	Đa Ma (phán đoán)				
+1024	25	25	Cấp 51-60 nhận nhiệm vụ chính tuyến Khu Trung Nguyên cần		1		
+1024	26	26	Cấp 51-60 nhận nhiệm vụ chính tuyến Khu Giang Nam cần		1		
+1024	27	27	Cấp 51-60 nhận nhiệm vụ chính tuyến Khu Tây Nam cần		1		
+1024	28	28	Cấp 61-70 nhận nhiệm vụ chính tuyến Khu Trung Nguyên cần		1		
+1024	29	29	Cấp 61-70 nhận nhiệm vụ chính tuyến Khu Giang Nam cần		1		
+1024	30	30	Cấp 61-70 nhận nhiệm vụ chính tuyến Khu Tây Nam cần		1		
+1024	31	31	Cấp 71-80 nhận nhiệm vụ chính tuyến Khu Tây Nam cần		1		
+1024	32	32	Cấp 71-80 nhận nhiệm vụ chính tuyến Khu Giang Nam cần		1		
+1024	33	33	Cấp 71-80 nhận nhiệm vụ chính tuyến Khu Trung Nguyên cần		1		
+1024	34	34	Cấp 81-90 nhận nhiệm vụ chính tuyến Khu Trung Nguyên cần		1		
+1024	35	35	Cấp 81-90 nhận nhiệm vụ chính tuyến Khu Tây Nam cần		1		
+1024	36	36	Cấp 81-90 nhận nhiệm vụ chính tuyến Khu Giang Nam cần		1		
+1024	37	37	Long Vương Miếu (phán đoán)				
+1024	38	38	Linh Ẩn Tự (phán đoán)				
+1024	39	39	Tiểu Xuân Tử		1		
+1024	50	50	Nhiệm vụ chiến bị		1		
+1024	51	51	Hạn chế nhiệm vụ (phó bản)		1		
+1024	52	52	Hạn chế nhiệm vụ chính tuyến		1		
+1024	53	53	Nhiệm vụ Phục Ngưu Sơn (mở rộng)		1		
+1024	54	54	Hạn chế Hậu Sơn Phục Ngưu mỗi tuần (mở rộng)		1		
+1024	55	55	Nhiệm vụ Tàn Tích Phục Ngưu Sơn Trang		1		
+1024	56	56	Đột phá nhiệm vụ 4 (mở rộng)		1		
+1024	57	57	Cơ quan thuật Tâm đắc thư (tối đa)		1		
+1024	58	58	Bách Man Sơn nhận nhiệm vụ khu vực mở rộng (số lượng tối đa)		1		
+1024	59	59	Bách Man Sơn-biến lượng nhiệm vụ chính tuyến sơ cấp mỗi ngày		1		
+1024	60	60	Bách Man Sơn-biến lượng nhiệm vụ chính tuyến trung cấp mỗi ngày		1		
+1024	61	61	Bách Man Sơn-hạn chế nhận nhiệm khu vực mở rộng		1		
+1024	62	62	Phán đoán nghi thức trao tặng		1		
+1024	63	63	Phán đoán thu phục đồng hành		1		
+1024	64	64	Phán đoán thăng cấp đồng hành		1		
+1024	65	65	Phán đoán thăng cấp kỹ năng đồng hành				
+1024	66	66	Phán đoán ngộ tính đồng hành		1		
+1024	67	67	龙影珠1		1		
+1024	68	68	龙影珠2		1		
+1025	1	1	Hạn chế nhiệm vụ chúc tết (biến lượng)		1		
+1025	2	2	Hoàn thành nhiệm vụ chính tuyến 130-139		1		
+1025	3	3	Nhiệm vụ chính tuyến 135-Hừng Hực Khí Thế		1		
+1025	4	4	Nhiệm vụ chính tuyến 135-Liên Thủy Đăng Lục		1		
+1025	5	5	Nhiệm vụ chính tuyến 135-Dương Đông Kích Tây		1		
+1025	6	6	Nhiệm vụ chính tuyến 135-Xả Thân Vì Nghĩa		1		
+1025	7	7	Nhiệm vụ chính tuyến 135-Như Từng Quen Biết		1		
+1025	8	8	Nhiệm vụ chính tuyến 135-Chẳng Như Hoài Niệm		1		
+1025	9	9	Nhiệm vụ chính tuyến 135-Tiểu Thư họ Bạch		1		
+1025	10	10	Nhiệm vụ chính tuyến 135-Mối Duyên Sơn Trại		1		
+1025	11	11	Nhiệm vụ chính tuyến 135-Thân Thế Mơ Hồ		1		
+1025	12	12	Nhiệm vụ chính tuyến 135-Du Long Tái Hiện		1		
+1025	13	13	Nhiệm vụ chính tuyến 135-Hiệp Cốt Nhu Tình		1		
+1025	14	14	Hạn chế nhiệm vụ chúc tết (biến lượng)		1		
+1025	15	15	Cầu phúc cho nạn dân-Nhang Bình An				
+1025	16	16	Cầu phúc cho nạn dân				
+1025	17	17	Biến lượng hoàn thành nhiệm vụ Thiết Phù thành chủ		1		
+1025	18	18	Biến lượng hoàn thành nhiệm vụ hộ vệ Thiết Phù thành chủ		1		
+1025	19	19	Biến lượng giao vật phẩm nhiệm vụ		1		
+1025	20	20	Biến lượng hoàn thành các bước đồng hành chuyển hóa thành chân nguyên		1		
+1025	21	21	Biến lượng hoàn thành các bước chân nguyên tham gia luyện tập		1		
+1025	22	22	Biến lượng hoàn thành các bước chân nguyên tham gia tu luyện		1		
+1025	23	23	Hoàn thành các bước chân nguyên luyện hóa thành công		1		
+1025	24	24	Biến lượng nhiệm vụ Thất tịch 2010		1		
+1025	25	25	20级剧情任务第1步完成变量		1		
+1025	26	26	20级剧情任务第2步完成变量		1		
+1025	27	27	20级剧情任务第3步完成变量		1		
+1025	28	28	20级剧情任务第4步完成变量		1		
+1025	29	29	20级剧情任务第5步完成变量		1		
+1025	30	30	20级剧情任务第6步完成变量		1		
+1025	31	31	20级剧情任务第7步完成变量		1		
+1025	32	32	20级剧情任务第8步完成变量		1		
+1025	33	33	10级剧情任务变量		1		
+1025	34	34	10级剧情任务变量		1		
+1025	35	35	10级剧情任务变量		1		
+1025	36	36	10级剧情任务变量		1		
+1025	37	37	10级剧情任务变量		1		
+1025	38	38	10级剧情任务变量		1		
+1025	39	39	10级剧情任务变量		1		
+1025	40	40	10级剧情任务变量		1		
+1025	41	41	10级剧情任务变量		1		
+1025	42	42	10级剧情任务变量		1		
+1025	43	43	10级剧情任务变量		1		
+1025	44	44	10级剧情任务变量		1		
+1025	45	45	10级剧情任务变量		1		
+1025	46	46	新手教育任务变量		1		
+1025	47	47	入门派变量		1		
+1025	48	48	10级灭火任务变量		1		
+1025	49	49	10级采草任务变量		1		
+1025	50	50	20级剧情任务完成变量		1		
+1025	51	51	20级剧情任务完成变量		1		
+1025	52	52	20级剧情任务完成变量		1		
+1025	53	53	20级剧情任务完成变量		1		
+1025	54	54	军营无尽的征程额伦河源		1		
+1025	55	55	占位		1		
+1025	56	56	占位		1		
+1025	57	57	鄂伦河原第一关完成		1		
+1025	58	58	鄂伦河原套马场完成		1		
+1025	59	59	鄂伦河原狩猎场完成		1		
+1025	60	60	鄂伦河原挑战铁木真完成		1		
+1025	61	61	鄂伦河原完成变量		1		
+1025	62	62	军营可用次数		1		
+1025	63	63	累加次数日期		1		
+1025	64	64	新伏牛山任务控制		1		
+1025	65	65	新百蛮任务控制		1		
+1025	66	66	新海陵王任务控制		1		
+1025	67	67	鄂伦河原任务控制		1		
+1025	68	68	新无尽的征程两次鄂伦河原控制		1		
+1025	69	69	80级无尽的征程控制		1		
+1025	70	70	90级无尽的征程控制		1		
+1025	71	71	100级无尽的征程控制		1		
+1025	72	72	鄂伦河原击败木华黎		1		
+1025	73	73	鄂伦河原击败拖雷		1		
+1025	74	74	鄂伦河原击败大祭祀		1		
+1025	75	75	龙魂侠影任务完成变量		1		
+1025	76	76	辰虫旧事任务完成		1		
+1025	77	77	皇陵日常任务完成		1		
+1025	78	78	皇陵日常任务5次累计变量		1		
+1025	79	79	看热闹		1		
+1025	80	80	爆炸		1		
+1025	81	81	演戏		1		
+1025	82	82	演戏保护		1		
+1025	83	83	新手村乘船保护		1		
+1025	84	84	青螺岛战国任务		1		
+1025	85	85	古墓日常逍遥完成		1		
+1025	86	86	古墓日常逍遥5次累计变量		1		
+1025	87	87	时光殿每周完成1次		1		
+1025	88	88	辰虫镇每周完成1次		1		
+1025	89	89	逍遥谷		1		
+1025	90	90	藏宝图		1		
+1025	91	91	青螺岛任务完成		1		
+1025	92	92	25级新手村过渡任务完成		1		
+1026	1	1	宝石任务之普通打孔				
+1026	2	2	宝石任务之镶嵌宝石				
+1026	3	3	宝石任务打特殊孔				
+1026	4	4	宝石任务完成不能重复接取				
+1027	52	53	军营任务参加次数统计使用				
+2000	1	1	Hệ thống đại lao-giám sát trạng thái				
+2000	2	2	Hệ thống đại lao-tẩy điểm PK (thời gian còn lại -timer)				
+2000	3	3	Hệ thống Thiên lao-thời gian ngồi tù còn lại (đơn vị: phút)				
+2000	4	4	Chức năng cấm nói		1		
+2000	5	5	禁止客户端操作		1		
+2000	6	6	客户端屏蔽其他玩家显示		1	0	
+2001			Hệ thống Tống Kim, tạm thời chưa có chi tiết				
+2001	9	9	Chiến Trường Tống Kim-điểm quân nhu		1		
+2001	12	12	Chiến Trường Tống Kim-biến lượng người chơi chưa nhận được lệnh bài		1		
+2001	13	13	Chiến Trường Tống Kim-biến lượng nhận được túi phúc		1		
+2002	1	1	Thời gian sử dụng Quả Huy Hoàng		1		
+2002	2	2	Số lần sử dụng Quả Huy Hoàng mỗi ngày		1		
+2002	3	3	Thời gian sử dụng Quả Hoàng Kim		1		
+2002	4	4	Số lần sử dụng Quả Hoàng Kim (bỏ)				
+2002	5	5	Huy hoàng Chi Quốc-Danh vọng tối đa mỗi tuần		1		
+2003	1	1000	Log thống kê hành vi người chơi				
+2004	1	1	Sự kiện mỗi ngày				
+2004	1	2	Sự kiện mỗi tuần				
+2004	1	3	Sự kiện mỗi tháng				
+2005	1	1	Tăng điểm Tinh lực, Hoạt lực tạm thời				
+2006	1	1	Tâm đắc thư-số lần sử dụng tối đa mỗi ngày		1		
+2006	2	2	Có (không) đang sử dụng Tâm đắc thư luyện công				
+2006	3	3	Tích lũy kinh nghiệm thăng cấp				
+2007	1	1	Từ Bi Tâm Kinh-log số lần sử dụng Từ Bi Tâm Kinh trong ngày hôm đó				
+2008	1	50	Chiếm dụng Lôi đài Công Bình Tử				
+2009	1	1	Số lần PK Bạch Hổ Đường		1	0	
+2009	2	2	Bạch Hổ Đường-Danh vọng tối đa mỗi tuần		1		
+2009	3	3	Bạch Hổ Đường-số lần sử dụng Lệnh bài tối đa trong tuần				
+2009	4	4	Bạch Hổ Đường-log số lần sử dụng Lệnh bài trong tuần				
+2009	5	5	Số lần PK Bạch Hổ Đường cộng thêm		1	0	
+2009	6	6	Thời gian Bạch Hổ Đường		1	0	
+2010	1	1	Tàng bảo đồ-đẳng cấp ngươi chơi đào kho báu				
+2011	1	1	Tẩy Tủy Đảo-Lệnh bài Tẩy tủy hạn chế số lần sử dụng				
+2011	15	18	Biến lượng nhiệm vụ Tẩy Tủy Đảo				
+2012	1	10	Đoán Hoa Đăng		1		
+2013	1	4	Số lần sử dụng Túi Phúc		1		
+2013	1	7	Dùng bổ sung thời gian tu luyện		1		
+2013	5	7	Ký hiệu và số lần Túi phúc người chơi server con nhận thêm sau khi gộp server		0	0	
+2014	1	1	Sử dụng nộ khí		1		
+2015	1	1	Nhiệm vụ Dã Tẩu-Uy danh tối đa mỗi tuần		1		
+2015	2	11	Uy danh giang hồ tối đa		1		
+2015	12	400	Sử dụng Tàng Bảo đồ		1		
+2015	1001	1009	Lưu số ngẫu nhiên nhiệm vụ Dã Tẩu		1		
+2015	1010	1020	江湖威望上限(扩充，以后需要扩充在此基础上扩充)				
+2015	1021	1021	江湖威望上限(家族趣味竞技)				
+2016	1	5	Đấu trường môn phái 		1		
+2017	1	3	Tuyển chọn môn phái				
+2018			Cẩm nang trợ giúp-Tin tức thời gian kích hoạt trạng thái tĩnh gần nhất		1	0	 -
+2019			Cẩm nang trợ giúp-biến lượng đọc tin tức trạng thái tĩnh mới nhất, loại bit		1	1	
+2020			Cẩm nang trợ giúp-biến lượng đọc tin tức trạng thái động mới nhất, loại bit		1	1	
+2021			Ngân hàng câu hỏi, loại bit		1	0	
+2022	1	5	Thuế giao dịch		1		
+2023	1	1	OB-hộp thư thông báo				
+2023	2	2	Hộp thư chống hack				
+2023	3	3	Tạm thời điều chỉnh các thông báo đặc biệt				
+2023	4	4	Hộp thư thông báo phần mềm Auto				
+2023	5	5	Phóng Ngũ Hành Ấn				
+2023	6	6	Hoạt động Nguyên Tiêu (người chơi phản hồi)				
+2023	7	7	Hộp thư nhắc nhở lãnh phúc lợi Uy danh				
+2023	8	8	Operation terrace-Người chơi toàn server gửi thư				
+2024	1	1	(tiểu) Tinh Khí Tán mỗi ngày hạn chế sử dụng 5 bình, log ngày		1		
+2024	2	2	(tiểu) Tinh Khí Tán mỗi ngày hạn chế sử dụng 5 bình, log cơ số		1		
+2024	3	3	(tiểu) Hoạt Lực Tán mỗi ngày hạn chế sử dụng 5 bình, log ngày		1		
+2024	4	4	(tiểu) Hoạt Lực Tán mỗi ngày hạn chế sử dụng 5 bình, log cơ số		1		
+2024	5	5	(trung) Tinh Khí Tán mỗi ngày hạn chế sử dụng 5 bình, log ngày		1		
+2024	6	6	(trung) Tinh Khí Tán mỗi ngày hạn chế sử dụng 5 bình, log cơ số		1		
+2024	7	7	(trung) Hoạt Lực Tán mỗi ngày hạn chế sử dụng 5 bình, log ngày		1		
+2024	8	8	(trung) Hoạt Lực Tán mỗi ngày hạn chế sử dụng 5 bình, log cơ số		1		
+2024	9	9	(tiểu) Tinh Khí Tán (ưu đãi) hạn chế mỗi ngày lãnh 5 bình, log ngày		1		
+2024	10	10	(tiểu) Tinh Khí Tán (ưu đãi) hạn chế mỗi ngày lãnh 5 bình, log cơ số		1		
+2024	11	11	(tiểu) Hoạt Lực Tán (ưu đãi) hạn chế mỗi ngày lãnh 5 bình, log ngày		1		
+2024	12	12	(tiểu) Hoạt Lực Tán (ưu đãi) hạn chế mỗi ngày lãnh 5 bình, log cơ số		1		
+2024	13	13	(đại) Tinh Khí Tán mỗi ngày hạn chế 5 bình, log ngày		1		
+2024	14	14	(đại) Tinh Khí Tán mỗi ngày hạn chế 5 bình, log cơ số		1		
+2024	15	15	(đại) Hoạt Lực Tán mỗi ngày hạn chế 5 bình, log ngày		1		
+2024	16	16	(đại) Hoạt Lực Tán mỗi ngày hạn chế 5 bình, log cơ số		1		
+2024	17	17	Sử dụng loại hình rương mở rộng		1		
+2024	18	19	Tu Luyện Đơn-hạn chế sử dụng		0		
+2024	20	20	Tiểu Tinh Khí Tán-số lần sử dụng thêm		1		
+2024	21	21	Tiểu Hoạt Khí Tán-số lần sử dụng thêm		1		
+2024	22	22	Sử dụng loại hình rương mở rộng		1		
+2024	23	23	福利精活小精气散购买次数		1		
+2024	24	24	福利精活小活气散购买次数		1		
+2024	25	25	弹一次标记		1		
+2024	26	40	弹一次标记		1		
+2025	1	1	Đồng khóa		1		
+2025	2	2	Độ bền cơ quan		1		
+2026			Sử dụng hệ thống hoạt động		1	0	
+2027	1	1	Sử dụng cập nhật đột xuất (2008.05.23)		1	0	
+2027	2	2	CB-sử dụng phát thưởng hoạt động (2008.06.06 đến 2008.07.06)				
+2027	3	3	Sử dụng lãnh phần thưởng di dân (2008.06.24 đến 2008.06.30)				
+2027	4	8	Server khuyến mãi căn cứ đăng nhập và đẳng cấp để phát thưởng		1	0	
+2027	9	9	Sử dụng cập nhật đột xuất (2008.08.12) (thời gian nếu bị lỗi có thể sử dụng bồi thường)		1	0	
+2027	10	10	Sử dụng bồi thường tiền cho Item phổ thông 		1	0	
+2027	11	19	Phần thưởng tân thủ, dành cho game thủ phản hồi giai đoạn CB				
+2027	20	23	Hoạt động kỷ niệm 20 năm Kim Sơn		1	0	
+2027	24	27	Hoạt động giáng sinh-nguyên đán 2008		1	0	
+2027	28	50	Hoạt động nguyên tiêu 2009		1	0	
+2027	51	51	Hoạt động nguyên tiêu 2009-ném tuyết		1	0	
+2027	52	54	Nạp thẻ nhận Lệnh bài Uy danh giang hồ		1	0	
+2027	55	55	Trị số cụ thể khi nạp thẻ nhận Lệnh bài uy danh giang hồ		1	0	
+2027	56	65	Lễ trồng cây 2009				
+2027	66	66	Bồi thường 1 giờ kinh nghiệm cơ bản (2009.04.13 đến 200904.15)	20090515			
+2027	67	67	Ký hiệu sửa biến lượng nhiệm vụ thám thính quân doanh ban đầu	20090609			
+2027	68	68	Nhận lương bản Phúc Lợi		1		
+2027	69	69	Tiêu chí nhận thưởng hệ thống Sứ giả Kiếm Thế bản 09				
+2027	70	70	Số lần được dùng đồng mua Hòa Thị Bích				
+2027	71	72	Dùng Trứng May Mắn				
+2027	73	73	Ký hiệu kích hoạt túi quà hợp tác với Lenovo		1	0	
+2027	74	74	Ký hiệu nhận túi quà hợp tác với Lenovo		1	0	
+2027	75	75	Nhận Uy danh giang hồ kích hoạt nhân vật				
+2027	76	76	Ký hiệu kích hoạt túi quà hợp tác với Pepsi		1	0	
+2027	77	77	Ký hiệu nhận túi quà hợp tác với Pepsi		1	0	
+2027	80	81	Túi Tân Thủ Võ Lâm thế gia				
+2027	82	88	Yêu Bài Võ Lâm thế gia				
+2027	89	89	Số lần dùng Bánh trung thu Nguyệt Mãn Tây Lầu (tối đa 100)    		1	0	
+2027	90	90	Giãn cách dùng lệnh bài Bổ tu				
+2027	91	91	Hòa Thị Bích tăng thời gian các lần (Thời gian giãn cách giữa 2 lần quá 20 ngày sẽ bị mất)				
+2027	92	92	Ký hiệu kích hoạt túi quà hợp tác với Dell		1	0	
+2027	93	93	Ký hiệu nhận túi quà hợp tác với Dell		1	0	
+2027	94	100	Hoạt động Noel năm mới 2009		1	0	
+2027	101	112	Trồng cây tháng 6 (Việt Nam)		1	0	
+2027	113	113	Số đạo cụ kinh nghiệm sử dụng mỗi ngày		1	0	
+2027	114	153	Hoạt động World Cup 2010		1	0	
+2027	154	154	Số lần được dùng đồng mua Anh Hùng Lệnh				
+2027	155	155	Anh Hùng Lệnh tăng số lần (Thời gian giãn cách giữa 2 lần quá 20 ngày trở về 0)				
+2027	156	157	Kích hoạt nạp thẻ		1	0	
+2027	157	157	Có thể dùng đồng mua số lần Huy Chương Thịnh Hạ				
+2027	158	158	Thời gian tăng số lần Huy Chương Thịnh Hạ (thời gian giãn cách 2 lần hơn 20 ngày sẽ về 0)				
+2027	159	159	Có thể dùng đồng mua số lần Tinh Hoa Dịch				
+2027	160	160	Thời gian tăng số lần Tinh Hoa Dịch (thời gian giãn cách 2 lần hơn 20 ngày sẽ về 0)				
+2027	161	161	Có thể dùng đồng mua số lần Hòa Thị Bích				
+2027	162	162	Thời gian tăng số lần Hòa Thị Bích (thời gian giãn cách 2 lần hơn 20 ngày sẽ về 0)				
+2027	163	168	Tết trồng cây tháng 9 Việt Nam__Có xung đột		1	0	
+2027	164	164	Số lần dùng Đồng mua Bạch Ngọc__Xung đột với phiên bản Việt Nam				
+2027	165	165	Thời gian tăng Bạch Ngọc (hai lần cách nhau quá 20 ngày trở về 0)__Xung đột với phiên bản Việt Nam				
+2027	169	173	Hoạt động Quốc Khánh 2010		1	0	
+2027	174	176	Mở phần thưởng chức năng mới của phiên bản		1	0	
+2027	177	177	Số lần mở rương Noel		1	0	
+2027	178	189	Thêm tư cách mua đạo cụ_VN		1	0	
+2027	190	192	Hoạt động Niên Thú năm mới		1	0	
+2027	193	194	Số lần mua túi 24 ô		1	0	
+2027	195	202	Thêm tư cách mua đạo cụ_VN		1	0	
+2027	203	204	Số lần Tuyết Hồn Lệnh		1	0	
+2027	205	210	Thêm tư cách mua đạo cụ_VN		1	0	
+2027	211	219	Hoạt động Đoan Ngọ	20110615		1	0
+2027	220	221	Rương chứa đồ 4		1	0	
+2028	1	3	Đấu trường gia tộc (phó bản)		1	0	
+2028	4	4	Ghi chép thời gian tham gia Tống Kim hôm nay		1	0	
+2028	5	5	Tổng số trận tham gia thi đấu gia tộc		1	0	
+2028	6	6	Số người bị gia tộc đánh bại lần gần nhất		1	0	
+2028	7	7	Số liên trảm lớn nhất của gia tộc lần gần nhất 		1	0	
+2028	8	8	Gia tộc chiến-Tổng số đánh bại		1	0	
+2028	9	9	Đấu đơn-Đánh bại nhiều nhất		1	0	
+2028	10	10	Đấu đơn-Liên trảm nhiều nhất		1	0	
+2028	11	11	家族古金币变量		1	0	
+2028	12	12	上次领取家族药箱的时间				
+2028	13	13	高级家族关卡时间（占位）		1	0	
+2029	1	1	Online phân phối điểm kỹ năng		1	1	
+2029	2	2	Online phân phối điểm kỹ năng		1	1	
+2029	3	3	Treo máy lúc đang phân phối điểm gây ra trạng thái		0	0	
+2030	1	4	Sử dụng Ốc biển truyền thanh		0	0	1:上次公聊的日期，YYYYMMDD; 2:付费次数*1000+免费次数; 3:上次聊天的级别; 4:跨服聊天次数
+2031	1	1	Số lần có thể tiếp tục nhận nhiệm vụ		1		
+2032	1	1	Giấy phép bày bán, thời gian tích lũy bày bán		1		
+2033	1	1	Bạc khóa		1		
+2034	1	1	Số lượng tiêu phí đồng				
+2034	2	2	Tích lũy tiêu hao đồng				
+2034	3	3	Tích lũy tiêu hao đồng (tháng)				
+2034	4	4	Tích lũy tiêu hao đồng (trong tháng)				
+2034	5	5	Hoạt động khuyến mãi, tích lũy số lượng đồng tiêu xài		1		
+2034	6	6	Sử dụng đủ 500 đồng sẽ trả lại 100 đồng khóa. Số lần đã nhận		1		
+2034	7	7	Số lần nhận đồng khóa tháng trước có phải đã tẩy về 0?				
+2034	8	8	Tiêu phí đồng trong tháng-Người chơi Thịnh Đại				
+2034	9	9	Tiêu phí đồng trong tháng-Người chơi Thịnh Đại				
+2034	10	10	Túi Tân Thủ		1	0	
+2034	11	11	绑银返还		1	0	
+2035			Lưu trạng thái tin tức		1	1	
+2036	1	23	Nhiệm vụ thương hội		1	0	
+2037	1	40	Hoạt động thu thập danh thiếp		1	0	
+2038	1	1	Hoạt động pháo hoa	20090701			
+2038	2	5	Hoạt động OB	20090701			
+2038	6	8	Tích lũy đến 48 điểm, mỗi ngày sẽ nhận được 30 phút x2 kinh nghiệm, Truyền tống phù, Càn Khôn phù		1		
+2038	9	9	Hoạt động pháo hoa Thịnh Hạ 2009	20090901			
+2038	10	11	累积充值满15，每天可以领取5个对应等级的菜		1		
+2039	1	4	Bách gia bình chọn	20090701			
+2039	5	9	Tuyển chọn gia tộc Thịnh Hạ 2009	20091001			
+2040	1	4	Nhiệm vụ truy nã		1	0	
+2040	5	5	Võ Lâm Mật Tịch (sơ)		1	0	
+2040	6	6	Tẩy Tủy Kinh (sơ)		1	0	
+2040	7	7	Nhiệm vụ truy nã-biến lượng khi đánh quái của nhiệm vụ rơi ra vật phẩm		1	0	
+2040	8	8	Võ Lâm Mật Tịch (trung)		1	0	
+2040	9	9	Tẩy Tủy Kinh (trung)		1	0	
+2040	10	10	Mật tịch võ lâm cao cấp (Bánh ít thập cẩm)		1	0	
+2040	11	11	Tẩy Tủy Kinh cao cấp (Bánh ít bát bảo)		1	0	
+2040	12	18	Khu vực x4		1	0	
+2040	20	20	Thái Vân Truy Nguyệt (cộng điểm tiềm năng)		1	0	
+2040	21	21	Thương Hải Nguyệt Minh (cộng điểm kỹ năng)		1	0	
+2040	22	23	Truy Nã		1	0	
+2041			Lưu điểm vinh dự		1	0	
+2042			Lưu xếp hạng vinh dự		1	0	注：这个任务变量是临时的，之后可能会删
+2043	1	101	Nhiệm vụ quân doanh		1	0	
+2044	1	11	Đạo cụ quân doanh		1	0	
+2045	1	100	Dùng trên Server thể nghiệm				
+2046	1	2	Hoạt động Trung Thu		1	0	
+2047	1	14	Hoạt động Vương Lão Cát				
+2048	1	1	Gia tộc phó bản số lần tham gia mỗi ngày				
+2048	2	2	Thi đấu môn phái-số lần tham gia mỗi ngày				
+2048	3	3	Đào bảo-số lần tham gia mỗi ngày				
+2048	4	4	Nhiệm vụ truy nã-số lần tham gia mỗi ngày 				
+2048	5	5	Đoán Hoa Đăng-số lần tham gia mỗi ngày 				
+2048	6	6	Tống Kim-số lần tham gia				
+2048	7	7	Tổng kinh nghiệm gia công kỹ năng sống				
+2048	8	8	Tổng kinh nghiệm chế tạo kỹ năng sống				
+2049			Hệ thống chúc phúc		1	0	
+2050	1	5	Vượt ải Tiêu Dao cốc		1		
+2050	20	40	Khiêu chiến Tiêu Dao Cốc (thẻ)		1		
+2050	41	50	Khiêu chiến Tiêu Dao Cốc				
+2050	51	52	Đổi bạc không khóa		1	0	
+2050	53	53	Mỗi ngày nhận miễn phí dược phẩm Tiêu Dao Cốc		1		
+2050	54	54	Độ khó Tiêu Dao Cốc hiện tại		1		
+2050	55	65	Tích lũy Tiêu Dao Cốc		1		
+2050	66	70	Tiêu Dao Hoàn Thần Đơn		1		
+2051			Sử dụng server thể nghiệm dự phòng				
+2052	1	8	Võ Lâm Liên Đấu				
+2052	9	20	Võ Lâm Liên Đấu cùng Client		1	0	
+2052	21	23	武林大会英雄令兑换标记占位		1	0	
+2053	1	27	Trang bị tài phú tuần này				
+2054	1	1	Thời gian tạo mới điểm vinh dự lần trước		0	0	
+2054	2	2	Lưu đẳng cấp Vinh Dự Võ Lâm		1	0	
+2054	3	3	Lưu đẳng cấp Vinh Dự Thủ Lĩnh		1	0	
+2054	4	4	Lưu đẳng cấp Vinh Dự Tài Phú		1	0	
+2054	5	5	Bỏ giá trị tích lũy		1	0	
+2054	6	6	Kích hoạt giá trị đồng hành		1	0	
+2054	7	7	Thống kê tổng tích lũy rời mạng		1	0	
+2055	1	1	Người chơi gửi đồng ở Tiền trang (tổng số)		1		
+2055	2	2	Người chơi gửi bạc ở Tiền trang (tổng số)		1	0	
+2055	3	3	Người chơi rút đồng hiện tại (tối đa)		1	0	
+2055	4	4	Người chơi rút bạc hiện tại (tối đa)		1	0	
+2055	5	5	Rút đồng tối đa (thời gian hiệu lực)		1	0	
+2055	6	6	Rút bạc tối đa (thời gian hiệu lực)		1	0	
+2055	7	7	Đồng chưa có hiệu lực (tối đa)		1	0	
+2055	8	8	Bạc chưa có hiệu lực (tối đa)		1	0	
+2055	9	9	Log không đủ đồng khóa		0	0	
+2055	10	10	Log không đủ bạc khóa		0	0	
+2055	11	11	Thời gian rút đồng		0	0	
+2055	12	12	Số lượng đồng rút trong ngày		0	0	
+2055	13	13	Thời gian rút bạc		0	0	
+2055	14	14	Số lượng bạc rút trong ngày		0	0	
+2056	1	18	vip chiếm chỗ				
+2057	1	1	Log thời gian người chơi có thể trực tiếp lãnh tiền		1		
+2058	1	500	Dữ liệu lãnh thổ đồng bộ				
+2059	1	5	Lãnh thổ tranh đoạt chiến		1	0	
+2059	6	18	Bồi thường nhiệm vụ quân doanh		0	0	
+2060	1	1	Thời gian người chơi lãnh thưởng hoạt động tuần này				
+2061	1	1	log nhiệm vụ theo dấu-ID nhiệm vụ				
+2062	1	3	Log người chơi hiện tại đã kích hoạt các kỹ năng buff		1	1	
+2062	4	4	IP đăng nhập lần trước		1	1	
+2063	1	1	Thời gian đăng nhập lần trước (OnLogin- trị số này có thể dị thường)		0	0	
+2063	2	2	Log ID người chơi liên Server		0	0	
+2063	3	3	Tài khoản có bị khóa hay không				
+2063	4	4	Chuyển server ghi lại tên cổng thông tin server ban đầu của người chơi		0	0	
+2063	5	12	Chuyển server ghi lại vị trí ở server ban đầu của người chơi				
+2063	13	15	Lần đăng nhập trước				
+2063	16	17	Số ngày đăng nhập trong tháng		0	0	
+2063	18	20	Thời gian tích lũy đăng nhập trong ngày		1	0	
+2063	21	21	当天登陆的累计时间		1	0	
+2063	22	22	上次登录的UI版本		1	0	
+2063	23	23	限制仓库取道具权限		1	0	
+2063	24	25	体服仓库获取银两				
+2064	1	13	Lôi đài (Ném tuyết)		1	0	
+2064	14	23	Thi đấu (Thuyền Rồng)		1	0	
+2065	1	1	Gộp Server ưu tiên thời gian Tu Luyện Châu lần trước		0	0	
+2065	2	2	Người chơi có phải đã lãnh bồi thường thời gian luyện công sau khi gộp server?		0	0	
+2065	3	3	Bồi thường thời gian luyện công cho người chơi sau khi gộp server		0	0	
+2065	4	4	合服之后玩家物品补偿		0	0	
+2066			Số lần vào Tàng bảo đồ		1		
+2067	1	1	Thời gian Sư đồ tham gia Bạch Hổ Đường (số lần)		0	0	
+2067	2	2	Thời gian Sư đồ tham gia Tống Kim (số lần)		0	0	
+2067	3	3	Thời gian Sư đồ tham gia Lôi đài môn phái (số lần)		0	0	
+2067	4	4	Thời gian Sư đồ tham gia truy nã (số lần)		0	0	
+2067	5	5	Thời gian Sư đồ tham gia Nhiệm vụ nghĩa quân(số lần)		0	0	
+2067	6	6	Sư đồ truyền công tuần này (số lần)		0	0	
+2067	7	7	Thời gian người chơi truyền công lần trước		0	0	
+2067	8	9	Hạn chế sử dụng Tu Luyện Hoàn (8 biểu thị thời gian người chơi sử dụng Tu Luyện Hoàn, 9 biểu thị số lần người chơi sừ dụng Tu Luyện Hoàn trong ngày hôm đó)		0	0	
+2067	10	11	Số lần xin bái sư trong ngày		1	0	
+2067	12	12	Ngày nhận buff sư đồ lần trước của đệ tử		1	0	
+2067	13	13	Ghi chép số quan hệ xuất sư		1	0	
+2069	1	5	Hoạt động Quốc khánh 2009 (thu thập thẻ)		1	0	
+2069	6	61	56 thẻ dân tộc hoạt động Quốc khánh 2009 (thu thập thẻ)		1	0	
+2069	70	71	56 thẻ dân tộc hoạt động Quốc khánh 2009 (thu thập thẻ)		1	0	
+2069	72	74	Trung thu 2009 bắt thỏ		1	0	
+2069	75	78	Bắt thỏ ngọc 2010		1	0	
+2069	79	82	Ăn bánh trung thu 2010		1	0	
+2070	1	5	Hệ thống quảng cáo viên		0	0	
+2070	6	6	Hệ thống quảng cáo viên		1	0	
+2070	7	10	Hệ thống quảng cáo viên		0	0	
+2080	1	1	Bạc khóa đổi bạc không khóa		1	0	
+2081	1	1	Biến lượng nhiệm vụ bang hội				
+2081	2	5	Hạn chế sử dụng Thỏi bạc bang hội		1	0	
+2525	2	2	Đã bỏ-xin đừng sử dụng		1	1	
+2082	1	5	Mời người chơi cũ quay lại, log tin tức hoàn thành nhiệm vụ		1	0	
+2082	6	8	Mời người chơi cũ quay lại, ký hiệu người chơi cũ		1	0	
+2082	9	13	Hoạt động mời người chơi cũ quay lại, nhận lời chúc phúc của những người chơi thường Online		1	0	
+2082	14	14	Mời người chơi cũ quay lại, số lần người chơi cũ nhận chúc phúc		1	0	
+2082	15	16	Mời người chơi cũ quay lại, (15 người chơi cũ lập tức rời khỏi gia tộc, 16 người chơi cũ sẽ gia nhập gia tộc)		1	0	
+2082	17	17	Mời người chơi cũ quay lại, có phải đã có quan hệ người mời		1	0	
+2082	18	18	Mời người chơi cũ quay lại, thời gian thành lập quan hệ người mời		1	0	
+2082	19	26	log lãnh thưởng người chơi cũ quay lại		0	0	
+2083	1	1	Tích lũy tháng lãnh lần trước				
+2083	2	2	Số lần đã lãnh qua				
+2083	3	3	Người chơi VIP đổi tích lũy tháng thứ 1 còn dư		1		
+2083	4	4	Người chơi VIP đổi tích lũy tháng thứ 2 còn dư		1		
+2083	5	5	Người chơi VIP đổi tích lũy tháng thứ 3 còn dư		1		
+2083	6	6	Người chơi VIP đổi tích lũy tháng thứ 4 còn dư		1		
+2083	7	11	VIP hoàn trả tháng 12/2009		0		
+2084	1	10	Liên quan việc Võ Lâm chuyển Kiếm Thế		1	0	
+2085	1	1	Kéo dài tách trang bị		0	0	
+2085	2	2	Kéo dài tách đồng hành		0	0	
+2085	3	3	Kéo dài xóa đồng hành		0	0	
+2085	4	4	Kéo dài mở khóa trang bị đồng hành		0	0	
+2085	5	5	Chân nguyên hoãn mở khóa		1	0	
+2085	6	6	宝石延迟解绑		1	0	
+2085	7	7	宝石延迟拆解		1	0	
+2085	8	8	护体真元转化		1	0	
+2085	9	10	绑定银行		0		
+2086	1	10	Liên quan Bách Bảo Rương		1	0	
+2087	1	20	Thời gian tiếp nhận của Client Script Hộp thư		1	1	
+2088			Biến lượng trạng thái Client Script Hộp thư		1	1	
+2089	1	20	Số thứ tự Client Script Hộp thư đối ứng		1	1	
+2090	1	1	Tự động hủy thời gian cấm nói				
+2090	2	2	Tự động hủy chức năng thiên lao				
+2091			Sử dụng Chỉ lệnh Online bản Ma Lai				
+2091	1	1	(Mã Lai) biểu tượng  kích hoạt "Lễ bao Tân thủ"		1	0	
+2091	2	2	(Mã Lai) biểu tượng  kích hoạt "Vật phẩm Tân thủ"		1	0	
+2091	3	3	Đài Loan- ký hiệu nhận vật phẩm lãnh thổ		1	0	
+2091	4	4	买来跨服宋金		1	0	
+2092			Sử dụng Chỉ lệnh Online bản Snda				
+2092	1	1	Kinh nghiệm cơ bản phiên bản Thịnh Đại tặng	20090731			
+2092	2	2	Bản Thịnh Đại_Trao tặng Bạch Câu Hoàn	20090731			
+2092	3	3	Bản Thịnh Đại_1/6 tặng mặt nạ	20090731			
+2092	4	4	[Thông dụng] Kênh vận hành chỉ lệnh tặng kinh nghiệm				
+2092	5	5	[Thông dụng] Kênh vận hành chỉ lệnh tặng Bạch Câu Hoàn				
+2092	6	6	[Thông dụng] Kênh vận hành chỉ lệnh tặng cường hóa giảm 20%				
+2092	7	7	Bản Snda thăng cấp tặng kinh nghiệm	20090831			
+2092	8	10	Sử dụng Script Bản Snda				
+2093			Sử dụng Chỉ lệnh Online bản Kingsoft				
+2093	1	1	Ghi chép sửa nhận thưởng Tiêu Dao Lục	20090731			
+2093	2	2	Hợp khu thất bại bồi thường 3 giờ thời gian Bạch Câu	20090731			
+2093	3	3	Hợp khu thất bại bồi thường đồng đã giao dịch	20090731			
+2093	4	4	Ghi chép sửa nhận thưởng Tiêu Dao Lục	20090731			
+2093	5	8	Biến lượng hoạt động trực tuyến	20090830			
+2093	9	9	Bá Chủ Ấn sửa trực tuyến	20090728			
+2093	10	10	Phiên bản Kingsoft online sửa lỗi mỹ nữ hack hoa hồng khấu trừ ký hiệu	20091220			
+2093	11	11	Phiên bản Kingsoft online sửa lỗi mỹ nữ hack hoa hồng khấu trừ giá trị còn dư	20091220			
+2093	12	12	Phiên bản Kingsoft online sửa lỗi mỹ nữ hack hoa hồng khấu trừ người trơi trong sạch	20091220			
+2093	13	13	Bản KingSoft Quốc khánh cuồng nhiệt				
+2093	14	14	Thưởng bồi thường Đại Hội Võ Lâm				
+2093	15	15	Thưởng thêm bồi thường Đại Hội Võ Lâm				
+2093	16	17	Phiên bản OB biến lượng pháo hoa quá hạn thay đổi				
+2093	18	18	Sửa bug hoạt động Tết 2010				
+2093	19	20	2010-Túi tiền Thanh Minh				
+2093	21	21	Tuyển chọn mỹ nữ Đại Hội Võ Lâm				
+2093	22	22	Biến lượng nhiệm vụ bồi thường Võ lâm liên đấu				
+2093	23	23	Giãn cách giữa 2 lần đăng giá giao dịch đồng (chính thức)				
+2093	25	25	Bồi thường gộp server Sina				
+2093	26	26	Hoàn trả túi quà tháng Duba				
+2093	27	27	Hạn chót nhận túi quà đặc biệt				
+2093	28	30	Rút thưởng năm 2011				
+2093	31	31	Số lần chỉnh sửa bug Dạ Lam Quan				
+2093	32	32	Ghi chép bồi thường ủy thác rời mạng gộp server				
+2093	33	35	Phục hồi người chơi cũ trở về				
+2093	36	36	Phần thưởng bồi thường Lệnh bài võ lâm liên đấu				
+2093	37	37	Nhận sức chiến đấu Lâu Lan Cổ Thành				
+2093	38	42	Hoạt động kinh nghiệm máy chủ xanh				
+2093	43	44	Vật phẩm hoạt động Tinh Anh Đoan Ngọ 				
+2093	45	46	联赛奖励bug修复				
+2093	47	48	石头bug修复				
+2093	49	49	家园种树修复				
+2093	50	60	光棍节活动				
+2093	61	61	新旧UI切换提示				
+2093	62	62	侠义值修复				
+2093	63	63	新服活动修复				
+2093	64	64	老玩家修复				
+2093	65	66	2012愚人节活动				
+2093	67	67	清明节活动				
+2093	68	68	2012六一节活动				
+2094	1	12	Thống kê những người chơi bị lỗi				
+2094	50	69	Ghi chép tổng số lần nhân vật tham gia hoạt động				
+2095	1	512	Hoạt động tuyển chọn mỹ nữ	20091001			
+2095	513	514	Kỹ năng buf tuyển chọn mỹ nữ				
+2096			Bảng hệ thống hoạt động				
+2097	1	18	Biến lượng liên quan nhiệm vụ khai môn Lãnh thổ chiến		1	0	
+2097	19	19	Ký hiệu người chơi đã phỉ báng hoặc bái tượng		1	0	
+2097	20	20	Ký hiệu người chơi đã phỉ báng hoặc bái tượng		1	0	
+2098	1	10	Liên quan Tần Lăng		1	0	
+2099	1	1200	Quan chiến		0	0	
+2100	1	2	Chiêu mộ gia tộc		0	0	
+2101	1	5	Nhận định tư cách Đại Hội Võ Lâm		1	0	
+2102	1	30	Đại Hội Võ Lâm		0	0	
+2103	1	100	Cuộc thi đấu gia tộc		1	0	
+2104	1	4	Trị ban đầu của tiền dùng chung liên server		0		
+2105	1	5	Xử lý người chơi làm mới đạo cụ không hợp pháp		1		
+2106	1	3	[Hệ thống Chiến Thần] Du Long Quật		0	0	
+2106	4	5	[Hệ thống Chiến Thần] Du Long Quật-Trứng vui vẻ		1	0	
+2106	6	6	[Hệ thống Chiến Thần] Du Long Quật		0	0	
+2106	7	7	[Hệ thống Chiến Thần] Du Long Quật		0	0	
+2106	8	9	[Hệ thống Chiến Thần] Du Long Quật		0	0	
+2106	10	11	[Hệ thống Chiến Thần] Du Long Quật		0	0	
+2106	12	12	[Hệ thống Chiến Thần] Du Long Quật		0	0	
+2106	13	13	[Hệ thống Chiến Thần] Du Long Quật		0	0	
+2106	14	14	[Hệ thống Chiến Thần] Du Long Quật		0	0	
+2106	15	15	[Hệ thống Chiến Thần] Du Long Quật		0	0	
+2107			Hệ thống thành tựu		1	0	
+2108	1	40	Liên quan Vip chuyển server		1	0	
+2109	1	5	Phó Bản Sư Đồ				
+2110	1	100	Bồi thường biến lượng gộp server		1	0	
+2111	1	40	Toàn cục Võ lâm liên đấu		1	0	
+2112	1	2	Cơ số dùng sách kinh nghiệm đồng hành		1		
+2112	3	4	Sử dụng cơ số Thiệp lụa		1		
+2112	5	13	跟宠		1		
+2113	1	34	Hoạt động Tết 2010		1	0	
+2114	1	30	Hệ thống kết hôn		1	0	
+2115	1	2	Lệnh bài Uy danh giang hồ		1	0	
+2116	1	100	Hộp lưu trữ		1	0	
+2117			Phiên bản Việt Nam dùng				
+2117	1	1	Phiên bản Việt Nam dùng-Túi Quà Kích Hoạt				
+2118	1	15	[Thủ Tháp] Cương Thi Đại Chiến Thực Vật Nhân 		1	0	
+2119	1	15	Lễ lao động 		1	0	
+2120			Danh sách túi quà				
+2121	1	8	Nạn động đất				
+2122	1	20	在线领奖		1	0	
+2122	21	23	在线领奖		1	0	
+2123			副本通用机制		1	0	
+2124	1	4	越南合成水晶		1	0	
+2124	5	8	越南经验道具变量		1	0	
+2124	9	9	越南冲级领取装备		1	0	
+2125	1	20	侠客岛相关		1	0	
+2125	21	21	侠客岛城主任务交和氏璧数量		1	0	
+2126	1	4	金牌网吧		1	0	
+2126	5	28	金牌联赛1阶段		1	0	
+2126	29	29	金牌联赛补偿		1	0	
+2127			成就系统完成标记		1	0	
+2128			成就系统辅助标记		1	0	
+2129			玩家成就数值		1	0	
+2130	1	6	经验任务		1	0	
+2131	1	71	七夕活动		1	0	
+2132	1	11	战斗力		1	0	
+2133	1	4	真元军营任务提升经验		1	0	
+2134	1	2	累计真元历练经验时间		1	0	
+2135	1	2	真元数据埋点需要LOG		0	0	
+2136	1	12	新藏宝图副本		1	0	
+2137			台湾版特殊变量组		0	0	
+2137	1	1	手机锁开关		0	0	
+2137	2	2	玩家已使用的充值额点数		1	0	
+2137	3	3	玩家已使用的充值额点数清除时间		1	0	
+2138	1	20	老玩家回归		1	0	
+2138	21	40	老玩家回归-剑啸狂沙		1	0	
+2138	41	70	老玩家回归-20110915		1	0	
+2138	71	102	老玩家回归-201203		1	0	
+2138	103	142	老玩家回归-201207		1	0	
+2138	143	157	老玩家回归-201209		1	0	
+2139	1	15	淘宝合作活动		1	0	
+2140	1	13	越南10月黄金白银龙活动		1	0	
+2141	1	515	美女选举活动	20101230	0	0	
+2141	516	518	巾帼英雄赛		0	0	
+2141	519	520	巾帼英雄赛跨服奖励带回		0	0	
+2142	1	30	铁浮城相关		1	0	
+2143	1	18	越南201011月活动		1	0	
+2143	19	23	越南201101月煮粽子活动		1	0	
+2143	24	30	越南201101月烟花&五果盘活动		1	0	
+2143	31	34	越南201104月		1	0	
+2144	1	12	各个系统每天参加次数		1	0	
+2145	1	1	是否隐藏披风		1	0	
+2146	1	15	热血侠客岛占位		0	0	
+2147	1	25	越南12月活动		1	0	
+2147	26	36	越南201103月活动		1	0	
+2147	37	45	越南201104月活动		1	0	
+2148	1	40	大逃杀		1	0	
+2149	1	12	漂流瓶		1	0	
+2150	1	23	跨服白虎		1	0	
+2151	1	22	2011情人节活动		1	0	
+2152	1	10	2011元宵节活动		1	0	
+2153			台湾版玩家参与活动统计标记		1	0	
+2154	1	30	新版vip活动占位		1	0	
+2155	1	20	同庆半边天活动占位		1	0	
+2156	1	3	2011植树节活动		1	0	
+2157	1	1	技能存盘		1	1	
+2158			SNS服务相关		1	1	
+2159	1	20	侠客日常任务		1	0	
+2160	1	5	清明节活动占位		1	0	
+2161	1	5	楼兰古城		1	0	
+2162			盛大五一活动变量		1	0	
+2163	1	19	五一美酒节活动变量占位		0	0	
+2164	1	13	高级特权		1	0	
+2165	1	15	玩家奇珍阁最近购买商品id列表,金币区		1	0	
+2166	1	15	玩家奇珍阁最近购买商品id列表,绑金区		1	0	
+2167	1	10	周年庆，佳肴活动	20110716	0	0	
+2168	1	1	家族技能贡献度		1	0	
+2169	1	20	梦回采石矶		1	0	
+2170	1	25	角色打分，用于标记角色与工作室号的匹配程度		0	0	
+2171	1	2	真元历练丸		1	0	
+2173			台湾功能占位		1	0	
+2174	1	50	周末常规钓鱼占位		1	0	
+2175	1	1	抽奖保护		1	0	
+2175	2	9	角色转移		1	0	
+2176	1	9	2011中秋		1	0	
+2176	10	17	新服活动		1	0	
+2176	18	100	国庆寒武猜奖		1	0	
+2176	101	105	国庆寒武猜奖		1	0	
+2176	106	116	新服活动		1	0	
+2176	117	126	家园系统		1	0	
+2176	127	130	家族聚义礼包		1	0	
+2177	1	3	阴阳时光殿领取记录		1	0	
+2178			反外挂打分		0	0	
+2179	1	7	无差别竞技		1	0	
+2179	8	8	任务修复		1	0	
+2179	9	19	无差别竞技		1	0	
+2179	20	20	新手标志		1	0	
+2179	21	21	无差别竞技		1	0	
+2180	1	1	MINI客户端标记		1	1	
+2181	1	2	指引		1	1	
+2181	3	3	保存玩家的创建时间		1	0	
+2181	4	4	上次判断菜的时间		1	1	
+2181	5	5	上次判断储物箱的时间		1	1	
+2181	6	6	上次判断玄晶合成的时间		1	1	
+2182			活跃度		1	0	
+2183	1	8	新服固定活动		0	0	
+2184	1	5	加速声望值		1		
+2185	1	11	2011圣诞活动				
+2186	1	2	披风魂石返还道具				
+2187	1	24	2012春节活动				
+2188	1	5	2012情人节				
+2189	1	512	2012情人节	20120501			
+2189	513	519	2012情人节认证buf				
+2189	520	520	五一开心蛋活动				
+2189	521	525	美女认证日常活动				
+2190	1	20	2012妇女节		1	0	
+2191	1	20	克夷门战场		1	0	
+2192	1	20	2012清明节		1	0	
+2192	21	42	2012六一		1	0	
+2192	43	43	通用界面绑银		1	0	
+2192	44	45	2012六一		1	0	
+2192	46	70	2012端午		1	0	
+2193			越南占位		1	0	
+2194	1	5	欧洲杯竞猜		1	0	
+2195	1	52	日常回流		1	0	
+2196	1	10	家族工资		1	0	
+2197	1	42	2012奥运活动		1	0	
+2198	1	8	副密码权限		1	0	
+2199	1	2	福利药箱		1	0	
+2200	1	5	新战场		1	0	
+2201	1	21	载具快捷键记录		1	1	
+2202	1	2	玩家拥有载具技能编号(前4位左键，后4位右键)		1	0	
+2203	1	10	藏宝图次数		1	0	
+3000	1	3	Nhận thưởng hàng ngày (add; 1-ngày 2-đếm số lần 3-tính thời gian)		0	0	
+3001	1	4	Nhiệm vụ truy nã				
+3001	5	5	Võ Lâm Mật Tịch (sơ)				
+3001	6	6	Tẩy Tủy Kinh (sơ)				
+3001	7	7	Nhiệm vụ truy nã-biến lượng khi đánh quái của nhiệm vụ rơi ra vật phẩm				
+3001	8	8	Võ Lâm Mật Tịch (trung)				
+3001	9	9	Tẩy Tủy Kinh (trung)				
+3001	10	10	Mật tịch võ lâm cao cấp (Bánh ít thập cẩm)				
+3001	11	11	Tẩy Tủy Kinh cao cấp (Bánh ít bát bảo)				
+3001	12	18	Khu vực x4				
+3001	20	20	Thái Vân Truy Nguyệt (cộng điểm tiềm năng)				
+3001	21	21	Thương Hải Nguyệt Minh (cộng điểm kỹ năng)				
+3001	22	23	Truy Nã				
+3002	1	1	Truy Nã				
+3003	1	4	Thưởng thăng cấp(120, 130, 140,150)		0	0	
+3004	1	5	Check Version		0	0	
+3005	1	1	Giftcode 1		0	0	
+3006	1	5	Event Năm mới 2013		0	0	
+3007	1	5	Thưởng Top		0	0	
+3008	1	2	Thưởng bao vạn đồng 50q		0	0	
+8888	1	2	Chuyển Sinh		0	0	
+3009	1	300	Task Dùng Hộp Quà Vua Hùng				
+3010	1	1	Task Ngày Giỗ Tổ				
+3011	1	300	Task Dùng Bánh Trôi Nước				
+3012	1	300	Task Gắn HC Vàng				
+3013	1	4	Task Nhận Gắn HC				
+3020	1	1	Task x2 KN				
+3021	1	1	Cá Chép				
+3022	1	1	Cá Rô				
+3023	1	1	Cá Ba Đuôi				
+3024	1	1	Cá Trích				
+3025	1	1	Give Cá Trích				
+3026	1	1	Task Nap The				
+3027	1	1	Task Dem So Lan Len Dao				
+3028	1	1	Task Giftcode				
+3029	1	17	giao thong		0	0	
+3030	1	10	Hệ thống vận tiêu		0	0	
+4002	1	1	Danh Vọng		0	0	
+5000	1	10	Đặc Sản 12 Môn Phái		0	0	

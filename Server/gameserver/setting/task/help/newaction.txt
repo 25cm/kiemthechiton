@@ -1,0 +1,829 @@
+Tiêu đề	Nội dung	Không hiển thị	EndTag
+[Tàng Bảo Đồ] Phó bản Tàng Bảo Đồ	"<color=lightblue>Phó bản Tàng Bảo Đồ<color>
+
+    <color=green>1. Phó bản Tàng Bảo Đồ mới và cũ có gì khác?<color>
+    1. Phó bản Tàng Bảo Đồ do các Hiệp Sĩ sở hữu <color=yellow>Lệnh bài phó bản tương ứng<color>, và đối thoại với <color=yellow>Quan Quân Nhu Nghĩa Quân<color> để vào (phó bản khác nhau yêu cầu cấp khác nhau).
+    2. Lệnh bài Vạn Hoa Cốc, Thiên Quỳnh Cung mà các Hiệp Sĩ sở hữu trước đây vẫn có thể tiếp tục sử dụng theo cách cũ, nhưng không thể làm bằng chứng để vào phó bản từ chỗ Quan Quân Nhu Nghĩa Quân.
+    3. Căn cứ chỉ dẫn của Tàng Bảo Đồ, các Hiệp Sĩ không thể trực tiếp tìm được lối vào phó bản, mà chỉ nhận được Lệnh bài phó bản (<color=yellow>khóa<color>).
+    4. Mọi phó bản đều tồn tại <color=yellow>2 giờ<color>, mỗi ngày mỗi Hiệp Sĩ có thể khiêu chiến tối đa <color=yellow>10 phó bản<color>.
+
+    <color=green>2. Cách nhận Lệnh bài Tàng Bảo Đồ?<color>
+    1. Hiệp sĩ trên cấp 50 mỗi tuần có thể đến chỗ <color=yellow>Quan Quân Nhu Nghĩa Quân nhận 2 Lệnh bài<color>, nếu cống hiến gia tộc và cống hiến cá nhân tuần trước đã hoàn thành đến cấp 1 có thể <color=yellow>nhận thêm 2 Lệnh bài<color> nữa. Cụ thể như sau:
+      <table=0>
+<tr=0,0,2,0,Orange><td=0,0,5,1>Cấp</td><td=0,0,5,1>Loại lệnh bài</td><td=0,0,5,1>Số lượng</td></tr>
+<tr=0,0,1,1,hide><td>50-69</td><td>Lệnh bài Bách Niên Thiên Lao (1 sao)</td><td>2</td></tr>
+<tr=0,0,1,2,gray><td>70-79</td><td>Lệnh bài Đào Chu Công Mộ Chủng (1 sao)</td><td>2</td></tr>
+<tr=0,0,1,1,hide><td>80-89</td><td>Lệnh bài Đại Mạc Cổ Thành (1 sao)</td><td>2</td></tr>
+<tr=0,0,1,2,gray><td>90-94</td><td>Lệnh bài Vạn Hoa Cốc (1 sao)</td><td>2</td></tr>
+<tr=0,0,1,1,hide><td>95-109</td><td>Lệnh bài Thiên Quỳnh Cung (1 sao)/Lệnh bài Vạn Hoa Cốc (1 sao)</td><td>Mỗi loại một</td></tr>
+<tr=0,0,1,2,gray><td>Trên 110</td><td>Lệnh bài Thiên Quỳnh Cung (2 sao)/Lệnh bài Vạn Hoa Cốc (2 sao)</td><td>Mỗi loại một</td></tr>
+</table>
+    2. Dùng <color=yellow>Đào Tàng Bảo Đồ<color>, có thể nhận được Lệnh bài phó bản; 
+    3. Mỗi ngày đăng nhập, <color=yellow>Rương Ban Phúc<color> có xác suất mở được Lệnh bài thông dụng, <color=yellow>đăng nhập liên tục 12 ngày<color> có thể nhận được Lệnh bài thông dụng.
+
+    Chú ý: Tất cả Lệnh bài đều <color=yellow>khóa<color>.
+
+        <color=green>3. Làm sao để vào phó bản Tàng Bảo Đồ?<color>
+    1. Hiệp Sĩ trên cấp 50, có Lệnh bài Tàng Bảo Đồ tương ứng hoặc Lệnh bài thông dụng, có thể đối thoại với Quan Quân Nhu Nghĩa Quân, chọn phó bản và độ khó để vào, đồng thời sẽ bị khấu trừ 1 Lệnh bài tương ứng (<color=yellow>ưu tiên khấu trừ Lệnh bài tương ứng<color>); 
+    2. Những Hiệp Sĩ tổ đội vào phó bản <color=yellow>thành viên trong đội đều phải có<color> Lệnh bài phó bản tương ứng.
+
+     <color=green>4. Các loại phó bản Tàng Bảo Đồ:<color>
+<table=0><tr=0,0,2,0,Orange><td=0,0,5,1>Tên phó bản</td><td=0,0,5,1>Bách Niên Thiên Lao</td><td=0,0,5,1>Đào Chu Công Mộ Chủng</td><td=0,0,5,1>Cổ Thành Chi Mê</td><td=0,0,5,1>Vạn Hoa Cốc</td><td=0,0,5,1>Thiên Quỳnh Cung</td></tr>
+<tr=0,0,1,1,hide><td>Độ khó ★</td><td>Trên cấp 50</td><td>Trên cấp 70</td><td>Trên cấp 80</td><td>Trên cấp 90</td><td>Trên cấp 95</td></tr>
+<tr=0,0,1,2,gray><td>Độ khó ★★</td><td>Trên cấp 100</td><td>Trên cấp 100</td><td>Trên cấp 100</td><td>Trên cấp 110</td><td>Trên cấp 110</td></tr>
+<tr=0,0,1,1,hide><td>Độ khó ★★★</td><td>Trên cấp 130</td><td>Trên cấp 130</td><td>Trên cấp 130</td><td>Trên cấp 130</td><td>Trên cấp 130</td></tr>
+</table>
+"		EndTag
+Tàng Bảo Đồ\Phần thưởng phó bản Tàng Bảo Đồ	"<color=yellow>Phần thưởng phó bản Tàng Bảo Đồ<color>
+
+    1. Các Hiệp Sĩ <color=yellow>đánh bại boss cuối<color> có thể trực tiếp vào <color=yellow>Đắc Duyệt Phường<color> nhận thưởng; đối thoại với <color=yellow>Quan Tiểu Đao<color> trong phó bản có thể kết thúc phó bản sớm hơn, vào Đắc Duyệt Phường nhận phần thưởng tương ứng.
+    2. Phần thưởng cuối do <color=yellow>hoạt động đánh giá, phần thưởng cộng thêm<color>. Hoạt động đánh giá liên quan đến <color=yellow>điểm chiến đấu, thời gian hoạt động phó bản<color> của bạn trong phó bản Tàng Bảo Đồ lần này; căn cứ <color=yellow>Quan Hệ Xã Hội của bạn và đồng đội<color> quyết định trị số cộng thêm của phần thưởng.
+    3. Các Hiệp Sĩ không cùng đẳng cấp, khiêu chiến các phó bản với độ khó khác nhau có thể nhận được cấp bảo rương khác nhau. Mở bảo rương có xác suất nhận được <color=yellow>nguyên liệu các cấp, Huyền Tinh, kinh nghiệm<color>, còn có xác suất nhận được <color=yellow>trang bị đầu<color>.
+
+    Lưu ý: Đẳng cấp của Hiệp Sĩ cao hơn nhiều so với cấp phó bản, cấp rương thưởng sẽ không thay đổi. Nếu muốn nhận được rương cấp cao hơn, hãy khiêu chiến độ khó cao hơn."	1	EndTag
+[Thành chiến liên server] Bối cảnh Thiết Phù Thành	"<color=lightblue>Bối cảnh Thiết Phù Thành<color>
+
+    Thời Bắc Tống, có một kỳ tài tên là Trương Trạch Đoan. Người này từ nhỏ đã đi du ngoạn khắp nơi, được cao nhân chỉ điểm, trở thành một kỳ tài hội họa thời đó.
+    Trương Trạch Đoan đã bỏ ra gần một năm, vẽ nên bức tranh toàn cảnh của vương đô Biện Kinh thời đó, bao gồm toàn bộ các danh lam thắng cảnh, huyệt cốc thâm lâm, nông điền tập quán...đó chính là bức danh họa lưu truyền hậu thế "Thanh Minh Thượng Hà Đồ".
+    Bức tranh này lúc đầu được dâng lên Hoàng đế Tống Huy Tông. Cuối năm 1126, Kim quốc lại công phá Biện Kinh, bức tranh này đã rơi vào tay người Kim. Bắc Tống diệt vong, sử gọi là "Biến Tĩnh Khang".
+    Về sau, Kim Thái Tông phát hiện ra trong "Thanh Minh Thượng Hà Đồ" ẩn chứa một bí mật. Trong bức tranh đã miêu tả một kho báu bí mật, nằm ở phía Bắc Kim quốc, kèm theo một hàng chữ nhỏ: "Bảo tàng quý hiếm, có nó sẽ được thiên hạ 100 năm."
+    Thì ra địa điểm vẽ trong bức tranh đó chính là Hách Đồ A Lạp ở phía Bắc Kim quốc, đây là vùng đất có nhiều khoáng sản, không những là Thiết khoáng thạch quý hiếm, mà còn có các tộc Hựu Lỗ Nhân chuyên sống trong rừng sâu bằng nghề luyện khoáng thạch.
+    Năm sau, Kim Thái Tông bí mật phái một số lượng lớn các thợ rèn, Thợ binh khí, Kỹ sư đến đến vùng đất này để tìm các Hựu Lỗ Nhân học nghề, và bắt đầu khai quật khoáng sản.
+    <color=gold>Thái Tông Hoàn Nhan Thành đã gọi nơi đây là: Thiết Phù Thành.<color>
+    Thiết Phù Thành là một tòa thành hùng vĩ, kiên cố, dễ thủ khó công. Nơi đây chính là cứ địa phát minh ra các binh khí trọng giáp lợi hại, đầu tiên là phát minh "Thiết Phù Đồ", giúp quân Kim đánh đâu thắng đó; sau đó là "Thiết Hoạt Xa", giúp cho quân Kim vốn quen chiến đấu trên các địa hình bình nguyên thuận lợi tác chiến trên các địa hình đồi núi.
+    Năm 1149, sau khi Hải Lăng Vương Hoàng Nhan Lượng kế vị, nội bộ trong Thiết Phù Thành đã xảy ra những mâu thuẫn nghiêm trọng, Hoàn Nhan Lượng vừa đăng cơ đã thi hành chính sách "Bàn tay sắt", khiến cho rất nhiều thợ rèn lão luyện bị xử trảm.
+    Những hành động này báo hiệu Kim quốc và Thiết Phù Thành đã sắp đến hồi bị diệt vong. Kể từ đó cho đến hơn mười mấy năm sau, Kim quốc không có thêm một phát minh binh khí đột phá nào nữa, uy danh của Thiết Phù Thành cũng dần dần bị giảm đi.
+    Nhưng trên giang hồ vẫn chưa quên những truyền thuyết về Thiết Phù Thành, các đại môn phái đều bí mật phái người tiến về vùng đất này, với hy vọng sẽ tìm được các bí mật có thể thống lĩnh thiên hạ.
+    <color=yellow>Dục vọng và mộng tưởng, anh hùng hay kiêu hùng, bá chủ hay tàn binh? Thiết Phù Thành đang đợi bạn khám phá!?<color>
+
+"	<%Task.IVER_nHelpIsView_XLand%>	EndTag
+[Thành chiến liên server] Thời gian thành chiến	"<color=lightblue>Thời gian Thành chiến liên server<color>
+
+<color=green>[Bắt đầu mỗi thứ 4]<color>
+    <color=greenyellow>Đặt cược: <color><color=yellow>00:00 chủ nhật - 23:59 thứ 2<color>
+    <color=greenyellow>Báo danh: <color><color=yellow>00:00 Thứ 3--19:29 Tối thứ 4<color>
+    <color=greenyellow>Chuẩn bị: <color><color=yellow>19:30--20:00 Tối thứ 4<color>
+    <color=greenyellow>Công thành: <color><color=yellow>20:00--21:29 Tối thứ 4<color>
+    <color=greenyellow>Chia thưởng: <color><color=yellow>21:30--23:59 Tối thứ 4<color>
+    <color=greenyellow>Nhận thưởng: <color><color=yellow>00:00--23:59 Thứ 5<color>
+
+<color=green>[Bắt đầu mỗi thứ 7]<color>
+    <color=greenyellow>Đặt cược: <color><color=yellow>00:00--23:59 Thứ 5<color>
+    <color=greenyellow>Báo danh: <color><color=yellow>00:00 Thứ 6--19:29 Tối thứ 7<color>
+    <color=greenyellow>Chuẩn bị: <color><color=yellow>19:30--20:00 Tối thứ 7<color>
+    <color=greenyellow>Công thành: <color><color=yellow>20:00--21:29 Tối thứ 7<color>
+    <color=greenyellow>Chia thưởng: <color><color=yellow>21:30--23:59 Tối thứ 7<color>
+    <color=greenyellow>Nhận thưởng: <color><color=yellow>00:00 chủ nhật - 23:59 thứ 2 tuần sau<color>
+
+<color=red>Chú ý: <color><color=gold>Sau khi mở cấp 150, sẽ mở thành chiến liên server.<color>
+
+"	<%Task.IVER_nHelpIsView_XLand%>	EndTag
+[Thành chiến liên server] Điều kiện tham gia	"<color=lightblue>Điều kiện tham gia Thành chiến liên server<color>
+
+<color=green>[Điều kiện đặt cược]<color>
+    Đạt <color=yellow>cấp 100<color>, đã gia nhập môn phái, Phi Phong từ <color=yellow>Sồ Phượng<color> trở lên.
+
+<color=green>[Cách tham chiến]<color>
+    1. Đạt cấp <color=yellow>100<color>, đã gia nhập môn phái, có Phi Phong từ <color=yellow>Sồ Phượng<color> trở lên;
+    2. Gia nhập bang hội, và do <color=yellow>Thủ lĩnh bang hội đi báo danh tham chiến<color>, phải do <color=yellow>Thủ lĩnh quân đoàn cho phép mới được tham chiến<color>.
+
+"	<%Task.IVER_nHelpIsView_XLand%>	EndTag
+[Thành chiến liên server] Quy tắc thành chiến	"<color=lightblue>Quy tắc thành chiến liên server<color>
+
+<color=green>[Giai đoạn đặt cược]<color>
+    1. Thành chủ tự động trở thành <color=yellow>Thủ lĩnh quân đoàn phe thủ<color>.
+    2. Người chơi <color=yellow>phù hợp điều kiện<color> có thể đến các thành chính gặp <color=yellow>Tướng Viễn Chinh Thiết Phù<color> <color=yellow>đặt cược<color>, giành tư cách thành lập Quân đoàn công thành.
+    3. <color=yellow>Lần đầu đặt cược công khai, về sau sẽ đặt cược ẩn (chỉ nhìn thấy được tiền cược của mình, không nhìn thấy được tiền cược của người khác).<color>
+    4. Kết thúc đặt cược, <color=yellow>người đặt cao nhất sẽ <color>được quyền thành lập Quân đoàn công thành, và trở thành <color=yellow>Thủ lĩnh Quân đoàn<color>.
+
+<color=green>[Giai đoạn báo danh]<color>
+    1. Thủ lĩnh quân đoàn có thể đến các thành chính gặp <color=yellow>Tướng Viễn Chinh Thiết Phù thiết lập phần thưởng (tối đa gấp 5 lần)<color>. Thiết lập phần thưởng cần Thủ lĩnh quân đoàn nhập <color=yellow>bạc khóa liên server<color>, nếu chưa thiết lập phần thưởng, sẽ không thể nhận rương chiến công Trác Việt.
+    2. Thủ lĩnh bang hội có thể đến các thành chính gặp <color=yellow>Tướng Viễn Chinh Thiết Phù<color>, lấy <color=yellow>danh nghĩa bang hội báo danh<color> xin phép gia nhập quân đoàn công hoặc thủ thành.
+    3. Thủ lĩnh quân đoàn tại chỗ <color=yellow>Tướng Viễn Chinh Thiết Phù có thể tiếp nhận hoặc từ chối bang hội khác xin gia nhập<color>. Nếu đồng ý thì bang hội đã xin phép sẽ được quyền tham chiến, <color=yellow>thành viên của bang hội hợp lệ<color>có thể vào Đảo Anh Hùng để tham chiến.
+    4. Thủ lĩnh quân đoàn có thể vào Đảo Anh Hùng trước, đến chỗ <color=yellow>Truyền Tống Thiết Phù<color> tăng thêm bạc khóa liên server vào kho quân nhu. Và căn cứ theo cấp Phi Phong, thiết lập số lần hồi sinh miễn phí cho các thành viên quân đoàn mình.
+
+<color=green>[Giai đoạn Chuẩn bị]<color>
+    1. Đến các thành chính tìm Tướng Viễn Chinh Thiết Phù để vào <color=yellow>Đảo Anh Hùng<color>.
+    2. <color=yellow>19:30<color> có thể đến Đảo Anh Hùng tìm Truyền Tống Thiết Phù để vào <color=yellow>Thiết Phù Thành<color>.
+    3. Bạn có <color=yellow>30 phút để chuẩn bị<color>, bố trí chiến thuật, dùng bạc khóa liên server mua các dược phẩm.
+
+<color=green>[Giai đoạn tấn công]<color>
+    1. <color=yellow>20:00<color> bắt đầu thành chiến, quân đoàn công thành <color=yellow>bắt đầu công thành<color>.
+    2. Trong lúc chiến đấu thông qua <color=yellow>đánh kẻ địch, tranh đoạt Điểm Tài Nguyên và chiếm lĩnh ngai vàng<color> để có điểm tích lũy.
+    3. <color=yellow>Lần đầu rời Điểm Hồi Sinh. Sau khi bị trọng thường từ Điểm Hồi Sinh xuất chiến<color> sẽ phải nộp một ít bạc khóa liên server.
+       Nếu bạn có <color=yellow>số lần chinh chiến miễn phí<color><color=gold>(thủ lĩnh có thể thiết lập)<color>, sẽ ưu tiên trừ vào <color=yellow>trong Kho quân nhu<color><color=gold>(thủ lĩnh có thể thêm vào)<color>.
+    4. Trong quân đoàn có người <color=yellow>ngồi lên ngai vàng<color><color=gold>(bị cấm di chuyển)<color>, thì quân đoàn này sẽ tăng <color=yellow>tích lũy ngai vàng<color>, nếu duy trì trong 1 phút thì mỗi phút sẽ tiếp tục tăng; 
+       Nếu bị địch làm trọng thương sẽ ngưng tính điểm.
+    5. Thành chiến kết thúc vào lúc 21:30; 
+       <color=yellow>Bên có tích lũy ngai vàng cao sẽ thắng, thủ lĩnh cả quân đoàn này trở thành thành chủ mới.<color>
+
+<color=green>[Chia thưởng]<color>
+    1. Ngày kết thúc thành chiến, thành chủ mới có thể đến Đảo Anh Hùng gặp <color=yellow>Truyền Tống Thiết Phù<color> để chia thưởng.
+    2. Phần thưởng Thành chủ có thể phân phối: <color=yellow>Rương Chiến Công Huy Hoàng<item=18,1,940,1>. Thiết Phù Anh Hùng Lệnh<item=20,1,870,1>.<color>
+    3. Phần thưởng sẽ do thành chủ phân phát cho các bang hội, để các Thủ lĩnh bang hội tự phân chia, phần còn dư sẽ thuộc về thành chủ. Các phần thưởng đều có thể tra xem và nhận ở chỗ <color=yellow>Tướng Viễn Chinh Thiết Phù<color> trên server mình, <color=yellow>nếu như thành chủ không chia thưởng, thì toàn bộ sẽ thuộc về thành chủ<color>.
+    4. Trong thời gian chia thưởng mọi thành chủ đều có thể đến chỗ <color=yellow>Tướng Viễn Chinh Thiết Phù<color> tăng thêm phần thưởng.
+    5. Phần thưởng nhận được sẽ căn cứ vào <color=yellow>kết quả thắng bại, thiết lập lúc đầu, tích lũy cá nhân<color>, thông qua hình thức <color=yellow>Rương chiến công Trác Việt<color> phát ra cho các hiệp khách. (Rương chiến công Trác Việt có thể nhận chỗ <color=yellow>Tướng Viễn Chinh Thiết Phù<color>)
+    6. Kết thúc thành chiến, các thành viên tham chiến căn cứ tích lũy của mình, đến gặp <color=yellow>Tướng Viễn Chinh Thiết Phù<color> nhận phần thưởng kinh nghiệm và Uy danh.
+
+<color=green>[Thành chiến lần đầu có gì đặc biệt]<color>
+    1. Đặt cược công khai
+    2. Giá cược <color=yellow>6 hạng đầu<color> có thể thành lập quân đoàn.
+    3. Tất cả quân đoàn công thành, Điểm Tài Nguyên <color=yellow>không có Long trụ, Điểm Hồi Sinh 3 không thể tranh đoạt<color> (cờ vô hiệu). Thành viên Quân đoàn sau khi tử vong, chọn điểm hồi sinh ngẫu nhiên.
+    4. Tất cả quân đoàn đều không thể dùng bạc khóa trong Kho quân nhu
+
+"	<%Task.IVER_nHelpIsView_XLand%>	EndTag
+[Thành chiến liên server] Phần thưởng thành chiến	"<color=lightblue>Phần thưởng thành chiến<color>
+
+<color=green>[Phần thưởng thuộc thành chủ]<color>
+    Thành chủ có thể nhận được <color=yellow>Thiết Phù Thành Chủ Lệnh<color> (khóa), nhờ nó có thể nhận nhiệm vụ "Khải Hoàn Thiết Phù Thành", hoàn thành sẽ nhận được Thành chủ lệnh với các quyền lợi sau: 
+
+    <color=purple>Danh hiệu: <color><color=yellow>Thiết Phù Thành Chủ-Ngạo Thế Lăng Thiên<color>
+    <color=purple>Quyền mua các vật phẩm sau: <color>
+          <color=yellow>Phi Phong Lăng Thiên (ví dụ <item=1,17,13,9><item=1,17,13,10><item=1,17,14,9><item=1,17,14,10>)
+          Ngựa Lăng Thiên (ví dụ <item=1,12,29,4>)<color>
+
+    <color=yellow>Chú ý: <color>Các quyền lợi trên đều có hiệu lực trước khi thành chiến lần sau kết thúc.
+          Nhiệm vụ chỉ cần làm 1 lần, trong thành chiến sau đó nếu tiếp tục nhận được Thiết Phù Thành Chủ Lệnh sẽ
+          trực tiếp nhận được quyền lợi.
+
+<color=green>[Tượng thành chủ]<color>
+    Sau khi kết thúc thành chiến, nhằm biểu dương công trạng thành chủ, trên Đảo Anh Hùng và Chiến trường Phượng Tường sẽ tạc tượng thành chủ.
+
+<color=green>[Phần thưởng dũng sĩ thành chủ]<color>
+    Thành chủ có thể chia <color=yellow>Thiết Phù Anh Hùng Lệnh<color> (không khóa), nhờ nó nhận được nhiệm vụ "Vinh Dự Thiết Phù Thành", hoàn thành có thể dùng để nhận Anh Hùng Lệnh với các đặc quyền sau: 
+
+    <color=violet>Danh hiệu: <color><color=gold>Thiết Phù Dũng Sĩ-Quần Hùng Trục Nhật<color=yellow>
+    <color=violet>Quyền mua các vật phẩm sau: <color>
+          <color=gold>Phi Phong Trục Nhật (ví dụ <item=1,17,11,9><item=1,17,11,10><item=1,17,12,9><item=1,17,12,10>)
+          Ngựa Trục Nhật (ví dụ <item=1,12,28,4>)<color>
+
+    <color=yellow>Chú ý: <color>Các quyền lợi trên đều có hiệu lực trước khi thành chiến lần sau kết thúc.
+          Nhiệm vụ chỉ cần làm 1 lần, trong thành chiến sau đó nếu tiếp tục nhận được Thiết Phù Anh Hùng Lệnh sẽ
+          trực tiếp nhận được quyền lợi.
+
+<color=green>[Rương Chiến Công Huy Hoàng]<color>
+    <color=yellow>Rương Chiến Công Huy Hoàng<color> (không khóa) do <color=yellow>thành chủ phân chia<color>, ngày hôm sau các Thủ Lĩnh đến gặp Tướng Viễn Chinh Thiết Phù nhận, <color=yellow>có thể tự phân chia<color>.
+    Mở Rương Chiến Công Huy Hoàng <item=18,1,940,1>có cơ hội nhận được <color=yellow>Mảnh trang bị đồng hành cấp 1-3<color>!
+
+<color=green>[Phần thưởng]<color>
+    Phần thưởng sẽ do Thủ lĩnh quân đoàn đến chỗ <color=yellow>Tướng Viễn Chinh Thiết Phù<color> để thiết lập, khi <color=yellow>kết thúc thành chiến có thể tăng thêm<color>. Nếu Thủ lĩnh quân đoàn <color=yellow>chưa thiết lập phần thưởng<color>, <color=yellow>sau khi kết thúc thành chiến các thành viên không thể nhận Rương chiến công Trác Việt<color>.
+    Phần thưởng Rương chiến công Trác Việt căn cứ vào <color=yellow>thiết lập trước và sau khi thành chiến<color>, các thành viên trong Top <color=yellow>xếp hạng tích lũy<color>, có thể đến chỗ Tướng Viễn Chinh Thiết Phù để nhận.
+     Mở Rương Chiến Công Trác Việt <item=18,1,939,1> có cơ hội nhận được <color=yellow>Mảnh trang bị đồng hành cấp 1-2, Huyền Tinh cấp 7 trở lên<color>!
+
+<color=green>[Trang bị đồng hành]<color>
+    Mở Rương chiến công có cơ hội nhận được <color=yellow>Mảnh trang bị đồng hành<color>!
+    Thu thập đủ <color=yellow>50 mảnh<color> giống nhau, có thể tìm <color=yellow>Tướng Viễn Chinh Thiết Phù<color> đổi trang bị hoàn chỉnh.
+        <color=orange>Trang bị Bích Huyết cấp 1: <item=5,19,1,1><item=5,20,1,1><item=5,23,1,1><color>
+        <color=gold>Trang bị Kim Lân cấp 2: <item=5,19,1,2><item=5,20,1,2><item=5,23,1,2><color>
+        <color=yellow>Trang bị Đơn Tâm cấp 3: <item=5,19,1,3><item=5,20,1,3><item=5,23,1,3><color>
+
+<color=green>[Kinh nghiệm và Uy danh]<color>
+    Kết thúc thành chiến, các thành viên tham chiến đến gặp <color=yellow>Tướng Viễn Chinh Thiết Phù<color> nhận kinh nghiệm thưởng, <color=yellow>ít nhất 100 vạn<color> điểm. Nếu tích lũy đạt đến mức nhất định, sẽ nhận thêm nhiều kinh nghiệm thưởng (<color=yellow>tối đa 1000 vạn<color>) và <color=yellow>50 điểm Uy danh giang hồ<color>.
+
+"	<%Task.IVER_nHelpIsView_XLand%>	EndTag
+[Thành chiến liên server] Câu hỏi thường gặp	"<color=lightblue>Câu hỏi thường gặp<color>
+
+<color=green>Hỏi: Tôi không thể vào trong thành, ngai vàng?<color>
+<color=violet>Đáp: <color>Thành chiến rất nguy hiểm, anh hùng cần có Phi Phong bảo hộ nếu không không thể vào được.
+    <color=yellow>Cấp Phi Phong thấp nhất để vào Thiết Phù Thành: 
+    Ngoài-Sồ Phượng, Trong-Tiềm Long, Ngai vàng-Chí Tôn<color>
+
+<color=green>Hỏi: Tấn công kẻ địch được lợi gì?<color>
+<color=violet>Đáp: <color>Mỗi lần khiến kẻ địch trọng thương sẽ nhận được <color=yellow>điểm tích lũy và bạc khóa liên server<color>, đồng thời bạc khóa trong Kho Thiết Phù Thành sẽ tăng tương ứng, <color=yellow>Kho Thiết Phù Thành càng đầy thì sau khi kết thúc thành chiến, thành chủ có thể chia nhiều Rương chiến công hơn<color>.
+
+<color=green>Hỏi: Nhận điểm tích lũy?<color>
+<color=violet>Đáp: <color>Cách có điểm tích lũy: <color=yellow>đánh bại kẻ địch, công chiếm Long trụ, bảo vệ Long trụ, chiếm lĩnh ngai vàng<color>.
+    Cách nhận điểm tích lũy ngai vàng: <color=yellow>Ngồi lên ngai vàng, duy trì chiếm lĩnh ngai vàng<color>.
+    Long trụ và ngai vàng <color=yellow>bị chiếm đánh càng nhiều lần, mỗi lần tích lũy nhận được sẽ cao hơn<color>; <color=yellow>thời gian chiếm lĩnh càng dài, mỗi phút điểm tích lũy nhận được càng nhiều<color>.
+
+<color=green>Hỏi: Công dụng của điểm tích lũy?<color>
+<color=violet>Đáp:<color> Nếu Thủ lĩnh Quân đoàn đã thiết lập phần thưởng, sau khi chiến sự kết thúc, các thành viên tham chiến căn cứ tích lũy của mình để nhận phần thưởng tương ứng. ( điểm kinh nghiệm và Uy danh).
+    <color=yellow>Chú ý: Chỉ những cá nhân có điểm tích lũy trong Top cao nhất mới nhận được phần thưởng.<color>
+
+<color=green>Hỏi: Lợi ích khi thành chiến là gì?<color>
+<color=violet>Đáp: <color>Ngoài khu vực 3 Điểm Tài Nguyên đều có Long trụ, nếu phe công chiếm được trụ này thì thành viên quân đoàn sẽ nhận được hiệu quả tăng lợi ích.
+    Nếu giữa các quân đoàn có sự chênh lệch về lực lượng quá nhiều, bên yếu hơn sẽ nhận được hiệu quả tăng lợi ích.
+
+<color=green>Hỏi: Điểm Hồi Sinh 3 có tác dụng gì?<color>
+<color=violet>Đáp: <color>Chiếm được Điểm Hồi Sinh 3 thành viên quân đoàn có thể gặp <color=yellow>Xa Phu<color> chọn nơi đến chiến đấu
+
+<color=green>Hỏi: Bến đò có tác dụng gì, khi nào mở?<color>
+<color=violet>Đáp: <color>Đến thời gian nhất định (dưới màn hình có thanh thông báo màu đen), bến đò sẽ được mở <color=yellow>1 phút<color> để đưa các anh hùng vào thành hoặc ngai vàng.
+
+<color=green>Hỏi: Theo dõi tình hình chiến trận?<color>
+<color=violet>Đáp: <color> Ấn phím <color=yellow>~<color>.
+
+<color=green>Hỏi: Tại sao tôi không thể hoàn thành nhiệm vụ Thành chủ và Thị Vệ?<color>
+<color=violet>Đáp:<color> Hoàn thành nhiệm vụ cần có vật phẩm nhất định.
+    Nhiệm vụ Thành chủ: <color=yellow>10 Hòa Thị Bích, 299 Nguyệt Ảnh Thạch<color>; Nhiệm vụ Thị Vệ: <color=yellow>3 Hòa Thị Bích, 99 Nguyệt Ảnh Thạch<color>.
+
+"	<%Task.IVER_nHelpIsView_XLand%>	EndTag
+[Hiệp lữ tình thâm] Giới thiệu	"<color=red>Giới thiệu<color>
+
+    <color=yellow>Người trong giang hồ, tình sâu nghĩa nặng. Thử hỏi có vị Hiệp Sĩ nào không muốn cùng người yêu chung bước giang hồ?
+    Tiến hành nạp cát, sau điển lễ có thể thấy được tình cảm sâu đậm của hai người!<color>
+"	<%Task.IVER_nHelpIsView_Marry%>	EndTag
+[Hiệp lữ tình thâm] Quyền lợi	"<color=red>Quyền lợi của Hiệp lữ<color>
+
+    <color=green>Hãy để thiên hạ thấy được tình cảm của hai người! Sau khi thành Hiệp lữ hai người có thể nhận được những quyền lợi lâu dài: <color>
+    1. <color=red>Danh hiệu riêng.<color> Sau khi nạp cát và trở thành Hiệp lữ sẽ nhận được danh hiệu thể hiện thanh danh, cho người khác biết mình đã tìm thấy nửa kia!
+    2. <color=red>Thú cưỡi điển lễ.<color> Mọi người sẽ phải ganh tỵ với bạn. (Chỉ Túi Hoàng Gia mới có)
+    3. <color=red>Hào hoa tín vật hiệp lữ.<color> Tín vật hiệp lữ đẹp mà lại thực tế. Dùng Tín vật hiệp lữ lập tức nhận được <color=yellow>Tâm Tâm Tương Ấn, Thú Cưỡi Hiệp Lữ, Vòng Sáng Hiệp Lữ, Truyền tống hiệp lữ, điểm kinh nghiệm<color>. (Cấp Tín vật hiệp lữ khác nhau sẽ nhận được chức năng khác nhau)  
+    Nội dung chi tiết Tín vật hãy xem "<color=yellow>Đạo cụ [Hiệp lữ tình thâm]<color>".
+
+    Chú ý: Nếu tổ chức điển lễ Hoàng Gia, Vương Hầu, khi bắt đầu sẽ có <color=yellow>Quản Gia<color> xuất hiện ở các thành chính và Tân Thủ Thôn để <color=yellow>ban phúc<color>, nhận được vô số quyền lợi!
+
+"	<%Task.IVER_nHelpIsView_Marry%>	EndTag
+[Hiệp lữ tình thâm] Hoa Tình	"<color=red>Hoa Tình<color>
+
+<color=green>Công dụng của Hoa Tình?<color>
+    Kết thành Hiệp lữ cần phải chuẩn bị nhiều đạo cụ, nhưng phải có <color=yellow>Hoa Tình<color> mới có thể mua vật phẩm ở chỗ Thương Nhân Điển Lễ Vạn Hữu Toàn.
+
+<color=green>Làm sao nhận được Hoa Tình?<color>
+    1. Mua trong <color=yellow>Kỳ Trân Các<color>, nhấn <color=yellow>Ctrl + G<color>.
+    2. Hoàn thành vượt ải <color=yellow>Tiêu Dao Cốc cấp 3 hoặc trên cấp 3<color>, ngẫu nhiên nhận được <color=yellow>Hoa Tình<color>, sau đó sẽ nhận được 1 <color=yellow>Nhụy Hoa Tình<color> khóa; 
+       Kỹ năng sống đạt cấp <color=yellow>60<color> sẽ tự động học được cách chế Nhụy Hoa Tình, tiêu hao <color=yellow>150<color> tinh lực, hoạt lực sẽ nhận được <color=yellow>Hoa Tình khóa<color>. 
+
+
+"	<%Task.IVER_nHelpIsView_Marry%>	EndTag
+[Hiệp lữ tình thâm] Điều kiện và các bước	"<color=red>Điều kiện và các bước<color>
+
+<color=green>Nạp cát cần điều kiện gì?<color>
+    1. Nam nữ phải đạt từ cấp <color=yellow>69<color>; 
+    2. Nam nữ phải đang trong tình trạng <color=yellow>độc thân<color>, không có quan hệ nạp cát và Hiệp lữ; 
+    3. Độ thân mật<color> giữa hai người đạt cấp <color=yellow>3<color>.
+
+<color=green>Các bước trở thành Hiệp lữ?<color>
+<color=yellow>- Nạp cát<color>
+    1. Mang <color=yellow>Hoa Tình<color> đến Giang Tân Thôn tìm Thương Nhân Điển Lễ <color=yellow>Vạn Hữu Toàn<color> mua Túi Nạp Cát;
+    2. Mở <color=yellow>Túi Nạp Cát<color> nhận được Thẻ Nạp Cát; 
+    3. Nam nữ tổ đội, 1 người sử dụng <color=yellow>Thẻ Nạp Cát<color> tiến hành nạp cát, nếu người kia đồng ý thì nạp cát thành công. <color=yellow>Hai bên sẽ nhận được danh hiệu nạp cát có thời hạn 7 ngày.<color>
+<color=yellow>- Điển lễ<color>
+    1. Sau khi nạp cát thành công, người nam mang theo Hoa Tình đến Vạn Hữu Toàn ở Giang Tân Thôn mua <color=yellow>Túi Quà Lễ<color>;
+    2. Nam nữ tổ đội, người nam sẽ mang theo Túi Quà Lễ đến <color=yellow>Giang Tân Thôn gặp Nguyệt Lão<color> chọn thời gian và địa điểm điển lễ; 
+    3. Hôm đó mời hảo hữu và quan khách đến tham dự <color=yellow>buổi lễ đẹp nhất<color>!
+    Nội dung chi tiết hãy xem "<color=yellow>Điển lễ [Hiệp lữ tình thâm]<color>".
+<color=yellow>- Sau điển lễ<color>
+    1. Sau khi điển lễ kết thúc, hai người sẽ trở thành Hiệp lữ. Có thể đến Giang Tân Thôn gặp <color=yellow>Nguyệt Lão<color> nhận <color=yellow>Tín vật hiệp lữ<color>.
+    2. Loại hình <color=yellow>điển lễ khác nhau sẽ nhận được Tín vật hiệp lữ khác nhau<color>.
+    Nội dung chi tiết Tín vật hãy xem mục "<color=yellow>Đạo cụ chính của [Hiệp lữ tình thâm]<color>".
+
+<color=green>Làm sao hủy quan hệ nạp cát?<color> 
+    Sau khi nạp cát, nếu cảm thấy hối hận, bạn có thể tổ đội hay một mình đến Giang Tân Thôn gặp <color=yellow>Hồng Di<color> để hủy quan hệ nạp cát.
+    Chi tiết xem "<color=yellow>NPC [Hiệp lữ tình thâm]<color>"-Hồng Di ở Giang Tân Thôn.
+
+"	<%Task.IVER_nHelpIsView_Marry%>	EndTag
+[Hiệp lữ tình thâm] Điển lễ	"<color=red>Điển lễ<color>
+
+<color=green>Làm sao đặt lễ?<color>
+    1. Sau khi nạp cát, <color=yellow>người nam<color> đến Giang Tân Thôn gặp Vạn Hữu Toàn dùng <color=yellow>Hoa Tình<color> mua <color=yellow>Túi Quà Lễ<color>; 
+    2. Người nam mang Túi Quà Lễ đến chỗ <color=yellow>Nguyệt Lão<color> sát bên Vạn Hữu Toàn để đặt lễ, <color=yellow>đặt thời gian và địa điểm điển lễ<color>; 
+    3. Dùng Túi Quà Lễ Hoàng Gia có thể chọn một trong 4 nơi sau: <color=yellow>Hoàng Gia Tiên Cảnh, Bãi Biển Vương Hầu, Trang Viên Quý Tộc, Dân Cư Hiệp Sĩ<color>, còn Túi Quà Lễ Vương Hầu chỉ có thể chọn Bãi Biển Vương Hầu, Trang Viên Quý Tộc hay Dân Cư Hiệp Sĩ.
+
+<color=green>Làm sao thay đổi loại hình, thời gian và địa điểm điển lễ?<color>
+    1. Đối thoại với <color=yellow>Nguyệt Lão<color> ở Giang Tân Thôn, nhấp <color=yellow>Đặt thời gian<color>; 
+    2. Hãy đặt lại Túi Quà Lễ mà bạn cần dùng, xác định loại hình điển lễ, chọn lại thời gian và địa điểm.
+    3. Thay đổi cần trả <color=yellow>phí<color> nhất định.
+
+<color=green>Làm sao mời khách tham dự?<color>
+    1. <color=yellow>Hảo hữu hay thành viên cùng gia tộc<color> của hai người đều có thể vào khu tổ chức điển lễ.
+    2. Những người khác phải được hai vị Hiệp lữ hay huynh đệ kết nghĩa và mật hữu của hai vị phát <color=yellow>Thiệp Mời<color> mới có thể vào.
+    3. Thiệp Mời có bán ở chỗ <color=yellow>Thương Nhân Điển Lễ tại khu tổ chức điển lễ<color> chỉ dành cho hai vị Hiệp lữ hay huynh đệ kết nghĩa và mật hữu của hai vị Hiệp lữ.
+
+<color=green>Các bước điển lễ?<color>
+    1. <color=red>Nhập lễ.<color> Sau khi hai vị Hiệp lữ và quan khách vào sân khấu điển lễ, các quan khách có thể đến chỗ Người Nhận Tiền Biếu để <color=yellow>tặng quà<color> cho hai vị Hiệp lữ; 
+    2. <color=red>Khai lễ.<color> Hai vị Hiệp lữ, huynh đệ kết nghĩa và mật hữu của hai vị nhấp vào Chủ Trì Điển Lễ Cát Tường; 
+    3. <color=red>Bái đường.<color> Các NPC đến chúc mừng, các quan khách đốt pháo hoa, chúc mừng; 
+    4. <color=red>Đãi tiệc.<color>Quan khách có thể nhấp vào Bàn ăn để nhận quà tặng. Lúc này hai vị Hiệp lữ có thể tìm "<color=yellow>Phúc Lâm Môn<color>" mở trò chơi nhỏ. Điển lễ Vương Hầu và Hoàng Gia còn có thể <color=yellow>bốc thăm<color>, người chơi may mắn có thể nhận được Huyền Tinh có giá trị.
+    5. <color=red>Kết thúc.<color> Khu Điển Lễ luôn mở từ <color=yellow>12h trưa - 5h sáng hôm sau<color>, sau thời gian đó, nó sẽ tự đóng.
+Chú ý: Nếu pháo hoa của bạn không đủ có thể mua ở chỗ <color=yellow>Thương Nhân Điển Lễ<color>.
+    Nếu không thể cử hành Điển Lễ theo <color=yellow>ngày đã định<color>, thì sau khi Khu Điển Lễ đóng <color=yellow>có thể đến chỗ Nguyệt lão sửa quan hệ hiệp lữ<color>.
+
+
+"	<%Task.IVER_nHelpIsView_Marry%>	EndTag
+[Hiệp lữ tình thâm] NPC	"<color=red>NPC chính<color>
+
+<color=green>Nguyệt Lão ở Giang Tân Thôn<color>
+    Nguyệt Lão ở Giang Tân Thôn là nhân vật mà bạn cần tìm đến khi tổ chức điển lễ. Đến đó để: 
+    1. Đặt thời gian tổ chức điển lễ; 
+    2. Tham gia, tìm hiểu điển lễ; 
+    3. Tham quan nơi tổ chức điển lễ; 
+    4. Sau khi thành Hiệp lữ, nhận Tín vật hiệp lữ.
+
+<color=green>Vạn Hữu Toàn ở Giang Tân Thôn<color>
+    Ở chỗ Vạn Hữu Toàn ở Giang Tân Thôn có bán các đạo cụ cần khi kết thành Hiệp lữ, như Túi Nạp Cát, Túi Quà Lễ. Dùng <color=yellow>Hoa Tình<color> để mua.
+    Nếu muốn tham gia điển lễ, bạn có thể đến đó mua các loại pháo hoa.
+
+
+<color=green>Hồng Di ở Giang Tân Thôn<color>
+    1. Sau khi nạp cát, nếu hối hận có thể tổ đội hay một mình đến gặp Hồng Di ở Giang Tân Thôn để <color=yellow>hủy quan hệ nạp cát<color>.
+    2. Nếu <color=yellow>tổ đội<color> xin hủy quan hệ nạp cát sẽ trừ mỗi người <color=yellow>10 vạn bạc<color>, trở về tình trạng độc thân.
+    3. <color=yellow>Một mình hủy<color> sẽ trừ người đăng ký <color=yellow>20 vạn bạc<color>, trở về tình trạng độc thân.
+
+    <color=yellow>Chú ý: Nếu đã dùng Túi Quà Lễ để đặt trước thời gian thì không thể thay đổi.<color>
+
+<color=green>Quản Gia Điển Lễ<color>
+    1. <color=yellow>Hoàng Gia Điển Lễ<color> khi mở khu Điển Lễ (12h sáng - 5h sáng hôm sau), treo đèn kết hoa tại các thành chính, Quản Gia Điển Lễ sẽ xuất hiện ở gần <color=yellow>Diệp Chỉ Lâm ở các thành chính<color> để ban chúc phúc cho mọi người!
+    2. <color=yellow>Vương Hầu Điển Lễ<color> khi mở khu Điển Lễ (12h sáng - 5h sáng hôm sau), treo đèn kết hoa tại các Tân Thủ Thôn, Quản Gia Điển Lễ sẽ xuất hiện ở gần <color=yellow>Diệp Chỉ Lâm ở các Tân Thủ Thôn<color> để ban chúc phúc cho mọi người!
+    3. Người chơi đạt cấp <color=yellow>69<color>, đã gia nhập môn phái, uy danh giang hồ xếp hạng <color=yellow>5000<color> trở lên, có thể nhận được chúc phúc ở chỗ Quản Gia!
+
+"	<%Task.IVER_nHelpIsView_Marry%>	EndTag
+[Hiệp lữ tình thâm] Đạo cụ	"<color=red>Đạo cụ chính<color>
+
+<color=green>[Túi Nạp Cát]<color>
+    Có thể dùng <color=yellow>Hoa Tình<color> đến chỗ Vạn Hữu Toàn ở Giang Tân Thôn mua Túi Nạp Cát, nội dung gồm:<color=yellow>
+    Pháo hoa "Yêu thương"*2
+    Pháo hoa "Duy nhất"*2
+    Pháo Hoàng Gia*1
+    Rừng hoa lãng mạn*1
+    Lời thề nạp cát*1
+    Thẻ Nạp Cát*1<color>
+
+<color=green>[Túi Quà Lễ]<color>
+    Túi Quà Lễ chia làm 4 loại hình (như bảng bên dưới), tùy loại hình mà phân chia <color=yellow>số NPC đến tham gia điển lễ, nơi tổ chức điển lễ, có hoạt động bốc thăm hay không v.v...<color> (Điển Lễ Hoàng Gia và Điển Lễ Vương Hầu có hoạt động bốc thăm)
+    <color=yellow>Chú ý: Chỉ có người nam mới được dùng Túi Quà Lễ, nếu như người nữ mua nhầm có thể nhấp chuột phải vào Túi Quà Lễ để được trả lại số Hoa Tình khóa.<color> 
+        <table=0>
+    <tr=0,0,2,0,Orange><td=0,0,5,1>Tên Túi Quà Lễ</td><td=0,0,5,1>Nội dung</td><td=0,0,5,1>Số Hoa Tình</td></tr>
+    <tr=0,0,1,1,hide><td>Túi Quà Lễ Hoàng Gia</td><td>1 Lam Nhan (Mặt nạ đẹp)
+1 Hồng Nhan (Mặt nạ đẹp)
+2 Mặt nạ Huynh đệ kết nghĩa
+2 Mặt nạ Khuê trung mật hữu 
+40 Thiệp Mời
+4 Trục Khách Lệnh
+8 Túi Pháo Hoa</td><td>9999</td></tr>
+    <tr=0,0,1,1,gray><td>Túi Quà Lễ Vương Hầu</td><td>1 Lam Nhan (Mặt nạ đẹp)
+1 Hồng Nhan (Mặt nạ đẹp)
+2 Mặt nạ Huynh đệ kết nghĩa
+2 Mặt nạ Khuê trung mật hữu 
+30 Thiệp Mời
+4 Trục Khách Lệnh
+4 Túi Pháo Hoa</td><td>1999</td></tr>
+    <tr=0,0,1,1,hide><td>Túi Quà Lễ Quý Tộc</td><td>1 Lam Nhan (Mặt nạ thường)
+1 Hồng Nhan (Mặt nạ thường)
+1 Mặt nạ Huynh đệ kết nghĩa
+1 Mặt nạ Khuê trung mật hữu 
+20 Thiệp Mời
+2 Trục Khách Lệnh
+2 Túi Pháo Hoa</td><td>499</td></tr>
+    <tr=0,0,1,1,gray><td>Túi Quà Lễ Hiệp Sĩ</td><td>1 Lam Nhan (Mặt nạ thường)
+1 Hồng Nhan (Mặt nạ thường)
+1 Mặt nạ Huynh đệ kết nghĩa
+1 Mặt nạ Khuê trung mật hữu 
+10 Thiệp Mời
+2 Trục Khách Lệnh
+1 Túi Pháo Hoa</td><td>99</td></tr>
+</table>
+
+<color=green>[Tín vật hiệp lữ]<color>
+    Tùy loại hình Túi Quà Lễ có thể nhận được<color=yellow>Tín vật hiệp lữ khác nhau<color>, kèm theo những chức năng phụ như sau: 
+        <table=0>
+    <tr=0,0,2,0,Orange><td=0,0,5,1>Cấp túi quà</td><td=0,0,5,1>Cấp tín vật</td><td=0,0,5,1>Chức năng phụ</td></tr>
+    <tr=0,0,1,1,hide><td>Túi Quà Lễ Hoàng Gia</td><td>Tín vật hiệp lữ (Hoàng Gia)</td><td>   Thú Cưỡi Hiệp Lữ   
+   Truyền tống hiệp lữ
+   Tăng kinh nghiệm
+   Tâm Tâm Tương Ấn  
+   Vòng Sáng Hiệp Lữ   </td></tr>
+    <tr=0,0,1,1,gray><td>Túi Quà Lễ Vương Hầu</td><td>Tín vật hiệp lữ (Vương Hầu)</td><td>Truyền tống hiệp lữ
+Tăng kinh nghiệm
+Tâm Tâm Tương Ấn  
+Vòng Sáng Hiệp Lữ</td></tr>
+    <tr=0,0,1,1,hide><td>Túi Quà Lễ Quý Tộc</td><td>Tín vật hiệp lữ (Quý Tộc)</td><td>Truyền tống hiệp lữ
+Tăng kinh nghiệm
+Tâm Tâm Tương Ấn</td></tr>
+    <tr=0,0,1,1,gray><td>Túi Quà Lễ Hiệp Sĩ</td><td>Tín vật hiệp lữ (Hiệp Sĩ)</td><td>Tăng kinh nghiệm
+Tâm Tâm Tương Ấn</td></tr>
+</table>
+
+"	<%Task.IVER_nHelpIsView_Marry%>	EndTag
+[Hiệp lữ tình thâm] Hủy quan hệ Hiệp lữ	"<color=red>Hủy quan hệ Hiệp lữ<color>
+
+    <color=yellow>Kết thành Hiệp lữ là một chuyện trọng đại, không phải trò đùa, nếu muốn hủy quan hệ Hiệp lữ thì hãy chờ đấy, hiện chưa mở.<color>"	<%Task.IVER_nHelpIsView_Marry%>	EndTag
+ [Liên đấu liên server lần 3] Quy tắc mới	"<color=red>[Liên đấu liên server lần 3] Quy tắc mới<color>
+
+    Liên đấu liên server lần 3--<color=yellow>Đơn đấu nhóm 3 người<color>, lấy hình thức tổ đội 3 người để báo danh, <color=yellow>Áp dụng quy tắc nhóm 3 người mới<color>. Phương pháp chơi phong phú sẽ mang đến cho người chơi nhiều hứng thú.
+
+<color=green>Quy tắc mới<color>
+    Lấy hình thức tổ đội 3 người, đội trưởng đi báo danh, trong sàn đấu áp dụng hình thức <color=yellow>1V1 thi đấu 3 trận, căn cứ vào <color=yellow>kết quả của 3 trận<color> để phân thắng thua.
+    Sau khi kết thúc giai đoạn chuẩn bị đơn đấu, đội trưởng có thể chọn thứ tự xuất chiến cho thành viên đội mình. <color=yellow>Một khi đội trưởng đã chọn thứ tự thi đấu, sẽ không thể thay đổi<color>.
+    Trong trận đơn đấu, ngoài hai người thi đấu ra, <color=yellow>những người quan sát còn lại không thể PK với nhau<color>.
+    Cần chú ý: <color=yellow>vào sàn đấu không được ít hơn 2 người, ngay sau khi chính thức khai chiến, thành viên đội nào vì bất cứ lý do nào không có mặt trong sàn đấu sẽ bị xử thua<color>.
+
+"	<%Task.IVER_nHelpIsView_GbWlls%>	EndTag
+ [Liên đấu liên server lần 3] Chúc phúc toàn server	"<color=red>[Liên đấu liên server lần 3] Chúc phúc toàn server<color>
+
+<color=green>Giới thiệu <color>
+    Liên đấu liên server lần 3 đã chính thức ra mắt!
+    <color=yellow>Trong thời gian thi đấu giải này, các tuyển thủ không tham gia đấu vẫn có thể nhận được phần thưởng phong phú!<color>
+    Chỉ cần bạn chúc phúc cho các tuyển thủ thi đấu, càng nhiều ủng hộ và chúc phúc, quà thưởng sẽ càng nhiều!
+<color=green>Hoạt động 1<color>
+    Từ ngày 7 đến 27/07/2010, người chơi có điểm <color=yellow>Uy danh giang hồ trong Top 5000<color> có thể đến Lâm An chỗ Quan Liên Đấu liên server <color=yellow>đánh trống cổ vũ cho các tuyển thủ thi đấu, mỗi ngày 1 lần, mỗi lần sẽ nhận 1 Thẻ may mắn<color>, sử dụng sẽ có cơ hội nhận được <color=yellow>Đồng khóa, Huyền tinh cao cấp<color>!
+<color=green>Hoạt động 2<color>
+    Thi đấu lần này những người cao điểm nhất trong 4 server, sẽ nhận thêm được Danh hiệu "<color=yellow>Ngôi sao Server <color>", toàn bộ người chơi trong server sẽ được cộng hưởng chúc phúc! (Điểm liên đấu có thể xem ở Quan Liên Đấu (cao) trên Anh Hùng đảo.) 
+
+"	<%Task.IVER_nHelpIsView_GbWlls%>	EndTag
+[Liên đấu liên server lần 3] nhân đôi thưởng	"<color=red>[Liên đấu liên server lần 3] nhân đôi thưởng<color>
+
+<color=green>1. Phần thưởng từng trận<color>
+    Mỗi lần hoàn thành 1 trận thi đấu, bất kể kết quả thế nào, người tham gia đều có thể nhận được <color=yellow> kinh nghiệm, uy danh giang hồ, Danh vọng liên đấu và điểm Vinh dự liên đấu<color>; Đội thắng còn có thể nhận được <color=yellow>Lễ bao Liên đấu liên Server và phần thưởng cá nhân<color> ! 
+<color=green>2. Phần thưởng chung cuộc cho Đơn đấu nhóm 3 người<color>
+
+                    <color=yellow>Phần thưởng Đơn đấu nhóm 3 người (1)<color>
+   <table=0>
+<tr=0,0,2,0,Orange><td=0,0,5,1>Xếp hạng chiến đội</td><td=0,0,5,1> điểm kinh nghiệm </td><td=0,0,5,1>vinh dự </td><td=0,0,5,1>Lệnh bài Danh vọng (không khóa) </td></tr>
+<tr=0,0,1,1,hide><td>1</td><td>10000 vạn kinh nghiệm</td><td>6000</td><td>Tư cách đúc tượng (3 tháng)</td></tr>
+<tr=0,0,1,2,gray><td>2</td><td>9000 vạn kinh nghiệm</td><td>5600</td><td>5 Liên Đấu Hoàng Kim Bài</td></tr>
+<tr=0,0,1,1,hide><td>3</td><td>8000 vạn kinh nghiệm</td><td>5400</td><td>4 Liên Đấu Hoàng Kim Bài</td></tr>
+<tr=0,0,1,2,gray><td>4</td><td>7000 vạn kinh nghiệm</td><td>5200</td><td>3 Liên Đấu Hoàng Kim Bài</td></tr>
+<tr=0,0,1,1,hide><td>5-8</td><td>6000 vạn kinh nghiệm</td><td>5000</td><td>2 Liên Đấu Hoàng Kim Bài</td></tr>
+<tr=0,0,1,2,gray><td>9-32</td><td>5000 vạn kinh nghiệm</td><td>4500</td><td> 1 Liên Đấu Hoàng Kim Bài</td></tr>
+<tr=0,0,1,1,hide><td>33-96</td><td>4000 vạn kinh nghiệm</td><td>4000</td><td>1 Liên Đấu Bạch Ngân Bài
+1 Lệnh bài Hắc thiết Võ lâm liên đấu</td></tr>
+<tr=0,0,1,2,gray><td>97-256</td><td>3000 vạn kinh nghiệm</td><td>3500</td><td>1 Liên Đấu Bạch Ngân Bài</td></tr>
+<tr=0,0,1,1,hide><td>257-512</td><td>2400 vạn kinh nghiệm</td><td>3000</td><td>1 Liên Đấu Thanh Đồng Bài</td></tr>
+<tr=0,0,1,2,gray><td>Đánh đủ từ 24 trận trở lên</td><td>2400 vạn kinh nghiệm</td><td>2500</td><td>1 Liên Đấu Hắc Thiết Bài</td></tr>
+</table>
+    Chú ý: Tạo tượng sẽ có được tư cách mua <color=yellow>Ngựa cấp 120<color>! 
+
+                    <color=yellow>Phần thưởng Đơn đấu nhóm 3 người (2)<color>
+          <table=0>
+<tr=0,0,2,0,Orange><td=0,0,5,1>Xếp hạng chiến đội</td><td=0,0,5,1>nhận được nguyên liệu </td><td=0,0,5,1>Danh hiệu</td></tr>
+<tr=0,0,1,1,hide><td>1</td><td>48 Ngũ Sắc Thạch</td><td>Hạng 1 Đơn đấu 3 người liên server</td></tr>
+<tr=0,0,1,2,gray><td>2</td><td>36 Ngũ Sắc Thạch</td><td>Hạng 2 Đơn đấu 3 người liên server</td></tr>
+<tr=0,0,1,1,hide><td>3</td><td>24 Ngũ Sắc Thạch</td><td>Hạng 3 Đơn đấu 3 người liên server</td></tr>
+<tr=0,0,1,2,gray><td>4</td><td>18 Ngũ Sắc Thạch</td><td>Hạng 4 Đơn đấu 3 người liên server</td></tr>
+<tr=0,0,1,1,hide><td>5-8</td><td>15 Ngũ Sắc Thạch</td><td>Tứ kết Đơn đấu 3 người liên server</td></tr>
+<tr=0,0,1,2,gray><td>9-32</td><td>10 Ngũ Sắc Thạch</td><td>Cao thủ Đơn đấu 3 người liên server</td></tr>
+<tr=0,0,1,1,hide><td>33-96</td><td>5 Ngũ Sắc Thạch</td><td>Tinh anh Đơn đấu 3 người liên server</td></tr>
+<tr=0,0,1,2,gray><td>97-256</td><td>3 Ngũ Sắc Thạch3</td><td>Không</td></tr>
+<tr=0,0,1,2,gray><td>257-512</td><td>1 Ngũ Sắc Thạch</td><td>Không</td></tr>
+<tr=0,0,1,1,hide><td>Đánh đủ từ 24 trận trở lên</td><td>1 Ngũ Sắc Thạch</td><td>Không</td></tr>
+</table>
+
+    Mang theo <color=yellow>Ngũ Sắc Thạch<color> và Nguyệt Ảnh Thạch đến chỗ Quan ghi danh Liên đấu liên server có thể đổi <color=yellow>Bạch Ngọc<color>, mỗi Bạch Ngọc có thể tăng 100 điểm Danh vọng Liên đấu liên Server.
+    <color=yellow>Danh vọng Liên đấu liên server đạt đến Hữu Nghị có thể đến chỗ Quan ghi danh Liên đấu mua Bạch Ngân Ngọc Bội: <color>
+    Nam <item=2,11,711,10><item=2,11,713,10><item=2,11,715,10><item=2,11,717,10><item=2,11,719,10>
+    Nữ <item=2,11,712,10><item=2,11,714,10><item=2,11,716,10><item=2,11,718,10><item=2,11,720,10>
+    <color=yellow>Đạt đến Thân mật có thể mua Hoàng kim Ngọc Bội: 
+    Nam <item=2,11,721,10><item=2,11,723,10><item=2,11,725,10><item=2,11,727,10><item=2,11,729,10>
+    Nữ <item=2,11,722,10><item=2,11,724,10><item=2,11,726,10><item=2,11,728,10><item=2,11,730,10><color>
+
+"	<%Task.IVER_nHelpIsView_GbWlls%>	EndTag
+[Mật Tịch (cao)] Hoành Không Xuất Thế - Hổ Hổ Sinh Uy	"<color=red>Mật Tịch (cao) Hoành Không Xuất Thế - Hổ Hổ Sinh Uy<color>
+
+<color=green>Cách nhận:<color>
+    <color=yellow>1. Vô Tự Thiên Thư, Thu Lâm cất giữ quyển Mật Tịch.<color>
+    Người chơi đã gia nhập môn phái sau khi đạt cấp 100, hoàn thành nhiệm vụ "<color=yellow>Vô Tự Thiên Thư<color>" ở chỗ Bạch Thu Lâm sẽ được 1 Mật Tịch (cao) tương ứng!
+
+    <color=yellow>2. Du Long Bí Bảo, tìm Long Ngũ đổi Mật Tịch.<color>
+    Một quyển Mật Tịch không thể luyện được hết kỹ năng, bạn có thể đến Du Long Các tìm <color=yellow>Tiền Du Long<color>, dùng Tiền Du Long đến chỗ <color=yellow>Long Ngũ Thái Gia<color> đổi thêm nhiều Mật Tịch (cao).
+    
+    Mật Tịch (cao) của các đại môn phái như sau, mời các vị xem qua!
+<color=yellow>Hệ Kim:<color>
+    <table=0>
+    <tr=0,0,2,0,Orange><td>      Thiếu</td><td>Lâm      </td></tr>
+    <tr=0,0,1,1,hide><td>Đao Thiếu Lâm</td><td><item=1,14,1,3></td></tr>
+    <tr=0,0,1,1,gray><td>Côn Thiếu Lâm</td><td><item=1,14,2,3></td></tr>
+</table><table=0>
+    <tr=0,0,2,0,Orange><td>      Thiên</td><td>Vương      </td></tr>
+    <tr=0,0,1,1,hide><td>Thương Thiên Vương</td><td><item=1,14,3,3></td></tr>
+    <tr=0,0,1,1,gray><td>Chùy Thiên Vương</td><td><item=1,14,4,3></td></tr>
+</table>
+<color=green>Hệ Mộc:<color>
+    <table=0>
+    <tr=0,0,2,0,Orange><td>      Đường</td><td>Môn      </td></tr>
+    <tr=0,0,1,1,hide><td>Hãm Tĩnh Đường</td><td><item=1,14,5,3></td></tr>
+    <tr=0,0,1,1,gray><td>Tụ Tiễn Đường</td><td><item=1,14,6,3></td></tr>
+</table><table=0>
+    <tr=0,0,2,0,Orange><td>      Ngũ</td><td>Độc      </td></tr>
+    <tr=0,0,1,1,hide><td>Đao Ngũ Độc</td><td><item=1,14,7,3></td></tr>
+    <tr=0,0,1,1,gray><td>Chưởng Ngũ Độc</td><td><item=1,14,8,3></td></tr>
+</table><table=0>
+    <tr=0,0,2,0,Orange><td>      Minh</td><td>Giáo      </td></tr>
+    <tr=0,0,1,1,hide><td>Chùy Minh Giáo</td><td><item=1,14,21,3></td></tr>
+    <tr=0,0,1,1,gray><td>Kiếm Minh Giáo</td><td><item=1,14,22,3></td></tr>
+</table>
+<color=blue>Hệ Thủy:<color>
+    <table=0>
+    <tr=0,0,2,0,Orange><td>      Nga</td><td>My      </td></tr>
+    <tr=0,0,1,1,hide><td>Chưởng Nga My</td><td><item=1,14,9,3></td></tr>
+    <tr=0,0,1,1,gray><td>Phụ Trợ Nga My</td><td><item=1,14,10,3></td></tr>
+</table><table=0>
+    <tr=0,0,2,0,Orange><td>      Thúy</td><td>Yên      </td></tr>
+    <tr=0,0,1,1,hide><td>Kiếm Thúy Yên</td><td><item=1,14,11,3></td></tr>
+    <tr=0,0,1,1,gray><td>Đao Thúy Yên</td><td><item=1,14,12,3></td></tr>
+</table><table=0>
+    <tr=0,0,2,0,Orange><td>    Đại Lý</td><td>Đoàn Thị    </td></tr>
+    <tr=0,0,1,1,hide><td>Chỉ Đoàn Thị</td><td><item=1,14,23,3></td></tr>
+    <tr=0,0,1,1,gray><td>Khí Đoàn Thị</td><td><item=1,14,24,3></td></tr>
+</table>
+<color=red>Hệ Hỏa:<color>
+    <table=0>
+    <tr=0,0,2,0,Orange><td>      Cái</td><td>Bang      </td></tr>
+    <tr=0,0,1,1,hide><td>Chưởng Cái Bang</td><td><item=1,14,13,3></td></tr>
+    <tr=0,0,1,1,gray><td>Côn Cái Bang</td><td><item=1,14,14,3></td></tr>
+</table><table=0>
+    <tr=0,0,2,0,Orange><td>      Thiên</td><td>Nhẫn      </td></tr>
+    <tr=0,0,1,1,hide><td>Chiến Nhẫn</td><td><item=1,14,15,3></td></tr>
+    <tr=0,0,1,1,gray><td>Ma Nhẫn</td><td><item=1,14,16,3></td></tr>
+</table>
+<color=gray>Hệ Thổ:<color>
+    <table=0>
+    <tr=0,0,2,0,Orange><td>      Võ</td><td>Đang      </td></tr>
+    <tr=0,0,1,1,hide><td>Khí Võ Đang</td><td><item=1,14,17,3></td></tr>
+    <tr=0,0,1,1,gray><td>Kiếm Võ Đang</td><td><item=1,14,18,3></td></tr>
+</table><table=0>
+    <tr=0,0,2,0,Orange><td>      Côn</td><td>Lôn      </td></tr>
+    <tr=0,0,1,1,hide><td>Đao Côn Lôn</td><td><item=1,14,19,3></td></tr>
+    <tr=0,0,1,1,gray><td>Kiếm Côn Lôn</td><td><item=1,14,20,3></td></tr>
+</table>
+
+"	1	EndTag
+Giới thiệu [Hệ thống đồng hành]	"<color=red>Giới thiệu<color>
+
+<color=green>[Sơ lược]<color>
+    <color=yellow>Giang hồ hiểm ác, đại hiệp hành tẩu giang hồ làm sao có thể thiếu người huynh đệ đồng hành? Bây giờ bạn đã có người đồng hành thuộc về mình!<color>
+    <color=red>Cơ Quan Nhân Thô, Đồng Tử dễ thương, Oanh Oanh Tiêu Dao Cốc, thậm chí là Tần Thủy Hoàng, <color><color=yellow>bạn có muốn họ trở thành đồng hành và giúp bạn thiên hạ vô địch không?<color>
+
+<color=green>[Giao diện đồng hành]<color>
+    1. Nhấp phía trên gốc trái giao diện chính <color=yellow>biểu tượng đồng hành: <color><pic=\image\ui\001a\main\btn_player_partner.spr,0>, có thể vào giao diện đồng hành 
+    2. Nhấp <color=yellow>F9<color> trực tiếp vào giao diện đồng hành.
+
+<color=green>[Nguyệt Ảnh Thạch]<color>
+    1. Muốn có một đồng hành tốt, không thể thiếu <color=yellow>Nguyệt Ảnh Thạch<color>.
+    2. Bạn có thể dùng <color=yellow>Nguyệt Ảnh Thạch<color> để đổi những vật phẩm liên quan đến đồng hành ở chỗ <color=yellow>Long Ngũ Thái Gia tại các Tân Thủ Thôn<color>, như <color=yellow>các loại thiệp, các loại Tinh Phách<color> v.v... dùng những vật phẩm này mới có thể nhận được đồng hành, tiến hành huấn luyện đồng hành.
+    3. Nguyệt Ảnh Thạch có thể nhận được thông qua việc gia công <color=yellow>Nguyệt Ảnh Nguyên Thạch (có bán tại Kỳ Trân Các)<color> bằng kỹ năng sống."		EndTag
+[Hệ thống đồng hành] Lợi ích đồng hành	"<color=red>Lợi ích đồng hành<color>
+
+    Khi bạn chiến đấu, đồng hành có thể giúp đỡ, <color=yellow>kỹ năng hỗ trợ bị động và tiềm năng<color> giúp tăng sức chiến đấu của bạn. Ngoài ra, <color=yellow>cấp sao<color> của đồng hành càng cao thì <color=yellow>điểm vinh dự tài phú<color> của bạn càng tăng.
+
+<color=green>Đồng hành đang giúp đỡ có thể:<color>
+    1. Tăng điểm tiềm năng của bạn, gồm: <color=yellow>sức mạnh, thân pháp, ngoại công, nội công<color> (Bấm F9 xem giao diện đồng hành)
+    2. Bạn sẽ nhận được <color=yellow>hiệu quả kỹ năng<color> hỗ trợ bị động của đồng hành này.
+"		EndTag
+[Hệ thống đồng hành] Nhận được đồng hành	" <color=red>Nhận được đồng hành<color>
+
+<color=green>Điều kiện:<color>
+    1. Bạn đạt <color=yellow>cấp 100<color> đồng thời <color=yellow>đã vào môn phái<color>, và có <color=yellow>thiệp<color> (Như: Thiệp lụa) 
+    2. Trong khu vực thích hợp, <color=yellow>chọn NPC có thể bị thuyết phục<color>, đứng cạnh đó sử dụng <color=yellow>sử dụng Thiệp<color>；
+    3. Số lượng đồng hành không được vượt mức tối đa
+    4. Dùng danh thiếp trang bị đồng hành <color=yellow>không cần đọc, nhưng có xác suất thành công nhất định, nếu thất bại sẽ không bị khấu trừ danh thiếp<color>, chỉ cần dùng lại là được. Sử dụng danh thiếp có thời gian chờ là 4 giây.
+
+    Chú ý: Chi tiết liên quan đến NPC được thuyết phục và Thiệp thuyết phục hãy xem "<color=yellow>NPC và thiệp<color>".
+
+<color=green>Làm sao có thể thuyết phục được NPC mà không cần tấn công?<color>
+    1. Kỹ năng chuột phải đổi thành vật công, chuột phải nhấp vào mục tiêu NPC rồi chọn.
+    2. Đồng thời nhấp Ctrl+L, di chuyển con trỏ đến NPC rồi chọn.
+    3. Kỹ năng chuột trái đổi thành vật công, sử dụng Shift+chuột trái nhấp vào NPC mục tiêu rồi chọn.
+"		EndTag
+[Hệ thống đồng hành] NPC và thiệp	"<color=red>NPC và thiệp<color>
+
+<color=green>Làm sao biết NPC đó có thể thuyết phục được không?<color>
+    1. Chọn NPC, bên phải thanh hình đại diện có <pic=\image\ui\001a\main\bg_partner_can_catch.spr,0> tức là mục tiêu có thể thuyết phục.
+    2. NPC càng mạnh thì càng khó thuyết phục, NPC khác loại thì sử dụng thiệp khác nhau, có một số NPC lượng máu phải <color=yellow>giảm xuống một mức độ nhất định<color> mới có thể thuyết phục: 
+      (1) Hiện đã mở Quái hình người cấp 15 -cấp 55 ở <color=yellow>Khu luyện công<color>, sử dụng <color=yellow>Thiệp lụa<color> để mở!
+      (2) Hiện trong <color=yellow>Tiêu Dao Cốc<color> chỉ có một số NPC có thể thuyết phục nhưng phải giảm lượng máu của nó <color=yellow>dưới 20%<color>, rồi sử dụng <color=yellow>Thiệp bạc<color>.
+
+<color=green>Làm sao nhận được thiệp?<color>
+    1. Đến chỗ <color=yellow>Long Ngũ Thái Gia ở các Tân Thủ Thôn<color> dùng <color=yellow>Nguyệt Ảnh Thạch<color> để đổi thiệp.
+    2. Gia công <color=yellow>Nguyệt Ảnh Nguyên Thạch (có bán tại Kỳ Trân Các)<color> bằng kỹ năng sống có thể nhận được Nguyệt Ảnh Thạch.
+
+    <color=yellow>Chú ý: Sẽ còn thêm nhiều khu vực và NPC, xin chú ý theo dõi!<color>
+"		EndTag
+[Hệ thống đồng hành] Thăng cấp và thân mật	"<color=red>Thăng cấp và thân mật<color>
+
+<color=green>Làm sao nhận được kinh nghiệm đồng hành?<color>
+    Điều kiện:
+    1. Đồng hành phải đang <color=yellow>giúp đỡ<color> 
+    2. Vào Bí cảnh và khu luyện công tiêu diệt <color=yellow>Quái tinh anh và Quái thủ lĩnh<color>; 
+    3. Cấp của quái đang tiêu diệt và đồng hành không được chênh lệch quá <color=yellow>15 cấp<color>.
+    4. Hiện tại đồng hành này <color=yellow>có kinh nghiệm tích lũy chưa đến cấp 10<color>.
+
+    Ngoài ra, Quái tinh anh và Quái thủ lĩnh trong khu vực cấp 115 sẽ rơi ra "<color=yellow>Sách kinh nghiệm đồng hành<color>", sử dụng sẽ giúp bạn đồng hành tăng điểm kinh nghiệm. 
+
+<color=green>Làm sao thăng cấp đồng hành?<color>
+    1. Điểm tích lũy kinh nghiệm của đồng hành phải đạt yêu cầu thăng cấp kinh nghiệm 
+    2. Phía trên gốc trái giao diện chính, nhấp <color=yellow>biểu tượng đồng hành:<color> <pic=\image\ui\001a\main\btn_player_partner.spr,0>, hay bấm <color=yellow>F9<color> để vào giao diện đồng hành; 
+    3. Chọn đồng hành đang đánh, nhấp vào nút <color=yellow>thăng cấp<color>.
+
+    Chú ý: Khi kinh nghiệm tích lũy của đồng hành đạt cấp 10 thì <color=yellow>không thể nhận thêm kinh nghiệm<color>, hãy kịp thời thăng cấp thủ công.
+        Đồng hành đạt cấp tối đa 120 sẽ không thể nhận thêm kinh nghiệm.
+
+<color=green>Làm sao tăng độ thân mật?<color> 
+    Các loại "<color=yellow>Tinh Phách<color>" có thể tăng độ thân mật.
+    <color=yellow>Tinh Phách<color> có thể dùng Nguyệt Ảnh Thạch đổi ở chỗ <color=yellow>Long Ngũ Thái Gia ở các Tân Thủ Thôn<color>.
+
+    Chú ý: Đồng hành dưới cấp 30 không cần tăng thân mật.
+        Độ thân mật đồng hành sau khi đạt tối đa cấp 100 sẽ không thể tăng nữa.
+
+<color=green>Giảm thân mật:<color>
+    1. Khi bạn đang ở <color=yellow>trạng thái chiến đấu<color>, độ thân mật của đồng hành đang <color=yellow>giúp đỡ<color> sẽ <color=yellow>giảm<color>; 
+    2. Độ thân mật đồng hành dưới cấp 30 sẽ không giảm; 
+    3. Độ thân mật mỗi ngày giảm tối đa <color=yellow>2 điểm<color>; 
+    4. Nếu độ thân mật thấp hơn <color=yellow>40<color> thì đồng hành này sẽ không thể giúp đỡ.
+"		EndTag
+[Hệ thống đồng hành] Kỹ năng dưỡng thành và lĩnh ngộ	"<color=red>Kỹ năng dưỡng thành và lĩnh ngộ<color>
+
+<color=green>Phương pháp kỹ năng dưỡng thành:<color>
+    1. Sau khi thuyết phục đồng hành thành công, đồng hành sẽ ngẫu nhiên nhận được vài kỹ năng (Bấm <color=yellow>F9<color> xem giao diện đồng hành), bạn có thể thăng cấp những kỹ năng này. Nếu bạn vẫn chưa hài lòng, có thể tìm một đồng hành khác.
+    2. Kỹ năng của đồng hành là <color=yellow>hỗ trợ bị động<color>, sẽ <color=yellow>có tác dụng khi đồng hành giúp đỡ<color>, nhưng mỗi lần chỉ được mời <color=yellow>1<color> đồng hành giúp đỡ. 
+    3. Cấp của đồng hành cứ mỗi thăng <color=yellow>5 cấp<color> thì <color=yellow>một kỹ năng nào đó<color> của đồng hành sẽ <color=yellow>có cơ hội tăng 1 cấp<color>, tỉ lệ tăng thành công là do <color=yellow>lĩnh ngộ<color> quyết định, nếu lĩnh ngộ đạt tối đa 100 thì tỉ lệ thành công sẽ là 100%. 
+    Chú ý: Sau này đồng hành sẽ có các <color=yellow>kỹ năng đặc biệt<color> mới lạ, hãy chú ý theo dõi!
+
+<color=green>Giảm lĩnh ngộ:<color>
+    Sau khi kỹ năng thăng cấp thành công, lĩnh ngộ sẽ <color=yellow>giảm 10<color>, nhưng tối đa chỉ được giảm đến <color=yellow>40<color>.
+
+<color=green>Làm sao tăng lĩnh ngộ?<color>
+    Bạn có thể bấm <color=yellow>F9<color> vào giao diện đồng hành "<color=yellow>tặng quà<color>" cho đồng hành để tăng lĩnh ngộ.
+
+<color=green>Quà tặng:<color>
+    1. <color=yellow>Huyền Tinh, Ngũ Hành Hồn Thạch<color>
+    2. <color=yellow>Thỏi vàng, Thỏi vàng (đại)<color>
+    3. <color=yellow>Thành phẩm Tiêu Dao Cốc<color>
+      (Huyết Ảnh Thương, Linh Thú Chiến Ngoa, Độn Giáp Linh Phù, Tử Tinh Huyễn Bội, Thất Thái Tiên Đơn)
+    4. <color=yellow>Thành phẩm lãnh thổ chiến<color>
+      (Bách Bộ Xuyên Dương Cung, Hình Thiên Chiến Bào, Hành Quân Phù Chú, Du Tử Hộ Thân Phù, Thiên Lý Chỉ Khát Đơn)
+    5. <color=yellow>Thành phẩm Tần Lăng<color>
+      (Tần Lăng-Trường Minh Đăng, Tần Lăng-Ban Sơn Ấn, Tần Lăng-Mạc Kim Phù, Tần Lăng-Hòa Thị Bích, Tần Lăng-Dạ Minh Châu)
+"		EndTag
+[Hệ thống đồng hành] Trùng sinh và giao dịch	"<color=red>Trùng sinh và giao dịch<color>
+
+<color=green>Làm sao trùng sinh?<color>
+    1. Đồng hành <color=yellow>cấp 120 dưới 6.5 sao<color> sử dụng <color=yellow>Bồ Đề Quả<color>.
+    2. Đến chỗ <color=yellow>Long Ngũ Thái Gia<color>, dùng Nguyệt Ảnh Thạch đổi Bồ Đề Quả.
+    3. <color=yellow>50<color> Nguyệt Ảnh Thạch sẽ đổi được <color=yellow>1<color> Bồ Đề Quả.
+    4. Đồng hành đạt <color=yellow>cấp 120 và 6.5 sao<color> đến chỗ <color=yellow>Long Ngũ Thái Gia<color> xin phép, đợi một lúc sau sẽ được trùng sinh.
+    5. Đồng hành dưới cấp 120 không thể trùng sinh.
+
+<color=green>Sau khi trùng sinh, đồng hành có gì thay đổi?<color>
+    1. Trở về <color=yellow>cấp<color> 1 
+    2. <color=yellow>Tiềm năng<color> trở về trị ban đầu 
+    3. Cấp <color=yellow>kỹ năng<color> trở về 1, giữ nguyên kỹ năng 
+    4. Được <color=yellow>Tinh Hoa Dịch<color> có thể tăng lĩnh ngộ (Đồng hành cấp 120 có hai kỹ năng sau khi trùng sinh sẽ không được vật này).
+
+<color=green>Làm sao giao dịch?<color>
+    1. Dùng Nguyệt Ảnh Thạch đến Tân Thủ Thôn chỗ <color=yellow>Long Ngũ Thái Gia<color> đổi <color=yellow>Thư Tiến Cử<color> 
+    2. 1 Nguyệt Ảnh Thạch đổi được 1 Thư Tiến Cử 
+    3. Dùng <color=yellow>Thư Tiến Cử<color>, chọn 1 đồng hành <color=yellow>cấp 1<color> 
+    4. Đạo cụ biến đồng hành ban đầu thành "<color=yellow>Đồng Hành Trẻ<color>", có thể giao dịch với người khác.
+    <color=yellow>Chú ý: Chỉ có đồng hành cấp 1 mới được dùng Thư Tiến Cử giao dịch với người khác.<color>
+
+<color=green>Làm sao kiểm tra đồng hành của người khác?<color>
+    1. <color=yellow>Ctrl+chuột phải<color> vào người chơi khác, chọn "<color=yellow>Tin tức<color>" 
+    2. Bên phải <color=yellow>giao diện tin tức người chơi<color> sẽ hiển thị cấp <color=yellow> đồng hành<color> đang giúp đỡ, <color=yellow>thuộc tính, kỹ năng<color>.
+
+"		EndTag
+[Hệ thống đồng hành] Hủy quan hệ đồng hành	"<color=red>Hủy quan hệ đồng hành<color>
+
+    1. Trong bảng đồng hành <color=yellow>F9<color>, chọn đồng hành bạn muốn hủy quan hệ, nhấp <color=yellow>giải tán<color> rồi xác nhận.
+    2. Nếu đồng hành đạt <color=yellow>5.5 sao<color>, phải đến chỗ <color=yellow>Long Ngũ Thái Gia<color> giải tán đồng hành.
+
+    <color=yellow>Sau khi hủy quan hệ đồng hành, điểm tiềm năng, vinh dự tài phú và kỹ năng của đồng hành sẽ mất hiệu lực. <color>Người trong giang hồ rất trọng nghĩa khí, nên suy nghĩ kỹ trước khi quyết định.
+"		EndTag
+[Tần Lăng] Giới thiệu	"<color=yellow>Giới thiệu Tần Lăng<color>
+
+<color=green>Thời gian mở Tần Lăng: 60 ngày sau khi tăng đến cấp 150<color>
+
+    Từ lúc nhóm đạo mộ tặc Phát Khâu Môn mở Tần Lăng, người trong giang hồ đều đổ xô tới đây với mong muốn được chia phần trong bảo khố truyền thuyết này. Thế nhưng cũng giống như thông đạo u tối của Tần Lăng, không ai biết được cái gì đang chờ đợi những kẻ cả gan mạo phạm Đế vương.
+
+    Tần Lăng có 5 tầng, 4 tầng đầu đều có nhiều sĩ binh trấn thủ lăng mộ, đánh bại những sĩ binh này có thể nhận được vật phẩm quý như <color=yellow>Huyền Tinh, Mảnh Dạ Minh Châu và vật liệu luyện hóa trang bị<color>.
+
+    Trong lúc đấu với Thủ Lăng Sĩ Binh, ngẫu nhiên sẽ xuất hiện một số giang hồ dị sĩ đến tầm bảo, đánh bại bọn dị sĩ này có thể nhận nhiều bảo vật giá trị.
+
+    Vì Tần Lăng là cổ mộ được phong ấn ngàn năm nay, bên trong khí độc dày đặc hòng cản bước những kẻ đạo mộ. Khí độc này khiến con người tay chân rã rời, sức tấn công và phòng ngự đều giảm đáng kể. <color=yellow>Phải cần đến Dạ Minh Châu mới hóa giải được loại độc khí này<color>. Võ công càng cao, độc khí sẽ thấm càng nhanh, nên số lượng Dạ Minh Châu cần càng nhiều..
+
+    Sau khi sử dụng Dạ Minh Châu trong vòng 1 giờ có thể kháng độc hoàn toàn, nhưng để tránh ở lâu trong môi trường kịch độc dẫn đến kinh mạch nghịch chuyển, nên mỗi người mỗi ngày chỉ được vào Tần Lăng <color=yellow>2 giờ<color>.
+
+    Theo lời đồn đại của bọn Phát Khâu Môn, với kỹ thuật chế tạo cơ quan xuất quỷ nhập thần của người xưa, chỉ có khoảnh khắc các tinh tú đổi ngôi thì cửa tầng 5 của Tần Lăng mới được mở và chủ nhân của lăng mộ này-Tần Thủy Hoàng cùng các phân thân của hắn sẽ xuất hiện tại <color=yellow>tầng 1, 3, 5<color>.
+
+    Thời gian mở tầng 5: <color=yellow>chiều 3:00-4:30, tối 10:00-11:30<color>.
+
+    Hiện nay các môn đồ Tinh Anh của Phát Khâu Môn đã vào đến Tần Lăng 3, nếu có người lấy được bảo vật trên người Tần Thủy Hoàng, môn đồ Phát Khâu Môn hẳn sẽ rất thèm muốn, không chừng họ sẽ đem <color=yellow>Thần Binh Lợi Khí<color> đã thu thập được để đổi.
+
+[Chi tiết xin xem "Lưu ý của Tần Lăng"]
+"		EndTag
+[Tần Lăng] Lưu ý	"<color=yellow>Tần Lăng-Lưu ý<color>
+
+<color=green>Q: Làm sao để vào Tần Lăng?<color>
+A: Đến Vĩnh Lạc Trấn-phía Đông bắc <color=yellow>Tàn Tích Cung A Phòng<color>, đối thoại với <color=yellow>quân sư Lương Tiếu Tiếu<color> để vào.
+
+<color=green>Q: Các điều kiện hạn chế vào Tần Lăng?<color>
+A: Nhân vật trên cấp 100 mỗi ngày chỉ được ở trong Tần Lăng 2 giờ.
+    Trong Hoàng lăng không thể sử dụng Cửu Chuyển Tục Mệnh Hoàn và Càn Khôn Phù.
+    <color=yellow>Sau khi mở tầng 5 trong Hoàng Lăng, tiến vào tầng 1, 3, 5, PK là dạng PK bang hội, và không thể chuyển sang dạng khác.<color>
+
+<color=green>Q: Tần Lăng kết cấu như thế nào?<color>
+A: Tần Lăng gồm 5 tầng. Nếu bị tử vong ở tầng 1 sẽ được đưa về thành, bị tử vong ở tầng 2,3 sẽ được đưa về tầng 1; bị tử vong ở tầng 4,5 sẽ được đưa về tầng 3
+    4 tầng đầu tiên sẽ có rất nhiều các Dũng Binh trấn giữ, thỉnh thoảng sẽ gặp các nhân sĩ kỳ bí, đánh bại họ có thể lấy được <color=yellow>Huyền Tinh, Mảnh Dạ Minh Châu và Luyện Hóa Đồ<color>.
+    <color=yellow>Chiều 3:00 - 4:30, tối 10:00 - 11:30<color> hằng ngày Tần Lăng 5 sẽ mở ra, vào lúc này, tại tầng 1, 3, 5 sẽ xuất hiện chủ nhân của lăng mộ - Tần Thủy Hoàng, và phân thân của hắn.
+
+<color=green>Q: Làm sao kháng được độc khí trong Hoàng lăng?<color>
+A: Hoàng lăng-tầng 2, 3, 4 chứa đầy độc khí, cần phải sử dụng <color=yellow>Dạ Minh Châu<color> mới có thể hóa giải. Mỗi lần dùng Dạ Minh Châu sẽ kháng độc được 1 giờ.
+    Người võ công càng cao thì càng dễ trúng độc khí, vì vậy cần sử dụng Dạ Minh Châu càng nhiều. Số lượng Dạ Minh Châu cần tiêu hao ở mỗi tầng:
+    <table=0>
+    <tr=0,0,2,0,Orange><td=0,0,5,1>Tầng</td><td=0,0,5,1>Siêu phàm/Xuất trần/Lăng Tuyệt</td><td=0,0,5,1>Kinh Thế/Ngự Không</td><td=0,0,5,1>Hỗn Thiên</td><td=0,0,5,1>Sồ Phượng</td><td=0,0,5,1>Tiềm Long</td><td=0,0,5,1>Chí Tôn</td><td=0,0,5,1>Vô Song</td></tr>
+    <tr=0,0,1,1,hide><td>2</td><td>-</td><td>-</td><td>-</td><td>1</td><td>1</td><td>3</td><td>5</td></tr>
+    <tr=0,0,1,1,gray><td>3</td><td>-</td><td>-</td><td>1</td><td>1</td><td>3</td><td>9</td><td>15</td></tr>
+    <tr=0,0,1,2,hide><td>4</td><td>-</td><td>1</td><td>1</td><td>2</td><td>6</td><td>18</td><td>30</td></tr>
+    </table>
+
+    Lưu ý: <color=yellow>Trong cùng 1 tầng hiệu quả Dạ minh châu sử dụng có thể cộng dồn, tối đa là 10 giờ<color>.
+
+<color=green>Q: Làm sao có được Dạ Minh Châu?<color>
+A: Các quái trong Hoàng lăng đều có tỷ lệ rơi ra <color=yellow>mảnh Dạ Minh Châu<color>, sử dụng kỹ năng sống trên cấp 100 có thể chế tác thành Dạ Minh Châu.
+    Trong Kỳ Trân Các cũng có bán Dạ Minh Châu.
+"		EndTag
+[Tần Lăng] Thần Binh Bảo Giáp	"<color=yellow>Tần Lăng-Thần Binh Bảo Giáp<color>
+
+<color=purple>[Bảo Giáp]<color>
+    Các Dũng Binh trong Hoàng lăng sẽ rơi ra vật liệu. Sử dụng Kỹ năng sống trên cấp 100 có thể chế tạo ra vật phẩm danh vọng, sử dụng sẽ tăng Danh vọng <color=yellow>Tần Lăng-Quan Phủ<color>.
+    Khi Danh vong đạt đến cấp nhất định, có thể vào <color=yellow>Hoàng lăng 1<color> gặp môn đồ của Phát Khâu Môn mua Luyện Hóa Đồ trang bị cấp 2
+    Khi Danh vọng đạt đến Hảo hữu, có thể luyện hóa: <item=4,10,55,10> hoặc <item=4,10,65,10>
+    Khi Danh vọng đạt đến Thân mật, có thể luyện hóa: <item=4,11,38,10>
+    Khi Danh vọng đạt đến Khâm phục, có thể luyện hóa: <item=4,3,207,10> hoặc <item=4,3,223,10> hoặc <item=4,3,240,10>
+
+<color=purple>[Thần Binh]<color>
+    Boos trong Hoàng lăng sẽ rơi ra Hòa Thị Ngọc, sử dụng kỹ năng sống trên cấp 100 có thể tạo thành vật phẩm Danh vọng Tần Lăng-Hòa Thị Bích<item=18,1,377,1>, sử dụng sẽ tăng Danh vọng <color=yellow>Tần Lăng-Phát Khâu Môn<color>.
+    
+    Thu thập <color=yellow>5<color> Tần Lăng-Hòa Thị Bích <item=18,1,377,1> giao cho <color=yellow>Dã Tẩu ở Hoàng Lăng 3<color> có thể đổi <color=yellow>1<color> vũ khí Thanh Đồng-Luyện Hóa Đồ.
+    Có thể đến chỗ Dã Luyện Đại Sư đem vũ khí cấp 100 và Luyện Hóa Đồ này luyện thành vũ khí cấp 110, sau khi luyện hóa:
+    <item=2,1,1375,10><item=2,1,1376,10><item=2,1,1377,10><item=2,1,1378,10><item=2,1,1379,10><item=2,1,1380,10><item=2,2,150,10><item=2,2,155,10>
+    <item=2,1,1407,10><item=2,1,1408,10><item=2,1,1409,10><item=2,1,1410,10><item=2,1,1414,10><item=2,1,1415,10><item=2,2,159,10><item=2,2,160,10>
+
+    Khi Danh vọng đạt đến cấp nhất định, đến <color=yellow>Hoàng Lăng 3<color> gặp môn đồ của Phát Khâu Môn mua các loại vũ khí
+    Khi Danh vọng đạt đến Hữu Nghị, có thể mua: 
+    <item=2,1,1215,10><item=2,1,1216,10><item=2,1,1217,10><item=2,1,1218,10><item=2,1,1219,10><item=2,1,1220,10><item=2,2,125,10><item=2,2,130,10>
+    <item=2,1,1267,10><item=2,1,1268,10><item=2,1,1269,10><item=2,1,1270,10><item=2,1,1274,10><item=2,1,1275,10><item=2,2,145,10><item=2,2,146,10>
+    Khi Danh vọng đạt đến Khâm phục, có thể mua: 
+    <item=2,1,1285,10><item=2,1,1286,10><item=2,1,1287,10><item=2,1,1288,10><item=2,1,1289,10><item=2,1,1290,10><item=2,2,135,10><item=2,2,140,10>
+    <item=2,1,1337,10><item=2,1,1338,10><item=2,1,1339,10><item=2,1,1340,10><item=2,1,1344,10><item=2,1,1345,10><item=2,2,147,10><item=2,2,148,10>
+"		EndTag
+[Đạo cụ Tiêu Dao đổi Bạc khóa]	"<color=yellow>Đạo cụ Tiêu Dao đổi Bạc khóa<color>
+    
+  Tại <color=yellow>Chủ Thương Hội<color> ở các thành thị, có thể dùng các loại <color=yellow>Đạo cụ Tiêu Dao Cốc đổi Bạc khóa<color>.
+  <color=green>Hạn chế đổi: mỗi tuần tối đa có thể đổi 30 vạn bạc khóa<color>
+    <table=0>
+  <tr=0,0,2,0,Orange><td=0,0,5,1>Đạo cụ Tiêu Dao Cốc</td><td=0,0,5,1>Giá trị bạc khóa</td></tr>
+  <tr=0,0,1,1,hide><td>Tiên Linh Nguyên Mộc</td><td>2000</td></tr>
+  <tr=0,0,1,1,gray><td>Da lông Linh Thú</td><td>2000</td></tr>
+  <tr=0,0,1,2,hide><td>Linh Thú Huyết</td><td>2000</td></tr>
+  <tr=0,0,1,2,gray><td>Tử Tinh Nguyên Thạch</td><td>2000</td></tr>
+  <tr=0,0,1,3,hide><td>Tiên Linh Quả</td><td>2000</td></tr>
+  <tr=0,0,1,1,gray><td>Lệnh Bài Thương Hội (lệnh bài cấp 2 Tiêu Dao)</td><td>1000</td></tr>
+  <tr=0,0,1,2,hide><td>Lệnh Bài Thương Hội (lệnh bài cấp 3 Tiêu Dao)</td><td>2000</td></tr>
+  <tr=0,0,1,2,gray><td>Lệnh Bài Thương Hội (lệnh bài cấp 4 Tiêu Dao)</td><td>3000</td></tr>
+    <tr=0,0,1,3,hide><td>Lệnh Bài Thương Hội (lệnh bài cấp 5 Tiêu Dao)</td><td>5000</td></tr>
+    <tr=0,0,1,1,gray><td>[Thẻ kích sát] Sói Chúa</td><td>2000</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ kích sát] Gấu Chúa</td><td>1500</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ kích sát] Hổ Chúa</td><td>1500</td></tr>
+    <tr=0,0,1,3,hide><td>[Thẻ kích sát] Cá Sấu Lớn</td><td>2000</td></tr>
+    <tr=0,0,1,1,gray><td>[Thẻ kích sát] Khỉ Chúa</td><td>3500</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ kích sát] Ngựa Chúa</td><td>1500</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ kích sát] Dị Thú</td><td>2000</td></tr>
+    <tr=0,0,1,3,hide><td>[Thẻ kích sát] Sát Đại Mục</td><td>3000</td></tr>
+    <tr=0,0,1,1,gray><td>[Thẻ kích sát] U Minh Quỷ Vương</td><td>2500</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ kích sát] Thống Lĩnh Ngụy Quân</td><td>4000</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ kích sát] Thống Lĩnh Ngô Quân</td><td>4000</td></tr>
+    <tr=0,0,1,3,hide><td>[Thẻ kích sát] Giám quân</td><td>4000</td></tr>
+    <tr=0,0,1,1,gray><td>[Thẻ kích sát] Tử Uyển</td><td>3500</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ kích sát] Tần Trọng</td><td>3500</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ kích sát] Nhậm Diễu</td><td>4000</td></tr>
+    <tr=0,0,1,3,hide><td>[Thẻ kích sát] Tiêu Bất Thực</td><td>4500</td></tr>
+    <tr=0,0,1,1,gray><td>[Thẻ kích sát] Mộc Siêu</td><td>3000</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ kích sát] Hạ Tiểu Sảnh</td><td>3500</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ kích sát] Hồ Khôn</td><td>4500</td></tr>
+    <tr=0,0,1,3,hide><td>[Thẻ kích sát] Mặc Quân</td><td>5000</td></tr>
+    <tr=0,0,1,1,gray><td>[Thẻ kích sát] Đường Vũ</td><td>5000</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ kích sát] Hồ Càn</td><td>3500</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ kích sát] Diệp Tịnh</td><td>5000</td></tr>
+    <tr=0,0,1,3,hide><td>[Thẻ bảo vật] Huyết Ảnh Thương</td><td>4500</td></tr>
+    <tr=0,0,1,1,gray><td>[Thẻ bảo vật] Linh Thú Chiến Ngoa</td><td>4500</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ bảo vật] Độn Giáp Linh Phù</td><td>4500</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ bảo vật] Tử Tinh Huyễn Bội</td><td>4500</td></tr>
+    <tr=0,0,1,3,hide><td>[Thẻ bảo vật] Thất Thái Tiên Đơn</td><td>4500</td></tr>
+    <tr=0,0,1,1,gray><td>[Thẻ bí bảo] Tà Linh</td><td>5000</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ bí bảo] Thánh Ngấn</td><td>5000</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ bí bảo] Băng Liên</td><td>5000</td></tr>
+    <tr=0,0,1,3,hide><td>[Thẻ vượt ải] Trí Dũng Song Toàn</td><td>3000</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ vượt ải] Xà Huyệt Thoát Hiểm</td><td>3000</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ vượt ải] Trợ Nhân Vi Lạc</td><td>3000</td></tr>
+    <tr=0,0,1,3,gray><td>[Thẻ vượt ải] Hậu Sinh Khả Úy</td><td>4000</td></tr>
+    <tr=0,0,1,1,hide><td>[Thẻ vượt ải] Đại Sư Đào Thoát</td><td>5000</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ kích sát] Cơ Quan Thủ Phủ</td><td>2000</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ kích sát] Thống Lĩnh Phản Quân</td><td>2500</td></tr>
+    <tr=0,0,1,3,gray><td>[Thẻ kích sát] Quả Nông</td><td>2000</td></tr>
+    <tr=0,0,1,1,hide><td>[Thẻ kích sát] Cơ Quan Cự Lang</td><td>3500</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ kích sát] Thủ Lĩnh Cường Đạo</td><td>4000</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ kích sát] Vượng Tài</td><td>2500</td></tr>
+    <tr=0,0,1,3,gray><td>[Thẻ bí bảo] Oán Linh</td><td>5000</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ bí bảo] Tuyết Tinh Thạch</td><td>5000</td></tr>
+    <tr=0,0,1,3,gray><td>[Thẻ vượt ải] Thử Địa Vô Ngân</td><td>3000</td></tr>
+    <tr=0,0,1,1,hide><td>[Thẻ vượt ải] Hộ Hoa Sứ Giả</td><td>2500</td></tr>
+    <tr=0,0,1,2,gray><td>[Thẻ vượt ải] Thoát Khỏi Vòng Vây</td><td>3000</td></tr>
+    <tr=0,0,1,2,hide><td>[Thẻ vượt ải] Hầu Khẩu Đoạt Thực</td><td>3000</td></tr>
+    <tr=0,0,1.3.gray><td>[Thẻ kích sát] Trương Đức Hằng</td><td>3000</td></tr>
+    <tr=0,0,1.2.hide><td>[Thẻ vượt ải] Bái phục</td><td>2500</td></tr>
+    <tr=0,0,1.2.gray><td>[Thẻ vượt ải] Đồng Tâm</td><td>3000</td></tr>
+    <tr=0,0,1.2.hide><td>[Thẻ vượt ải] Tam Quân</td><td>3000</td></tr>
+    <tr=0,0,1,3,gray><td>[Thẻ đặc biệt] Biến Huyễn</td><td>5000</td></tr>
+    </table>
+"		EndTag

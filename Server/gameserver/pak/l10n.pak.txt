@@ -1,0 +1,12 @@
+TotalFile:10	PakTime:2010-4-26 18:54:36	PakTimeSave:4bd570ec	CRC:24f9ead5
+Index	ID	Time	FileName	Size	InPakSize	ComprFlag	CRC
+0	11fe8b41	2010-4-14 11:11:33	\l10n\zh-tw\stringtable_log.txt	5572	2119	4	9867a535
+1	20a2d766	2010-4-26 18:48:11	\l10n\l10n.pak.txt	974	578	4	944df43a
+2	23c86448	2010-4-14 11:11:33	\l10n\zh-tw\stringtable_gccore.txt	12468	4619	4	da8affe3
+3	6a25cb2c	2009-11-4 11:53:43	\l10n\vi-vi\stringtable_core.txt	71010	20528	4	3c06fece
+4	7c0d9159	2010-4-14 11:11:33	\l10n\zh-tw\stringtable_core.txt	60166	20700	4	11b6ded6
+5	7c190844	2010-1-22 23:37:59	\l10n\zh-cn\stringtable_gccore.txt	10156	4125	4	f8fa91d0
+6	ac1c79d5	2009-12-30 15:34:32	\l10n\zh-cn\stringtable_core.txt	50286	18923	4	447ff25c
+7	d4ce0cae	2009-11-4 11:53:44	\l10n\vi-vi\stringtable_log.txt	6569	2183	4	12cad024
+8	dd9adc0c	2009-11-4 11:53:44	\l10n\vi-vi\stringtable_gccore.txt	13251	4164	4	edc68fef
+9	ed2366c5	2010-1-8 10:24:48	\l10n\zh-cn\stringtable_log.txt	4869	1919	4	28f0ff92

@@ -1,0 +1,1 @@
+GatewayId	Account	RoleName	Ticket	Rank	Faction	Route	Level	Kin	Tong	FansName	FansTicket	Sex

@@ -1,0 +1,6 @@
+Date	LeagueName	LeagueMembers	LeagueTask_1	LeagueTask_4	LeagueTask_5	LeagueTask_6	LeagueTask_7	LeagueTask_8	LeagueTask_17
+202110161958	ChienDoi	NgườiNgoài,NgườiTrong	1	1	4	1	0	3	0
+202110161958	NguoiChoi	NgườiChơi,TestGame	1	1	2	4	0	6	0
+202110161958	TeamADM	Administrator,GameMaster	1	1	1	7	1	12	0
+202110161958	bababa	babababa	1	1	5	0	1	4	0
+202110161958	dinhgiatoc	BAONGAN,MinhChauThanNu	1	1	3	2	0	4	0

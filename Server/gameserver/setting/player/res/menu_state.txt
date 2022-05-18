@@ -1,0 +1,5 @@
+StateId	EffectId	StateDesc
+1	89	Trạng thái đội ngũ khai mở
+3	90	Trạng thái tiến hành giao dịch
+4	91	Trạng thái ngủ
+2	92	Trạng thái bán hàng

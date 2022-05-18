@@ -1,0 +1,27 @@
+Name	Genre	Detail	Particular	Level	Five	Rate	Text
+Phục Đoạn Giới	2	4	104	4	1	15000	Nhẫn tím PvsP (cấp 4) (Kim)
+Phục Đoạn Giới	2	4	114	4	1	15000	Nhẫn tím PvsP (cấp 4) (Mộc)
+Phục Đoạn Giới	2	4	124	4	1	15000	Nhẫn tím PvsP (cấp 4) (Thủy)
+Phục Đoạn Giới	2	4	134	4	1	15000	Nhẫn tím PvsP (cấp 4) (Hỏa)
+Phục Đoạn Giới	2	4	144	4	1	15000	Nhẫn tím PvsP (cấp 4) (Thổ)
+Phục Đoạn Giới	2	4	204	4	1	2000	Nhẫn cam PvsP (cấp 4) (Kim)
+Phục Đoạn Giới	2	4	214	4	1	2000	Nhẫn cam PvsP (cấp 4) (Mộc)
+Phục Đoạn Giới	2	4	224	4	1	2000	Nhẫn cam PvsP (cấp 4) (Thủy)
+Phục Đoạn Giới	2	4	234	4	1	2000	Nhẫn cam PvsP (cấp 4) (Hỏa)
+Phục Đoạn Giới	2	4	244	4	1	2000	Nhẫn cam PvsP (cấp 4) (Thổ)
+Phá Quân Giới	2	4	105	5	1	10000	Nhẫn tím PvsP (cấp 5) (Kim)
+Phá Quân Giới	2	4	115	5	1	10000	Nhẫn tím PvsP (cấp 5) (Mộc)
+Phá Quân Giới	2	4	125	5	1	10000	Nhẫn tím PvsP (cấp 5) (Thủy)
+Phá Quân Giới	2	4	135	5	1	10000	Nhẫn tím PvsP (cấp 5) (Hỏa)
+Phá Quân Giới	2	4	145	5	1	10000	Nhẫn tím PvsP (cấp 5) (Thổ)
+Phá Quân Giới	2	4	205	5	1	1400	Nhẫn cam PvsP (cấp 5) (Kim)
+Phá Quân Giới	2	4	215	5	1	1400	Nhẫn cam PvsP (cấp 5) (Mộc)
+Phá Quân Giới	2	4	225	5	1	1400	Nhẫn cam PvsP (cấp 5) (Thủy)
+Phá Quân Giới	2	4	235	5	1	1400	Nhẫn cam PvsP (cấp 5) (Hỏa)
+Phá Quân Giới	2	4	245	5	1	1400	Nhẫn cam PvsP (cấp 5) (Thổ)
+Huyền Tinh cấp 3	18	1	1	3	1	328500	Huyền Tinh cấp 3
+Huyền Tinh cấp 4	18	1	1	4	1	400000	Huyền Tinh cấp 4
+Huyền Tinh cấp 5	18	1	1	5	1	108000	Huyền Tinh cấp 5
+Huyền Tinh cấp 6	18	1	1	6	1	18000	Huyền Tinh cấp 6
+Huyền Tinh cấp 7	18	1	1	7	1	3000	Huyền Tinh cấp 7
+Huyền Tinh cấp 8	18	1	1	8	1	500	Huyền Tinh cấp 8

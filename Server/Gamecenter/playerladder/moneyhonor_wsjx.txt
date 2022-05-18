@@ -1,0 +1,3 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2012-12-02 03:00:01
+1	wsjx	testing0009	Testing	 Thiếu Lâm	 Đao Thiếu	120	Nam	Không gia tộc	Không bang hội	35308
+2	wsjx	test	testttttttt	 Thiên Vương	 Thiên Vương	150	Nam	Không gia tộc	Không bang hội	24002

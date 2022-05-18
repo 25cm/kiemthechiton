@@ -1,0 +1,3 @@
+20220517-164013<DEBUG:00000EB4>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220517-170500<DEBUG:00001280>: nSocket = 576, nSendFlag = 0, Error = 10054
+20220517-170500<DEBUG:00000EB4>: nSocket = 576, nSendFlag = 1, Error = 10054

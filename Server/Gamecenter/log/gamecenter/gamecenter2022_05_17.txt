@@ -1,0 +1,2374 @@
+16:21:21	
+16:21:21	********************** Gamecenter Startup ************************
+16:21:21	OS Time: 05/17/22 16:21:21
+16:21:21	Game Init ..
+16:21:21	Loading Script...
+16:21:21	Begin load script files...
+16:21:21	begin load vfactory.lua
+16:21:21	Preload gc script files...
+16:21:21	21 loaded!
+16:21:21	Loading Scripts In Path \script\
+16:21:21	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+16:21:21	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+16:21:21	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+16:21:21	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+16:21:21	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+16:21:21	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+16:21:21	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+16:21:21	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+16:21:21	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+16:21:21	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+16:21:21	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+16:21:21	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+16:21:21	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+16:21:21	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+16:21:21	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+16:21:21	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+16:21:21	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+16:21:21	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+16:21:21	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+16:21:21	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+16:21:21	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+16:21:21	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+16:21:21	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+16:21:21	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+16:21:21	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+16:21:21	296 loaded!
+16:21:21	Create DBShare Table
+16:21:21	LoadDBShare...
+16:21:21	Current Data Version : 1
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[GBLVALUE]	ModuleInit..
+16:21:21	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:21:21	Create RDS Table: tblGblValueSet
+16:21:21	Create RDS Table: tblGblVIntInt
+16:21:21	Create RDS Table: tblGblVIntBuf
+16:21:21	Create RDS Table: tblGblVStrInt
+16:21:21	Create RDS Table: tblGblVStrBuf
+16:21:21	[GBLVALUE]	Base Data Init, Create RootTree...
+16:21:21	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:21:21	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:21:21	[GBLVALUE]	Base Data Init, Create RootTree...
+16:21:21	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:21:21	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:21:21	[GBLVALUE]	Base Data Init, Create RootTree...
+16:21:21	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:21:21	Create SaveBuffer DB Table
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[TRANSFER]	ModuleInit..
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[TimerTask]	ModuleInit..
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[ScheduleTask]	ModuleInit..
+16:21:21	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+16:21:21	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[LEAGUE]	ModuleInit..
+16:21:21	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:21:21	Create RDS Table: tblLeagueSet
+16:21:21	Create RDS Table: tblMemberLea
+16:21:21	Create RDS Table: tblLeague
+16:21:21	Create RDS Table: tblLeagueTask
+16:21:21	Create RDS Table: tblLeagueMember
+16:21:21	Create RDS Table: tblLeaMemberTask
+16:21:21	[LEAGUE]	Base Data Init, Create RootTree...
+16:21:21	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[KIN]	ModuleInit..
+16:21:21	[KIN]	Base Data Init, Root Branch ID: 9
+16:21:21	Create RDS Table: tblKin
+16:21:21	Create RDS Table: tblKinTask
+16:21:21	Create RDS Table: tblKinBufTask
+16:21:21	Create RDS Table: tblKinMember
+16:21:21	Create RDS Table: tblKinMemberTask
+16:21:21	[KIN]	Base Data Init, Create RootTree...
+16:21:21	[KIN]	Base Data Init, Create DataTree Completed!
+16:21:21	Create Player Kin-Tong DB Table
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[TONG]	ModuleInit..
+16:21:21	[TONG]	Base Data Init, Root Branch ID: 11
+16:21:21	Create RDS Table: tblTong
+16:21:21	Create RDS Table: tblTongTask
+16:21:21	Create RDS Table: tblTongBufTask
+16:21:21	Create RDS Table: tblTongKin
+16:21:21	Create RDS Table: tblTongDomain
+16:21:21	Create RDS Table: tblTongDomainTask
+16:21:21	Create RDS Table: tblTongDomainTaskBuf
+16:21:21	[TONG]	Base Data Init, Create RootTree...
+16:21:21	[TONG]	Base Data Init, Create DataTree Completed!
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[UNION]	ModuleInit..
+16:21:21	[UNION]	Base Data Init, Root Branch ID: 13
+16:21:21	Create RDS Table: tblUnion
+16:21:21	Create RDS Table: tblUnionTask
+16:21:21	Create RDS Table: tblUnionBufTask
+16:21:21	Create RDS Table: tblUnionTong
+16:21:21	Create RDS Table: tblUnionDomain
+16:21:21	[UNION]	Base Data Init, Create RootTree...
+16:21:21	[UNION]	Base Data Init, Create DataTree Completed!
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[PLAYERMAN]	ModuleInit..
+16:21:21	LoadCoZoneSubPlayerNameId TimeOut Del
+16:21:21	Create Player Data DB Table
+16:21:21	Loading All Players ...
+16:21:21	Referenced Players in <PlayerData> Table: 0
+16:21:21	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+16:21:21	Loading Players Kin Info in <PlayerKin> Table ...
+16:21:21	Referenced Players in <PlayerKin> Table: 0
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[TEAM]	ModuleInit..
+16:21:21	[TEAM]	Base Data Init, Root Branch ID: 15
+16:21:21	[TEAM]	Base Data Init, Create RootTree...
+16:21:21	[TEAM]	Base Data Init, Create DataTree Completed!
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[Map]	ModuleInit..
+16:21:21	Loading World Setting...
+16:21:21	Gameserver Count = 6
+16:21:21	[Gameserver0]
+16:21:21	ID = 1
+16:21:21	MapCount = 253
+16:21:21	[Gameserver1]
+16:21:21	ID = 2
+16:21:21	MapCount = 192
+16:21:21	[Gameserver2]
+16:21:21	ID = 3
+16:21:21	MapCount = 1
+16:21:21	[Gameserver3]
+16:21:21	ID = 4
+16:21:21	MapCount = 0
+16:21:21	[Gameserver4]
+16:21:21	ID = 5
+16:21:21	MapCount = 0
+16:21:21	[Gameserver5]
+16:21:21	ID = 6
+16:21:21	MapCount = 0
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[CHAT]	ModuleInit..
+16:21:21	Create OfflineMsg DB Table
+16:21:21	Load All OfflineMsg
+16:21:21	Referenced OfflineMsg 0
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[RELATION]	ModuleInit..
+16:21:21	Create Player Relay DB Table
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[MAIL]	ModuleInit..
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[IBSHOP]	ModuleInit..
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[GMBOARD]	ModuleInit..
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[JBEXCHANGE]	ModuleInit..
+16:21:21	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:21:21	Create RDS Table: tblJbExchangeBill
+16:21:21	Create RDS Table: tblJbExchangeTask
+16:21:21	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:21:21	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[LADDER]	ModuleInit..
+16:21:21	[LADDER]	Base Data Init, Root Branch ID: 19
+16:21:21	Create RDS Table: tblLadder
+16:21:21	Create RDS Table: tblPlayerLadder
+16:21:21	Create RDS Table: tblAllTotalLadder
+16:21:21	Create RDS Table: tblTotalLadder
+16:21:21	[LADDER]	Base Data Init, Create RootTree...
+16:21:21	[LADDER]	Base Data Init, Create DataTree Completed!
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[GBLBUF]	ModuleInit..
+16:21:21	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:21:21	Create RDS Table: tblGblBufSet
+16:21:21	Create RDS Table: tblGblBuf
+16:21:21	[GBLBUF]	Base Data Init, Create RootTree...
+16:21:21	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:21:21	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:21:21	Create RDS Table: tblGblBufSet
+16:21:21	Create RDS Table: tblGblBuf
+16:21:21	[GBLBUF]	Base Data Init, Create RootTree...
+16:21:21	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[PROFILE]	ModuleInit..
+16:21:21	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:21:21	Create RDS Table: tblProfile
+16:21:21	Create RDS Table: tblProfileTask
+16:21:21	Create RDS Table: tblProfileBuff
+16:21:21	[PROFILE]	Base Data Init, Create RootTree...
+16:21:21	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[AUCTION]	ModuleInit..
+16:21:21	Create Auction Table
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[NORMAL]	ModuleInit..
+16:21:21	-------------------------------------------------------------------------------
+16:21:21	[SPORT]	ModuleInit..
+16:21:21	[SPORT]	Base Data Init, Root Branch ID: 27
+16:21:21	Create RDS Table: tblSportPlayer
+16:21:21	[SPORT]	Base Data Init, Create RootTree...
+16:21:21	[SPORT]	Base Data Init, Create DataTree Completed!
+16:21:21	[LOG]	2	[Player]	Cap cao nhat 200
+16:21:22	Do Daily Backup 16
+16:21:22	Xếp hạng danh sách
+16:21:22	Xếp hạng bắt đầu
+16:21:22	RefreshHonorLadderData start 262656
+16:21:22	Hoàn thành
+16:21:22	RefreshHonorLadderData start 131585
+16:21:22	[LOG]	2	[SpecialEvent.CollectCard]	盛夏活动卡收集	SetLuckCardNews05月17日国庆活动幸运卡民族05月17日蒙古族    
+16:21:22	在线补偿过期清除	清除数量:	0
+16:21:22	数据库数据为空，直接返回
+16:21:22	Connect to logserver(127.0.0.1:5100) OK!
+16:21:22	Connect to Goddess(127.0.0.1:5001) OK!
+16:21:22	Connect Gateway....
+16:21:22	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09E84EA0
+16:21:22	UnSave Database Type, Saving emDATABASE_TYPE_NORMAL
+16:21:22	Game Startup Completed!
+16:21:47	Lose connection to Goddess(127.0.0.1:5001) ...
+16:21:47	Exit Time: 05/17/22 16:21:47
+16:21:47	Now Server Safely Quit ...
+16:21:47	GCEvent:OnGCUnit
+16:21:47	[LOG]	2	[HoleSolution]	黑名单数据未初始化，不能写入数据库！
+16:21:47	RefreshHonorLadderData start 131589
+16:21:47	Save Thread Exit...!
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[GBLVALUE]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[TRANSFER]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[TimerTask]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[ScheduleTask]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[LEAGUE]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[KIN]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[TONG]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[UNION]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[PLAYERMAN]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[TEAM]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[Map]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[CHAT]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[MAIL]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[IBSHOP]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[GMBOARD]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[JBEXCHANGE]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[LADDER]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[GBLBUF]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[PROFILE]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[AUCTION]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[NORMAL]	ModuleUnInit..
+16:21:47	-------------------------------------------------------------------------------
+16:21:47	[SPORT]	ModuleUnInit..
+16:21:47	****************************Base Data Pool Memory Use Report****************************
+16:21:47	KMapIntInt: BlockSize - 24,	PeekCount - 55,	FreeCount - 0,	IncBlock - 0
+16:21:47	KMapIntData: BlockSize - 24,	PeekCount - 27,	FreeCount - 0,	IncBlock - 0
+16:21:47	KMapStrInt: BlockSize - 24,	PeekCount - 4,	FreeCount - 0,	IncBlock - 0
+16:21:47	KMapStrData: BlockSize - 24,	PeekCount - 2,	FreeCount - 0,	IncBlock - 0
+16:21:47	BUF_8:	PeekCount - 8,	FreeCount - 0,	IncBlock - 0
+16:21:47	BUF_16:	PeekCount - 13,	FreeCount - 0,	IncBlock - 0
+16:21:47	BUF_32:	PeekCount - 1,	FreeCount - 0,	IncBlock - 0
+16:21:47	BUF_64:	PeekCount - 0,	FreeCount - 0,	IncBlock - 0
+16:21:47	BUF_128:	PeekCount - 1,	FreeCount - 1,	IncBlock - 0
+16:21:47	BUF_256:	PeekCount - 1,	FreeCount - 0,	IncBlock - 0
+16:21:47	BUF_512:	PeekCount - 0,	FreeCount - 0,	IncBlock - 0
+16:21:47	BUF_1024:	PeekCount - 2,	FreeCount - 0,	IncBlock - 1
+16:21:47	Now Server Can Safely Close!
+16:23:14	
+16:23:14	********************** Gamecenter Startup ************************
+16:23:14	OS Time: 05/17/22 16:23:14
+16:23:14	Game Init ..
+16:23:14	Loading Script...
+16:23:14	Begin load script files...
+16:23:14	begin load vfactory.lua
+16:23:14	Preload gc script files...
+16:23:14	21 loaded!
+16:23:14	Loading Scripts In Path \script\
+16:23:14	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+16:23:14	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+16:23:14	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+16:23:14	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+16:23:14	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+16:23:14	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+16:23:14	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+16:23:14	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+16:23:14	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+16:23:14	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+16:23:14	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+16:23:14	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+16:23:14	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+16:23:14	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+16:23:14	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+16:23:14	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+16:23:14	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+16:23:14	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+16:23:14	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+16:23:14	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+16:23:14	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+16:23:14	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+16:23:14	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+16:23:14	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+16:23:14	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+16:23:14	296 loaded!
+16:23:14	Create DBShare Table
+16:23:14	LoadDBShare...
+16:23:14	Current Data Version : 2
+16:23:14	-------------------------------------------------------------------------------
+16:23:14	[GBLVALUE]	ModuleInit..
+16:23:14	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:23:14	Create RDS Table: tblGblValueSet
+16:23:14	Create RDS Table: tblGblVIntInt
+16:23:14	Create RDS Table: tblGblVIntBuf
+16:23:14	Create RDS Table: tblGblVStrInt
+16:23:14	Create RDS Table: tblGblVStrBuf
+16:23:14	[GBLVALUE]	Base Data Init, Create RootTree...
+16:23:15	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:23:15	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+16:23:15	[GBLVALUE]	Base Data Init, Create RootTree...
+16:23:15	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:23:15	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+16:23:15	[GBLVALUE]	Base Data Init, Create RootTree...
+16:23:15	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:23:15	Create SaveBuffer DB Table
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[TRANSFER]	ModuleInit..
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[TimerTask]	ModuleInit..
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[ScheduleTask]	ModuleInit..
+16:23:15	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+16:23:15	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[LEAGUE]	ModuleInit..
+16:23:15	[LEAGUE]	Base Data Init, Root Branch ID: 11
+16:23:15	Create RDS Table: tblLeagueSet
+16:23:15	Create RDS Table: tblMemberLea
+16:23:15	Create RDS Table: tblLeague
+16:23:15	Create RDS Table: tblLeagueTask
+16:23:15	Create RDS Table: tblLeagueMember
+16:23:15	Create RDS Table: tblLeaMemberTask
+16:23:15	[LEAGUE]	Base Data Init, Create RootTree...
+16:23:15	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[KIN]	ModuleInit..
+16:23:15	[KIN]	Base Data Init, Root Branch ID: 13
+16:23:15	Create RDS Table: tblKin
+16:23:15	Create RDS Table: tblKinTask
+16:23:15	Create RDS Table: tblKinBufTask
+16:23:15	Create RDS Table: tblKinMember
+16:23:15	Create RDS Table: tblKinMemberTask
+16:23:15	[KIN]	Base Data Init, Create RootTree...
+16:23:15	[KIN]	Base Data Init, Create DataTree Completed!
+16:23:15	Create Player Kin-Tong DB Table
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[TONG]	ModuleInit..
+16:23:15	[TONG]	Base Data Init, Root Branch ID: 15
+16:23:15	Create RDS Table: tblTong
+16:23:15	Create RDS Table: tblTongTask
+16:23:15	Create RDS Table: tblTongBufTask
+16:23:15	Create RDS Table: tblTongKin
+16:23:15	Create RDS Table: tblTongDomain
+16:23:15	Create RDS Table: tblTongDomainTask
+16:23:15	Create RDS Table: tblTongDomainTaskBuf
+16:23:15	[TONG]	Base Data Init, Create RootTree...
+16:23:15	[TONG]	Base Data Init, Create DataTree Completed!
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[UNION]	ModuleInit..
+16:23:15	[UNION]	Base Data Init, Root Branch ID: 17
+16:23:15	Create RDS Table: tblUnion
+16:23:15	Create RDS Table: tblUnionTask
+16:23:15	Create RDS Table: tblUnionBufTask
+16:23:15	Create RDS Table: tblUnionTong
+16:23:15	Create RDS Table: tblUnionDomain
+16:23:15	[UNION]	Base Data Init, Create RootTree...
+16:23:15	[UNION]	Base Data Init, Create DataTree Completed!
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[PLAYERMAN]	ModuleInit..
+16:23:15	LoadCoZoneSubPlayerNameId TimeOut Del
+16:23:15	Create Player Data DB Table
+16:23:15	Loading All Players ...
+16:23:15	Referenced Players in <PlayerData> Table: 0
+16:23:15	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+16:23:15	Loading Players Kin Info in <PlayerKin> Table ...
+16:23:15	Referenced Players in <PlayerKin> Table: 0
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[TEAM]	ModuleInit..
+16:23:15	[TEAM]	Base Data Init, Root Branch ID: 19
+16:23:15	[TEAM]	Base Data Init, Create RootTree...
+16:23:15	[TEAM]	Base Data Init, Create DataTree Completed!
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[Map]	ModuleInit..
+16:23:15	Loading World Setting...
+16:23:15	Gameserver Count = 6
+16:23:15	[Gameserver0]
+16:23:15	ID = 1
+16:23:15	MapCount = 253
+16:23:15	[Gameserver1]
+16:23:15	ID = 2
+16:23:15	MapCount = 192
+16:23:15	[Gameserver2]
+16:23:15	ID = 3
+16:23:15	MapCount = 1
+16:23:15	[Gameserver3]
+16:23:15	ID = 4
+16:23:15	MapCount = 0
+16:23:15	[Gameserver4]
+16:23:15	ID = 5
+16:23:15	MapCount = 0
+16:23:15	[Gameserver5]
+16:23:15	ID = 6
+16:23:15	MapCount = 0
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[CHAT]	ModuleInit..
+16:23:15	Create OfflineMsg DB Table
+16:23:15	Load All OfflineMsg
+16:23:15	Referenced OfflineMsg 0
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[RELATION]	ModuleInit..
+16:23:15	Create Player Relay DB Table
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[MAIL]	ModuleInit..
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[IBSHOP]	ModuleInit..
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[GMBOARD]	ModuleInit..
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[JBEXCHANGE]	ModuleInit..
+16:23:15	[JBEXCHANGE]	Base Data Init, Root Branch ID: 21
+16:23:15	Create RDS Table: tblJbExchangeBill
+16:23:15	Create RDS Table: tblJbExchangeTask
+16:23:15	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:23:15	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[LADDER]	ModuleInit..
+16:23:15	[LADDER]	Base Data Init, Root Branch ID: 23
+16:23:15	Create RDS Table: tblLadder
+16:23:15	Create RDS Table: tblPlayerLadder
+16:23:15	Create RDS Table: tblAllTotalLadder
+16:23:15	Create RDS Table: tblTotalLadder
+16:23:15	[LADDER]	Base Data Init, Create RootTree...
+16:23:15	[LADDER]	Base Data Init, Create DataTree Completed!
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[GBLBUF]	ModuleInit..
+16:23:15	[GBLBUF]	Base Data Init, Root Branch ID: 41
+16:23:15	Create RDS Table: tblGblBufSet
+16:23:15	Create RDS Table: tblGblBuf
+16:23:15	[GBLBUF]	Base Data Init, Create RootTree...
+16:23:15	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:23:15	[GBLBUF]	Base Data Init, Root Branch ID: 51
+16:23:15	Create RDS Table: tblGblBufSet
+16:23:15	Create RDS Table: tblGblBuf
+16:23:15	[GBLBUF]	Base Data Init, Create RootTree...
+16:23:15	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[PROFILE]	ModuleInit..
+16:23:15	[PROFILE]	Base Data Init, Root Branch ID: 61
+16:23:15	Create RDS Table: tblProfile
+16:23:15	Create RDS Table: tblProfileTask
+16:23:15	Create RDS Table: tblProfileBuff
+16:23:15	[PROFILE]	Base Data Init, Create RootTree...
+16:23:15	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[AUCTION]	ModuleInit..
+16:23:15	Create Auction Table
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[NORMAL]	ModuleInit..
+16:23:15	-------------------------------------------------------------------------------
+16:23:15	[SPORT]	ModuleInit..
+16:23:15	[SPORT]	Base Data Init, Root Branch ID: 62
+16:23:15	Create RDS Table: tblSportPlayer
+16:23:15	[SPORT]	Base Data Init, Create RootTree...
+16:23:15	[SPORT]	Base Data Init, Create DataTree Completed!
+16:23:15	[LOG]	2	[Player]	Cap cao nhat 200
+16:23:15	Xếp hạng danh sách
+16:23:15	Hoàn thành
+16:23:15	在线补偿过期清除	清除数量:	0
+16:23:15	数据库数据为空，直接返回
+16:23:15	Connect to logserver(127.0.0.1:5100) OK!
+16:23:15	Connect to Goddess(127.0.0.1:5001) OK!
+16:23:15	Connect Gateway....
+16:23:15	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09C999C8
+16:23:15	Game Startup Completed!
+16:23:30	Do Daily Backup 16
+16:27:51	
+16:27:51	********************** Gamecenter Startup ************************
+16:27:51	OS Time: 05/17/22 16:27:51
+16:27:51	Game Init ..
+16:27:51	Loading Script...
+16:27:51	Begin load script files...
+16:27:51	begin load vfactory.lua
+16:27:51	Preload gc script files...
+16:27:51	21 loaded!
+16:27:51	Loading Scripts In Path \script\
+16:27:51	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+16:27:51	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+16:27:51	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+16:27:51	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+16:27:51	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+16:27:51	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+16:27:51	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+16:27:51	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+16:27:51	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+16:27:51	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+16:27:51	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+16:27:51	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+16:27:51	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+16:27:51	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+16:27:51	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+16:27:51	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+16:27:51	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+16:27:51	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+16:27:51	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+16:27:51	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+16:27:51	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+16:27:51	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+16:27:51	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+16:27:51	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+16:27:51	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+16:27:51	296 loaded!
+16:27:51	Create DBShare Table
+16:27:51	LoadDBShare...
+16:27:51	Current Data Version : 3
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[GBLVALUE]	ModuleInit..
+16:27:51	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:27:51	Create RDS Table: tblGblValueSet
+16:27:51	Create RDS Table: tblGblVIntInt
+16:27:51	Create RDS Table: tblGblVIntBuf
+16:27:51	Create RDS Table: tblGblVStrInt
+16:27:51	Create RDS Table: tblGblVStrBuf
+16:27:51	[GBLVALUE]	Base Data Init, Create RootTree...
+16:27:51	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:27:51	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+16:27:51	[GBLVALUE]	Base Data Init, Create RootTree...
+16:27:51	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:27:51	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+16:27:51	[GBLVALUE]	Base Data Init, Create RootTree...
+16:27:51	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:27:51	Create SaveBuffer DB Table
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[TRANSFER]	ModuleInit..
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[TimerTask]	ModuleInit..
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[ScheduleTask]	ModuleInit..
+16:27:51	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+16:27:51	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[LEAGUE]	ModuleInit..
+16:27:51	[LEAGUE]	Base Data Init, Root Branch ID: 11
+16:27:51	Create RDS Table: tblLeagueSet
+16:27:51	Create RDS Table: tblMemberLea
+16:27:51	Create RDS Table: tblLeague
+16:27:51	Create RDS Table: tblLeagueTask
+16:27:51	Create RDS Table: tblLeagueMember
+16:27:51	Create RDS Table: tblLeaMemberTask
+16:27:51	[LEAGUE]	Base Data Init, Create RootTree...
+16:27:51	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[KIN]	ModuleInit..
+16:27:51	[KIN]	Base Data Init, Root Branch ID: 13
+16:27:51	Create RDS Table: tblKin
+16:27:51	Create RDS Table: tblKinTask
+16:27:51	Create RDS Table: tblKinBufTask
+16:27:51	Create RDS Table: tblKinMember
+16:27:51	Create RDS Table: tblKinMemberTask
+16:27:51	[KIN]	Base Data Init, Create RootTree...
+16:27:51	[KIN]	Base Data Init, Create DataTree Completed!
+16:27:51	Create Player Kin-Tong DB Table
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[TONG]	ModuleInit..
+16:27:51	[TONG]	Base Data Init, Root Branch ID: 15
+16:27:51	Create RDS Table: tblTong
+16:27:51	Create RDS Table: tblTongTask
+16:27:51	Create RDS Table: tblTongBufTask
+16:27:51	Create RDS Table: tblTongKin
+16:27:51	Create RDS Table: tblTongDomain
+16:27:51	Create RDS Table: tblTongDomainTask
+16:27:51	Create RDS Table: tblTongDomainTaskBuf
+16:27:51	[TONG]	Base Data Init, Create RootTree...
+16:27:51	[TONG]	Base Data Init, Create DataTree Completed!
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[UNION]	ModuleInit..
+16:27:51	[UNION]	Base Data Init, Root Branch ID: 17
+16:27:51	Create RDS Table: tblUnion
+16:27:51	Create RDS Table: tblUnionTask
+16:27:51	Create RDS Table: tblUnionBufTask
+16:27:51	Create RDS Table: tblUnionTong
+16:27:51	Create RDS Table: tblUnionDomain
+16:27:51	[UNION]	Base Data Init, Create RootTree...
+16:27:51	[UNION]	Base Data Init, Create DataTree Completed!
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[PLAYERMAN]	ModuleInit..
+16:27:51	LoadCoZoneSubPlayerNameId TimeOut Del
+16:27:51	Create Player Data DB Table
+16:27:51	Loading All Players ...
+16:27:51	Referenced Players in <PlayerData> Table: 0
+16:27:51	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+16:27:51	Loading Players Kin Info in <PlayerKin> Table ...
+16:27:51	Referenced Players in <PlayerKin> Table: 0
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[TEAM]	ModuleInit..
+16:27:51	[TEAM]	Base Data Init, Root Branch ID: 19
+16:27:51	[TEAM]	Base Data Init, Create RootTree...
+16:27:51	[TEAM]	Base Data Init, Create DataTree Completed!
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[Map]	ModuleInit..
+16:27:51	Loading World Setting...
+16:27:51	Gameserver Count = 6
+16:27:51	[Gameserver0]
+16:27:51	ID = 1
+16:27:51	MapCount = 253
+16:27:51	[Gameserver1]
+16:27:51	ID = 2
+16:27:51	MapCount = 192
+16:27:51	[Gameserver2]
+16:27:51	ID = 3
+16:27:51	MapCount = 1
+16:27:51	[Gameserver3]
+16:27:51	ID = 4
+16:27:51	MapCount = 0
+16:27:51	[Gameserver4]
+16:27:51	ID = 5
+16:27:51	MapCount = 0
+16:27:51	[Gameserver5]
+16:27:51	ID = 6
+16:27:51	MapCount = 0
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[CHAT]	ModuleInit..
+16:27:51	Create OfflineMsg DB Table
+16:27:51	Load All OfflineMsg
+16:27:51	Referenced OfflineMsg 0
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[RELATION]	ModuleInit..
+16:27:51	Create Player Relay DB Table
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[MAIL]	ModuleInit..
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[IBSHOP]	ModuleInit..
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[GMBOARD]	ModuleInit..
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[JBEXCHANGE]	ModuleInit..
+16:27:51	[JBEXCHANGE]	Base Data Init, Root Branch ID: 21
+16:27:51	Create RDS Table: tblJbExchangeBill
+16:27:51	Create RDS Table: tblJbExchangeTask
+16:27:51	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:27:51	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[LADDER]	ModuleInit..
+16:27:51	[LADDER]	Base Data Init, Root Branch ID: 23
+16:27:51	Create RDS Table: tblLadder
+16:27:51	Create RDS Table: tblPlayerLadder
+16:27:51	Create RDS Table: tblAllTotalLadder
+16:27:51	Create RDS Table: tblTotalLadder
+16:27:51	[LADDER]	Base Data Init, Create RootTree...
+16:27:51	[LADDER]	Base Data Init, Create DataTree Completed!
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[GBLBUF]	ModuleInit..
+16:27:51	[GBLBUF]	Base Data Init, Root Branch ID: 41
+16:27:51	Create RDS Table: tblGblBufSet
+16:27:51	Create RDS Table: tblGblBuf
+16:27:51	[GBLBUF]	Base Data Init, Create RootTree...
+16:27:51	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:27:51	[GBLBUF]	Base Data Init, Root Branch ID: 51
+16:27:51	Create RDS Table: tblGblBufSet
+16:27:51	Create RDS Table: tblGblBuf
+16:27:51	[GBLBUF]	Base Data Init, Create RootTree...
+16:27:51	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[PROFILE]	ModuleInit..
+16:27:51	[PROFILE]	Base Data Init, Root Branch ID: 61
+16:27:51	Create RDS Table: tblProfile
+16:27:51	Create RDS Table: tblProfileTask
+16:27:51	Create RDS Table: tblProfileBuff
+16:27:51	[PROFILE]	Base Data Init, Create RootTree...
+16:27:51	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[AUCTION]	ModuleInit..
+16:27:51	Create Auction Table
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[NORMAL]	ModuleInit..
+16:27:51	-------------------------------------------------------------------------------
+16:27:51	[SPORT]	ModuleInit..
+16:27:51	[SPORT]	Base Data Init, Root Branch ID: 62
+16:27:51	Create RDS Table: tblSportPlayer
+16:27:51	[SPORT]	Base Data Init, Create RootTree...
+16:27:51	[SPORT]	Base Data Init, Create DataTree Completed!
+16:27:51	[LOG]	2	[Player]	Cap cao nhat 200
+16:27:52	Xếp hạng danh sách
+16:27:52	Hoàn thành
+16:27:52	在线补偿过期清除	清除数量:	0
+16:27:52	数据库数据为空，直接返回
+16:27:52	Connect to logserver(127.0.0.1:5100) OK!
+16:27:52	Connect to Goddess(127.0.0.1:5001) OK!
+16:27:52	Connect Gateway....
+16:27:52	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09D899C8
+16:27:52	Game Startup Completed!
+16:28:07	Do Daily Backup 16
+16:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+16:30:00	[ScheduleTask]	Execute Task: BHĐ dăng kí trận kế tiêp
+16:30:00	[ScheduleTask]	Execute Task: 逍遥谷开启
+16:30:00	[ScheduleTask]	Execute Task: 秦始皇陵五层关闭
+16:34:14	Warning: MilliSecond Between Two Frames: 120
+16:34:32	Warning: MilliSecond Between Two Frames: 112
+16:40:13	
+16:40:13	********************** Gamecenter Startup ************************
+16:40:13	OS Time: 05/17/22 16:40:13
+16:40:13	Game Init ..
+16:40:13	Loading Script...
+16:40:13	Begin load script files...
+16:40:13	begin load vfactory.lua
+16:40:13	Preload gc script files...
+16:40:13	21 loaded!
+16:40:13	Loading Scripts In Path \script\
+16:40:14	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+16:40:14	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+16:40:14	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+16:40:14	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+16:40:14	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+16:40:14	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+16:40:14	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+16:40:14	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+16:40:14	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+16:40:14	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+16:40:14	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+16:40:14	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+16:40:14	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+16:40:14	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+16:40:14	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+16:40:14	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+16:40:14	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+16:40:14	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+16:40:14	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+16:40:14	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+16:40:14	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+16:40:14	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+16:40:14	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+16:40:14	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+16:40:14	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+16:40:14	296 loaded!
+16:40:14	Create DBShare Table
+16:40:14	LoadDBShare...
+16:40:14	Current Data Version : 4
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[GBLVALUE]	ModuleInit..
+16:40:14	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:40:14	Create RDS Table: tblGblValueSet
+16:40:14	Create RDS Table: tblGblVIntInt
+16:40:14	Create RDS Table: tblGblVIntBuf
+16:40:14	Create RDS Table: tblGblVStrInt
+16:40:14	Create RDS Table: tblGblVStrBuf
+16:40:14	[GBLVALUE]	Base Data Init, Create RootTree...
+16:40:14	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:40:14	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+16:40:14	[GBLVALUE]	Base Data Init, Create RootTree...
+16:40:14	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:40:14	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+16:40:14	[GBLVALUE]	Base Data Init, Create RootTree...
+16:40:14	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:40:14	Create SaveBuffer DB Table
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[TRANSFER]	ModuleInit..
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[TimerTask]	ModuleInit..
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[ScheduleTask]	ModuleInit..
+16:40:14	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+16:40:14	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[LEAGUE]	ModuleInit..
+16:40:14	[LEAGUE]	Base Data Init, Root Branch ID: 11
+16:40:14	Create RDS Table: tblLeagueSet
+16:40:14	Create RDS Table: tblMemberLea
+16:40:14	Create RDS Table: tblLeague
+16:40:14	Create RDS Table: tblLeagueTask
+16:40:14	Create RDS Table: tblLeagueMember
+16:40:14	Create RDS Table: tblLeaMemberTask
+16:40:14	[LEAGUE]	Base Data Init, Create RootTree...
+16:40:14	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[KIN]	ModuleInit..
+16:40:14	[KIN]	Base Data Init, Root Branch ID: 13
+16:40:14	Create RDS Table: tblKin
+16:40:14	Create RDS Table: tblKinTask
+16:40:14	Create RDS Table: tblKinBufTask
+16:40:14	Create RDS Table: tblKinMember
+16:40:14	Create RDS Table: tblKinMemberTask
+16:40:14	[KIN]	Base Data Init, Create RootTree...
+16:40:14	[KIN]	Base Data Init, Create DataTree Completed!
+16:40:14	Create Player Kin-Tong DB Table
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[TONG]	ModuleInit..
+16:40:14	[TONG]	Base Data Init, Root Branch ID: 15
+16:40:14	Create RDS Table: tblTong
+16:40:14	Create RDS Table: tblTongTask
+16:40:14	Create RDS Table: tblTongBufTask
+16:40:14	Create RDS Table: tblTongKin
+16:40:14	Create RDS Table: tblTongDomain
+16:40:14	Create RDS Table: tblTongDomainTask
+16:40:14	Create RDS Table: tblTongDomainTaskBuf
+16:40:14	[TONG]	Base Data Init, Create RootTree...
+16:40:14	[TONG]	Base Data Init, Create DataTree Completed!
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[UNION]	ModuleInit..
+16:40:14	[UNION]	Base Data Init, Root Branch ID: 17
+16:40:14	Create RDS Table: tblUnion
+16:40:14	Create RDS Table: tblUnionTask
+16:40:14	Create RDS Table: tblUnionBufTask
+16:40:14	Create RDS Table: tblUnionTong
+16:40:14	Create RDS Table: tblUnionDomain
+16:40:14	[UNION]	Base Data Init, Create RootTree...
+16:40:14	[UNION]	Base Data Init, Create DataTree Completed!
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[PLAYERMAN]	ModuleInit..
+16:40:14	LoadCoZoneSubPlayerNameId TimeOut Del
+16:40:14	Create Player Data DB Table
+16:40:14	Loading All Players ...
+16:40:14	Referenced Players in <PlayerData> Table: 0
+16:40:14	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+16:40:14	Loading Players Kin Info in <PlayerKin> Table ...
+16:40:14	Referenced Players in <PlayerKin> Table: 0
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[TEAM]	ModuleInit..
+16:40:14	[TEAM]	Base Data Init, Root Branch ID: 19
+16:40:14	[TEAM]	Base Data Init, Create RootTree...
+16:40:14	[TEAM]	Base Data Init, Create DataTree Completed!
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[Map]	ModuleInit..
+16:40:14	Loading World Setting...
+16:40:14	Gameserver Count = 6
+16:40:14	[Gameserver0]
+16:40:14	ID = 1
+16:40:14	MapCount = 253
+16:40:14	[Gameserver1]
+16:40:14	ID = 2
+16:40:14	MapCount = 192
+16:40:14	[Gameserver2]
+16:40:14	ID = 3
+16:40:14	MapCount = 1
+16:40:14	[Gameserver3]
+16:40:14	ID = 4
+16:40:14	MapCount = 0
+16:40:14	[Gameserver4]
+16:40:14	ID = 5
+16:40:14	MapCount = 0
+16:40:14	[Gameserver5]
+16:40:14	ID = 6
+16:40:14	MapCount = 0
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[CHAT]	ModuleInit..
+16:40:14	Create OfflineMsg DB Table
+16:40:14	Load All OfflineMsg
+16:40:14	Referenced OfflineMsg 0
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[RELATION]	ModuleInit..
+16:40:14	Create Player Relay DB Table
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[MAIL]	ModuleInit..
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[IBSHOP]	ModuleInit..
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[GMBOARD]	ModuleInit..
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[JBEXCHANGE]	ModuleInit..
+16:40:14	[JBEXCHANGE]	Base Data Init, Root Branch ID: 21
+16:40:14	Create RDS Table: tblJbExchangeBill
+16:40:14	Create RDS Table: tblJbExchangeTask
+16:40:14	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:40:14	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[LADDER]	ModuleInit..
+16:40:14	[LADDER]	Base Data Init, Root Branch ID: 23
+16:40:14	Create RDS Table: tblLadder
+16:40:14	Create RDS Table: tblPlayerLadder
+16:40:14	Create RDS Table: tblAllTotalLadder
+16:40:14	Create RDS Table: tblTotalLadder
+16:40:14	[LADDER]	Base Data Init, Create RootTree...
+16:40:14	[LADDER]	Base Data Init, Create DataTree Completed!
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[GBLBUF]	ModuleInit..
+16:40:14	[GBLBUF]	Base Data Init, Root Branch ID: 41
+16:40:14	Create RDS Table: tblGblBufSet
+16:40:14	Create RDS Table: tblGblBuf
+16:40:14	[GBLBUF]	Base Data Init, Create RootTree...
+16:40:14	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:40:14	[GBLBUF]	Base Data Init, Root Branch ID: 51
+16:40:14	Create RDS Table: tblGblBufSet
+16:40:14	Create RDS Table: tblGblBuf
+16:40:14	[GBLBUF]	Base Data Init, Create RootTree...
+16:40:14	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[PROFILE]	ModuleInit..
+16:40:14	[PROFILE]	Base Data Init, Root Branch ID: 61
+16:40:14	Create RDS Table: tblProfile
+16:40:14	Create RDS Table: tblProfileTask
+16:40:14	Create RDS Table: tblProfileBuff
+16:40:14	[PROFILE]	Base Data Init, Create RootTree...
+16:40:14	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[AUCTION]	ModuleInit..
+16:40:14	Create Auction Table
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[NORMAL]	ModuleInit..
+16:40:14	-------------------------------------------------------------------------------
+16:40:14	[SPORT]	ModuleInit..
+16:40:14	[SPORT]	Base Data Init, Root Branch ID: 62
+16:40:14	Create RDS Table: tblSportPlayer
+16:40:14	[SPORT]	Base Data Init, Create RootTree...
+16:40:14	[SPORT]	Base Data Init, Create DataTree Completed!
+16:40:14	[LOG]	2	[Player]	Cap cao nhat 200
+16:40:14	Xếp hạng danh sách
+16:40:14	Hoàn thành
+16:40:14	在线补偿过期清除	清除数量:	0
+16:40:14	数据库数据为空，直接返回
+16:40:14	Connect to logserver(127.0.0.1:5100) OK!
+16:40:14	Connect to Goddess(127.0.0.1:5001) OK!
+16:40:14	Connect Gateway....
+16:40:14	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09EC99C8
+16:40:14	Game Startup Completed!
+16:40:29	Do Daily Backup 16
+16:46:32	Warning: MilliSecond Between Two Frames: 114
+16:46:41	Warning: MilliSecond Between Two Frames: 405
+16:47:35	
+16:47:35	********************** Gamecenter Startup ************************
+16:47:35	OS Time: 05/17/22 16:47:35
+16:47:35	Game Init ..
+16:47:35	Loading Script...
+16:47:35	Begin load script files...
+16:47:35	begin load vfactory.lua
+16:47:35	Preload gc script files...
+16:47:35	21 loaded!
+16:47:35	Loading Scripts In Path \script\
+16:47:35	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+16:47:35	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+16:47:35	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+16:47:35	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+16:47:35	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+16:47:35	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+16:47:35	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+16:47:35	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+16:47:35	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+16:47:35	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+16:47:35	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+16:47:35	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+16:47:35	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+16:47:35	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+16:47:35	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+16:47:35	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+16:47:35	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+16:47:35	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+16:47:35	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+16:47:35	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+16:47:35	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+16:47:35	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+16:47:35	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+16:47:35	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+16:47:35	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+16:47:35	296 loaded!
+16:47:35	Create DBShare Table
+16:47:35	LoadDBShare...
+16:47:35	Current Data Version : 5
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[GBLVALUE]	ModuleInit..
+16:47:35	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:47:35	Create RDS Table: tblGblValueSet
+16:47:35	Create RDS Table: tblGblVIntInt
+16:47:35	Create RDS Table: tblGblVIntBuf
+16:47:35	Create RDS Table: tblGblVStrInt
+16:47:35	Create RDS Table: tblGblVStrBuf
+16:47:35	[GBLVALUE]	Base Data Init, Create RootTree...
+16:47:35	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:47:35	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+16:47:35	[GBLVALUE]	Base Data Init, Create RootTree...
+16:47:35	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:47:35	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+16:47:35	[GBLVALUE]	Base Data Init, Create RootTree...
+16:47:35	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:47:35	Create SaveBuffer DB Table
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[TRANSFER]	ModuleInit..
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[TimerTask]	ModuleInit..
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[ScheduleTask]	ModuleInit..
+16:47:35	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+16:47:35	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[LEAGUE]	ModuleInit..
+16:47:35	[LEAGUE]	Base Data Init, Root Branch ID: 11
+16:47:35	Create RDS Table: tblLeagueSet
+16:47:35	Create RDS Table: tblMemberLea
+16:47:35	Create RDS Table: tblLeague
+16:47:35	Create RDS Table: tblLeagueTask
+16:47:35	Create RDS Table: tblLeagueMember
+16:47:35	Create RDS Table: tblLeaMemberTask
+16:47:35	[LEAGUE]	Base Data Init, Create RootTree...
+16:47:35	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[KIN]	ModuleInit..
+16:47:35	[KIN]	Base Data Init, Root Branch ID: 13
+16:47:35	Create RDS Table: tblKin
+16:47:35	Create RDS Table: tblKinTask
+16:47:35	Create RDS Table: tblKinBufTask
+16:47:35	Create RDS Table: tblKinMember
+16:47:35	Create RDS Table: tblKinMemberTask
+16:47:35	[KIN]	Base Data Init, Create RootTree...
+16:47:35	[KIN]	Base Data Init, Create DataTree Completed!
+16:47:35	Create Player Kin-Tong DB Table
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[TONG]	ModuleInit..
+16:47:35	[TONG]	Base Data Init, Root Branch ID: 15
+16:47:35	Create RDS Table: tblTong
+16:47:35	Create RDS Table: tblTongTask
+16:47:35	Create RDS Table: tblTongBufTask
+16:47:35	Create RDS Table: tblTongKin
+16:47:35	Create RDS Table: tblTongDomain
+16:47:35	Create RDS Table: tblTongDomainTask
+16:47:35	Create RDS Table: tblTongDomainTaskBuf
+16:47:35	[TONG]	Base Data Init, Create RootTree...
+16:47:35	[TONG]	Base Data Init, Create DataTree Completed!
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[UNION]	ModuleInit..
+16:47:35	[UNION]	Base Data Init, Root Branch ID: 17
+16:47:35	Create RDS Table: tblUnion
+16:47:35	Create RDS Table: tblUnionTask
+16:47:35	Create RDS Table: tblUnionBufTask
+16:47:35	Create RDS Table: tblUnionTong
+16:47:35	Create RDS Table: tblUnionDomain
+16:47:35	[UNION]	Base Data Init, Create RootTree...
+16:47:35	[UNION]	Base Data Init, Create DataTree Completed!
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[PLAYERMAN]	ModuleInit..
+16:47:35	LoadCoZoneSubPlayerNameId TimeOut Del
+16:47:35	Create Player Data DB Table
+16:47:35	Loading All Players ...
+16:47:35	Referenced Players in <PlayerData> Table: 0
+16:47:35	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+16:47:35	Loading Players Kin Info in <PlayerKin> Table ...
+16:47:35	Referenced Players in <PlayerKin> Table: 0
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[TEAM]	ModuleInit..
+16:47:35	[TEAM]	Base Data Init, Root Branch ID: 19
+16:47:35	[TEAM]	Base Data Init, Create RootTree...
+16:47:35	[TEAM]	Base Data Init, Create DataTree Completed!
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[Map]	ModuleInit..
+16:47:35	Loading World Setting...
+16:47:35	Gameserver Count = 6
+16:47:35	[Gameserver0]
+16:47:35	ID = 1
+16:47:35	MapCount = 253
+16:47:35	[Gameserver1]
+16:47:35	ID = 2
+16:47:35	MapCount = 192
+16:47:35	[Gameserver2]
+16:47:35	ID = 3
+16:47:35	MapCount = 1
+16:47:35	[Gameserver3]
+16:47:35	ID = 4
+16:47:35	MapCount = 0
+16:47:35	[Gameserver4]
+16:47:35	ID = 5
+16:47:35	MapCount = 0
+16:47:35	[Gameserver5]
+16:47:35	ID = 6
+16:47:35	MapCount = 0
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[CHAT]	ModuleInit..
+16:47:35	Create OfflineMsg DB Table
+16:47:35	Load All OfflineMsg
+16:47:35	Referenced OfflineMsg 0
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[RELATION]	ModuleInit..
+16:47:35	Create Player Relay DB Table
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[MAIL]	ModuleInit..
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[IBSHOP]	ModuleInit..
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[GMBOARD]	ModuleInit..
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[JBEXCHANGE]	ModuleInit..
+16:47:35	[JBEXCHANGE]	Base Data Init, Root Branch ID: 21
+16:47:35	Create RDS Table: tblJbExchangeBill
+16:47:35	Create RDS Table: tblJbExchangeTask
+16:47:35	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:47:35	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[LADDER]	ModuleInit..
+16:47:35	[LADDER]	Base Data Init, Root Branch ID: 23
+16:47:35	Create RDS Table: tblLadder
+16:47:35	Create RDS Table: tblPlayerLadder
+16:47:35	Create RDS Table: tblAllTotalLadder
+16:47:35	Create RDS Table: tblTotalLadder
+16:47:35	[LADDER]	Base Data Init, Create RootTree...
+16:47:35	[LADDER]	Base Data Init, Create DataTree Completed!
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[GBLBUF]	ModuleInit..
+16:47:35	[GBLBUF]	Base Data Init, Root Branch ID: 41
+16:47:35	Create RDS Table: tblGblBufSet
+16:47:35	Create RDS Table: tblGblBuf
+16:47:35	[GBLBUF]	Base Data Init, Create RootTree...
+16:47:35	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:47:35	[GBLBUF]	Base Data Init, Root Branch ID: 51
+16:47:35	Create RDS Table: tblGblBufSet
+16:47:35	Create RDS Table: tblGblBuf
+16:47:35	[GBLBUF]	Base Data Init, Create RootTree...
+16:47:35	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[PROFILE]	ModuleInit..
+16:47:35	[PROFILE]	Base Data Init, Root Branch ID: 61
+16:47:35	Create RDS Table: tblProfile
+16:47:35	Create RDS Table: tblProfileTask
+16:47:35	Create RDS Table: tblProfileBuff
+16:47:35	[PROFILE]	Base Data Init, Create RootTree...
+16:47:35	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[AUCTION]	ModuleInit..
+16:47:35	Create Auction Table
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[NORMAL]	ModuleInit..
+16:47:35	-------------------------------------------------------------------------------
+16:47:35	[SPORT]	ModuleInit..
+16:47:35	[SPORT]	Base Data Init, Root Branch ID: 62
+16:47:35	Create RDS Table: tblSportPlayer
+16:47:35	[SPORT]	Base Data Init, Create RootTree...
+16:47:35	[SPORT]	Base Data Init, Create DataTree Completed!
+16:47:35	[LOG]	2	[Player]	Cap cao nhat 200
+16:47:35	Xếp hạng danh sách
+16:47:35	Hoàn thành
+16:47:35	在线补偿过期清除	清除数量:	0
+16:47:35	数据库数据为空，直接返回
+16:47:35	Connect to logserver(127.0.0.1:5100) OK!
+16:47:35	Connect to Goddess(127.0.0.1:5001) OK!
+16:47:35	Connect Gateway....
+16:47:58	
+16:47:58	********************** Gamecenter Startup ************************
+16:47:58	OS Time: 05/17/22 16:47:58
+16:47:58	Game Init ..
+16:47:58	Loading Script...
+16:47:58	Begin load script files...
+16:47:58	begin load vfactory.lua
+16:47:58	Preload gc script files...
+16:47:58	21 loaded!
+16:47:58	Loading Scripts In Path \script\
+16:47:58	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+16:47:58	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+16:47:58	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+16:47:58	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+16:47:59	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+16:47:59	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+16:47:59	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+16:47:59	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+16:47:59	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+16:47:59	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+16:47:59	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+16:47:59	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+16:47:59	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+16:47:59	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+16:47:59	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+16:47:59	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+16:47:59	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+16:47:59	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+16:47:59	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+16:47:59	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+16:47:59	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+16:47:59	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+16:47:59	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+16:47:59	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+16:47:59	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+16:47:59	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+16:47:59	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+16:47:59	296 loaded!
+16:47:59	Create DBShare Table
+16:47:59	LoadDBShare...
+16:47:59	Current Data Version : 6
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[GBLVALUE]	ModuleInit..
+16:47:59	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:47:59	Create RDS Table: tblGblValueSet
+16:47:59	Create RDS Table: tblGblVIntInt
+16:47:59	Create RDS Table: tblGblVIntBuf
+16:47:59	Create RDS Table: tblGblVStrInt
+16:47:59	Create RDS Table: tblGblVStrBuf
+16:47:59	[GBLVALUE]	Base Data Init, Create RootTree...
+16:47:59	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:47:59	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+16:47:59	[GBLVALUE]	Base Data Init, Create RootTree...
+16:47:59	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:47:59	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+16:47:59	[GBLVALUE]	Base Data Init, Create RootTree...
+16:47:59	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:47:59	Create SaveBuffer DB Table
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[TRANSFER]	ModuleInit..
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[TimerTask]	ModuleInit..
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[ScheduleTask]	ModuleInit..
+16:47:59	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+16:47:59	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[LEAGUE]	ModuleInit..
+16:47:59	[LEAGUE]	Base Data Init, Root Branch ID: 11
+16:47:59	Create RDS Table: tblLeagueSet
+16:47:59	Create RDS Table: tblMemberLea
+16:47:59	Create RDS Table: tblLeague
+16:47:59	Create RDS Table: tblLeagueTask
+16:47:59	Create RDS Table: tblLeagueMember
+16:47:59	Create RDS Table: tblLeaMemberTask
+16:47:59	[LEAGUE]	Base Data Init, Create RootTree...
+16:47:59	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[KIN]	ModuleInit..
+16:47:59	[KIN]	Base Data Init, Root Branch ID: 13
+16:47:59	Create RDS Table: tblKin
+16:47:59	Create RDS Table: tblKinTask
+16:47:59	Create RDS Table: tblKinBufTask
+16:47:59	Create RDS Table: tblKinMember
+16:47:59	Create RDS Table: tblKinMemberTask
+16:47:59	[KIN]	Base Data Init, Create RootTree...
+16:47:59	[KIN]	Base Data Init, Create DataTree Completed!
+16:47:59	Create Player Kin-Tong DB Table
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[TONG]	ModuleInit..
+16:47:59	[TONG]	Base Data Init, Root Branch ID: 15
+16:47:59	Create RDS Table: tblTong
+16:47:59	Create RDS Table: tblTongTask
+16:47:59	Create RDS Table: tblTongBufTask
+16:47:59	Create RDS Table: tblTongKin
+16:47:59	Create RDS Table: tblTongDomain
+16:47:59	Create RDS Table: tblTongDomainTask
+16:47:59	Create RDS Table: tblTongDomainTaskBuf
+16:47:59	[TONG]	Base Data Init, Create RootTree...
+16:47:59	[TONG]	Base Data Init, Create DataTree Completed!
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[UNION]	ModuleInit..
+16:47:59	[UNION]	Base Data Init, Root Branch ID: 17
+16:47:59	Create RDS Table: tblUnion
+16:47:59	Create RDS Table: tblUnionTask
+16:47:59	Create RDS Table: tblUnionBufTask
+16:47:59	Create RDS Table: tblUnionTong
+16:47:59	Create RDS Table: tblUnionDomain
+16:47:59	[UNION]	Base Data Init, Create RootTree...
+16:47:59	[UNION]	Base Data Init, Create DataTree Completed!
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[PLAYERMAN]	ModuleInit..
+16:47:59	LoadCoZoneSubPlayerNameId TimeOut Del
+16:47:59	Create Player Data DB Table
+16:47:59	Loading All Players ...
+16:47:59	Referenced Players in <PlayerData> Table: 0
+16:47:59	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+16:47:59	Loading Players Kin Info in <PlayerKin> Table ...
+16:47:59	Referenced Players in <PlayerKin> Table: 0
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[TEAM]	ModuleInit..
+16:47:59	[TEAM]	Base Data Init, Root Branch ID: 19
+16:47:59	[TEAM]	Base Data Init, Create RootTree...
+16:47:59	[TEAM]	Base Data Init, Create DataTree Completed!
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[Map]	ModuleInit..
+16:47:59	Loading World Setting...
+16:47:59	Gameserver Count = 6
+16:47:59	[Gameserver0]
+16:47:59	ID = 1
+16:47:59	MapCount = 253
+16:47:59	[Gameserver1]
+16:47:59	ID = 2
+16:47:59	MapCount = 192
+16:47:59	[Gameserver2]
+16:47:59	ID = 3
+16:47:59	MapCount = 1
+16:47:59	[Gameserver3]
+16:47:59	ID = 4
+16:47:59	MapCount = 0
+16:47:59	[Gameserver4]
+16:47:59	ID = 5
+16:47:59	MapCount = 0
+16:47:59	[Gameserver5]
+16:47:59	ID = 6
+16:47:59	MapCount = 0
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[CHAT]	ModuleInit..
+16:47:59	Create OfflineMsg DB Table
+16:47:59	Load All OfflineMsg
+16:47:59	Referenced OfflineMsg 0
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[RELATION]	ModuleInit..
+16:47:59	Create Player Relay DB Table
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[MAIL]	ModuleInit..
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[IBSHOP]	ModuleInit..
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[GMBOARD]	ModuleInit..
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[JBEXCHANGE]	ModuleInit..
+16:47:59	[JBEXCHANGE]	Base Data Init, Root Branch ID: 21
+16:47:59	Create RDS Table: tblJbExchangeBill
+16:47:59	Create RDS Table: tblJbExchangeTask
+16:47:59	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:47:59	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[LADDER]	ModuleInit..
+16:47:59	[LADDER]	Base Data Init, Root Branch ID: 23
+16:47:59	Create RDS Table: tblLadder
+16:47:59	Create RDS Table: tblPlayerLadder
+16:47:59	Create RDS Table: tblAllTotalLadder
+16:47:59	Create RDS Table: tblTotalLadder
+16:47:59	[LADDER]	Base Data Init, Create RootTree...
+16:47:59	[LADDER]	Base Data Init, Create DataTree Completed!
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[GBLBUF]	ModuleInit..
+16:47:59	[GBLBUF]	Base Data Init, Root Branch ID: 41
+16:47:59	Create RDS Table: tblGblBufSet
+16:47:59	Create RDS Table: tblGblBuf
+16:47:59	[GBLBUF]	Base Data Init, Create RootTree...
+16:47:59	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:47:59	[GBLBUF]	Base Data Init, Root Branch ID: 51
+16:47:59	Create RDS Table: tblGblBufSet
+16:47:59	Create RDS Table: tblGblBuf
+16:47:59	[GBLBUF]	Base Data Init, Create RootTree...
+16:47:59	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[PROFILE]	ModuleInit..
+16:47:59	[PROFILE]	Base Data Init, Root Branch ID: 61
+16:47:59	Create RDS Table: tblProfile
+16:47:59	Create RDS Table: tblProfileTask
+16:47:59	Create RDS Table: tblProfileBuff
+16:47:59	[PROFILE]	Base Data Init, Create RootTree...
+16:47:59	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[AUCTION]	ModuleInit..
+16:47:59	Create Auction Table
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[NORMAL]	ModuleInit..
+16:47:59	-------------------------------------------------------------------------------
+16:47:59	[SPORT]	ModuleInit..
+16:47:59	[SPORT]	Base Data Init, Root Branch ID: 62
+16:47:59	Create RDS Table: tblSportPlayer
+16:47:59	[SPORT]	Base Data Init, Create RootTree...
+16:47:59	[SPORT]	Base Data Init, Create DataTree Completed!
+16:47:59	[LOG]	2	[Player]	Cap cao nhat 200
+16:47:59	Xếp hạng danh sách
+16:47:59	Hoàn thành
+16:47:59	在线补偿过期清除	清除数量:	0
+16:47:59	数据库数据为空，直接返回
+16:47:59	Connect to logserver(127.0.0.1:5100) OK!
+16:47:59	Connect to Goddess(127.0.0.1:5001) OK!
+16:47:59	Connect Gateway....
+16:50:00	[ScheduleTask]	Execute Task: Tống Kim
+16:50:00	-------------------------------------------------------------------------------
+16:50:00	[2022-05-17 16:50:00]	BATTLE ROUND START
+16:50:00	tBattleLevel: 2	MapName: Gia d? quan (Ph??ng T??ng)
+16:50:00	-------------------------------------------------------------------------------
+16:50:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+16:51:14	Warning: MilliSecond Between Two Frames: 141
+16:51:15	Warning: MilliSecond Between Two Frames: 119
+16:52:36	[CenServer] Accept from 127.0.0.1 Port = 21442
+16:52:36	Connection Created! Connection ID = 1
+16:52:36	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+16:52:36	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: attempt to call method 'OnRecConnectEvent' (a nil value)
+stack traceback:
+	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: in function 'OnRecConnectEvent'
+	E:\kt\Server\Gamecenter\script\task\help\help.lua:44: in function <E:\kt\Server\Gamecenter\script\task\help\help.lua:40>
+16:52:41	Warning: MilliSecond Between Two Frames: 501
+16:52:56	OnGCExcute	Map:GCUpdateForbidenInfo
+16:52:56	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+16:52:56	黑名单没有初始化，直接返回
+16:52:56	OnGCExcute	XoyoGame:CreateManager_GC	341
+16:52:56	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+16:52:56	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+16:52:56	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+16:52:56	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+16:52:56	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+16:52:56	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+16:52:56	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+16:52:56	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+16:53:14	Warning: MilliSecond Between Two Frames: 325
+16:57:32	Warning: MilliSecond Between Two Frames: 186
+17:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+17:00:01	[ScheduleTask]	Execute Task: Phó bản quân doanh
+17:00:01	[ScheduleTask]	Execute Task: CALL_BOSS
+17:00:01	[ScheduleTask]	Execute Task: BHĐ bắt đàu PK
+17:00:01	[ScheduleTask]	Execute Task: 逍遥谷开启
+17:00:01	[ScheduleTask]	Execute Task: 秦陵精英刷新
+17:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+17:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+17:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+17:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+17:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+17:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+17:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+17:01:44	Warning: MilliSecond Between Two Frames: 149
+17:05:00	[CenServer] Receive packet failed!
+17:05:00	Connection Lost:127.0.0.1 ID = 1
+17:05:00	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 21442 Protocol = 11 Size = 6
+17:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+17:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+17:05:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+17:06:32	
+17:06:32	********************** Gamecenter Startup ************************
+17:06:32	OS Time: 05/17/22 17:06:32
+17:06:32	Game Init ..
+17:06:32	Loading Script...
+17:06:32	Begin load script files...
+17:06:32	begin load vfactory.lua
+17:06:32	Preload gc script files...
+17:06:32	21 loaded!
+17:06:32	Loading Scripts In Path \script\
+17:06:32	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+17:06:32	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+17:06:32	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+17:06:32	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+17:06:32	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+17:06:32	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+17:06:32	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+17:06:32	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+17:06:32	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+17:06:32	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+17:06:32	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+17:06:32	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+17:06:32	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+17:06:32	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+17:06:32	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+17:06:32	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+17:06:32	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+17:06:32	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+17:06:32	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+17:06:32	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+17:06:32	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+17:06:32	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+17:06:32	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+17:06:32	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+17:06:32	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+17:06:32	296 loaded!
+17:06:32	Create DBShare Table
+17:06:32	LoadDBShare...
+17:06:32	Current Data Version : 7
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[GBLVALUE]	ModuleInit..
+17:06:32	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+17:06:32	Create RDS Table: tblGblValueSet
+17:06:32	Create RDS Table: tblGblVIntInt
+17:06:32	Create RDS Table: tblGblVIntBuf
+17:06:32	Create RDS Table: tblGblVStrInt
+17:06:32	Create RDS Table: tblGblVStrBuf
+17:06:32	[GBLVALUE]	Base Data Init, Create RootTree...
+17:06:32	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+17:06:32	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+17:06:32	[GBLVALUE]	Base Data Init, Create RootTree...
+17:06:32	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+17:06:32	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+17:06:32	[GBLVALUE]	Base Data Init, Create RootTree...
+17:06:32	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+17:06:32	Create SaveBuffer DB Table
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[TRANSFER]	ModuleInit..
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[TimerTask]	ModuleInit..
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[ScheduleTask]	ModuleInit..
+17:06:32	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+17:06:32	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[LEAGUE]	ModuleInit..
+17:06:32	[LEAGUE]	Base Data Init, Root Branch ID: 11
+17:06:32	Create RDS Table: tblLeagueSet
+17:06:32	Create RDS Table: tblMemberLea
+17:06:32	Create RDS Table: tblLeague
+17:06:32	Create RDS Table: tblLeagueTask
+17:06:32	Create RDS Table: tblLeagueMember
+17:06:32	Create RDS Table: tblLeaMemberTask
+17:06:32	[LEAGUE]	Base Data Init, Create RootTree...
+17:06:32	[LEAGUE]	Base Data Init, Create DataTree Completed!
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[KIN]	ModuleInit..
+17:06:32	[KIN]	Base Data Init, Root Branch ID: 13
+17:06:32	Create RDS Table: tblKin
+17:06:32	Create RDS Table: tblKinTask
+17:06:32	Create RDS Table: tblKinBufTask
+17:06:32	Create RDS Table: tblKinMember
+17:06:32	Create RDS Table: tblKinMemberTask
+17:06:32	[KIN]	Base Data Init, Create RootTree...
+17:06:32	[KIN]	Base Data Init, Create DataTree Completed!
+17:06:32	Create Player Kin-Tong DB Table
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[TONG]	ModuleInit..
+17:06:32	[TONG]	Base Data Init, Root Branch ID: 15
+17:06:32	Create RDS Table: tblTong
+17:06:32	Create RDS Table: tblTongTask
+17:06:32	Create RDS Table: tblTongBufTask
+17:06:32	Create RDS Table: tblTongKin
+17:06:32	Create RDS Table: tblTongDomain
+17:06:32	Create RDS Table: tblTongDomainTask
+17:06:32	Create RDS Table: tblTongDomainTaskBuf
+17:06:32	[TONG]	Base Data Init, Create RootTree...
+17:06:32	[TONG]	Base Data Init, Create DataTree Completed!
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[UNION]	ModuleInit..
+17:06:32	[UNION]	Base Data Init, Root Branch ID: 17
+17:06:32	Create RDS Table: tblUnion
+17:06:32	Create RDS Table: tblUnionTask
+17:06:32	Create RDS Table: tblUnionBufTask
+17:06:32	Create RDS Table: tblUnionTong
+17:06:32	Create RDS Table: tblUnionDomain
+17:06:32	[UNION]	Base Data Init, Create RootTree...
+17:06:32	[UNION]	Base Data Init, Create DataTree Completed!
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[PLAYERMAN]	ModuleInit..
+17:06:32	LoadCoZoneSubPlayerNameId TimeOut Del
+17:06:32	Create Player Data DB Table
+17:06:32	Loading All Players ...
+17:06:32	Referenced Players in <PlayerData> Table: 0
+17:06:32	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+17:06:32	Loading Players Kin Info in <PlayerKin> Table ...
+17:06:32	Referenced Players in <PlayerKin> Table: 0
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[TEAM]	ModuleInit..
+17:06:32	[TEAM]	Base Data Init, Root Branch ID: 19
+17:06:32	[TEAM]	Base Data Init, Create RootTree...
+17:06:32	[TEAM]	Base Data Init, Create DataTree Completed!
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[Map]	ModuleInit..
+17:06:32	Loading World Setting...
+17:06:32	Gameserver Count = 6
+17:06:32	[Gameserver0]
+17:06:32	ID = 1
+17:06:32	MapCount = 253
+17:06:32	[Gameserver1]
+17:06:32	ID = 2
+17:06:32	MapCount = 192
+17:06:32	[Gameserver2]
+17:06:32	ID = 3
+17:06:32	MapCount = 1
+17:06:32	[Gameserver3]
+17:06:32	ID = 4
+17:06:32	MapCount = 0
+17:06:32	[Gameserver4]
+17:06:32	ID = 5
+17:06:32	MapCount = 0
+17:06:32	[Gameserver5]
+17:06:32	ID = 6
+17:06:32	MapCount = 0
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[CHAT]	ModuleInit..
+17:06:32	Create OfflineMsg DB Table
+17:06:32	Load All OfflineMsg
+17:06:32	Referenced OfflineMsg 0
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[RELATION]	ModuleInit..
+17:06:32	Create Player Relay DB Table
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[MAIL]	ModuleInit..
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[IBSHOP]	ModuleInit..
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[GMBOARD]	ModuleInit..
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[JBEXCHANGE]	ModuleInit..
+17:06:32	[JBEXCHANGE]	Base Data Init, Root Branch ID: 21
+17:06:32	Create RDS Table: tblJbExchangeBill
+17:06:32	Create RDS Table: tblJbExchangeTask
+17:06:32	[JBEXCHANGE]	Base Data Init, Create RootTree...
+17:06:32	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[LADDER]	ModuleInit..
+17:06:32	[LADDER]	Base Data Init, Root Branch ID: 23
+17:06:32	Create RDS Table: tblLadder
+17:06:32	Create RDS Table: tblPlayerLadder
+17:06:32	Create RDS Table: tblAllTotalLadder
+17:06:32	Create RDS Table: tblTotalLadder
+17:06:32	[LADDER]	Base Data Init, Create RootTree...
+17:06:32	[LADDER]	Base Data Init, Create DataTree Completed!
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[GBLBUF]	ModuleInit..
+17:06:32	[GBLBUF]	Base Data Init, Root Branch ID: 41
+17:06:32	Create RDS Table: tblGblBufSet
+17:06:32	Create RDS Table: tblGblBuf
+17:06:32	[GBLBUF]	Base Data Init, Create RootTree...
+17:06:32	[GBLBUF]	Base Data Init, Create DataTree Completed!
+17:06:32	[GBLBUF]	Base Data Init, Root Branch ID: 51
+17:06:32	Create RDS Table: tblGblBufSet
+17:06:32	Create RDS Table: tblGblBuf
+17:06:32	[GBLBUF]	Base Data Init, Create RootTree...
+17:06:32	[GBLBUF]	Base Data Init, Create DataTree Completed!
+17:06:32	-------------------------------------------------------------------------------
+17:06:32	[PROFILE]	ModuleInit..
+17:06:32	[PROFILE]	Base Data Init, Root Branch ID: 61
+17:06:32	Create RDS Table: tblProfile
+17:06:33	Create RDS Table: tblProfileTask
+17:06:33	Create RDS Table: tblProfileBuff
+17:06:33	[PROFILE]	Base Data Init, Create RootTree...
+17:06:33	[PROFILE]	Base Data Init, Create DataTree Completed!
+17:06:33	-------------------------------------------------------------------------------
+17:06:33	[AUCTION]	ModuleInit..
+17:06:33	Create Auction Table
+17:06:33	-------------------------------------------------------------------------------
+17:06:33	[NORMAL]	ModuleInit..
+17:06:33	-------------------------------------------------------------------------------
+17:06:33	[SPORT]	ModuleInit..
+17:06:33	[SPORT]	Base Data Init, Root Branch ID: 62
+17:06:33	Create RDS Table: tblSportPlayer
+17:06:33	[SPORT]	Base Data Init, Create RootTree...
+17:06:33	[SPORT]	Base Data Init, Create DataTree Completed!
+17:06:33	[LOG]	2	[Player]	Cap cao nhat 200
+17:06:33	Xếp hạng danh sách
+17:06:33	Hoàn thành
+17:06:33	在线补偿过期清除	清除数量:	0
+17:06:33	数据库数据为空，直接返回
+17:06:33	Connect to logserver(127.0.0.1:5100) OK!
+17:06:33	Connect to Goddess(127.0.0.1:5001) OK!
+17:06:33	Connect Gateway....
+17:06:33	Do Daily Backup 16
+17:06:53	[CenServer] Connect Failed! IP: 127.0.0.1 SocketStream = 00000000
+17:06:53	Can Not Connect GateWay!
+17:06:53	Game Init Failed��Quit...
+17:06:53	GCEvent:OnGCUnit
+17:06:53	[LOG]	2	[HoleSolution]	黑名单数据未初始化，不能写入数据库！
+17:06:53	RefreshHonorLadderData start 131589
+17:08:47	
+17:08:47	********************** Gamecenter Startup ************************
+17:08:47	OS Time: 05/17/22 17:08:47
+17:08:47	Game Init ..
+17:08:47	Loading Script...
+17:08:47	Begin load script files...
+17:08:47	begin load vfactory.lua
+17:08:47	Preload gc script files...
+17:08:47	21 loaded!
+17:08:47	Loading Scripts In Path \script\
+17:08:47	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: attempt to call method 'RegisterGlobalWeekEvent' (a nil value)
+stack traceback:
+	...er\Gamecenter\script\mission\battle\battle_bouns.lua:652: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\battle_bouns.lua', please check it!
+17:08:47	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: bad argument #1 to 'rawget' (table expected, got nil)
+stack traceback:
+	[C]: in function 'rawget'
+	E:\kt\Server\Gamecenter\script\lib\lib.lua:257: in function 'NewClass'
+	...ver\Gamecenter\script\mission\battle\battle_trap.lua:13: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\battle_trap.lua', please check it!
+17:08:47	...\Server\Gamecenter\script\mission\battle\mission.lua:8: attempt to call method 'New' (a nil value)
+stack traceback:
+	...\Server\Gamecenter\script\mission\battle\mission.lua:8: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\mission.lua', please check it!
+17:08:47	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\script\mission\battle\npc\baomingdianjunxuguan.lua:8: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\npc\baomingdianjunxuguan.lua', please check it!
+17:08:47	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...enter\script\mission\battle\npc\houyingjunxuguan.lua:7: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\npc\houyingjunxuguan.lua', please check it!
+17:08:47	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\Longtruphekim.lua:3: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\npc\Longtruphekim.lua', please check it!
+17:08:47	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ecenter\script\mission\battle\npc\Longtruphetong.lua:3: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\npc\Longtruphetong.lua', please check it!
+17:08:47	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...center\script\mission\battle\npc\Longtrutrunglap.lua:4: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\npc\Longtrutrunglap.lua', please check it!
+17:08:47	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Server\Gamecenter\script\mission\battle\npc\mafu.lua:3: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\npc\mafu.lua', please check it!
+17:08:47	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...mecenter\script\mission\battle\npc\mubingxiaowei.lua:4: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\npc\mubingxiaowei.lua', please check it!
+17:08:47	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhanqinpc.lua:8: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\npc\zhanqinpc.lua', please check it!
+17:08:47	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...r\Gamecenter\script\mission\battle\npc\zhaomushi.lua:3: in main chunk
+17:08:47	
+Can't load file '\script\mission\battle\npc\zhaomushi.lua', please check it!
+17:08:47	[script] file '\script\event\lottery\lottery_data.lua' read failed!
+stack traceback:
+17:08:47	
+Can't load file '\script\event\lottery\lottery_data.lua', please check it!
+17:08:47	[script] file '\script\event\lottery\lottery.lua' read failed!
+stack traceback:
+17:08:47	
+Can't load file '\script\event\lottery\lottery.lua', please check it!
+17:08:47	[script] file '\script\event\newlottery\lottery.lua' read failed!
+stack traceback:
+17:08:47	
+Can't load file '\script\event\newlottery\lottery.lua', please check it!
+17:08:47	[script] file '\script\event\lottery\lottery_gc.lua' read failed!
+stack traceback:
+17:08:47	
+Can't load file '\script\event\lottery\lottery_gc.lua', please check it!
+17:08:47	[script] file '\script\event\newlottery\lottery_gc.lua' read failed!
+stack traceback:
+17:08:47	
+Can't load file '\script\event\newlottery\lottery_gc.lua', please check it!
+17:08:47	[script] file '\script\event\newlottery\lottery_data.lua' read failed!
+stack traceback:
+17:08:47	
+Can't load file '\script\event\newlottery\lottery_data.lua', please check it!
+17:08:47	296 loaded!
+17:08:47	Create DBShare Table
+17:08:47	LoadDBShare...
+17:08:47	Current Data Version : 8
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[GBLVALUE]	ModuleInit..
+17:08:47	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+17:08:47	Create RDS Table: tblGblValueSet
+17:08:47	Create RDS Table: tblGblVIntInt
+17:08:47	Create RDS Table: tblGblVIntBuf
+17:08:47	Create RDS Table: tblGblVStrInt
+17:08:47	Create RDS Table: tblGblVStrBuf
+17:08:47	[GBLVALUE]	Base Data Init, Create RootTree...
+17:08:47	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+17:08:47	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+17:08:47	[GBLVALUE]	Base Data Init, Create RootTree...
+17:08:47	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+17:08:47	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+17:08:47	[GBLVALUE]	Base Data Init, Create RootTree...
+17:08:47	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+17:08:47	Create SaveBuffer DB Table
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[TRANSFER]	ModuleInit..
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[TimerTask]	ModuleInit..
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[ScheduleTask]	ModuleInit..
+17:08:47	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+17:08:47	[ScheduleTask]	Schedule Task Loaded, Task Count = 100
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[LEAGUE]	ModuleInit..
+17:08:47	[LEAGUE]	Base Data Init, Root Branch ID: 11
+17:08:47	Create RDS Table: tblLeagueSet
+17:08:47	Create RDS Table: tblMemberLea
+17:08:47	Create RDS Table: tblLeague
+17:08:47	Create RDS Table: tblLeagueTask
+17:08:47	Create RDS Table: tblLeagueMember
+17:08:47	Create RDS Table: tblLeaMemberTask
+17:08:47	[LEAGUE]	Base Data Init, Create RootTree...
+17:08:47	[LEAGUE]	Base Data Init, Create DataTree Completed!
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[KIN]	ModuleInit..
+17:08:47	[KIN]	Base Data Init, Root Branch ID: 13
+17:08:47	Create RDS Table: tblKin
+17:08:47	Create RDS Table: tblKinTask
+17:08:47	Create RDS Table: tblKinBufTask
+17:08:47	Create RDS Table: tblKinMember
+17:08:47	Create RDS Table: tblKinMemberTask
+17:08:47	[KIN]	Base Data Init, Create RootTree...
+17:08:47	[KIN]	Base Data Init, Create DataTree Completed!
+17:08:47	Create Player Kin-Tong DB Table
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[TONG]	ModuleInit..
+17:08:47	[TONG]	Base Data Init, Root Branch ID: 15
+17:08:47	Create RDS Table: tblTong
+17:08:47	Create RDS Table: tblTongTask
+17:08:47	Create RDS Table: tblTongBufTask
+17:08:47	Create RDS Table: tblTongKin
+17:08:47	Create RDS Table: tblTongDomain
+17:08:47	Create RDS Table: tblTongDomainTask
+17:08:47	Create RDS Table: tblTongDomainTaskBuf
+17:08:47	[TONG]	Base Data Init, Create RootTree...
+17:08:47	[TONG]	Base Data Init, Create DataTree Completed!
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[UNION]	ModuleInit..
+17:08:47	[UNION]	Base Data Init, Root Branch ID: 17
+17:08:47	Create RDS Table: tblUnion
+17:08:47	Create RDS Table: tblUnionTask
+17:08:47	Create RDS Table: tblUnionBufTask
+17:08:47	Create RDS Table: tblUnionTong
+17:08:47	Create RDS Table: tblUnionDomain
+17:08:47	[UNION]	Base Data Init, Create RootTree...
+17:08:47	[UNION]	Base Data Init, Create DataTree Completed!
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[PLAYERMAN]	ModuleInit..
+17:08:47	LoadCoZoneSubPlayerNameId TimeOut Del
+17:08:47	Create Player Data DB Table
+17:08:47	Loading All Players ...
+17:08:47	Referenced Players in <PlayerData> Table: 0
+17:08:47	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+17:08:47	Loading Players Kin Info in <PlayerKin> Table ...
+17:08:47	Referenced Players in <PlayerKin> Table: 0
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[TEAM]	ModuleInit..
+17:08:47	[TEAM]	Base Data Init, Root Branch ID: 19
+17:08:47	[TEAM]	Base Data Init, Create RootTree...
+17:08:47	[TEAM]	Base Data Init, Create DataTree Completed!
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[Map]	ModuleInit..
+17:08:47	Loading World Setting...
+17:08:47	Gameserver Count = 6
+17:08:47	[Gameserver0]
+17:08:47	ID = 1
+17:08:47	MapCount = 253
+17:08:47	[Gameserver1]
+17:08:47	ID = 2
+17:08:47	MapCount = 192
+17:08:47	[Gameserver2]
+17:08:47	ID = 3
+17:08:47	MapCount = 1
+17:08:47	[Gameserver3]
+17:08:47	ID = 4
+17:08:47	MapCount = 0
+17:08:47	[Gameserver4]
+17:08:47	ID = 5
+17:08:47	MapCount = 0
+17:08:47	[Gameserver5]
+17:08:47	ID = 6
+17:08:47	MapCount = 0
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[CHAT]	ModuleInit..
+17:08:47	Create OfflineMsg DB Table
+17:08:47	Load All OfflineMsg
+17:08:47	Referenced OfflineMsg 0
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[RELATION]	ModuleInit..
+17:08:47	Create Player Relay DB Table
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[MAIL]	ModuleInit..
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[IBSHOP]	ModuleInit..
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[GMBOARD]	ModuleInit..
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[JBEXCHANGE]	ModuleInit..
+17:08:47	[JBEXCHANGE]	Base Data Init, Root Branch ID: 21
+17:08:47	Create RDS Table: tblJbExchangeBill
+17:08:47	Create RDS Table: tblJbExchangeTask
+17:08:47	[JBEXCHANGE]	Base Data Init, Create RootTree...
+17:08:47	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[LADDER]	ModuleInit..
+17:08:47	[LADDER]	Base Data Init, Root Branch ID: 23
+17:08:47	Create RDS Table: tblLadder
+17:08:47	Create RDS Table: tblPlayerLadder
+17:08:47	Create RDS Table: tblAllTotalLadder
+17:08:47	Create RDS Table: tblTotalLadder
+17:08:47	[LADDER]	Base Data Init, Create RootTree...
+17:08:47	[LADDER]	Base Data Init, Create DataTree Completed!
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[GBLBUF]	ModuleInit..
+17:08:47	[GBLBUF]	Base Data Init, Root Branch ID: 41
+17:08:47	Create RDS Table: tblGblBufSet
+17:08:47	Create RDS Table: tblGblBuf
+17:08:47	[GBLBUF]	Base Data Init, Create RootTree...
+17:08:47	[GBLBUF]	Base Data Init, Create DataTree Completed!
+17:08:47	[GBLBUF]	Base Data Init, Root Branch ID: 51
+17:08:47	Create RDS Table: tblGblBufSet
+17:08:47	Create RDS Table: tblGblBuf
+17:08:47	[GBLBUF]	Base Data Init, Create RootTree...
+17:08:47	[GBLBUF]	Base Data Init, Create DataTree Completed!
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[PROFILE]	ModuleInit..
+17:08:47	[PROFILE]	Base Data Init, Root Branch ID: 61
+17:08:47	Create RDS Table: tblProfile
+17:08:47	Create RDS Table: tblProfileTask
+17:08:47	Create RDS Table: tblProfileBuff
+17:08:47	[PROFILE]	Base Data Init, Create RootTree...
+17:08:47	[PROFILE]	Base Data Init, Create DataTree Completed!
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[AUCTION]	ModuleInit..
+17:08:47	Create Auction Table
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[NORMAL]	ModuleInit..
+17:08:47	-------------------------------------------------------------------------------
+17:08:47	[SPORT]	ModuleInit..
+17:08:47	[SPORT]	Base Data Init, Root Branch ID: 62
+17:08:47	Create RDS Table: tblSportPlayer
+17:08:47	[SPORT]	Base Data Init, Create RootTree...
+17:08:47	[SPORT]	Base Data Init, Create DataTree Completed!
+17:08:47	[LOG]	2	[Player]	Cap cao nhat 200
+17:08:48	Xếp hạng danh sách
+17:08:48	Hoàn thành
+17:08:48	在线补偿过期清除	清除数量:	0
+17:08:48	数据库数据为空，直接返回
+17:08:48	Connect to logserver(127.0.0.1:5100) OK!
+17:08:48	Connect to Goddess(127.0.0.1:5001) OK!
+17:08:48	Connect Gateway....
+17:08:48	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09D999C8
+17:08:48	Game Startup Completed!
+17:08:57	[CenServer] Accept from 127.0.0.1 Port = 10944
+17:08:57	Connection Created! Connection ID = 1
+17:08:57	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+17:08:57	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: attempt to call method 'OnRecConnectEvent' (a nil value)
+stack traceback:
+	E:\kt\Server\Gamecenter\script\misc\s2gcevent.lua:11: in function 'OnRecConnectEvent'
+	E:\kt\Server\Gamecenter\script\task\help\help.lua:44: in function <E:\kt\Server\Gamecenter\script\task\help\help.lua:40>
+17:09:02	Do Daily Backup 16
+17:09:12	OnGCExcute	Map:GCUpdateForbidenInfo
+17:09:12	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+17:09:12	黑名单没有初始化，直接返回
+17:09:12	OnGCExcute	XoyoGame:CreateManager_GC	341
+17:09:12	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+17:09:12	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+17:09:12	OnGCExcute	XoyoGame:SyncGameData_GC	28	0
+17:09:12	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+17:09:12	OnGCExcute	XoyoGame:SyncGameData_GC	29	0
+17:09:12	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+17:09:12	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+17:09:12	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+17:11:12	Warning: MilliSecond Between Two Frames: 248
+17:11:13	Warning: MilliSecond Between Two Frames: 116
+17:11:15	Warning: MilliSecond Between Two Frames: 237
+17:11:19	Warning: MilliSecond Between Two Frames: 148
+17:11:22	Warning: MilliSecond Between Two Frames: 113
+17:11:22	Warning: MilliSecond Between Two Frames: 212
+17:11:23	Warning: MilliSecond Between Two Frames: 157
+17:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+17:12:00	[ScheduleTask]	Execute Task: Quan Nguyen Mong
+17:14:09	Lose connection to Goddess(127.0.0.1:5001) ...
+17:14:09	Exit Time: 05/17/22 17:14:09
+17:14:09	Now Server Safely Quit ...
+17:14:09	GCEvent:OnGCUnit

@@ -1,0 +1,251 @@
+QID	SHOWFLAG	QUESTION	ANSWER	SELECT1	SELECT2	SELECT3
+1	1	Làm sao tương trang bị liên tiếp xen vào đáo nói chuyện phiếm lan? 	Ctrl+ thử tiêu tả kiện điểm kích trang bị 	Thử tiêu tả kiện điểm kích trang bị 	Alt+ thử tiêu hữu kiện điểm kích trang bị	
+2	1	Trang bị cắt đích mau lẹ kiện là cái gì? 	Ctrl+W	Alt+W	Ctrl+Alt+Del	
+3	1	Nếu như muốn cùng người chơi khác tiến hành lẫn nhau thao tác, tỷ như: nói chuyện phiếm, giao dịch, kiểm tra trang bị... Ứng với nên làm như thế nào? 	Ctrl+ thử tiêu hữu kiện điểm kích cai ngoạn gia 	Thử tiêu hữu kiện điểm kích cai ngoạn gia 	Thử tiêu tả kiện điểm kích cai ngoạn gia	
+4	1	Mở, đóng tràng cảnh địa đồ đích mau lẹ kiện thị người nào? 	Tab kiện 	Ctrl kiện 	Shift kiện	
+5	1	Thử tiêu di động đáo tiểu trên bản đồ hậu làm sao tha động tiểu địa đồ? 	Đè lại thử tiêu hữu kiện tiến hành tha động 	Đè lại thử tiêu tả kiện tiến hành tha động 	Đè lại thử tiêu vòng lăn tiến hành tha động	
+6	1	Làm sao dùng tiểu địa đồ tự động tìm đường? 	Tại tiểu trên bản đồ tả kiện điểm kích muốn khứ đích địa phương 	Hữu kiện điểm kích muốn khứ đích địa phương 	Ctrl+ thử tiêu hữu kiện điểm kích	
+7	1	Dưới đây na loại quái sẽ không rơi xuống lửa trại? 	Phổ thông quái 	Tinh anh quái 	Thủ lĩnh quái	
+8	1	Lửa trại đích hiệu quả là cái gì? 	Tại lửa trại hữu hiệu trong phạm vi đích ngoạn gia mỗi 5 miểu khả dĩ thu được kinh nghiệm 	Tại lửa trại hữu hiệu trong phạm vi đích ngoạn gia lực công kích đề cao 	Lửa trại khả dĩ dùng để sưởi ấm	
+9	1	Lửa trại châm hậu duy trì liên tục thời gian có bao nhiêu cửu? 	15 phút 	10 phút 	12 phút	
+10	1	Sưởi ấm thì hát chút rượu có chỗ tốt gì? 	Khả dĩ thu được càng nhiều kinh nghiệm 	Khả dĩ đề cao ngoạn gia công kích 	Có thể cho ngoạn gia luyện thành Tuý Quyền kỹ năng	
+11	1	6 nhân tổ đội sưởi ấm song song hát tửu, dưới đây na loại tình huống thu được kinh nghiệm giác cao? 	5 cá nhân hát tây bắc vọng, 1 cá nhân hát nữ nhi hồng 	3 cá nhân hát hạnh hoa thôn, 3 cá nhân hát đạo mùi hoa 	Mỗi người đều hát bất đồng đích rượu	
+12	1	Dưới đây na loại vật phẩm bất năng để vào đồ dự bị trang bị lan? 	Bí tịch 	Vũ khí 	Ngọc bội	
+13	1	Mỗi lần trang bị cắt đích thời gian khoảng cách thị bao lâu? 	60 miểu 	30 miểu 	45 miểu	
+14	1	Tương nhất kiện trang bị buộc định đích vũ khí để vào đồ dự bị trang bị lan thì, cai vũ khí có hay không sẽ bị buộc định? 	Thị 	Phủ		
+15	1	Thụ thương đích hiệu quả là cái gì? 	Cấm thi triển kỹ năng hòa di động, nhưng khả dĩ uống thuốc 	Cấm thi triển kỹ năng hòa di động, không có thể ăn dược 	Lực công kích rơi chậm lại	
+16	1	Suy yếu đích hiệu quả là cái gì? 	Lực công kích rơi chậm lại 	Bị công kích thì đã bị thương tổn tăng 	Di động hòa thi triển kỹ năng đích động tác giảm bớt	
+17	1	Chậm chạp đích hiệu quả là cái gì? 	Di động hòa thi triển kỹ năng đích động tác giảm bớt 	Cấm thi triển kỹ năng hòa di động, không có thể ăn dược 	Lực công kích rơi chậm lại	
+18	1	Tổn thương đích hiệu quả là cái gì? 	Bị công kích thì đã bị thương tổn tăng 	Lực công kích rơi chậm lại 	Di động hòa thi triển kỹ năng đích động tác giảm bớt	
+19	1	Mê muội đích hiệu quả là cái gì? 	Cấm thi triển kỹ năng hòa di động, không có thể ăn dược 	Cấm thi triển kỹ năng hòa di động, nhưng khả dĩ uống thuốc 	Di động hòa thi triển kỹ năng đích động tác giảm bớt	
+20	1	Công kích trúng mục tiêu suất hòa dưới đây người nào nhân tố không quan hệ? 	Phe mình lực công kích 	Phe mình trúng mục tiêu giá trị 	Đối phương lánh giá trị	
+21	1	Trúng mục tiêu suất đích trên dưới hạn phân biệt thị nhiều ít? 	95%, 5%	100%, 0%		
+22	1	Hiểu ý một kích đích lực công kích thị phổ thông công kích đích nhiều ít bội 	1. 8 bội 	2 bội 	1. 5 bội	
+23	1	Bạch thu lâm đích bên người đứng mấy người nghĩa quân thị vệ? 	2 một 	3 một 	4 một	
+24	1	Điềm rượu thúc sát hãn thì dùng chính là na chích thủ? 	Tay trái 	Tay phải 	Không gặp hắn sát quá hãn	
+25	1	Long tuyền thôn có mấy người tại vãng nồi hơi Ri-ga môi đích công nhân? 	4 một 	3 một 	5 một	
+26	1	Long tuyền thôn đích âu dã tử tượng đá hai bên trái phải hữu mấy ngụm nước tỉnh 	7 khẩu 	6 khẩu 	8 khẩu	
+27	1	Vân trung trấn tinh luyện kim loại đại sư bên phải giặt quần áo phụ nhân bàng đích tiểu cô nương đang làm cái gì? 	Ngoạn trống bỏi 	Khóc 	Cật mứt quả	
+28	1	Vân trung trấn tinh luyện kim loại đại sư bên phải thung mễ đích hai bên trái phải có gì vật? 	Cái ghế 	Máy xay gió 	Hỏa lò	
+29	1	Vân trung trấn diệp chỉ lâm tay phải biên thị? 	Thạch điêu tượng 	Đại thụ 	Nhà tranh	
+30	1	Đạo hương thôn bạch thu lâm phía sau đích tấm bia đá thượng viết cái gì? 	Mưa thuận gió hoà 	Thiên hạ thái bình 	Đưa ta non sông	
+31	1	Nga mi tiếp dẫn đệ tử đích tên là cái gì? 	Huyền tĩnh 	Huyền nhã 	Huyền tố	
+32	1	Minh giáo tiếp dẫn đệ tử đích tên là cái gì? 	Đồng lăng 	La tuấn 	Tô lăng	
+33	1	Côn Lôn tiếp dẫn đệ tử đích tên là cái gì? 	Về kinh tình 	Về vân phi 	Quy thiên nhai	
+34	1	Đường môn tiếp dẫn đệ tử đích tên là cái gì? 	Đường tể dân 	Đường thanh y 	Đường như hạc	
+35	1	Hiện giữ Ngũ Độc giáo chủ tên là? 	Cổ thản nhiên 	Điệp phiêu phiêu 	Hồ hiến cơ	
+36	1	Hiện giữ thiên vương bang chủ tên là? 	Dương quyết tâm 	Dương anh 	Dương anh	
+37	1	Hiện giữ thúy yên môn chủ tên là? 	Duẫn tiểu vũ 	Cô ánh trăng 	Nhạn xảo vân	
+38	1	Hiện giữ minh giáo giáo chủ tên là? 	Phương đi giác 	Tạ ơn tô quang vinh 	Họ Mộ Dung chiêu	
+39	1	Tương Dương tào bang bang chủ tên gọi là gì? 	Ân bặc nguyên 	Tất thư dương 	Hạ vũ côn	
+40	1	Ba lăng huyền ly người nào thành thị gần nhất? 	Tương Dương 	Thành đô 	Biện kinh	
+41	1	Phòng cụ điếm lão bản không bán phía dưới vật gì? 	Đá vũ hoa 	Đồng khoáng thạch 	Cẩu da lông	
+42	1	Nhạc Dương lầu địa đồ thích hợp nhiều ít cấp đích ngoạn gia đi trước? 	15	25	35	
+43	1	Điềm rượu thúc hai bên trái phải đích thợ rèn giống nhau đang làm cái gì? 	Kén thiết chùy 	Sát hãn 	Mại vũ khí	
+44	1	Đạo hương thôn ngân hàng tư nhân lão bản bên người hữu kỷ khẩu cái rương? 	9	7	8	
+45	1	Tòng đạo hương thôn khả dĩ tương đối khoái tiêu sái lộ đáo hà môn phái? 	Cái Bang 	Thiên vương 	Đường môn	
+46	1	Đạo hương thôn đích diêm trường là ai khai đích? 	Họ Đường đích 	Họ Lý đích 	Họ Lưu đích	
+47	1	Tức giận kỹ đích thi triển khoảng cách thị nhiều ít miểu? 	3	2	1	
+48	1	Ngươi bất năng tại hạ mặt người nào nhân na mua được cỏ linh chi? 	Trầm lá sen 	Bất động tiên sinh 	Trương trảm kinh	
+49	1	Sáo ngọc nhà ai thính lạc mai thị? 	Một đạo thái 	Một loại trà 	Một loại rượu	
+50	1	Ngươi tối đa khả dĩ mang theo bao nhiêu kim tệ? 	Vô hạn chế 	1000 vạn 	Dữ đẳng cấp tương quan	
+51	1	Hoàng thường là người ra sao? 	Võ lâm minh đặc sứ 	Bạch hổ đường hộ vệ 	Gia tộc trạm kiểm soát tiếp dẫn nhân	
+52	1	Lôi đài bỉ tái thời gian duy trì liên tục bao lâu? 	11 phút 	10 phút 	12 phút	
+53	1	Biện kinh đại Tướng Quốc Tự chủ trì pháp hiệu thị? 	Long tọa thiền sư 	Khoảng không vấn thiền sư 	Huyền nan thiền sư	
+54	1	Thúy yên tiếp dẫn đệ tử nã đích cái gì vũ khí? 	Một nã vũ khí 	Đao 	Kiếm	
+55	1	Trên người đích trang bị khả dĩ hóa giải mạ? 	Không thể 	Khả dĩ 	Có khả dĩ có không thể	
+56	1	1 điểm thân pháp năng gia vài điểm hiểu ý? 	Bất gia 	1 điểm 	0. 5 điểm	
+57	1	《 kiếm hiệp thế giới 》 lên đất liền mặt biên hữu kỷ chích điểu tại phi? 	Một điểu 	2	1	
+58	1	《 kiếm hiệp thế giới 》 lên đất liền thì giả thuyết bàn phím biến hóa trình tự đích xúc xắc na một mặt triêu thượng đích? 	3 một điểm đích mặt 	2 một điểm đích mặt 	4 một điểm đích mặt	
+59	1	Tòng hữu thượng lưu nhập giang tân thôn đích nước sông chia làm vài cổ? 	3	2	4	
+60	1	Hiện nay 《 kiếm hiệp thế giới 》 trung Vĩnh Lạc trấn thuộc về người nào quốc gia quản hạt trong phạm vi? 	Kim 	Tây Hạ 	Triều đại Nam Tống	
+61	1	Thạch cổ trấn bạch thu lâm phía sau ra sao vật? 	Quan Thế Âm tượng đắp 	Tấm bia đá 	Một gốc cây đại thụ	
+62	1	Diệp chỉ lâm cung cấp cái gì công năng phục vụ? 	Thầy trò hòa bạn thân tương quan 	Hoạt động phần thưởng lĩnh 	Con người mới chỉ đạo viên	
+63	1	Thạch cổ trấn tửu lâu lão bản hai bên trái phải đích một đôi nam nữ đang làm cái gì? 	Ca vũ biểu diễn 	Hình như tại nói chuyện yêu đương 	Thung mễ	
+64	1	Đốn củi hòa hộ săn bắn lão bản bên người bình thường có động vật thị? 	Cẩu 	Dương 	Kê	
+65	1	Đốn củi phòng nhỏ lão bản tay cầm vật gì? 	Búa 	Cứ tử 	Cái gì cũng một nã	
+66	1	55 cấp võ lâm cao thủ vạn lão điên thị thuộc về ngũ hành hà hệ? 	Hỏa hệ 	Kim hệ 	Mộc hệ	
+67	1	Giang hồ hiệp khách tiến bạch hổ đường làm gì? 	Trừ kẻ trộm 	Luận võ 	Ám sát đường chủ	
+68	1	80 cấp đã ngoài ngoạn gia hoàn thành vòng thứ nhất bao vạn đồng nhiệm vụ nên giang hồ uy vọng nhiều ít điểm? 	0	3	2	
+69	1	Mỗi ngày tối đa khả ly tuyến uỷ trị bao lâu? 	16 tiếng đồng hồ 	14 tiếng đồng hồ 	18 tiếng đồng hồ	
+70	1	Thạch cổ trấn khứ trà mã cổ đạo nhập khẩu hữu một động vật là cái gì? 	Bạch trư 	Chim công 	Hắc cẩu	
+71	1	Thạch cổ trấn đích hồ nước ở đâu một phương vị? 	Đông 	Nam 	Tây	
+72	1	《 kiếm hiệp thế giới 》 lý đích phổ thông tên khất cái ( điều không phải Cái Bang đệ tử ) vì sao nã căn gậy gộc? 	Chân chặt đứt 	Đả cẩu đích vũ khí 	Hảo ngoạn	
+73	1	Long môn trấn sân rộng trung tâm ra sao vật kiến trúc? 	Một ngụm tỉnh 	Pho tượng 	Thạch tháp	
+74	1	Dưới đây người nào làng hữu thác nước? 	Vĩnh Lạc trấn 	Vân trung trấn 	Giang tân thôn	
+75	1	Vĩnh Lạc trấn đền thờ chỗ trà phô đích người đang kiền gì? 	Đả khoái bản 	Uống trà 	Pha trà	
+76	1	《 kiếm hiệp thế giới 》 lý mại đích mứt quả một chuỗi hữu kỷ khỏa? 	Khoảng chừng 6 khỏa 	Khoảng chừng 10 khỏa 	Khoảng chừng 14 khỏa	
+77	1	Vũ Đương ngọn núi đích a bộ tại cái gì vị trí? 	Thương khố hai bên trái phải 	Hồ nước hai bên trái phải 	Sơn môn hai bên trái phải	
+78	1	Đường hiểu hòa duẫn tiểu vũ cái gì quan hệ? 	Song bào thai 	Người yêu 	Bằng hữu	
+79	1	Đường môn lý đích npc giống nhau thích lấy cái gì nơi tay thượng? 	Cây quạt 	Cây sáo 	Thiết trảo	
+80	1	Du thanh tố thị bộ dáng gì nữa đích? 	Nữ tử 	Nam tử 	Lão nhân	
+81	1	Dưới đây ở đâu một môn phái hành khất đích tên khất cái đáng thương nhất? 	Côn Lôn 	Thiên vương 	Vũ Đương	
+82	1	Nhượng thử tiêu chỉ hướng mục tiêu bất điểm tả kiện tựu tập trung đích mau lẹ kiện thị? 	Ctrl+L	Ctrl+K	Vô thử công năng	
+83	1	Chơi trò chơi thiên thị môn phái nào đích? 	Côn Lôn 	Đường môn 	Thiên vương	
+84	1	Dưới đây người nào môn phái đích cây đuốc tối đa? 	Thiên nhẫn 	Nga mi 	Ngũ độc	
+85	1	Đậu hạo là người ra sao? 	Trường ca môn môn chủ 	Tây Hạ nhất phẩm đường đường chủ 	Đạo Tát Mãn giáo chủ	
+86	1	Dưới đây người nào môn phái hồ nước tối đa? 	Thúy yên 	Nga mi 	Thiên vương	
+87	1	Đại Lý đoạn thị đích mưu người nhà thế nào xưng hô? 	Gia chủ 	Môn chủ 	Giáo chủ	
+88	1	Ngũ Độc giáo đích "Ngũ độc" không chứa dưới đây na loại độc vật? 	Thằn lằn 	Hạt tử 	Cóc	
+89	1	Thiếu Lâm huyền khổ đại sư hai bên trái phải có mấy người hòa thượng tại đánh quyền? 	6	8	5	
+90	1	Đạo Tát Mãn cửa chính hoá trang phụ tùng là cái gì? 	Ngưu đầu 	Dương đầu 	Vòi nước	
+91	1	Nhiều ít cấp mới có thể tố thương hội nhiệm vụ? 	50	55	60	
+92	1	Nhiều ít giang hồ uy vọng mới có thể tố thương hội nhiệm vụ? 	20	25	30	
+93	1	Lôi đài luận võ cùng sở hữu nhiều ít chủng loại hình? 	6	5	7	
+94	1	Một hồi lôi đài luận võ tối đa có thể có bao nhiêu người tham gia? 	12	10	14	
+95	1	Tòng Côn Lôn phái ra người thứ nhất đến đích dã ngoại địa đồ đích địa danh thị? 	Kiến tính phong 	Thiên Trụ Phong 	Kỳ Liên sơn	
+96	1	Biện kinh da luật sở tài ở nơi nào? 	Hoàng cung cửa 	Chùa miểu nội 	Nha môn ngoại	
+97	1	Phi buộc định huyền tinh năng hợp thành vi buộc định huyền tinh mạ? 	Năng 	Bất năng 	Huyền tinh bất năng hợp thành	
+98	1	Gia tộc trạm kiểm soát tiếp dẫn nhân tên gọi là gì? 	Mã mặc sơn 	Mã truyện thiện 	Mã xuyên sơn	
+99	1	Ngân hàng tư nhân lão bản bất năng cung cấp cái gì phục vụ? 	Sung giá trị phục vụ 	Đổi hồn thạch 	Mua áo choàng	
+100	1	Ngươi tòng biện kinh làm sao khứ thạch cổ trấn? 	Ta còn là bay qua đi thôi 	Xa phu tống ta quá khứ a 	Không muốn bước đi an vị xa liễu	
+101	1	Nhai đạo thượng mại đích tán hữu cái nào nhan sắc? 	Lục sắc hòa phấn hồng sắc 	Lục sắc hòa hoàng sắc 	Hoàng sắc hòa phấn hồng sắc	
+102	1	Người nào thành thị đích bối cảnh âm nhạc trung hữu vù vù tiếng gió thổi? 	Phượng bay liệng 	Biện kinh 	Lâm an	
+103	1	Người nào thành thị đích bối cảnh âm nhạc trung bắt đầu hữu vài tiếng la hưởng? 	Lâm an 	Dương Châu 	Đại Lý	
+104	1	Tín tương tự ở đâu một thành thị? 	Thành đô 	Tương Dương 	Dương Châu	
+105	1	Nghĩa quân danh vọng kính phục thị kỷ cấp? 	6	4	5	
+106	1	Của ngươi đội hữu mở "Bắc Minh thần công" quang hoàn ngươi năng hóa giải nhiều ít thương tổn? 	90	180	150	
+107	1	Thi viết: "Sắc màu rực rỡ cẩm quan thành", trong đó "Cẩm quan thành" là chỉ? 	Thành đô 	Dương Châu 	Lâm an	
+108	1	Giang hồ uy vọng hội giảm thiểu mạ? 	Mỗi ngày đô hội suy giảm 	Mỗi ngày đô hội tăng 	Sẽ không	
+109	1	Đại Lý phủ thành trung gian hữu một vừa múa vừa hát đích npc tên gọi là gì? 	Đại tráng 	Đại hùng 	Đại phi	
+110	1	Võ lâm minh chủ đặc sứ không đề cập tới cung na hạng phục vụ? 	Thay đổi ngoạn gia trận doanh 	Sáng tạo bang hội 	Lĩnh gia tộc lệnh bài	
+111	1	3 một tương đồng huyền tinh hợp thành cao nhất cấp huyền tinh đích xác suất thị nhiều ít? 	76%	74%	75%	
+112	1	Tạp hoá phô đích trở về thành phù bao nhiêu tiền hé ra? 	300 lưỡng 	500 lưỡng 	400 lưỡng	
+113	1	Thục tốp sơn đích luyện cấp quái bất bao quát dưới đây na loại? 	Tống mã tấu binh 	Tống quân lính cầm giáo 	Tống khinh kỵ binh	
+114	1	Tại 《 kiếm hiệp thế giới 》 trung bình thường năng thấy một người mại bánh bao đích bạch y bạch mạo đích nhân, hắn giống nhau đang làm ma? 	Mì sợi 	Tắm 	Tố bánh bao hãm nhi	
+115	1	Lâm an phủ đích hoàng cung tại thành thị đích phương hướng nào? 	Phía tây 	Phương Bắc 	Phía nam	
+116	1	Bao vạn đồng dành cho ngoạn gia nhiệm vụ đích mục đích là cái gì? 	Vì nghĩa quân gom góp vật tư 	Bang trợ ngoạn gia đề thăng võ học 	Buôn bán kiếm tiền	
+117	1	Na chủng loại hình đích địa đồ không cùng thành thị trực tiếp tương liên? 	105 cấp 	55 cấp 	75 cấp	
+118	1	Đường môn đích tiểu hà dữ tiểu hân là cái gì quan hệ? 	Chủ nhân dữ sủng vật 	Tỷ đệ 	Tiểu thiết đích hai sủng vật cẩu	
+119	1	《 kiếm hiệp thế giới 》 trung hữu nhất chỉ biết võ công đích tiểu dương tên gọi là gì? 	Tiểu hân 	Tiểu tiết 	Tiểu hà	
+120	1	Đối với nhân danh "Hàn thác trụ" trung đích "Thác" đích cách đọc trứ cái gì? 	tuo	tao	di	
+121	1	Nhạc Phi 《 mãn giang hồng 》 trung "Ba mươi công danh trần dữ thổ, bát nghìn dặm đường vân hòa nguyệt." Đích tiếp theo cú là cái gì? 	Mạc bình thường trắng niên thiếu đầu, khoảng không bi thiết. 	Giá trường xa đạp phá núi Hạ Lan thiếu. 	Đãi từ đầu thu thập cũ sơn hà, hướng lên trời khuyết.	
+122	1	Ma nhẫn "Thôi sơn điền hải" kỹ năng nói rõ biểu hiện tối đa song song ảnh hưởng 3 một mục tiêu, do cai kỹ năng hiệu quả biết tha thực tế ảnh hưởng nhiều ít một mục tiêu? 	18	15	12	
+123	1	Vũ khí hư hao liễu còn có thể sử dụng kỹ năng mạ? 	Có năng 	Bất năng 	Năng	
+124	1	《 kiếm hiệp thế giới 》 vai hình cái đầu ở nơi nào thay đổi? 	F1 diễn viên mặt biên đích hình cái đầu chỗ điểm tuyển 	Căn bản bất năng thay đổi 	Tại sáng tạo nhân vật thì tuyển trạch	
+125	1	Dã ngoại quái vật trung đích thủ lĩnh quái dưới chân quang hoàn là cái gì nhan sắc? 	Tử sắc 	Lam sắc 	Hoàng sắc	
+126	1	Hữu một vật tái sinh vi 《 kiếm hiệp thế giới 》 cố sự đích đầu mối, vật ấy sự thị? 	Du long giác 	Sơn hà xã tắc đồ 	Truyền quốc ngọc tỷ	
+127	1	Thúy yên môn vì sao tuyển nhận nam đệ tử? 	Thế lực suy vi để cấp tốc lớn mạnh 	Để cấp môn trung nữ tử cọn lựa ưu tú phu quân 	Thượng giới môn chủ đích nguyện vọng	
+128	1	Hiện nay thủy hệ cùng sở hữu mấy người lưu phái? 	6	3	4	
+129	1	Mỗi ngày thu được đích các loại danh vọng hữu hạn mức cao nhất mạ? 	Bộ phận danh vọng hữu hạn mức cao nhất 	Không có 	Hữu	
+130	1	Hiện nay 《 kiếm hiệp thế giới 》 nhiệm vụ mặt bản (F4) đích nhiệm vụ loại hình cùng sở hữu vài loại? 	5	4	6	
+131	1	Chiến đấu hình thức cắt đích mau lẹ kiện thị? 	Ctrl+H	Ctrl+K	Ctrl+L	
+132	1	30 cấp dĩ nhập môn phái đích vai khả dĩ tiến nhập môn phái thi đấu thể thao địa đồ mạ? 	Khả dĩ 	Không thể		
+133	1	Sai hoa đăng thì ngoạn gia tối đa khả dĩ xong nhiều ít thứ đội hữu cùng chung đích thưởng cho? 	30	40	35	
+134	1	Tại 《 kiếm hiệp thế giới 》 trung tân thành lập đích vai lực lượng mới bắt đầu thuộc tính giá trị thị nhiều ít? 	50	35	Căn cứ ngũ hành bất đồng hữu khác nhau	
+135	1	Tại 《 kiếm hiệp thế giới 》 trung vai thăng cấp thu được đích thuộc tính điểm vi nhiều ít? 	10	8	5	
+136	1	Gia một điểm ngoại công tăng đích sinh mệnh giá trị hạn mức cao nhất thị nhiều ít? 	Căn cứ ngũ hành bất đồng hữu khác nhau 	3	5	
+137	1	Tại đả boss thì ăn may mắn dược khả năng sử rơi xuống đích tỷ lệ gia tăng mạ? 	Bất năng 	Đương nhiên là có thể 	May mắn đạt được nhất định giá trị mới có hiệu	
+138	1	Phía dưới na hạng nhất không có khả năng hội sử hiểu ý xác suất đề cao? 	Tiềm năng điểm 	Kỹ năng 	Trang bị	
+139	1	Vai thăng cấp hậu kháng tính hội thế nào biến hóa? 	Hữu thăng hữu hàng 	Lên cao 	Rơi chậm lại	
+140	1	Đối với thuộc tính "Trúng mục tiêu địch nhân hấp thụ nội lực x%" đích chính xác giải thích thị? 	Tăng thương tổn giá trị đích x% đích nội lực giá trị 	Tăng bị thương tổn phương lớn nhất nội lực đích x% đích nội lực giá trị 	Tăng tự thân lớn nhất nội lực đích x% đích nội lực giá trị	
+141	1	Tại huyền tinh tróc thì tối đa khả dĩ thu được vài loại huyền tinh? 	4	3	5	
+142	1	Tại cái gì dưới tình huống tróc đi ra đích huyền tinh thị phi buộc định đích? 	Không có khả năng xong phi buộc định huyền tinh 	Tróc phi buộc định trang bị tựu khả thu được 	Sử dụng phi buộc định ngân lượng tróc tựu khả thu được	
+143	1	Dưới na loại phương thức khả năng thu được "Kim tê "? 	Tố nhiệm vụ 	Khiêu chiến võ lâm cao thủ 	Tham gia bạch hổ đường	
+144	1	Trung mặt trái trạng thái "Hoãn" hậu, di động tốc độ biến thành nguyên lai đích nhiều ít? 	50%	60%	40%	
+145	1	Tân kiến vai đích tiềm năng điểm tổng giá trị thị nhiều ít? 	200	160	0	
+146	1	Ngoạn gia pk tử vong kinh nghiệm điệu nhiều nhất thiếu tướng không hề điệu kinh nghiệm? 	-50%	-100%	-70%	
+147	1	Tại bang hội lý, thành viên "Nhấc tay" đích tiêu chí là cái gì? 	Tên nhan sắc biến thành lam sắc 	Tên tiền hữu một nhấc tay đích tiểu đồ tiêu 	Tên phía trước dùng dấu móc ghi chú rõ "Nhấc tay "	
+148	1	Hiện nay, tại 《 kiếm hiệp thế giới 》 lý, phái Thiếu Lâm ở đâu quốc gia đích lãnh thổ quốc gia trong phạm vi? 	Kim 	Triều đại Nam Tống 	Liêu	
+149	1	Mộc siêu trong dưỡng liễu mấy cái cẩu? 	10 điều 	1 điều 	Một nuôi chó	
+150	1	Cắt mặt biên hình thức ( ẩn dấu mau lẹ lan, địa đồ, vai hình cái đầu chờ ) đích mau lẹ kiện thị? 	Ctrl+Tab	Shift+Tab	Ctrl+ALT	
+151	1	Sách phân vật phẩm đích mau lẹ kiện thị? 	Ctrl+S	Shift+S	Alt+S	
+152	1	Nhất kiện thuộc tính thị "Trang bị buộc định" đích trang bị, ngươi cũng không có trang bị tha cũng khả năng bị trói định mạ? 	Khả năng 	Không có khả năng 	Trò chơi xuất hiện bug tựu khả năng	
+153	1	《 kiếm hiệp thế giới 》 lý ngoạn gia có thể làm cho dùng đích vũ khí hữu vài loại? 	8	6	7	
+154	1	Chiến trường quân nhu tối đa khả dĩ tích lũy nhiều ít thứ? 	14	21	18	
+155	1	Bí tịch đẳng cấp bỉ vai cao nhiều ít cấp sau đó tương bất năng thu được tu vi? 	5	4	3	
+156	1	Kỹ năng "Khinh công" từ chỗ nào đắc lai? 	Sư môn sơ cấp bí tịch đắc lai 	Công cộng kỹ năng ngay từ đầu thì có 	20 cấp thì tự động học được	
+157	1	Dưới đây tuyển hạng thị lĩnh "Quan phủ phát lệnh truy nã nhiệm vụ" đích hạn chế điều kiện chính là? 	Hoàn thành 50 cấp đầu mối chính nhiệm vụ 	Đẳng cấp đến 55 cấp 	Giang hồ uy vọng đạt được 30	
+158	1	Tại "Hình bộ đầu mục bắt người" chỗ đổi lấy một quyển võ lâm bí tịch hoặc Tẩy Tủy Kinh cần "Danh bộ lệnh" nhiều ít? 	300	400	350	
+159	1	Quan phủ phát lệnh truy nã nhiệm vụ mỗi ngày năng thu được vài lần? Tối đa khả dĩ tích lũy nhiều ít thứ? 	6, 36	7, 42	5, 30	
+160	1	Trang bị hóa giải thuộc về sinh hoạt kỹ năng đích người nào khác hệ? 	Gia công hệ 	Chế tạo hệ 	Độc lập đích một người kỹ năng	
+161	1	Tống kim chiến trường mỗi ngày có bao nhiêu tràng? 	8	6	9	
+162	1	Phía dưới đối với khiêu chiến võ lâm cao thủ thu được thưởng cho đích đội ngũ đích thuyết pháp chính xác chính là? 	Đối kỳ tạo thành thương tổn tối đa đích đội ngũ 	Tạo thành kích thứ nhất đích đội ngũ 	Hoàn thành tối hậu một kích đích đội ngũ	
+163	1	Bạch hổ đường mỗi ngày mở ra nhiều ít tràng? 	20	10	16	
+164	1	Phía dưới na một cấp bậc đích bạch danh ngoạn gia không thể vào nhập môn phái thi đấu thể thao tràng? 	Toàn bộ bất năng 	70	35	50
+165	1	Quan phủ phát lệnh truy nã nhiệm vụ bất năng thu được đích thưởng cho thị? 	Tiền tài 	Kinh nghiệm 	Danh bộ lệnh	
+166	1	Tẩy Tủy Kinh đích công dụng là cái gì? 	Tăng tiềm năng điểm 	Tẩy tiềm năng điểm 	Tẩy kỹ năng điểm	
+167	1	Minh giáo thuộc về tam đại trận doanh đích người nào trận doanh? 	Trung lập 	Chính phái 	Tà phái	
+168	1	Sinh hoạt kỹ năng cùng sở hữu nhiều ít một? 	11	10	2	
+169	1	Ở nơi nào khả dĩ mua cửu chuyển tục mệnh hoàn? 	Kỳ trân các 	Dược điếm 	Tạp hoá điếm	
+170	1	Phía dưới về tại chỗ chữa thương đích thuyết pháp, người nào là sai lầm đích? 	Sử dụng thực phẩm khả dĩ tại chỗ chữa thương 	Tiếp thu đội hữu đích trị liệu khả dĩ tại chỗ chữa thương 	Sử dụng cửu chuyển tục mệnh hoàn khả dĩ tại chỗ chữa thương	
+171	1	Thế nào khả dĩ đặt ra trọng thương trở về thành sống lại điểm? 	Điểm kích tay mới thôn / môn phái / thành thị đích vật phẩm bảo quản nhân, thiết trí chính đích chữa thương điểm 	Xa phu truyền tống tự động thiết trí chính đích chữa thương điểm 	Không cần thiết trí, tự động đặt ra vi bản môn phái đích vật phẩm bảo quản nhân	
+172	1	Phía dưới về tàn sát đích thuyết pháp, người nào là sai lầm đích? 	Tàn sát hình thức hạ khả dĩ công kích đồng nhất gia tộc có lẽ bang hội đích ngoạn gia 	Tại không có thành lập luận bàn hòa báo thù quan hệ thì, luyện công hình thức ngoạn gia khả dĩ chủ động công kích tàn sát hình thức ngoạn gia. 	PK hình thức vi tàn sát thì, ngoạn gia cũng không khả dĩ công kích bạch danh trận doanh ngoạn gia.	
+173	1	Đi qua người nào NPC khả dĩ tự thú ngồi tù? 	Lâm an hòa biện kinh đích nha dịch 	Các tay mới thôn đích lễ quan 	Bản môn chưởng môn	
+174	1	Đi qua người nào NPC khả dĩ đọc từ bi tâm kinh rơi chậm lại ác danh giá trị? 	Vân du tăng nhân 	Nha dịch 	Bản môn chưởng môn	
+175	1	Ở nơi nào khả dĩ mua từ bi tâm kinh 	Kỳ trân các 	Dược điếm 	Tạp hoá điếm	
+176	1	Trước mặt đang ở ngồi tù đích ngoạn gia, khả dĩ sử dụng cái gì đạo cụ ly khai đại lao? 	Hình bộ lệnh bài 	Từ bi tâm kinh 	Triều đình chiếu thư	
+177	1	Lôi đài cho phép đích báo danh song phương nhân số thị nhiều ít? 	1V1——6V6 đích đối chiến 	1V1——8V8 đích đối chiến 	1V1——10V10 đích đối chiến	
+178	1	60-89 cấp ngoạn gia khả dĩ tham gia người nào chiến trường? 	Dương Châu chiến trường 	Phượng bay liệng chiến trường 	Tương Dương chiến trường	
+179	1	90-119 cấp ngoạn gia khả dĩ tham gia người nào chiến trường? 	Phượng bay liệng chiến trường 	Dương Châu chiến trường 	Tương Dương chiến trường	
+180	1	120 cấp hòa 120 cấp đã ngoài đích ngoạn gia khả dĩ tham gia người nào chiến trường? 	Tương Dương chiến trường 	Phượng bay liệng chiến trường 	Dương Châu chiến trường	
+181	1	Song phương chí ít các hữu bao nhiêu người tài năng mở ra Dương Châu chiến trường? 	6 nhân 	8 nhân 	12 nhân	
+182	1	Song phương chí ít các hữu bao nhiêu người tài năng mở ra phượng bay liệng chiến trường? 	8 nhân 	6 nhân 	12 nhân	
+183	1	Song phương chí ít các hữu bao nhiêu người tài năng mở ra Tương Dương chiến trường? 	12 nhân 	6 nhân 	8 nhân	
+184	1	Tống kim chiến trường đích giết chóc hình thức, căn cứ cái gì phán định thắng bại? 	Song phương đều tự đích tổng vi tích phân 	Song phương đều tự đích sát nhân sổ 	Song phương đều tự đích hộ kỳ thành công số lượng	
+185	1	Tống kim chiến trường đích hộ kỳ hình thức, căn cứ cái gì phán định thắng bại? 	Song phương đều tự đích hộ kỳ thành công số lượng 	Song phương đều tự đích tổng vi tích phân 	Song phương đều tự đích sát nhân sổ	
+186	1	Tống kim chiến trường đích hộ kỳ hình thức, đương song phương hộ kỳ số lượng tương đồng thì, căn cứ cái gì phán định thắng bại? 	Song phương đều tự đích tổng vi tích phân 	Song phương đều tự đích sát nhân sổ 	Song phương đều tự đích thặng dư nhân số	
+187	1	Tống kim chiến trường đích nguyên soái hộ vệ hình thức trung, dưới đây thuyết pháp bất chính xác thực chính là? 	Bản phương nhân số ít vu 50 đại tướng xuất hiện 	Bản phương sở hữu NPC đại tướng toàn bộ bị chém giết, nguyên soái xuất hiện 	Chiến đấu kết thúc tiền 20 phút, nguyên soái xuất hiện	
+188	1	Tiêu dao cốc lý đích hạ tiểu thiến đích danh hiệu là cái gì? 	Nhu nhược đích thiếu nữ 	Ham chơi đích tiểu cô nương 	Ái mạo hiểm đích tiểu thư	
+189	1	Tống kim chiến trường trung, án cái gì kiện khả dĩ kiểm tra chiến báo? 	~ kiện 	Tab kiện 	Shift kiện	
+190	1	Ở đâu một NPC chỗ khả dĩ dùng chiến trường vi tích phân đổi lấy kinh nghiệm thưởng cho? 	Chiến trường báo danh điểm đích quân nhu quan 	Tống kim chiêu mộ sử 	Nha dịch	
+191	1	Chiến trường danh vọng thị dựa theo cái gì tiêu chuẩn thưởng cho đích? 	Căn cứ mỗi tràng chiến cuộc đích cuối bài danh thưởng cho ngoạn gia 	Căn cứ tham gia tống kim chiến trường đích số lần thưởng cho ngoạn gia 	Căn cứ tại tuyến thời gian thưởng cho ngoạn gia	
+192	1	Chiến trường vi tích phân có ích lợi gì? 	Khả dĩ đổi lấy kinh nghiệm thưởng cho 	Khả dĩ đổi lấy chiến trường danh vọng 	Khả dĩ đổi lấy kiếm hiệp tệ	
+193	1	Chiến trường danh vọng khả dĩ tích lũy sao? 	Khả dĩ 	Không thể 	Một vòng nội khả dĩ tích lũy	
+194	1	Chiến trường danh vọng chia làm vài loại? 	3 loại 	4 loại 	5 loại	
+195	1	Nhiều ít cấp đích ngoạn gia khả dĩ thu đồ đệ đệ? 	Không thua kém 69 cấp 	Không thua kém 60 cấp 	Không thua kém 70 cấp	
+196	1	Mỗi người song song tối đa khả dĩ chính mình nhiều ít vị xuất sư đích đồ đệ? 	3 một 	5 một 	8 một	
+197	1	Mỗi người khả dĩ song song bái nhiều ít một ngoạn gia sư phụ? 	1 một 	2 một 	3 một	
+198	1	Nhiều ít cấp mới có thể bái sư? 	Lớn hơn 20 cấp thả nhỏ 50 cấp 	Lớn hơn 20 cấp thả nhỏ 69 cấp 	Không có hạn chế	
+199	1	Xuất sư đích điều kiện là cái gì? 	Đệ tử đẳng cấp đạt được 69 cấp thả vu sư phụ thân mật độ vượt lên trước 3 cấp 	Đệ tử đẳng cấp đạt được 60 cấp thả vu sư phụ thân mật độ vượt lên trước 3 cấp 	Đệ tử đẳng cấp đạt được 60 cấp thả vu sư phụ thân mật độ vượt lên trước 4 cấp	
+200	1	Nhiều ít cấp đích ngoạn gia khả dĩ thể nghiệm bạch hổ đường hoạt động? 	50 cấp đã ngoài 	70 cấp đã ngoài 	100 cấp đã ngoài	
+201	1	Mỗi người mỗi ngày tối đa khả dĩ tham gia nhiều ít thứ bạch hổ đường hoạt động? 	3 thứ 	1 thứ 	2 thứ	
+202	1	Sai đố đèn hoạt động đích hoa đăng gặp phải ở đâu ta địa đồ? 	8 một tay mới thôn 	7 một thành thị 	Các môn phái	
+203	1	Sai đố đèn hoạt động ở đâu một NPC chỗ lĩnh thưởng cho? 	Lễ quan 	Bạch thu lâm 	Nhan như ngọc	
+204	1	Kim tệ giao dịch đích thủ tục phí do ai tiền trả? 	Người bán 	Mãi phương 	Hệ thống	
+205	1	Kim tệ giao dịch đích thủ tục phí thị nhiều ít? 	Giao dịch tổng ngạch đích 1%	100 kiếm hiệp tệ 	Giao dịch tổng ngạch đích 10%	
+206	1	Mỗi người tại kim tệ nơi giao dịch tối đa song song sáng tạo nhiều ít giao dịch đan? 	1 một 	2 một 	3 một	
+207	1	Mỗi người mỗi chu khả dĩ giao dịch thu được đích miễn thuế kiếm hiệp tệ thị nhiều ít? 	Dữ tỉ suất hối đoái tương quan 	100 vạn lượng 	1000 vạn lượng	
+208	1	Hạ tiểu thiến dưỡng liễu kỷ chích thỏ? 	6 chích 	3 chích 	9 chích	
+209	1	Tiêu dao cốc lý hữu một am hiểu chế tạo bộ phận then chốt thú đích nhân, xin hỏi hắn tên gọi là gì? 	Hồ khôn 	Hồ côn 	Hồ côn	
+210	1	Dưới câu nào điều không phải hạ tiểu thiến đích thiền ngoài miệng? 	Kỳ thực ngươi lớn lên cũng không động địa. 	Các ngươi làm tức giận ta liễu! 	Ta cấp đại gia xướng thủ ca ba.	
+211	1	Dưới na kiện điều không phải hoàng phỉ yếu đích bảo vật 	Tiên linh mộc 	Thất màu tiên đan 	Linh thú chiến giày 	Độn giáp bùa
+212	1	Dưới câu nào thị mặc quân đích thiền ngoài miệng? 	Thành thật mà nói, ngươi nội lực cũng không sâu như thế nào hậu ma. 	Năng lẫn mất điệu nói tựu đóa đóa xem đi! Oa ha ha ha... 	Có đôi khi, cũng sẽ trở về chỗ cũ một chút tẩy điểm tiền đích sinh hoạt	
+213	1	Tiểu lộ đích lão công tên gọi là gì? 	Nhâm miểu 	Nhâm sâm 	Nhâm hâm 	Nhâm diễm
+214	1	Tiêu dao cốc lý na lưỡng chủng danh hiệu đích quái đích kỹ năng hiệu quả như nhau? 	Cuồng nộ gia trì hòa "Nọc độc phụt lên" 	Dịch cốt đoạn cân hòa "Co dãn cơ hoàng" 	Kim cương bất hoại hòa "Chuông vàng chiếm được "	
+215	1	Tử uyển hòa hồ khôn đích quan hệ thị? 	Thầy trò 	Phu thê 	Sư huynh muội	
+216	1	Tần trọng hòa tử uyển đích quan hệ thị? 	Sư huynh muội 	Phu thê 	Thầy trò	
+217	1	Cầu phúc kỳ ra năm "Mộc" thu được đích xưng hào thị? 	Thiên hạ vô song 	Độc cô cầu bại 	Vận may vào đầu	
+218	1	Cầu phúc kỳ ra năm "Kim" thu được đích xưng hào thị? 	Độc cô cầu bại 	Hồng trần nhâm tiêu dao 	Hồng phúc tề thiên	
+219	1	Dưới người nào điều không phải cầu phúc kỳ ra bốn người "Kim" thu được đích xưng hào? 	Thiên hạ ai không nhìn được quân 	Thiên nhai vị hoàn ánh tà dương tàn 	Nâng chén trăng rằm cường mỉm cười	
+220	1	Tòng thùy trên người khả dĩ thu được sừng tê giác quáng lệnh bài? 	Trông coi 	Làm việc cực nhọc 	Trông coi đầu lĩnh	
+221	1	Dưới người nào điều không phải liễu rộng rãi đích danh hiệu? 	Tinh luyện kim loại đại sư 	Gia công đại sư 	Chế tạo đại sư 	Dược thương
+222	1	Hoàng phỉ vì sao vào không được tiêu dao cốc? 	Nhân thiếu 	Bị thương 	Sẽ không võ công	
+223	1	Hoàng phỉ cầm trong tay chính là vật gì? 	Cây quạt 	Kiếm 	Đao 	Thương
+224	1	Đoán một cái triệu khản nhiều liễu? 	70 tuế 	30 tuế 	10 tuế	
+225	1	Tiêu dao cốc lý có vị ái mạo hiểm đích tiểu thư, tha tên gọi là gì? 	Hiểu phỉ 	Tiểu lộ 	Thúy tiểu âu	
+226	1	Dưới người nào điều không phải cầu phúc kỳ ra năm "Thủy" thu được đích xưng hào? 	Vị y nhân, tại thủy nhất phương 	Tuyệt đại phương hoa 	Phong như nhau đích nam tử	
+227	1	Dưới người nào thị cầu phúc kỳ ra năm "Hỏa" thu được đích xưng hào? 	Giang hồ tối hậu một vị hiệp khách 	Rượu đoạn trường tha hương lộ tỉnh 	Bất tiện uyên ương bất tiện tiên	
+228	1	Dưới người nào thị cầu phúc kỳ ra năm "Thổ" thu được đích xưng hào? 	Thiên chi kiều nữ 	Giang hồ tối hậu một vị hiệp nữ 	Tuyệt đại phương hoa	
+229	1	Biện kinh phủ bao vạn đồng phía sau đích tấm bia đá thượng viết chính là cái gì? 	Quốc thái dân an 	Mưa thuận gió hoà 	Đưa ta non sông	
+230	1	Vân trung trấn đích diệp chỉ lâm tại cái gì vị trí? 	Bờ sông 	Rừng trúc 	Trong viện	
+231	1	Long tuyền thôn đích trương tiếng thông reo trong viện na loại động vật da tối đa? 	Hổ da 	Hùng da 	Da sói	
+232	1	Đại kim long mạch phong thuỷ đồ tại thùy trên người? 	Hoàn nhan lượng 	Hoàn nhan tương 	Hoàn nhan hồng liệt	
+233	1	Hải Lăng vương mộ trung đích bụi gai rừng rậm nếu như không cẩn thận đụng tới gặp phải cái gì hiệu quả? 	Trở lại doanh địa 	Mê muội 	Vô hiệu quả	
+234	1	Hải Lăng vương mộ trung đích hoàng kim trong bảo khố tương tối cao khả dĩ khai ra kỷ cấp huyền tinh? 	9 cấp 	8 cấp 	7 cấp 	6 cấp
+235	1	Hải Lăng vương mộ trung hoàn nhan không phá đích xưng hào là cái gì? 	Kim quốc đệ nhất đao khách 	Kim quốc đệ nhất 1.kiếm khách 	Kim quốc đệ nhất thích khách	
+236	1	Bách man sơn vì sao yếu khua chiêng gõ trống? 	Dẫn quái 	Chúc mừng ngày lễ 	Buồn chán	
+237	1	Cổ vương sẽ không dịch dung thành thùy? 	Dương quyết tâm 	Bạch thu lâm 	Đoạn trí hưng	
+238	1	Bách man sơn ẩn dấu trạm kiểm soát thủ lĩnh là ai? 	Hỏa bồng xuân 	Nhị nha 	Trong bảo khố trái cây	
+239	1	Phục ngưu sơn quân doanh đích nội dung vở kịch nhiệm vụ sẽ không thưởng cho? 	Huyền tinh bảo thạch 	Giang hồ uy vọng 	Hồn thạch	
+240	1	Phục ngưu sơn quân doanh đích báo danh thời gian vi? 	Chỉnh điểm báo danh 	Nửa điểm báo danh 	Tùy thời khả dĩ tiến nhập	
+241	1	Dưới đây cái kia phương thức khả dĩ đề thăng phục ngưu sơn quân doanh danh vọng? 	Quân doanh tiếp tế tiếp viện bao 	Tác hằng ngày nhiệm vụ 	Độc bộ phận then chốt thư	
+242	1	Phục ngưu sơn quân doanh danh vọng cao nhất đẳng cấp vi? 	7 cấp 	6 cấp 	8 cấp	
+243	1	Phục ngưu sơn quân doanh đạt được tối cao đẳng cấp hậu khả dĩ mua? 	24 cách ba lô 	28 cách ba lô 	22 cách ba lô	
+244	1	Bộ phận then chốt bền độ bất năng đổi đáo cái kia vật phẩm? 	Huyền tinh bảo thạch 	Thục thịt bò 	Các loại mặt nạ	
+245	1	Làm sao tiến nhập phục ngưu sơn quân doanh? 	Tay mới thôn quân doanh truyền tống quan hoặc truyền tống phù 	Chạy bộ tiến nhập 	Hoa môn phái tiếp dẫn đệ tử truyền tống	
+246	1	Lô tất khắc hòa tất tái ngộ là cái gì quan hệ? 	Chiến hữu 	Thân thích 	Đồng hương	
+247	1	Phục ngưu sơn quân doanh phó bản đích báo danh thời gian vi? 	Chỉnh điểm qua đi đích 10 phút nội 	Chỉnh điểm qua đi đích 15 phút nội 	Chỉnh điểm qua đi đích 5 phút nội	
+248	1	Trong quân doanh phụ trách cho vay quân lương chính là vị ấy? 	Từ tường nga 	Bao vạn đồng 	Lô tất khắc	
+249	1	Ở đâu vị vai trên người khả dĩ lĩnh Hải Lăng vương mộ nội dung vở kịch nhiệm vụ? 	Thần tiêu 	Lô tất khắc 	Long ngũ ông	
+250	1	Một hồi quân doanh phó bản quy định đích thời gian vi? 	90 phút 	100 phút 	80 phút	

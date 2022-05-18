@@ -1,0 +1,222 @@
+G	D	P	L	Desc
+1	13	63	1	[Mặt nạ] Hàng Long Phục Hổ Quán
+2	8	671	10	Ngân yêu đái nam hệ Kim 08_vn
+2	8	672	10	Ngân yêu đái nam hệ Mộc 08_vn
+2	8	673	10	Ngân yêu đái nam hệ Thủy 08_vn
+2	8	674	10	Ngân yêu đái nam hệ Hỏa 08_vn
+2	8	675	10	Ngân yêu đái nam hệ Thổ 08_vn
+2	8	676	10	Ngân yêu đái nữ hệ Kim 08_vn
+2	8	677	10	Ngân yêu đái nữ hệ Mộc 08_vn
+2	8	678	10	Ngân yêu đái nữ hệ Thủy 08_vn
+2	8	679	10	Ngân yêu đái nữ hệ Hỏa 08_vn
+2	8	680	10	Ngân yêu đái nữ hệ Thổ 08_vn
+2	8	681	10	Kim yêu đái nam hệ Kim 08_vn
+2	8	682	10	Kim yêu đái nam hệ Mộc 08_vn
+2	8	683	10	Kim yêu đái nam hệ Thủy 08_vn
+2	8	684	10	Kim yêu đái nam hệ Hỏa 08_vn
+2	8	685	10	Kim yêu đái nam hệ Thổ 08_vn
+2	8	686	10	Kim yêu đái nữ hệ Kim 08_vn
+2	8	687	10	Kim yêu đái nữ hệ Mộc 08_vn
+2	8	688	10	Kim yêu đái nữ hệ Thủy 08_vn
+2	8	689	10	Kim yêu đái nữ hệ Hỏa 08_vn
+2	8	690	10	Kim yêu đái nữ hệ Thổ 08_vn
+2	4	271	10	Bạch ngân_Nhẫn hệ kim_vn
+2	4	272	10	Bạch ngân_Nhẫn hệ mộc_vn
+2	4	273	10	Bạch ngân_Nhẫn hệ thủy_vn
+2	4	274	10	Bạch ngân_Nhẫn hệ hỏa_vn
+2	4	275	10	Bạch ngân_Nhẫn hệ thổ_vn
+2	4	276	10	Hoàng kim_Nhẫn hệ kim_vn
+2	4	277	10	Hoàng kim_Nhẫn hệ mộc_vn
+2	4	278	10	Hoàng kim_Nhẫn hệ thủy_vn
+2	4	279	10	Hoàng kim_Nhẫn hệ hỏa_vn
+2	4	280	10	Hoàng kim_Nhẫn hệ thổ_vn
+1	12	43	4	Mã bài (Trục Nhật)_vn
+1	12	44	4	Mã bài (Lăng Thiên)_vn
+1	12	33	4	Mã bài 120vn (Phiên Vũ)
+1	12	47	4	Ức Vân-vn
+4	6	457	10	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù Hệ Kim_vn
+4	6	458	10	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù Hệ Kim_vn
+4	6	459	10	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù Hệ Mộc_vn
+4	6	460	10	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù Hệ Mộc_vn
+4	6	461	10	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù Hệ Thủy_vn
+4	6	462	10	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù Hệ Thủy_vn
+4	6	463	10	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù Hệ Hỏa_vn
+4	6	464	10	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù Hệ Hỏa_vn
+4	6	465	10	Bộ liên đấu_Kỳ Phúc Bạch Ngân Phù Hệ Thổ_vn
+4	6	466	10	Bộ liên đấu_Kỳ Phúc Hoàng Kim Phù Hệ Thổ_vn
+4	8	477	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam hệ Kim_vn
+4	8	478	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ hệ Kim_vn
+4	8	479	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam hệ Kim_vn
+4	8	480	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ hệ Kim_vn
+4	8	481	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam hệ Mộc_vn
+4	8	482	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ hệ Mộc_vn
+4	8	483	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam hệ Mộc_vn
+4	8	484	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ hệ Mộc_vn
+4	8	485	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam hệ Thủy_vn
+4	8	486	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ hệ Thủy_vn
+4	8	487	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam hệ Thủy_vn
+4	8	488	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ hệ Thủy_vn
+4	8	489	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam hệ Hỏa_vn
+4	8	490	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ hệ Hỏa_vn
+4	8	491	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam hệ Hỏa_vn
+4	8	492	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ hệ Hỏa_vn
+4	8	493	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam hệ Thổ_vn
+4	8	494	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ hệ Thổ_vn
+4	8	495	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam hệ Thổ_vn
+4	8	496	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ hệ Thổ_vn
+4	8	497	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam 2 hệ Kim_vn
+4	8	498	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ 2 hệ Kim_vn
+4	8	499	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam 2 hệ Kim_vn
+4	8	500	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ 2 hệ Kim_vn
+4	8	501	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam 2 hệ Mộc_vn
+4	8	502	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ 2 hệ Mộc_vn
+4	8	503	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam 2 hệ Mộc_vn
+4	8	504	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ 2 hệ Mộc_vn
+4	8	505	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam 2 hệ Thủy_vn
+4	8	506	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ 2 hệ Thủy_vn
+4	8	507	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam 2 hệ Thủy_vn
+4	8	508	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ 2 hệ Thủy_vn
+4	8	509	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam 2 hệ Hỏa_vn
+4	8	510	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ 2 hệ Hỏa_vn
+4	8	511	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam 2 hệ Hỏa_vn
+4	8	512	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ 2 hệ Hỏa_vn
+4	8	513	10	Bộ tranh đoạt_Bạch Ngân yêu đái nam 2 hệ Thổ_vn
+4	8	514	10	Bộ tranh đoạt_Bạch Ngân yêu đái nữ 2 hệ Thổ_vn
+4	8	515	10	Bộ tranh đoạt_Hoàng Kim yêu đái nam 2 hệ Thổ_vn
+4	8	516	10	Bộ tranh đoạt_Hoàng Kim yêu đái nữ 2 hệ Thổ_vn
+4	4	464	10	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ kim_vn
+4	4	465	10	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ kim_vn
+4	4	466	10	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ mộc_vn
+4	4	467	10	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ mộc_vn
+4	4	468	10	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ thủy_vn
+4	4	469	10	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ thủy_vn
+4	4	470	10	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ hỏa_vn
+4	4	471	10	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ hỏa_vn
+4	4	472	10	Bộ liên đấu Bạch Ngân_Nhẫn ngoại công hệ thổ_vn
+4	4	473	10	Bộ liên đấu Bạch Ngân_Nhẫn nội công hệ thổ_vn
+4	4	474	10	Bộ liên đấu Hoàng Kim_Nhẫn ngoại công hệ kim_vn
+4	4	475	10	Bộ liên đấu Hoàng Kim_Nhẫn nội công hệ kim_vn
+4	4	476	10	Bộ liên đấu Hoàng Kim_Nhẫn ngoại công hệ mộc_vn
+4	4	477	10	Bộ liên đấu Hoàng Kim_Nhẫn nội công hệ mộc_vn
+4	4	478	10	Bộ liên đấu Hoàng Kim_Nhẫn ngoại công hệ thủy_vn
+4	4	479	10	Bộ liên đấu Hoàng Kim_Nhẫn nội công hệ thủy_vn
+4	4	480	10	Bộ liên đấu Hoàng Kim_Nhẫn ngoại công hệ hỏa_vn
+4	4	481	10	Bộ liên đấu Hoàng Kim_Nhẫn nội công hệ hỏa_vn
+4	4	482	10	Bộ liên đấu Hoàng Kim_Nhẫn ngoại công hệ thổ_vn
+4	4	483	10	Bộ liên đấu Hoàng Kim_Nhẫn nội công hệ thổ_vn
+4	6	20000	10	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Kim
+4	6	20001	10	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Mộc
+4	6	20002	10	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Thủy
+4	6	20003	10	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Hỏa
+4	6	20004	10	Bộ Liên Đấu_Kỳ Phúc Hoàng Kim Phù hệ Thổ
+4	10	20005	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Kim
+4	10	20006	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Kim
+4	10	20007	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Kim
+4	10	20008	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Kim
+4	10	20009	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Mộc
+4	10	20010	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Mộc
+4	10	20011	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Mộc
+4	10	20012	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Mộc
+4	10	20013	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Thủy
+4	10	20014	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Thủy
+4	10	20015	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Thủy
+4	10	20016	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Thủy
+4	10	20017	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Hỏa
+4	10	20018	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Hỏa
+4	10	20019	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Hỏa
+4	10	20020	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Hỏa
+4	10	20021	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam ngoại công hệ Thổ
+4	10	20022	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ ngoại công hệ Thổ
+4	10	20023	10	Bộ Thủy Hoàng Bạch Ngân_Hộ uyển nam nội công hệ Thổ
+4	10	20024	10	Bộ Thủy Hoàng Bạch Ngân_Thủ trạc nữ nội công hệ Thổ
+4	10	20025	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Kim
+4	10	20026	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Kim
+4	10	20027	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Kim
+4	10	20028	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Kim
+4	10	20029	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Mộc
+4	10	20030	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Mộc
+4	10	20031	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Mộc
+4	10	20032	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Mộc
+4	10	20033	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Thủy
+4	10	20034	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Thủy
+4	10	20035	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Thủy
+4	10	20036	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Thủy
+4	10	20037	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Hỏa
+4	10	20038	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Hỏa
+4	10	20039	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Hỏa
+4	10	20040	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Hỏa
+4	10	20041	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam ngoại công hệ Thổ
+4	10	20042	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ ngoại công hệ Thổ
+4	10	20043	10	Bộ Thủy Hoàng Hoàng Kim_Hộ uyển nam nội công hệ Thổ
+4	10	20044	10	Bộ Thủy Hoàng Hoàng Kim_Thủ trạc nữ nội công hệ Thổ
+4	3	20045	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nam (Kim)
+4	3	20046	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nam (Mộc)
+4	3	20047	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nam (Thủy)
+4	3	20048	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nam (Hỏa)
+4	3	20049	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nam (Thổ)
+4	3	20050	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ (Kim)
+4	3	20051	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ (Mộc)
+4	3	20052	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ (Thủy)
+4	3	20053	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ (Hỏa)
+4	3	20054	10	Bộ Thủy Hoàng Hoàng Kim_Y phục nữ (Thổ)
+4	7	20055	10	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Kim
+4	7	20056	10	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Kim
+4	7	20057	10	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Mộc
+4	7	20058	10	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Mộc
+4	7	20059	10	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Thủy
+4	7	20060	10	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Thủy
+4	7	20061	10	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Hỏa
+4	7	20062	10	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Hỏa
+4	7	20063	10	Bộ Tiêu Dao Bạch Ngân_Giày nam hệ Thổ
+4	7	20064	10	Bộ Tiêu Dao Bạch Ngân_Giày nữ hệ Thổ
+4	7	20065	10	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Kim
+4	7	20066	10	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Kim
+4	7	20067	10	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Mộc
+4	7	20068	10	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Mộc
+4	7	20069	10	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Thủy
+4	7	20070	10	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Thủy
+4	7	20071	10	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Hỏa
+4	7	20072	10	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Hỏa
+4	7	20073	10	Bộ Tiêu Dao Hoàng Kim_Giày nam hệ Thổ
+4	7	20074	10	Bộ Tiêu Dao Hoàng Kim_Giày nữ hệ Thổ
+1	12	20000	4	Tuyết Hồn_Vĩnh viễn không khóa
+18	1	20231	1	Bạch Ngân Hộ Phù-Rương
+18	2	20231	1	Y Phục Bạch Ngân-Rương
+18	3	20231	1	Lưng Bạch Ngân-Rương
+18	4	20231	1	Giày Bạch Ngân-Rương
+18	5	20231	1	Hộ Uyển Bạch Ngân-Rương
+18	6	20231	1	Nón Bạch Ngân-Rương
+18	7	20231	1	Liên Bạch Ngân-Rương
+18	8	20231	1	Bội Bạch Ngân-Rương
+18	9	20231	1	Nhẫn Bạch Ngân-Rương
+18	1	20231	2	Hoàng Kim Hộ Phù-Rương
+18	2	20231	2	Y Phục Hoàng Kim-Rương
+18	3	20231	2	Lưng Hoàng Kim-Rương
+18	4	20231	2	Giày Hoàng Kim-Rương
+18	5	20231	2	Hộ Uyển Hoàng Kim-Rương
+18	6	20231	2	Nón Hoàng Kim-Rương
+18	7	20231	2	Liên Hoàng Kim-Rương
+18	8	20231	2	Bội Hoàng Kim-Rương
+18	9	20231	2	Nhẫn Hoàng Kim-Rương
+18	1	20231	3	Bạch Ngân Hộ Phù-Rương
+18	2	20231	3	Y Phục Bạch Ngân-Rương
+18	3	20231	3	Lưng Bạch Ngân-Rương
+18	4	20231	3	Giày Bạch Ngân-Rương
+18	5	20231	3	Hộ Uyển Bạch Ngân-Rương
+18	6	20231	3	Nón Bạch Ngân-Rương
+18	7	20231	3	Liên Bạch Ngân-Rương
+18	8	20231	3	Bội Bạch Ngân-Rương
+18	9	20231	3	Nhẫn Bạch Ngân-Rương
+18	1	20231	4	Hoàng Kim Hộ Phù-Rương
+18	2	20231	4	Y Phục Hoàng Kim-Rương
+18	3	20231	4	Lưng Hoàng Kim-Rương
+18	4	20231	4	Giày Hoàng Kim-Rương
+18	5	20231	4	Hộ Uyển Hoàng Kim-Rương
+18	6	20231	4	Nón Hoàng Kim-Rương
+18	7	20231	4	Liên Hoàng Kim-Rương
+18	8	20231	4	Bội Hoàng Kim-Rương
+18	9	20231	4	Nhẫn Hoàng Kim-Rương
+18	3	20231	5	Lưng Bạch Ngân-Rương
+18	3	20231	6	Lưng Hoàng Kim-Rương
+18	3	20231	7	Lưng Bạch Ngân-Rương
+18	3	20231	8	Lưng Hoàng Kim-Rương

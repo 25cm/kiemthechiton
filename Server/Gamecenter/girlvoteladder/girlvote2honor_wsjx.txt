@@ -1,0 +1,1 @@
+GatewayId	Account	RoleName	Ticket	Rank	Faction	Route	Level	Kin	Tong	Fans1Name	Fans1Ticket	Fans1Gateway	Fans2Name	Fans2Ticket	Fans2Gateway	Fans3Name	Fans3Ticket	Fans3Gateway	Fans4Name	Fans4Ticket	Fans4Gateway	Fans5Name	Fans5Ticket	Fans5Gateway

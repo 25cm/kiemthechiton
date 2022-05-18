@@ -1,0 +1,292 @@
+20220518-141922<DEBUG:00000570>: [PrevInitCore]:1, start tickers = 68758952758236
+20220518-141925<DEBUG:00000570>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 7829703990
+20220518-141926<ERROR:00000570>: GetInteger(12, 1) failed !
+20220518-141927<ERROR:00000570>: NpcTemplate[20155] not found!
+20220518-141927<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141927<ERROR:00000570>: NpcTemplate[20121] not found!
+20220518-141929<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141929<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141929<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141932<ERROR:00000570>: GetInteger(2, Money) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, BindMoney) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, LuckyRate) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, Money) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, BindMoney) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, LuckyRate) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, Money) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, BindMoney) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, LuckyRate) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, Money) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, BindMoney) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, LuckyRate) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, Money) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, BindMoney) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, LuckyRate) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, Money) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, BindMoney) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, LuckyRate) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, Money) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, BindMoney) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, LuckyRate) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, Money) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, BindMoney) failed !
+20220518-141932<ERROR:00000570>: GetInteger(2, LuckyRate) failed !
+20220518-141934<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141934<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141935<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141939<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20220518-141940<DEBUG:00000570>: KGLOG_PROCESS_ERROR(nMaxSize > 0) at line 72 in KItemDropRate::LoadData
+20220518-141942<WARN :00000570>: LostFps: 284 (+284)
+20220518-141943<WARN :00000570>: LostFps: 253 (-31)
+20220518-141944<WARN :00000570>: LostFps: 208 (-45)
+20220518-141945<WARN :00000570>: LostFps: 161 (-47)
+20220518-141946<WARN :00000570>: LostFps: 115 (-46)
+20220518-141947<WARN :00000570>: LostFps: 69 (-46)
+20220518-141948<WARN :00000570>: LostFps: 24 (-45)
+20220518-141949<WARN :00000570>: LostFps: 0 (-24)
+20220518-142218<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142228<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142233<INFO :00000570>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:1 BindCoin Price:7200)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994368	[ItemTypeInfo]	18-1-384-1	[ItemGUID]	---	[nCount]	0
+20220518-142233<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142234<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142244<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142315<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142325<INFO :00000570>: [Action]	IB_ApplyBuyCoinItem	[Info]	p�	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994527	[ItemTypeInfo]	18-1-543-1	[ItemGUID]	---	[nCount]	0
+20220518-142325<INFO :00000570>: [[Ok]]	IB_BuyItem_Ret	[Info]	ActionSuccess	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994527	[ItemTypeInfo]	18-1-543-1	[ItemGUID]	[1]:0	[2]:0	[3]:7974673042469970253	[4]:13616	[5]:0	[6]:0	[7]:8391172864274858061	[8]:7597365195025506848	[9]:3184097928782297710	[10]:8391166307897524768	[11]:6249487088952102458	[12]:-4980605015600022815	[13]:5629633078992336045	[14]:-4314326763317922457	[15]:8017287136856360592		[nCount]	15
+20220518-142325<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142335<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142400<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142410<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142424<INFO :00000570>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:16 BindCoin Price:1690)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-7	[ItemGUID]	---	[nCount]	0
+20220518-142424<INFO :00000570>: [Action]	IB_ApplyBuyBindCoinItem	[Info]	Ok Apply to Buy(Count:5 BindCoin Price:28800)	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301993985	[ItemTypeInfo]	18-1-1-9	[ItemGUID]	---	[nCount]	0
+20220518-142424<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142431<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142436<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142446<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142449<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142454<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142504<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142506<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142512<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142522<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142527<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142532<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142542<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142546<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142549<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142557<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142559<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142609<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142614<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142617<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142621<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142631<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142634<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142638<INFO :00000570>: [Action]	IB_ApplyBuyCoinItem	[Info]	p�	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994527	[ItemTypeInfo]	18-1-543-1	[ItemGUID]	---	[nCount]	0
+20220518-142638<INFO :00000570>: [[Ok]]	IB_BuyItem_Ret	[Info]	ActionSuccess	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994527	[ItemTypeInfo]	18-1-543-1	[ItemGUID]	[1]:0	[2]:0	[3]:7974673042469970253	[4]:13616	[5]:0	[6]:0		[nCount]	6
+20220518-142638<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142641<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142644<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142647<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142657<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142658<INFO :00000570>: [Action]	IB_ApplyBuyCoinItem	[Info]	p�	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994527	[ItemTypeInfo]	18-1-543-1	[ItemGUID]	---	[nCount]	0
+20220518-142658<INFO :00000570>: [[Ok]]	IB_BuyItem_Ret	[Info]	ActionSuccess	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994527	[ItemTypeInfo]	18-1-543-1	[ItemGUID]	[1]:0	[2]:0	[3]:7974673042469970253	[4]:13616	[5]:0	[6]:0	[7]:8391172864274858116	[8]:7597365195025506848	[9]:3760559801971522158	[10]:7587573016739982384	[11]:-6672807008187812749	[12]:7962852193247512762	[13]:7526676510144025632	[14]:2334956555555942598		[nCount]	14
+20220518-142658<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142702<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142705<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142708<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142711<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142714<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142717<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142722<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142732<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142736<INFO :00000570>: [Action]	IB_ApplyBuyCoinItem	[Info]	p�	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994527	[ItemTypeInfo]	18-1-543-1	[ItemGUID]	---	[nCount]	0
+20220518-142736<INFO :00000570>: [[Ok]]	IB_BuyItem_Ret	[Info]	ActionSuccess	[ACC]	testgamea	[ROLE]	MaNhẫn05	[ItemTypeID]	301994527	[ItemTypeInfo]	18-1-543-1	[ItemGUID]	[1]:0	[2]:0	[3]:7974673042469970253	[4]:13616	[5]:0	[6]:0	[7]:8391172864274858116	[8]:7597365195025506848	[9]:3760559801971522158	[10]:7587573016739982384	[11]:-6672807008187812749	[12]:7962852193247512762	[13]:7526676510144025632	[14]:2334956555555942598	[15]:3972298728448025384		[nCount]	15
+20220518-142736<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142739<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142742<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142745<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142748<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142751<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142754<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142757<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142807<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-142859<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-142909<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143022<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143032<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143034<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143035<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143045<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143105<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143115<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143208<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143218<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143333<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143343<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143351<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143401<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143407<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143417<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143418<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143428<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143528<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143538<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143655<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143705<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143712<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143722<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143725<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143734<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143744<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-143840<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-143850<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144022<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144032<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144042<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144052<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144056<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144106<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144116<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144210<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144220<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144332<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144342<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144353<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144403<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144417<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144427<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144435<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144445<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144540<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144550<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144653<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144703<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144704<WARN :00000570>: LostFps: 5 (+5)
+20220518-144704<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144705<WARN :00000570>: LostFps: 0 (-5)
+20220518-144714<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144752<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144802<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144804<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144814<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-144908<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-144918<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145004<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145014<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145019<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145029<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145130<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145140<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145144<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145154<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145238<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145248<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145331<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145341<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145347<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145357<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145507<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145517<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145518<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145528<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data
+20220518-145548<INFO :00000570>: [Player]MaNhẫn05 Apply Save Data By Reason Value
+20220518-145558<INFO :00000570>: [Player]MaNhẫn05 Excute Save Data

@@ -1,0 +1,11 @@
+Date	LeagueName	LeagueMembers	LeagueTask_1	LeagueTask_4	LeagueTask_5	LeagueTask_6	LeagueTask_7	LeagueTask_8	LeagueTask_17
+202107232023	ThanhBG	ThanhII	1	1	0	0	0	0	0
+202107232023	dddddddd	ThanhHHD	1	1	0	0	0	0	0
+202107232023	ewqeqweq	ThanhFFB	1	1	0	0	0	0	0
+202107232023	ewwerwerew	ThanhHHA	1	1	0	0	0	0	0
+202107232023	ffffffffffff	haichuII	1	1	0	0	0	0	0
+202107232023	hfghfghfghfg	ThanhVVV	1	1	0	0	0	0	0
+202107232023	sdfsdf	ThanhHHB	1	1	0	0	0	0	0
+202107232023	testgame	tttttttt	1	1	0	0	0	0	0
+202107232023	werewrwerwe	ThanhOOOOO	1	1	0	0	0	0	0
+202107232023	ểtrtẻ	ThanhFFC	1	1	0	0	0	0	0

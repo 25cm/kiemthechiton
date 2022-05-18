@@ -1,0 +1,3 @@
+GGenre	Detail	Particular	Level	RandRate	Name	
+
+

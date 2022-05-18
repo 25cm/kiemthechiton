@@ -1,0 +1,14 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+to_yunzhongzhen	1															\setting\map\map_info\xiaoyaopai\trap\to_yunzhongzhen.txt			
+Truyền Tống Môn Phái	0	11681	3	5	60	1	20	20	20	20	20	1		48448	109888		1		
+Thủ Khố	0	2599	3	5	60	1	20	20	20	20	20	1		50400	110304		1		
+Chủ Tiệm Binh Khí	0	11682	3	5	60	1	20	20	20	20	20	1		52032	112448		1		
+Chủ Tiệm Phòng Cụ	0	11683	3	5	60	1	20	20	20	20	20	1		51584	112480		1		
+Chủ Tiệm Tạp Hóa	0	11684	3	5	60	1	20	20	20	20	20	1		51168	112096		1		
+Chủ Tiệm Thuốc	0	11685	3	5	60	1	20	20	20	20	20	1		51232	111296		1		
+Chủ Tửu Lầu	0	11686	3	5	60	1	20	20	20	20	20	1		50944	111872		1		
+Dã Luyện Đại Sư	0	3574	3	5	60	1	20	20	20	20	20	1		51712	111808				2
+Tề Ngự Phong	0	11687	3	5	60	1	20	20	20	20	20	1		49568	109632		1		
+Tô Tinh Hà	0	11688	3	5	60	1	20	20	20	20	20	1		46240	105632		1		
+Vô Nhai Tử	0	11689	3	5	60	1	20	20	20	20	20	1		51520	104480		1		
+Vân Trung Trấn	0	2525	4	5	1	1	20	20	20	20	20	1		46496	114752		1		

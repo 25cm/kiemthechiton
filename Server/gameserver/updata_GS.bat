@@ -1,0 +1,7 @@
+copy /y "GS1.exe" "GS2.exe"
+copy /y "GS1.exe" "GS3.exe"
+copy /y "GS1.exe" "GS4.exe"
+copy /y "GS1.exe" "GS5.exe"
+copy /y "GS1.exe" "GS6.exe"
+copy /y "GS1.exe" "GS7.exe"
+copy /y "GS1.exe" "GS8.exe"

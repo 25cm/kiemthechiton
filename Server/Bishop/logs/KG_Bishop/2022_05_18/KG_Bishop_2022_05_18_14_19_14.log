@@ -1,0 +1,138 @@
+20220518-141914<INFO :000015DC>: [Bishop] Begin to start ... ...
+20220518-141914<INFO :000015DC>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20220518-141914<INFO :000015DC>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 01E20D68
+20220518-141914<INFO :000015DC>: [Goddess] Login() nResult = 1
+20220518-141914<INFO :000015DC>: [Relay] Init() Acceptor Open(127.0.0.1: 5632), nRetCode = 1
+20220518-141914<INFO :000015DC>: [PlayerManager] Init() Acceptor Open(: 5622), nRetCode = 1
+20220518-141914<INFO :000015DC>: [Report] Init() Acceptor Open(127.0.0.1: 5636), nRetCode = 1
+20220518-141917<INFO :00001388>: [Relay] ThreadFunction() Accept from (127.0.0.1: 59804) SocketStream = 01E20DB0
+20220518-141917<INFO :00001388>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20220518-141917<DEBUG:00001388>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20220518-141927<INFO :00000ED4>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 59809) SocketStream = 01E20D20
+20220518-141927<INFO :00000D6C>: [GameServer 0]  === Start ===
+20220518-141927<INFO :00000D6C>: [GameServer 0] Connected from 26.99.77.244, internet address = 26.99.77.244, open port = 6041, protocol version (79-->79)
+20220518-141942<DEBUG:00000D6C>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20220518-141942<DEBUG:00001388>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1025; Key = 1
+20220518-142003<DEBUG:00001A78>: [Player 43] ThreadFunction() Accept from (26.99.78.68 : 1110) SocketStream = 01E20C00
+20220518-142007<DEBUG:00001A78>: [Player 43] Account testgamea login bishop ... ... [OK]
+20220518-142007<DEBUG:00001A78>: [InterlockedAccountStateTable] testgamea, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-142007<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 21; Key = 1
+20220518-142007<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 1
+20220518-142008<DEBUG:00001A78>: [Player 43] ProcessRoleList() RoleCount = 1!
+20220518-142008<DEBUG:00001A78>: [Player 43] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-142008<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 20; Key = 2
+20220518-142008<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 2
+20220518-142009<DEBUG:00001A78>: [Player 43] QueryRoleListInZone() Role Count In Zone = 1!
+20220518-142010<DEBUG:00001A78>: [Player 43] ReadPlayerRequest() Protocol = 35, Size = 33!
+20220518-142010<DEBUG:00001A78>: [Player 43] EnterGame_QueryRoleData() RoleName = MaNhẫn05
+20220518-142010<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 21; Key = 3
+20220518-142010<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3341; Key = 3
+20220518-142010<DEBUG:00001A78>: [InterlockedAccountStateTable] testgamea, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-142010<DEBUG:00001A78>: [Player 43] Request enter game: ask for permission, account = testgamea, role name = MaNhẫn05 ... ... [OK]
+20220518-142010<DEBUG:00000D6C>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3473; Key = 1
+20220518-142011<DEBUG:00000D6C>: [GameServer 0] g2b_player_login_permission() , Account = testgamea, Role = MaNhẫn05, Permit = true
+20220518-142012<DEBUG:00001A78>: [Player 43] Notify player login game: ip = 26.99.77.244, port = 6041, account = testgamea, role = MaNhẫn05
+20220518-142012<DEBUG:00000D6C>: [GameServer 0] g2b_player_enter_game() AccountName = testgamea
+20220518-142020<DEBUG:00000D6C>: [GameServer 0] g2b_player_leave_game() , Account testgamea 
+20220518-142020<DEBUG:00000D6C>: [GameServer 0] _LeaveGame_Normal() AccountName = testgamea
+20220518-142020<DEBUG:00000D6C>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20220518-142020<DEBUG:00000D6C>: [GameServer 0] Unregister account testgamea in game server ... ... [OK]
+20220518-142020<DEBUG:00000D6C>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-142020<DEBUG:00000D6C>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-142048<DEBUG:000007F4>: [Player 79] ThreadFunction() Accept from (26.99.78.68 : 1146) SocketStream = 01E20C00
+20220518-142051<DEBUG:000007F4>: [Player 79] Account testgamea login bishop ... ... [OK]
+20220518-142051<DEBUG:000007F4>: [InterlockedAccountStateTable] testgamea, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-142051<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 21; Key = 4
+20220518-142051<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 4
+20220518-142052<DEBUG:000007F4>: [Player 79] ProcessRoleList() RoleCount = 1!
+20220518-142052<DEBUG:000007F4>: [Player 79] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-142052<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 20; Key = 5
+20220518-142052<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 5
+20220518-142053<DEBUG:000007F4>: [Player 79] QueryRoleListInZone() Role Count In Zone = 1!
+20220518-142054<DEBUG:000007F4>: [Player 79] ReadPlayerRequest() Protocol = 35, Size = 33!
+20220518-142054<DEBUG:000007F4>: [Player 79] EnterGame_QueryRoleData() RoleName = MaNhẫn05
+20220518-142054<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 21; Key = 6
+20220518-142054<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 3364; Key = 6
+20220518-142055<DEBUG:000007F4>: [InterlockedAccountStateTable] testgamea, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-142055<DEBUG:000007F4>: [Player 79] Request enter game: ask for permission, account = testgamea, role name = MaNhẫn05 ... ... [OK]
+20220518-142055<DEBUG:00000D6C>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 3496; Key = 2
+20220518-142055<DEBUG:00000D6C>: [GameServer 0] g2b_player_login_permission() , Account = testgamea, Role = MaNhẫn05, Permit = true
+20220518-142056<DEBUG:000007F4>: [Player 79] Notify player login game: ip = 26.99.77.244, port = 6041, account = testgamea, role = MaNhẫn05
+20220518-142056<DEBUG:00000D6C>: [GameServer 0] g2b_player_enter_game() AccountName = testgamea
+20220518-145617<DEBUG:00000D6C>: nSocket = 8844, nSendFlag = 0, Error = 10054
+20220518-145617<DEBUG:00000D6C>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20220518-145617<DEBUG:00000D6C>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20220518-145617<INFO :00000D6C>: [GameServer 0]  === End ===
+20220518-145617<DEBUG:00000D6C>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-145617<DEBUG:00000D6C>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-145617<INFO :00000D6C>: [GameServer 0] unlock No.0 accounts in game server : [testgamea] ... ... [OK]
+20220518-145628<INFO :00000ED4>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 59897) SocketStream = 01E20D20
+20220518-145628<INFO :00001A50>: [GameServer 1]  === Start ===
+20220518-145628<INFO :00001A50>: [GameServer 1] Connected from 26.99.77.244, internet address = 26.99.77.244, open port = 6041, protocol version (79-->79)
+20220518-145640<DEBUG:00001A50>: [GameServer 1] GameServerConnectedInit() nResult = 1
+20220518-145640<DEBUG:00001388>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1025; Key = 2
+20220518-145655<DEBUG:00000AB8>: [Player 128] ThreadFunction() Accept from (26.99.78.68 : 1081) SocketStream = 01E20C00
+20220518-145701<DEBUG:00000AB8>: [Player 128] Account testgamea login bishop ... ... [OK]
+20220518-145701<DEBUG:00000AB8>: [InterlockedAccountStateTable] testgamea, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-145701<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 21; Key = 7
+20220518-145701<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 7
+20220518-145702<DEBUG:00000AB8>: [Player 128] ProcessRoleList() RoleCount = 1!
+20220518-145702<DEBUG:00000AB8>: [Player 128] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-145702<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 20; Key = 8
+20220518-145702<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 8
+20220518-145702<DEBUG:00000AB8>: [Player 128] QueryRoleListInZone() Role Count In Zone = 1!
+20220518-145704<DEBUG:00000AB8>: [Player 128] ReadPlayerRequest() Protocol = 35, Size = 33!
+20220518-145704<DEBUG:00000AB8>: [Player 128] EnterGame_QueryRoleData() RoleName = MaNhẫn05
+20220518-145704<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 21; Key = 9
+20220518-145704<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 4493; Key = 9
+20220518-145705<DEBUG:00000AB8>: [InterlockedAccountStateTable] testgamea, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-145705<DEBUG:00000AB8>: [Player 128] Request enter game: ask for permission, account = testgamea, role name = MaNhẫn05 ... ... [OK]
+20220518-145705<DEBUG:00001A50>: [GameServer 1] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 4625; Key = 1
+20220518-145705<DEBUG:00001A50>: [GameServer 1] g2b_player_login_permission() , Account = testgamea, Role = MaNhẫn05, Permit = true
+20220518-145706<DEBUG:00000AB8>: [Player 128] Notify player login game: ip = 26.99.77.244, port = 6041, account = testgamea, role = MaNhẫn05
+20220518-145706<DEBUG:00001A50>: [GameServer 1] g2b_player_enter_game() AccountName = testgamea
+20220518-150010<DEBUG:00001A50>: nSocket = 8868, nSendFlag = 0, Error = 10054
+20220518-150010<DEBUG:00001A50>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20220518-150010<DEBUG:00001A50>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20220518-150010<INFO :00001A50>: [GameServer 1]  === End ===
+20220518-150010<DEBUG:00001A50>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-150010<DEBUG:00001A50>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-150010<INFO :00001A50>: [GameServer 1] unlock No.0 accounts in game server : [testgamea] ... ... [OK]
+20220518-150022<INFO :00000ED4>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 59963) SocketStream = 01E20D20
+20220518-150022<INFO :000016D0>: [GameServer 2]  === Start ===
+20220518-150022<INFO :000016D0>: [GameServer 2] Connected from 26.99.77.244, internet address = 26.99.77.244, open port = 6041, protocol version (79-->79)
+20220518-150041<DEBUG:000016D0>: [GameServer 2] GameServerConnectedInit() nResult = 1
+20220518-150041<DEBUG:00001388>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1025; Key = 3
+20220518-150103<DEBUG:00001564>: [Player 195] ThreadFunction() Accept from (26.99.78.68 : 1137) SocketStream = 01E20C00
+20220518-150109<DEBUG:00001564>: [Player 195] Account testgamea login bishop ... ... [OK]
+20220518-150109<DEBUG:00001564>: [InterlockedAccountStateTable] testgamea, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20220518-150109<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 21; Key = 10
+20220518-150109<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 10
+20220518-150109<DEBUG:00001564>: [Player 195] ProcessRoleList() RoleCount = 1!
+20220518-150109<DEBUG:00001564>: [Player 195] ReadPlayerRequest() Protocol = 37, Size = 5!
+20220518-150109<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 20; Key = 11
+20220518-150110<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 11
+20220518-150111<DEBUG:00001564>: [Player 195] QueryRoleListInZone() Role Count In Zone = 1!
+20220518-150112<DEBUG:00001564>: [Player 195] ReadPlayerRequest() Protocol = 35, Size = 33!
+20220518-150112<DEBUG:00001564>: [Player 195] EnterGame_QueryRoleData() RoleName = MaNhẫn05
+20220518-150112<DEBUG:0000181C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 21; Key = 12
+20220518-150112<DEBUG:0000181C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 4493; Key = 12
+20220518-150113<DEBUG:00001564>: [InterlockedAccountStateTable] testgamea, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20220518-150113<DEBUG:00001564>: [Player 195] Request enter game: ask for permission, account = testgamea, role name = MaNhẫn05 ... ... [OK]
+20220518-150113<DEBUG:000016D0>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 4625; Key = 1
+20220518-150113<DEBUG:000016D0>: [GameServer 2] g2b_player_login_permission() , Account = testgamea, Role = MaNhẫn05, Permit = true
+20220518-150115<DEBUG:00001564>: [Player 195] Notify player login game: ip = 26.99.77.244, port = 6041, account = testgamea, role = MaNhẫn05
+20220518-150115<DEBUG:000016D0>: [GameServer 2] g2b_player_enter_game() AccountName = testgamea
+20220518-153540<DEBUG:000016D0>: [GameServer 2] g2b_player_leave_game() , Account testgamea 
+20220518-153540<DEBUG:000016D0>: [GameServer 2] _LeaveGame_Normal() AccountName = testgamea
+20220518-153540<DEBUG:000016D0>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20220518-153540<DEBUG:000016D0>: [GameServer 2] Unregister account testgamea in game server ... ... [OK]
+20220518-153540<DEBUG:000016D0>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20220518-153540<DEBUG:000016D0>: [InterlockedAccountStateTable] testgamea, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20220518-160909<DEBUG:000016D0>: nSocket = 9812, nSendFlag = 0, Error = 10054
+20220518-160909<DEBUG:000016D0>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20220518-160909<DEBUG:000016D0>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20220518-160909<INFO :000016D0>: [GameServer 2]  === End ===
+20220518-160909<DEBUG:00001388>: nSocket = 8840, nSendFlag = 0, Error = 10054
+20220518-160909<DEBUG:00001388>: KGLOG_PROCESS_ERROR(nRetCode) at line 305 in KG_BishopRelay::ReceivePackagesFromRelay
+20220518-160909<INFO :00001388>: [Relay] === End ===

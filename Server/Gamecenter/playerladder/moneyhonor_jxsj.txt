@@ -1,0 +1,2 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2012-09-26 06:42:38
+1	jxsj	kelvinzjne	dsdsdsd	 Thiếu Lâm	 Thiếu Lâm	150	Nam	Không gia tộc	Không bang hội	330358
