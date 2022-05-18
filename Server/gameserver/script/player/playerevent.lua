@@ -181,10 +181,12 @@ local tbItemInfo = {bForceBind = 1};
 	me.AddItem(1,13,156,10);  --mat na
 	me.AddStackItem(18,1,25502,1,tbItemInfo,1);   --tui qua trang bi
 	me.AddItem(18,1,16,1); --tu luyen chau
-	me.AddStackItem(18,2,385,1,tbItemInfo,2); --luyen hoa vk
+	me.AddStackItem(18,2,385,1,tbItemInfo,1); --luyen hoa vk
 	me.AddItem(19,3,1,7);  --thuc an
-    me.AddStackItem(18,1,547,1,tbItemInfo,3);    -- dong hanh 3 skill
-	me.AddStackItem(18,1,1,8,tbItemInfo,15);
+    me.AddStackItem(18,1,547,1,tbItemInfo,2);    -- dong hanh 3 skill
+	-- me.AddStackItem(18,1,1,8,tbItemInfo,3);	--huyen tinh 8
+	me.AddStackItem(18,1,553,1,tbItemInfo,10000);	--tien du long
+	me.AddStackItem(18,1,377,1,tbItemInfo,200);	--hoa thi bich
 	for i = 1, 9 do
 		me.AddFightSkill(i, 1);
 	end
