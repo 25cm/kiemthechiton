@@ -20,7 +20,8 @@ else {
   <tbody>
     <tr valign="top">
       <td width="85%" valign="top"><div class="CardFormCont">
-          <form method="POST" id="payCardNL" name="formPayCardNL" action="https://www.nganluong.vn/mobile_card.api.post.v2.php">
+          <!--<form method="POST" id="payCardNL" name="formPayCardNL" action="https://www.nganluong.vn/mobile_card.api.post.v2.php">-->
+		  <form method="POST" id="payCardNL" name="formPayCardNL" action="./mobile_card.api.post.test.v2.php">
             <table width="100%" cellspacing="0" cellpadding="5" border="0">
               <tbody>
                 <tr>
