@@ -1,7 +1,7 @@
 
 local tbHoTro90 = Item:GetClass("tuiquahotrotanthu9x")
 function tbHoTro90:OnUse()
-if me.nLevel < 110 then
+if me.nLevel < 120 then
 	local szMsg = "Mở ra bạn sẽ nhận được <color=yellow>Set đồ 10X +16 và Vũ Khí 10X +16 theo hệ phái<color>";
 	local tbOpt = {
 		{"<color=orange>Nhận<color>",self.NhanHoTro9x, self},
@@ -9,15 +9,15 @@ if me.nLevel < 110 then
 
 	Dialog:Say(szMsg, tbOpt);
 end
-if me.nLevel >= 110 then
+if me.nLevel >= 120 then
  local tbItemId	= {18,1,25502,1,0,0};
 	Task:DelItem(me, tbItemId, 1);
  end
  end
 
 function tbHoTro90:NhanHoTro9x()
-if me.CountFreeBagCell() < 15 then
-		Dialog:Say("Phải Có 15 Ô Trống Trong Túi Hành Trang!");
+if me.CountFreeBagCell() < 20 then
+		Dialog:Say("Phải Có 20 Ô Trống Trong Túi Hành Trang!");
 		return 0;
 	end
 local tbItemId2 = {18,1,25502,1,0,0} -- Mảnh Ghép Huyền Vũ Ấn
@@ -30,1151 +30,191 @@ Dialog:Say("Chưa chọn hệ phái")
 return
 end
 	local tbInfo	= GetPlayerInfoForLadderGC(me.szName);
-	if tbInfo.nSex == 0 and (me.nFaction == 2) and (me.nRouteId == 1) then -- Thiên Vương Thương Nam
-		me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,810,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,812,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,410,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,312,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,412,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,316,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,210,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,410,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,267,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,751,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,761,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-			end
-	if tbInfo.nSex == 1 and (me.nFaction == 2) and (me.nRouteId == 1) then -- Thiên Vương Thương Nữ
-	me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,820,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,822,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,420,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,322,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,422,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,316,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,210,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,420,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,267,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,751,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,761,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
+	
+	--Add level 120
+	me.AddLevel(120-me.nLevel);
+	
+	--Check môn phái theo nFaction
+	--3: Đường Môn
+	--4: Ngũ Độc
+	--12: Đoàn Thị
+	--5: Nga My
+	--6: Thúy Yên
+	--7: Cái Bang
+	--8: Thiên Nhẫn
+	--9: Võ Đang
+	--10: Côn Lôn
+	--(nếu check theo hệ phái thì thêm me.nRouteId)
+	--Kim
+	if (me.nFaction == 2 or me.nFaction == 1) then
+		--Vũ Khí
+		me.AddItem(2,1,1215,10,1,16).Bind(1); --Thương
+		me.AddItem(2,1,1216,10,1,16).Bind(1); --Chùy
+		me.AddItem(2,1,1219,10,1,16).Bind(1); --Đao
+		me.AddItem(2,1,1221,10,1,16).Bind(1); --Thương (TĐXC)
+		
+		--TB
+		if tbInfo.nSex == 0 then --Nam
+			me.AddGreenEquip(8,477,10,4,16).Bind(1); --Lưng bạch ngân nam hệ Kim
+			me.AddGreenEquip(10,481,10,5,16).Bind(1); --Tay bạch ngân nam hệ Kim
+			me.AddGreenEquip(4,444,10,3,16).Bind(1); --Nhẫn bạch ngân nam hệ Kim
+			me.AddGreenEquip(9,477,10,4,16).Bind(1); --Nón bạch ngân nam hệ Kim
+			me.AddGreenEquip(3,223,10,5,16).Bind(1); --Áo bạch ngân nam hệ Kim
+			me.AddGreenEquip(5,447,10,4,16).Bind(1); --Liên bạch ngân nam hệ Kim
+			me.AddGreenEquip(11,71,10,5,16).Bind(1); --Bội bạch ngân nam hệ Kim
+			me.AddGreenEquip(6,94,10,3,16).Bind(1); --Phù bạch ngân nam hệ Kim
+			me.AddGreenEquip(7,31,10,1,16).Bind(1); --Giày bạch ngân nam hệ Kim
+			me.AddItem(1,17,1,10).Bind(1);--ff10 nam
+		else -- Nữ
+			me.AddGreenEquip(8,478,10,4,16).Bind(1); --Lưng bạch ngân nữ hệ Kim
+			me.AddGreenEquip(10,482,10,5,16).Bind(1); --Tay bạch ngân nữ hệ Kim
+			me.AddGreenEquip(4,444,10,3,16).Bind(1); --Nhẫn bạch ngân nữ hệ Kim
+			me.AddGreenEquip(9,478,10,4,16).Bind(1); --Nón bạch ngân nữ hệ Kim
+			me.AddGreenEquip(3,228,10,5,16).Bind(1); --Áo bạch ngân nữ hệ Kim
+			me.AddGreenEquip(5,447,10,4,16).Bind(1); --Liên bạch ngân nữ hệ Kim
+			me.AddGreenEquip(11,72,10,5,16).Bind(1); --Bội bạch ngân nữ hệ Kim
+			me.AddGreenEquip(6,94,10,3,16).Bind(1); --Phù bạch ngân nữ hệ Kim
+			me.AddGreenEquip(7,32,10,1,16).Bind(1); --Giày bạch ngân nữ hệ Kim
+			me.AddItem(1,17,2,10).Bind(1);--ff10 nữ
 		end
-			if tbInfo.nSex == 0 and (me.nFaction == 2) and (me.nRouteId == 2) then -- Thiên Vương Chùy Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,810,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,812,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,410,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,312,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,412,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,316,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,210,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,410,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,267,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,761,10,1,16);
-		item10.Bind(1);
-		local item10 = me.AddItem(2,1,751,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
+	end
+	
+	--Mộc
+	if (me.nFaction == 3 or me.nFaction == 4 or me.nFaction == 11) then
+		--Vũ Khí
+		me.AddItem(2,1,1226,10,1,16).Bind(1); --Chùy ngoại
+		me.AddItem(2,1,1229,10,1,16).Bind(1); --Đao ngoại
+		me.AddItem(2,1,1233,10,1,16).Bind(1); --Kiếm nội
+		me.AddItem(2,1,1234,10,1,16).Bind(1); --Triền Thủ nội
+		me.AddItem(2,2,126,10,1,16).Bind(1); --Phi đao
+		me.AddItem(2,2,131,10,1,16).Bind(1); --Tụ tiễn
+		
+		--TB
+		if tbInfo.nSex == 0 then --Nam
+			me.AddGreenEquip(8,481,10,4,16).Bind(1); --Lưng bạch ngân nam hệ Mộc
+			me.AddGreenEquip(10,485,10,5,16).Bind(1); --Tay bạch ngân nam hệ Mộc
+			me.AddGreenEquip(4,446,10,3,16).Bind(1); --Nhẫn bạch ngân nam hệ Mộc
+			me.AddGreenEquip(9,479,10,4,16).Bind(1); --Nón bạch ngân nam hệ Mộc
+			me.AddGreenEquip(3,224,10,5,16).Bind(1); --Áo bạch ngân nam hệ Mộc
+			me.AddGreenEquip(5,449,10,4,16).Bind(1); --Liên bạch ngân nam hệ Mộc
+			me.AddGreenEquip(11,73,10,5,16).Bind(1); --Bội bạch ngân nam hệ Mộc
+			me.AddGreenEquip(6,99,10,3,16).Bind(1); --Phù bạch ngân nam hệ Mộc
+			me.AddGreenEquip(7,33,10,1,16).Bind(1); --Giày bạch ngân nam hệ Mộc
+			me.AddItem(1,17,3,10).Bind(1);
+		else -- Nữ
+			me.AddGreenEquip(8,482,10,4,16).Bind(1); --Lưng bạch ngân nữ hệ Mộc
+			me.AddGreenEquip(10,486,10,5,16).Bind(1); --Tay bạch ngân nữ hệ Mộc
+			me.AddGreenEquip(4,446,10,3,16).Bind(1); --Nhẫn bạch ngân nữ hệ Mộc
+			me.AddGreenEquip(9,480,10,4,16).Bind(1); --Nón bạch ngân nữ hệ Mộc
+			me.AddGreenEquip(3,229,10,5,16).Bind(1); --Áo bạch ngân nữ hệ Mộc
+			me.AddGreenEquip(5,449,10,4,16).Bind(1); --Liên bạch ngân nữ hệ Mộc
+			me.AddGreenEquip(11,74,10,5,16).Bind(1); --Bội bạch ngân nữ hệ Mộc
+			me.AddGreenEquip(6,99,10,3,16).Bind(1); --Phù bạch ngân nữ hệ Mộc
+			me.AddGreenEquip(7,34,10,1,16).Bind(1); --Giày bạch ngân nữ hệ Mộc
+			me.AddItem(1,17,4,10).Bind(1);
 		end
-			if tbInfo.nSex == 1 and (me.nFaction == 2) and (me.nRouteId == 2) then -- Thiên Vương Chùy Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,820,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,822,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,420,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,322,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,422,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,316,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,210,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,420,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,267,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,761,10,1,16);
-		item20.Bind(1);
-		local item10 = me.AddItem(2,1,751,10,1,16);
-		item10.Bind(1);		
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
+	end
+	
+	--Thủy
+	if (me.nFaction == 12 or me.nFaction == 5 or me.nFaction == 6) then
+		--Vũ Khí
+		me.AddItem(2,1,1237,10,1,16).Bind(1); --Triền thủ ngoại
+		me.AddItem(2,1,1239,10,1,16).Bind(1); --Đao ngoại
+		me.AddItem(2,1,1243,10,1,16).Bind(1); --Kiếm nội
+		
+		--TB
+		if tbInfo.nSex == 0 then --Nam
+			me.AddGreenEquip(8,485,10,4,16).Bind(1); --Lưng bạch ngân nam hệ Thủy
+			me.AddGreenEquip(10,489,10,5,16).Bind(1); --Tay bạch ngân nam hệ Thủy
+			me.AddGreenEquip(4,448,10,3,16).Bind(1); --Nhẫn bạch ngân nam hệ Thủy
+			me.AddGreenEquip(9,481,10,4,16).Bind(1); --Nón bạch ngân nam hệ Thủy
+			me.AddGreenEquip(3,225,10,5,16).Bind(1); --Áo bạch ngân nam hệ Thủy
+			me.AddGreenEquip(5,451,10,4,16).Bind(1); --Liên bạch ngân nam hệ Thủy
+			me.AddGreenEquip(11,75,10,5,16).Bind(1); --Bội bạch ngân nam hệ Thủy
+			me.AddGreenEquip(6,104,10,3,16).Bind(1); --Phù bạch ngân nam hệ Thủy
+			me.AddGreenEquip(7,35,10,1,16).Bind(1); --Giày bạch ngân nam hệ Thủy
+			me.AddItem(1,17,5,10).Bind(1);
+		else -- Nữ
+			me.AddGreenEquip(8,486,10,4,16).Bind(1); --Lưng bạch ngân nữ hệ Thủy
+			me.AddGreenEquip(10,490,10,5,16).Bind(1); --Tay bạch ngân nữ hệ Thủy
+			me.AddGreenEquip(4,448,10,3,16).Bind(1); --Nhẫn bạch ngân nữ hệ Thủy
+			me.AddGreenEquip(9,482,10,4,16).Bind(1); --Nón bạch ngân nữ hệ Thủy
+			me.AddGreenEquip(3,230,10,5,16).Bind(1); --Áo bạch ngân nữ hệ Thủy
+			me.AddGreenEquip(5,451,10,4,16).Bind(1); --Liên bạch ngân nữ hệ Thủy
+			me.AddGreenEquip(11,76,10,5,16).Bind(1); --Bội bạch ngân nữ hệ Thủy
+			me.AddGreenEquip(6,104,10,3,16).Bind(1); --Phù bạch ngân nữ hệ Thủy
+			me.AddGreenEquip(7,36,10,1,16).Bind(1); --Giày bạch ngân nữ hệ Thủy
+			me.AddItem(1,17,6,10).Bind(1);
 		end
-		-------------
-					if tbInfo.nSex == 0 and (me.nFaction == 1) and (me.nRouteId == 1) then -- Thiếu Lâm Đao
-					me.AddLevel(110-me.nLevel);
-			local item1 = me.AddItem(2,9,830,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,832,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,410,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,312,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,412,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,316,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,210,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,410,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,267,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,731,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,741,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
+	end
+	
+	--Hỏa
+	if (me.nFaction == 7 or me.nFaction == 8) then
+		--Vũ Khí
+		me.AddItem(2,1,1248,10,1,16).Bind(1); --Côn ngoại
+		me.AddItem(2,1,1251,10,1,16).Bind(1); --Thương ngoại (TĐXC)
+		me.AddItem(2,1,1252,10,1,16).Bind(1); --Đao nội
+		me.AddItem(2,1,1254,10,1,16).Bind(1); --Triền thủ nội
+		
+		--TB
+		if tbInfo.nSex == 0 then --Nam
+			me.AddGreenEquip(8,489,10,4,16).Bind(1); --Lưng bạch ngân nam hệ Hỏa
+			me.AddGreenEquip(10,493,10,5,16).Bind(1); --Tay bạch ngân nam hệ Hỏa
+			me.AddGreenEquip(4,450,10,3,16).Bind(1); --Nhẫn bạch ngân nam hệ Hỏa
+			me.AddGreenEquip(9,483,10,4,16).Bind(1); --Nón bạch ngân nam hệ Hỏa
+			me.AddGreenEquip(3,226,10,5,16).Bind(1); --Áo bạch ngân nam hệ Hỏa
+			me.AddGreenEquip(5,453,10,4,16).Bind(1); --Liên bạch ngân nam hệ Hỏa
+			me.AddGreenEquip(11,77,10,5,16).Bind(1); --Bội bạch ngân nam hệ Hỏa
+			me.AddGreenEquip(6,109,10,3,16).Bind(1); --Phù bạch ngân nam hệ Hỏa
+			me.AddGreenEquip(7,37,10,1,16).Bind(1); --Giày bạch ngân nam hệ Hỏa
+			me.AddItem(1,17,7,10).Bind(1);
+		else -- Nữ
+			me.AddGreenEquip(8,490,10,4,16).Bind(1); --Lưng bạch ngân nữ hệ Hỏa
+			me.AddGreenEquip(10,494,10,5,16).Bind(1); --Tay bạch ngân nữ hệ Hỏa
+			me.AddGreenEquip(4,450,10,3,16).Bind(1); --Nhẫn bạch ngân nữ hệ Hỏa
+			me.AddGreenEquip(9,484,10,4,16).Bind(1); --Nón bạch ngân nữ hệ Hỏa
+			me.AddGreenEquip(3,231,10,5,16).Bind(1); --Áo bạch ngân nữ hệ Hỏa
+			me.AddGreenEquip(5,453,10,4,16).Bind(1); --Liên bạch ngân nữ hệ Hỏa
+			me.AddGreenEquip(11,78,10,5,16).Bind(1); --Bội bạch ngân nữ hệ Hỏa
+			me.AddGreenEquip(6,109,10,3,16).Bind(1); --Phù bạch ngân nữ hệ Hỏa
+			me.AddGreenEquip(7,38,10,1,16).Bind(1); --Giày bạch ngân nữ hệ Hỏa
+			me.AddItem(1,17,8,10).Bind(1);
 		end
-		if tbInfo.nSex == 0 and (me.nFaction == 1) and (me.nRouteId == 2) then -- Thiếu Lâm Bổng
-		me.AddLevel(110-me.nLevel);
-				local item1 = me.AddItem(2,9,810,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,812,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,410,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,312,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,412,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,316,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,210,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,410,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,267,10,1,16);
-		item9.Bind(1)
-		local item10 = me.AddItem(2,1,741,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,731,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
+	end
+	
+	--Thổ
+	if (me.nFaction == 9 or me.nFaction == 10) then
+		--Vũ Khí
+		me.AddItem(2,1,1259,10,1,16).Bind(1); --Đao ngoại
+		me.AddItem(2,1,1260,10,1,16).Bind(1); --Kiếm nội
+		
+		--TB
+		if tbInfo.nSex == 0 then --Nam
+			me.AddGreenEquip(8,493,10,4,16).Bind(1); --Lưng bạch ngân nam hệ Thổ
+			me.AddGreenEquip(10,497,10,5,16).Bind(1); --Tay bạch ngân nam hệ Thổ
+			me.AddGreenEquip(4,452,10,3,16).Bind(1); --Nhẫn bạch ngân nam hệ Thổ
+			me.AddGreenEquip(9,485,10,4,16).Bind(1); --Nón bạch ngân nam hệ Thổ
+			me.AddGreenEquip(3,227,10,5,16).Bind(1); --Áo bạch ngân nam hệ Thổ
+			me.AddGreenEquip(5,455,10,4,16).Bind(1); --Liên bạch ngân nam hệ Thổ
+			me.AddGreenEquip(11,79,10,5,16).Bind(1); --Bội bạch ngân nam hệ Thổ
+			me.AddGreenEquip(6,114,10,3,16).Bind(1); --Phù bạch ngân nam hệ Thổ
+			me.AddGreenEquip(7,39,10,1,16).Bind(1); --Giày bạch ngân nam hệ Thổ
+			me.AddItem(1,17,9,10).Bind(1);
+		else -- Nữ
+			me.AddGreenEquip(8,494,10,4,16).Bind(1); --Lưng bạch ngân nữ hệ Thổ
+			me.AddGreenEquip(10,498,10,5,16).Bind(1); --Tay bạch ngân nữ hệ Thổ
+			me.AddGreenEquip(4,452,10,3,16).Bind(1); --Nhẫn bạch ngân nữ hệ Thổ
+			me.AddGreenEquip(9,486,10,4,16).Bind(1); --Nón bạch ngân nữ hệ Thổ
+			me.AddGreenEquip(3,232,10,5,16).Bind(1); --Áo bạch ngân nữ hệ Thổ
+			me.AddGreenEquip(5,455,10,4,16).Bind(1); --Liên bạch ngân nữ hệ Thổ
+			me.AddGreenEquip(11,80,10,5,16).Bind(1); --Bội bạch ngân nữ hệ Thổ
+			me.AddGreenEquip(6,114,10,3,16).Bind(1); --Phù bạch ngân nữ hệ Thổ
+			me.AddGreenEquip(7,40,10,1,16).Bind(1); --Giày bạch ngân nữ hệ Thổ
+			me.AddItem(1,17,10,10).Bind(1);
 		end
-		---------------
-			if tbInfo.nSex == 0 and (me.nFaction == 3) and (me.nRouteId == 2) then -- ĐMTT Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,850,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,852,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,430,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,332,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,432,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,322,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,220,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,430,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,268,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,2,100,10,1,16);
-		item10.Bind(1);
-				local item20 =  me.AddItem(2,2,90,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 3) and (me.nRouteId == 2)then -- ĐMTT Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,860,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,862,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,440,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,342,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,442,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,322,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,220,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,440,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,268,10,1,16);
-		item19.Bind(1);
-		local item20 =  me.AddItem(2,2,100,10,1,16);
-		item20.Bind(1);
-				local item20 =  me.AddItem(2,2,90,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 3) and (me.nRouteId == 1) then -- ĐMHT Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,850,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,852,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,430,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,332,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,432,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,322,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,220,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,430,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,268,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,2,90,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,2,100,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 3) and (me.nRouteId == 1) then -- ĐMHT Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,860,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,862,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,440,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,342,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,442,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,322,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,220,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,440,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,268,10,1,16);
-		item19.Bind(1);
-		local item20 =  me.AddItem(2,2,90,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,2,100,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 4) and (me.nRouteId == 1) then -- 5 Độc Đao Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,850,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,852,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,430,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,332,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,432,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,322,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,220,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,430,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,268,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,771,10,1,16);
-		item10.Bind(1);
-				local item20 = me.AddItem(2,1,781,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1  and (me.nFaction == 4) and (me.nRouteId == 1) then -- 5 Độc Đao Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,860,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,862,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,440,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,342,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,442,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,322,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,220,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,440,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,268,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,771,10,1,16);
-		item20.Bind(1);
-				local item20 = me.AddItem(2,1,781,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 4) and (me.nRouteId == 2) then -- 5 Độc Chưởng Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,870,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,872,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,430,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,332,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,432,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,322,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,220,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,430,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,268,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,781,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,771,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 4) and (me.nRouteId == 2) then -- 5 Độc Chưởng Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,880,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,882,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,440,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,342,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,442,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,322,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,220,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,440,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,268,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,781,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,771,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-        end
-			if tbInfo.nSex == 0 and (me.nFaction == 11) and (me.nRouteId == 2) then -- MGK Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,850,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,852,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,430,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,332,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,432,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,322,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,220,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,430,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,268,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,1001,10,1,16);
-		item10.Bind(1);
-				local item20 = me.AddItem(2,1,991,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 11) and (me.nRouteId == 2) then -- MGK Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,860,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,862,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,440,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,342,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,442,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,322,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,220,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,440,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,268,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,1001,10,1,16);
-		item20.Bind(1);
-				local item20 = me.AddItem(2,1,991,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 11) and (me.nRouteId == 1) then -- Minh Giáo Chùy Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,850,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,852,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,430,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,332,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,432,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,322,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,220,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,430,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,268,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,991,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,1001,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 11) and (me.nRouteId == 1) then -- MGC Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,860,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,862,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,440,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,342,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,442,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,322,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,220,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,440,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,268,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,991,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,1001,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 12) and (me.nRouteId == 2) then -- ĐTK Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,910,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,912,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,450,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,352,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,452,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,328,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,230,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,450,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,269,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,821,10,1,16);
-		item10.Bind(1);
-				local item20 = me.AddItem(2,1,801,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 12) and (me.nRouteId == 2) then -- ĐTK nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,920,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,922,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,460,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,362,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,462,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,328,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,230,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,460,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,269,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,821,10,1,16);
-		item20.Bind(1);
-				local item20 = me.AddItem(2,1,801,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 12) and (me.nRouteId == 1) then -- ĐTC Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,890,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,892,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,450,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,352,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,452,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,328,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,230,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,450,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,269,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,801,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,821,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 12) and (me.nRouteId == 1) then -- ĐTC Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,900,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,902,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,460,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,362,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,462,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,328,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,230,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,460,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,269,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,801,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,821,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-		if (me.nFaction == 5) and (me.nRouteId == 1) then -- Nga Mi Chưởng
-		me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,920,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,922,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,460,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,362,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,462,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,328,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,230,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,460,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,269,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,811,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,821,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-		if (me.nFaction == 5) and (me.nRouteId == 2) then -- Nga Mi Kiếm
-		me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,920,10,1,16);
-		item11.Bind(1)
-		local item12 = me.AddItem(2,3,922,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,460,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,362,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,462,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,328,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,230,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,460,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,269,10,1,16);
-		item19.Bind(1);
-		local item10 = me.AddItem(2,1,821,10,1,16);
-		item10.Bind(1);
-				local item20 = me.AddItem(2,1,811,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 6) and (me.nRouteId == 2) then -- TYD Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,910,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,912,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,450,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,352,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,452,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,328,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,230,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,450,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,269,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,791,10,1,16);
-		item10.Bind(1);
-				local item20 = me.AddItem(2,1,821,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 6) and (me.nRouteId == 2) then -- TYD Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,920,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,922,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,460,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,362,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,462,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,328,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,230,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,460,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,269,10,1,16);
-		item19.Bind(1);
-		local item20 =  me.AddItem(2,1,791,10,1,16);
-		item20.Bind(1);
-				local item20 = me.AddItem(2,1,821,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 6) and (me.nRouteId == 1) then --TYK Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,910,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,912,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,450,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,352,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,452,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,328,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,230,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,450,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,269,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,821,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,791,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 6) and (me.nRouteId == 1) then --TYK Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,920,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,922,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,460,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,362,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,462,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,328,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,230,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,460,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,269,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,821,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,791,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 7) and (me.nRouteId == 1) then -- Cái Bang Rồng Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,950,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,952,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,470,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,372,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,472,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,334,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,240,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,470,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,270,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,851,10,1,16);
-		item10.Bind(1);
-				local item20 = me.AddItem(2,1,831,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 7) and (me.nRouteId == 1) then -- Cái Bang Rồng Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,960,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,962,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,480,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,382,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,482,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,334,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,240,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,480,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,270,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,851,10,1,16);
-		item20.Bind(1);
-				local item20 = me.AddItem(2,1,831,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 7) and (me.nRouteId == 2) then -- Cái Bang Bổng Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,950,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,952,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,470,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,372,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,472,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,334,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,240,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,470,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,270,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,831,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,851,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 7) and (me.nRouteId == 2) then -- Cái Bang Bổng Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,960,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,962,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,480,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,382,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,482,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,334,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,240,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,480,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,270,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,831,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,851,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and  (me.nFaction == 8) and (me.nRouteId == 2) then -- Ma Nhẫn Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,950,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,952,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,470,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,372,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,472,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,334,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,240,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,470,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,270,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,861,10,1,16);
-		item10.Bind(1);
-				local item20 = me.AddItem(2,1,841,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 8) and (me.nRouteId == 2) then -- Ma Nhẫn Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,960,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,962,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,480,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,382,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,482,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,334,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,240,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,480,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,270,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,861,10,1,16);
-		item20.Bind(1);
-				local item20 = me.AddItem(2,1,841,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 8) and (me.nRouteId == 1) then -- Thiên Nhẫn Thương Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,930,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,932,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,470,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,372,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,472,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,334,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,240,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,470,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,270,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,841,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,861,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 8) and (me.nRouteId == 1) then -- THiên Nhẫn Kích Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,940,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,942,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,480,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,382,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,482,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,334,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,240,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,480,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,270,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,841,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,861,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 9) and (me.nRouteId == 1) then -- Võ Đang Khí Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,990,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,992,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,490,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,392,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,492,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,340,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,250,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,490,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,271,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,891,10,1,16);
-		item10.Bind(1);
-				local item20 = me.AddItem(2,1,881,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 9) and (me.nRouteId == 1) then -- Võ Đang Khí Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,1000,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,1002,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,500,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,402,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,502,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,340,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,250,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,500,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,271,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,891,10,1,16);
-		item20.Bind(1);
-				local item20 = me.AddItem(2,1,881,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0  and  (me.nFaction == 9) and (me.nRouteId == 2) then -- Võ đang kiếm nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,970,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,972,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,490,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,392,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,492,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,340,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,250,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,490,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,271,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,881,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,891,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 9) and (me.nRouteId == 2) then
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,980,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,982,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,500,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,402,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,502,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,340,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,250,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,500,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,271,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,881,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,891,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 10) and (me.nRouteId == 2) then -- CLK Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,990,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,992,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,490,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,392,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,492,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,340,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,250,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,490,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,271,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,901,10,1,16);
-		item10.Bind(1);
-				local item20 = me.AddItem(2,1,871,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 10) and (me.nRouteId == 2) then -- CLK Nũ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,1000,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,1002,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,500,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,402,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,502,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,340,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,250,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,500,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,271,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,901,10,1,16);
-		item20.Bind(1);
-				local item20 = me.AddItem(2,1,871,10,1,16);
-		item20.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 0 and (me.nFaction == 10) and (me.nRouteId == 1) then -- CLĐ Nam
-			me.AddLevel(110-me.nLevel);
-		local item1 = me.AddItem(2,9,990,10,1,16);
-		item1.Bind(1);
-		local item2 = me.AddItem(2,3,992,10,1,16);
-		item2.Bind(1);
-		local item3 = me.AddItem(2,8,490,10,1,16);
-		item3.Bind(1);
-		local item4 = me.AddItem(2,10,392,10,1,16);
-		item4.Bind(1);
-		local item5 = me.AddItem(2,7,492,10,1,16);
-		item5.Bind(1);
-		local item6 = me.AddItem(2,5,340,10,1,16);
-		item6.Bind(1);
-		local item7 = me.AddItem(2,4,250,10,1,16);
-		item7.Bind(1);
-		local item8 = me.AddItem(2,11,490,10,1,16);
-		item8.Bind(1);
-		local item9 = me.AddItem(2,6,271,10,1,16);
-		item9.Bind(1);
-		local item10 = me.AddItem(2,1,871,10,1,16);
-		item10.Bind(1);
-				local item10 = me.AddItem(2,1,901,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-			if tbInfo.nSex == 1 and (me.nFaction == 10) and (me.nRouteId == 1) then -- CLĐ Nữ
-			me.AddLevel(110-me.nLevel);
-		local item11 = me.AddItem(2,9,1000,10,1,16);
-		item11.Bind(1);
-		local item12 = me.AddItem(2,3,1002,10,1,16);
-		item12.Bind(1);
-		local item13 = me.AddItem(2,8,500,10,1,16);
-		item13.Bind(1);
-		local item14 = me.AddItem(2,10,402,10,1,16);
-		item14.Bind(1);
-		local item15 = me.AddItem(2,7,502,10,1,16);
-		item15.Bind(1);
-		local item16 = me.AddItem(2,5,340,10,1,16);
-		item16.Bind(1);
-		local item17 = me.AddItem(2,4,250,10,1,16);
-		item17.Bind(1);
-		local item18 = me.AddItem(2,11,500,10,1,16);
-		item18.Bind(1);
-		local item19 = me.AddItem(2,6,271,10,1,16);
-		item19.Bind(1);
-		local item20 = me.AddItem(2,1,871,10,1,16);
-		item20.Bind(1);
-				local item10 = me.AddItem(2,1,901,10,1,16);
-		item10.Bind(1);
-KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
-		end
-Task:DelItem(me, tbItemId2, 1); -- Xóa Túi Hỗ Trợ Tân Thủ	
+	end
+	
+	--Thông báo nhận thưởng thành công
+	KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Chúc mừng người chơi <color=green>"..me.szName.."<color> nhận thưởng <color=red>Tân Thủ Mới<color> thành công");
+	Task:DelItem(me, tbItemId2, 1); -- Xóa Túi Hỗ Trợ Tân Thủ	
  end

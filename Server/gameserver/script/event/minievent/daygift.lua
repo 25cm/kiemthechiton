@@ -6,7 +6,7 @@ tbPhanThuong.TaskGourp = 3000; --task mới phải add vào gameserver\setting\p
 tbPhanThuong.TaskId_Day = 1; --task lưu ngày
 tbPhanThuong.TaskId_Count = 2; --task lưu lần nhận
 tbPhanThuong.TaskId_Last = 3; --task lưu thời gian nhận
-tbPhanThuong.Relay_Time = 20*60; --thời gian giữa 2 lần nhận mình để 30p 1 lần
+tbPhanThuong.Relay_Time = 5*60; --thời gian giữa 2 lần nhận mình để 30p 1 lần
 tbPhanThuong.Use_Max =3; --số lần nhận tối đa
 
 function tbPhanThuong:OnDialog()
@@ -18,7 +18,7 @@ function tbPhanThuong:OnDialog()
 	end 
 	local nCount = me.GetTask(self.TaskGourp, self.TaskId_Count);
 	local szMsg = "";
-	szMsg = string.format("Mỗi <color=yellow>30 phút online<color> hàng ngày có thể nhận thưởng, tối đa <color=yellow>%d<color> lần.\n\n",self.Use_Max);
+	szMsg = string.format("Mỗi <color=yellow>5 phút online<color> hàng ngày có thể nhận thưởng, tối đa <color=yellow>%d<color> lần.\n\n",self.Use_Max);
 	local szColor = "<color=Gray>"
 	local szColorx = "<color>"
 	szMsg = szMsg.."\n<color=green>Lần 1:<color> "..((nCount >= 1 and szColor) or "").."200 vạn bạc khóa+ 20 vạn đồng khóa<color>";
@@ -55,7 +55,7 @@ function tbPhanThuong:nhanthuong()
 		me.AddBindMoney(2000000);
 			me.AddBindCoin(200000); --phần thưởng thứ 1
 	elseif (nCount == 1) then
-		me.AddStackItem(18,1,553,1,nil,200); --phần thưởng thứ 2
+		me.AddStackItem(18,1,553,1,nil,2000); --phần thưởng thứ 2
 	elseif (nCount == 2) then
 		me.AddRepute(9,2,200); --phần thưởng thứ 3
 	end
