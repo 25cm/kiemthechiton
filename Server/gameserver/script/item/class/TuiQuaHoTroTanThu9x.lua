@@ -121,6 +121,7 @@ end
 		me.AddItem(2,1,1237,10,1,16).Bind(1); --Triền thủ ngoại
 		me.AddItem(2,1,1239,10,1,16).Bind(1); --Đao ngoại
 		me.AddItem(2,1,1243,10,1,16).Bind(1); --Kiếm nội
+		me.AddItem(2,1,1244,10,1,16).Bind(1); --Triền thủ nội
 		
 		--TB
 		if tbInfo.nSex == 0 then --Nam
