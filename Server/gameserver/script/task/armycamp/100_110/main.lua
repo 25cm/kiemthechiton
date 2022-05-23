@@ -429,10 +429,10 @@ end
 -- 当一个玩家申请进入
 function tbInstancing:OnPlayerAskEnter(nPlayerId)
 	local pPlayer = KPlayer.GetPlayerObjById(nPlayerId);
-	if (self.nPlayerCount >= self.tbSetting.nMaxPlayer) then
-		Dialog:SendInfoBoardMsg(pPlayer, "Số lượng người trong phó bản đã đầy, tạm thời không thể vào.");
-		return;
-	end
+	--if (self.nPlayerCount >= self.tbSetting.nMaxPlayer) then
+		--Dialog:SendInfoBoardMsg(pPlayer, "Số lượng người trong phó bản đã đầy, tạm thời không thể vào.");
+		--return;
+	--end
 	
 	pPlayer.NewWorld(self.nMapId, unpack(self.tbSetting.tbRevivePos));
 	pPlayer.SetFightState(0);
