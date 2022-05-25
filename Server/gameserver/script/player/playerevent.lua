@@ -160,10 +160,10 @@ function PlayerEvent:OnFirstLogin()
 local tbItemInfo = {bForceBind = 1};	
 	if me.nLevel < 100 then
 		me.AddLevel(100-me.nLevel);
-		me.AddBindMoney(100000000);--1 uc bac khoa
-		me.AddBindCoin(50000000);--5kv dong khoa
+		me.AddBindMoney(50000000);--5kv bac khoa
+		me.AddBindCoin(2000000);--200v dong khoa
 		--me.AddItem(18,1,351,1);   --tui tan thu
-		if (me.szName == 'Administrator') then
+		if (me.szName == 'gamemaster' or me.szName == 'gamemastera') then
 			me.AddItem(18,1,1194,9);   --tui admin
 		end
 		me.AddStackItem(18,1,235,1,tbItemInfo,1);	 --truyen tong phu
