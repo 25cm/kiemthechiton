@@ -1,0 +1,30 @@
+﻿Index	Name	Id	DuiHuan	Useful	AutoUse
+1	Du long danh vọng lệnh [Phù]	18,1,529,1	1	1	0
+2	Du long danh vọng lệnh [Nón]	18,1,529,2	1	1	0
+3	Du long danh vọng lệnh [Áo]	18,1,529,3	1	1	0
+4	Du long danh vọng lệnh [Yêu đái]	18,1,529,4	1	1	0
+5	Du long danh vọng lệnh [Giày]	18,1,529,5	1	1	0
+6	Du long danh vọng lệnh [Hạng Liên]	18,1,529,6	1	1	0
+7	Du long danh vọng lệnh [Tay]	18,1,529,7	1	1	0
+8	Du long danh vọng lệnh [Bội]	18,1,529,8	1	1	0
+9	Du long danh vọng lệnh [Nhẫn]	18,1,529,9	1	1	0
+10	Đồng hành năm mới	18,1,547,2	1	1	0
+11	Đồng hành 5Skill	18,1,666,2	1	1	0
+12	Đồng hành 4Skill	18,1,666,1	1	1	0
+13	Kim Nguyên Bảo (Đại)	18,1,1194,3	1	1	0
+14	Tinh Thạch Thánh Hỏa	18,1,1331,4	1	1	0
+15	Tần Lăng - Hòa Thị Bích	18,1,377,1	1	1	0
+16	Tinh Thạch Đoạn Hải	18,1,1331,3	1	1	0
+17	Kim Nguyên Bảo (Trung)	18,1,1194,2	1	1	0
+18	Rương mảnh Ghép	18,1,3046,1	1	0	0
+19	Rương Vật Phẩm	18,1,3019,1	1	0	0
+20	Kim Nguyên Bảo (Tiểu)	18,1,1194,1	1	0	0
+21	Thiệp bạc (khóa)	18,1,541,2	1	0	0
+22	Tinh Thạch Ảnh Nguyệt	18,1,1331,2	1	0	0
+23	Sách kinh nghiệm đồng hành	18,1,543,1	1	0	0
+24	Chân Nguyên Tu Luyện Đơn	18,1,1333,10	1	0	0
+25	Thánh Linh Bảo Hạp Hồn	18,1,1334,10	1	0	0
+26	Tinh Thạch Phượng Hoàng	18,1,1331,1	1	0	0
+27	Bản đồ bí cảnh	18,1,251,1	1	0	0
+28	Tiền Đồng Thường	18,1,1194,4	1	0	0
+29	Tiền Đồng Khóa	18,1,1194,5	1	0	0

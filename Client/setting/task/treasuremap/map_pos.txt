@@ -1,0 +1,10 @@
+MapName	MapId	PosIndex	Xpos	Ypos	Text
+Tên bản đồ	ID Bản Đồ	Hướng dẫn tọa độ	Tọa độ X thế giới	Tọa độ X thế giới	Ký tự miêu tả
+Nhạn Đãng Long Thu	36	1	1720	3966	Trước thác nước phía Nam
+Nhạn Đãng Long Thu	36	2	1749	4021	Suối nhỏ phía Nam
+Nhạn Đãng Long Thu	36	3	1700	3878	Trên cầu phía Nam
+Nhạn Đãng Long Thu	36	4	1747	3738	Cây cầu nhỏ trên thác nước Trung bộ
+Nhạn Đãng Long Thu	36	5	1818	3729	Cạnh hoa sen dưới thác nước Trung Bộ
+Nhạn Đãng Long Thu	36	6	1600	3425	Dưới sườn núi phía Tây
+Nhạn Đãng Long Thu	36	7	1906	3256	Trước Đình dưới thác nước phía Đông
+Nhạn Đãng Long Thu	36	8	2096	3444	Rừng cây phía Đông

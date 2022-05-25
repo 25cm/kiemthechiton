@@ -1,0 +1,15 @@
+Genre	Detail	Particular	Level	RandRate	Name	
+18	1	1334	1	300000	Thánh Linh B?o H?p H?n
+18	1	1333	1	300000	Chân Nguyên Tu Luy?n Ðon
+18	1	1192	1	110000	[M?nh Ghép]Ng?a C?c Ph?m
+18	1	20316	1	110000	M?nh Ghép an
+18	1	25117	1	110000	M?nh Ghép mat na
+18	1	2004	1	130000	M?nh Vu Khí Ð?ng Hành
+18	1	2005	1	130000	M?nh Y Ph?c Ð?ng Hành
+18	1	2006	1	130000	M?nh Nh?n Ð?ng Hành	
+18	1	2007	1	130000	M?nh H? Uy?n Ð?ng Hành
+18	1	2008	1	130000	M?nh B?i Ð?ng Hành
+18	1	3057	1	250000	Chân Khí Hoàn
+18	1	3051	1	150000	M?nh Già Lam Kinh		
+18	1	377	1	100000	T?n Lang-Hòa Th? Bích
+18	1	1194	2	200000	Tien dong 5v	

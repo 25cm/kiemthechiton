@@ -1,0 +1,15 @@
+
+{
+  ["tbPos"]	= {},
+  ["nYeMingZhu"]	= 0,
+  ["nHX1"]	= 1,
+  ["nRedDrugType"]	= 1,
+  ["nBlueNum"]	= 0,
+  ["nRedNum"]	= 0,
+  ["nFireWait"]	= 0,
+  ["nBuyCai"]	= 0,
+  ["nCaiNum"]	= 0,
+  ["nBlueDrugType"]	= 2,
+  ["nMapId"]	= 0,
+  ["nHX2"]	= 0,
+}

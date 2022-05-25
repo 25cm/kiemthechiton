@@ -1,0 +1,54 @@
+
+{
+  ["GameOption"]	= 
+  {
+    ["nAudioVolume"]	= 10,
+    ["nShowName"]	= 1,
+    ["nMusicVolume"]	= 10,
+    ["nTransferMsg"]	= 1,
+    ["nTeamPopMsg"]	= 0,
+    ["nControlModel"]	= 1,
+    ["nShowLife"]	= 1,
+  },
+  ["GameOptimize"]	= 
+  {
+    ["nBackupAlphaLevel"]	= 256,
+    ["tbParam"]	= 
+    {
+      [1]	= 0,
+      [2]	= 0,
+      [3]	= 0,
+      [4]	= 0,
+      [5]	= 0,
+      [6]	= 0,
+      [7]	= 0,
+      [8]	= 0,
+    },
+    ["nAutoDisp"]	= 0,
+    ["tbNpcParam"]	= 
+    {
+      [1]	= 0,
+      [2]	= 0,
+      [3]	= 0,
+    },
+    ["nDisplayAlphaLevel"]	= 256,
+  },
+  ["TradeHistory"]	= 
+  {
+    [1]	= 
+    {
+      ["szName"]	= "Administrator",
+      ["szCode"]	= "TORE181",
+    },
+  },
+  ["Calendar"]	= 
+  {
+    [1]	= 1,
+    [2]	= 1,
+    [3]	= 1,
+    [4]	= 1,
+    [5]	= 1,
+    [6]	= 1,
+  },
+  ["CalendarReMindAll"]	= {},
+}

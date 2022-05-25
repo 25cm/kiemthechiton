@@ -1,0 +1,35 @@
+
+{
+  ["AutoFight"]	= 
+  {
+    ["nPickValue"]	= 2,
+    ["tbLeftMed"]	= 
+    {
+      ["nLow"]	= 65553,
+      ["nHigh"]	= 393217,
+    },
+    ["nAutoRead"]	= 1,
+    ["nUnPickCommonItem"]	= 0,
+    ["nPKfanji"]	= 0,
+    ["nAutoOpenJiuXiang"]	= 0,
+    ["nAcceptTeam"]	= 1,
+    ["nJoin"]	= 1,
+    ["nPvpMode"]	= 0,
+    ["nAutoFDWX"]	= 0,
+    ["nAutoRepair"]	= 1,
+    ["nAutoRead_Move"]	= 0,
+    ["nSkill2"]	= 866,
+    ["nAutoEnhancePick"]	= 0,
+    ["nSkill"]	= 0,
+    ["nAutoXLZ"]	= 0,
+    ["nLifeRet"]	= 40,
+    ["nAutoDrink"]	= 1,
+    ["nSkill5"]	= 226,
+    ["nSkill1"]	= 865,
+    ["nSkill4"]	= 229,
+    ["nBuffRet"]	= 70,
+    ["nSkill6"]	= 0,
+    ["nSkill3"]	= 232,
+    ["nDead"]	= 0,
+  },
+}

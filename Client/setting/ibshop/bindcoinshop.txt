@@ -1,0 +1,25 @@
+ID vật phẩm	Miêu tả vật phẩm
+26	Cửu Chuyển Tục Mệnh Hoàn
+770	Hộp Quà Tết
+248	Ngọc Trúc Mai Hoa
+249	Ngọc Trúc Mai Hoa
+363	Dạ Minh Châu
+505	Đặc Hiệu Bạch Câu Hoàn
+508	Huyền Tinh Cấp 5
+509	Huyền Tinh Cấp 7
+510	Huyền Tinh Cấp 9
+1022	Huyền Tinh Cấp 11
+516	Thùng rượu (50 bình)
+518	Vô Hạn Truyền Tống Phù (1 tháng)
+521	Càn Khôn Phù (10)
+527	Lệnh Bài Hình Bộ
+528	Từ Bi Tâm Kinh
+533	Kim Tê (cấp 4)
+534	Lệnh bài Tẩy Tủy Đảo
+579	Rương Hồn Thạch (1000 cái)
+585	Rương Linh Chi Tục Mệnh Hoàn
+586	Rương Tuyết Sam Phản Khí Hoàn
+587	Rương Diêu Trì Đại Hoàn Đơn
+664	Ốc biển truyền thanh (đại)
+667	Vạn Vật Quy Nguyên Đơn
+683	Tu Luyện Đơn

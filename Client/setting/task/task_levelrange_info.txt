@@ -1,0 +1,12 @@
+level_range_min	level_range_max	level_range_desc
+1	9	Theo chỉ dẫn của thủ lĩnh Bạch Thu Lâm, thực hiện nhiệm vụ chính tuyến, học tập các kỹ năng cơ bản, tìm hiểu về thế giới hiệp khách
+10	19	Gia nhập môn phái mà mình tâm đắc và tiếp tục thực hiện nhiệm vụ chính tuyến. Về các Tân Thủ Thôn học các kỹ năng sống để chuẩn bị cho quá trình hành tẩu giang hồ lâu dài.
+20	29	Sơ nhập giang hồ, đến gặp Sư môn nhận mật tịch và Tu luyện châu. Xung quanh môn phái là nơi luyện tập tốt nhất. Nhất thiết phải hoàn thành các nhiệm vụ sư môn. Hoàn thành nhiệm vụ chính tuyến giai đoạn này sẽ nhận được ngựa.
+30	39	Hoàn thành nhiệm vụ chính tuyến và những nhiệm vụ của nghĩa quân, tham gia các hoạt động đố chữ, để chuẩn bị cho giai đoạn cấp 50, chính thức trở thành hiệp khách
+40	49	Hoàn thành nhiệm vụ chính tuyến và những nhiệm vụ của nghĩa quân, tham gia các hoạt động đố chữ, để chuẩn bị cho giai đoạn cấp 50, chính thức trở thành hiệp khách
+50	59	Tiếp tục điều tra tin tức Du Long Giác; tạo gia tộc cho riêng mình; tham gia Lôi đài môn phái; hoàn thành nhiệm vụ Truy nã của quan phủ và nhiệm vụ Thương Hội; vào Bạch Hổ Đường; Khiêu chiến võ lâm cao thủ; 
+60	69	Về Sư môn lãnh nhận Ngũ Hành Ấn; vào Tẩy Tủy đảo thí luyện; tham gia chiến trường Tống Kim; 
+70	79	Về Tân Thủ Thôn tìm Bạch Thu Lâm nhận nhiệm vụ mật tịch trung cấp, thông qua cường hóa trang bị để nâng cao năng lực.
+80	89	Tổ đội với hảo hữu để thám hiểm Tiêu Dao Cốc; hoàn thành nhiệm vụ chính tuyến; thông qua tham gia các hoạt động để tích lũy tài phú và thực lực cho bang hội của mình.
+90	99	Về gặp Bạch Thu Lâm nhận nhiệm vụ quân doanh, rèn luyện các kỹ năng chiến đấu
+100	150	Võ Lâm liên đấu, tỷ võ luận kiếm; tiếu ngạo giang hồ; kết giao bằng hữu, tranh bá thiên hạ

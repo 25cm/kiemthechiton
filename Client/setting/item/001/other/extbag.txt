@@ -1,0 +1,24 @@
+Name	Kind	Genre	DetailType	ParticularType	Level	Icon	View	ObjID	Intro	Help	Series	Price	Stack	ItemValue	MakeCost	BindType	Valuable	ReqLevel	ClassName	ForbidType	CanBeOffer	Shortcut	CDType	Pos
+Túi da thú	Túi da thú	21	1	1	1	\image\item\other\extbag\bag_002_s.spr		32	Túi 4 ô		0	500	1	500		2	0		extbag		0			-1
+Túi Tử Lăng	Túi Tử Lăng	21	2	1	1	\image\item\other\extbag\bag_003_s.spr		32	Túi 6 ô		0	1600	1	1600		2	0		extbag		0			-1
+Túi Cẩm Ti	Túi Cẩm Ti	21	3	1	1	\image\item\other\extbag\bag_004_s.spr		32	Túi 8 ô		0	4400	1	4400	6600	2	0		extbag		0			-1
+Túi Hoàng Trù	Túi Hoàng Trù	21	4	1	1	\image\item\other\extbag\bag_005_s.spr		32	Túi 10 ô		0	12200	1	12200	18300	2	0		extbag		0			-1
+Túi Tâm Ấn	Túi Tâm Ấn	21	5	1	1	\image\item\other\extbag\bag_006_s.spr		32	Túi 12 ô		0	40000	1	40000	60000	2	0		extbag		0			-1
+Túi Anh Hùng (local)	Túi Anh Hùng (local)	21	5	2	1	\image\item\other\extbag\bag_006_s.spr		32	Túi 12 ô<enter><color=gold>Túi kỷ niệm "Kiếm Thế" CB<color>		0	1	1	1		1	0		extbag		0			-1
+Túi da chồn	Túi da chồn	21	6	1	1	\image\item\other\extbag\bag_007_s.spr		32	Túi 15 ô		0	120000	1	120000	180000	2	0		extbag		0			-1
+Túi Kim Ngọc	Túi Kim Ngọc	21	7	1	1	\image\item\other\extbag\bag_008_s.spr		32	Túi 18 ô		0	350000	1	350000	525000	2	0		extbag		0			-1
+Túi Khởi La	Túi Khởi La	21	8	1	1	\image\item\other\extbag\bag_009_s.spr		32	Túi 20 ô		0	1050000	1	1050000		2	0		extbag		0			-1
+Túi Khởi La [quân dụng]	Túi Khởi La	21	8	2	1	\image\item\other\extbag\bag_009_s.spr		32	Túi 20 ô, do thủ lĩnh Bạch Thu Lâm tự tay may để tặng thưởng cho các tướng sĩ.		0	90000	1	1050000		1	0		extbag		0			1
+Túi Thiên Tàm	Túi Thiên Tàm	21	9	1	1	\image\item\other\extbag\bag_010_s.spr		32	Túi 24 ô		0	3200000	1	3200000		2	0		extbag		0			-1
+Túi Bàn Long	Túi Bàn Long	21	9	2	1	\image\item\other\extbag\bag_011_s.spr		32	Túi 24 ô		0	3200000	1	3200000		2	0		extbag		0			-1
+Túi Phi Phượng	Túi Phi Phượng	21	9	3	1	\image\item\other\extbag\bag_012_s.spr		32	Túi 24 ô		0	3200000	1	3200000		2	0		extbag		0			-1
+Túi Thiên Tàm [quân dụng]	Túi Thiên Tàm	21	9	4	1	\image\item\other\extbag\bag_010_s.spr		32	Túi 24 ô, do thủ lĩnh Bạch Thu Lâm tự tay may để tặng thưởng cho các tướng sĩ.		0	180000	1	3200000		1	0		extbag		0			1
+Túi thơm Triệu Cơ	Túi thơm Triệu Cơ	21	8	3	1	\image\item\other\extbag\bag_013_s.spr		32	Túi 20 ô.<enter><enter>Túi tìm thấy trong Tần Lăng, tỏa múi thơm ngào ngạt quyến rũ. 		0	180000	1	3200000		1	0		extbag		0			2
+Ký ức của A Nhược công chúa	Ký ức của A Nhược công chúa	21	9	5	1	\image\item\other\extbag\bag_014_s.spr		32	Túi 24 ô.<enter><enter>Túi tìm thấy trong Tần Lăng, được may rất khéo léo<enter><enter><color=green>Trên túi có thêu hàng chữ "Muội biết huynh sẽ không bao giờ quên muội"<color>		0	180000	1	3200000		1	0		extbag		0			2
+Kỷ niệm cuộc thi Nữ anh hùng [20 ô]	Túi dùng cho cuộc thi Nữ anh hùng	21	8	4	1	\image\item\other\extbag\bag_015_s.spr		32	Túi 20 ô<enter><color=gold>Túi kỷ niệm "cuộc thi Nữ anh hùng"<color>		0	180000	1	3200000		1	0		extbag		0			3
+Kỷ niệm cuộc thi Nữ anh hùng [24 ô]	Túi dùng cho cuộc thi Nữ anh hùng	21	9	6	1	\image\item\other\extbag\bag_016_s.spr		32	Túi 24 ô<enter><color=gold>Túi kỷ niệm "cuộc thi Nữ anh hùng"<color>		0	180000	1	3200000		1	0		extbag		0			3
+Túi Thiên Tàm [quân dụng]	Túi Thiên Tàm	21	9	7	1	\image\item\other\extbag\bag_010_s.spr		32	Túi 24 ô, do thủ lĩnh Bạch Thu Lâm tự tay may để tặng thưởng cho các tướng sĩ.		0	180000	1	3200000		2	0		extbag		0			1
+Chiến Thần Băng Tinh Hương Nang	Chiến Thần Băng Tinh Hương Nang	21	8	5	1	\image\item\other\extbag\bag_012_s.spr		32	Túi 20 ô		0	1050000	1	1050000		2	0		extbag		0			-1
+Chiến Thần Băng Tinh Hương Nang	Chiến Thần Băng Tinh Hương Nang	21	9	8	1	\image\item\other\extbag\bag_012_s.spr		32	Túi 24 ô		0	180000	1	3200000		2	0		extbag		0			-1
+Túi 3 gang	Túi 3 gang_vn	21	9	9	1	\image\item\equip\amulet\n_103_s.spr		32	Túi 24 ô		0	60000	1	3200000		0	0		extbag		0			-1
+Túi Tái Xuất Giang Hồ (vị trí)	Túi Tái Xuất Giang Hồ	21	9	10	1	\image\item\other\extbag\bag_012_s.spr		32	Túi 24 ô		0	180000	1	3200000		2	0		extbag		0			-1

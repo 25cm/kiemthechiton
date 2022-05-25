@@ -1,0 +1,63 @@
+Name	Genre	DetailType	ParticularType	Level	Bind	SellBindMoney
+Tiên Linh Nguyên Mộc	22	1	35	1		2000
+Da lông Linh Thú	22	1	37	1		2000
+Linh Thú Huyết	22	1	39	1		2000
+Tử Tinh Nguyên Thạch	22	1	41	1		2000
+Tiên Linh Quả	22	1	43	1		2000
+Lệnh Bài Thương Hội (lệnh bài cấp 2 Tiêu Dao)	18	1	289	10		1000
+Lệnh Bài Thương Hội (lệnh bài cấp 3 Tiêu Dao)	18	1	289	9		2000
+Lệnh Bài Thương Hội (lệnh bài cấp 4 Tiêu Dao)	18	1	289	8		3000
+Lệnh Bài Thương Hội (lệnh bài cấp 5 Tiêu Dao)	18	1	289	7		5000
+[Thẻ kích sát] Sói Chúa	18	1	313	1		2000
+[Thẻ kích sát] Gấu Chúa	18	1	313	2		1500
+[Thẻ kích sát] Hổ Chúa	18	1	313	3		1500
+[Thẻ kích sát] Cá Sấu Lớn	18	1	313	4		2000
+[Thẻ kích sát] Khỉ Chúa	18	1	313	5		3500
+[Thẻ kích sát] Ngựa Chúa	18	1	313	6		1500
+[Thẻ kích sát] Dị Thú	18	1	313	7		2000
+[Thẻ kích sát] Sát Đại Mục	18	1	313	8		3000
+[Thẻ kích sát] U Minh Quỷ Vương	18	1	313	9		2500
+[Thẻ kích sát] Thống Lĩnh Ngụy Quân	18	1	313	10		4000
+[Thẻ kích sát] Thống Lĩnh Ngô Quân	18	1	313	11		4000
+[Thẻ kích sát] Giám Quân	18	1	313	12		4000
+[Thẻ kích sát] Tử Uyển	18	1	313	13		3500
+[Thẻ kích sát] Tần Trọng	18	1	313	14		3500
+[Thẻ kích sát] Nhậm Diễu	18	1	313	15		4000
+[Thẻ kích sát] Tiêu Bất Thực	18	1	313	16		4500
+[Thẻ kích sát] Mộc Siêu	18	1	313	17		3000
+[Thẻ kích sát] Hạ Tiểu Sảnh	18	1	313	18		3500
+[Thẻ kích sát] Hồ Khôn	18	1	313	19		4500
+[Thẻ kích sát] Mặc Quân	18	1	313	20		5000
+[Thẻ kích sát] Đường Vũ	18	1	313	21		5000
+[Thẻ kích sát] Hồ Càn	18	1	313	22		3500
+[Thẻ kích sát] Diệp Tịnh	18	1	313	23		5000
+[Thẻ bảo vật] Huyết Ảnh Thương	18	1	313	24		4500
+[Thẻ bảo vật] Linh Thú Chiến Ngoa	18	1	313	25		4500
+[Thẻ bảo vật] Độn Giáp Linh Phù	18	1	313	26		4500
+[Thẻ bảo vật] Tử Tinh Huyễn Bội	18	1	313	27		4500
+[Thẻ bảo vật] Thất Thái Tiên Đơn	18	1	313	28		4500
+[Thẻ bí bảo] Tà Linh	18	1	313	29		5000
+[Thẻ bí bảo] Thánh Ngấn	18	1	313	30		5000
+[Thẻ bí bảo] Băng Liên	18	1	313	31		5000
+[Thẻ vượt ải] Trí Dũng Song Toàn	18	1	313	32		3000
+[Thẻ vượt ải] Xà Huyệt Thoát Hiểm	18	1	313	33		3000
+[Thẻ vượt ải] Trợ Nhân Vi Lạc	18	1	313	34		3000
+[Thẻ vượt ải] Hậu Sinh Khả Úy	18	1	313	35		4000
+[Thẻ vượt ải] Đào Thoát Đại Sư	18	1	313	36		5000
+[Thẻ kích sát] Cơ Quan Thủ Phủ	18	1	313	37		2000
+[Thẻ kích sát] Thống Lĩnh Phản Quân	18	1	313	38		2500
+[Thẻ kích sát] Quả Nông	18	1	313	39		2000
+[Thẻ kích sát] Cơ Quan Cự Lang	18	1	313	40		3500
+[Thẻ kích sát] Thủ Lĩnh Cường Đạo	18	1	313	41		4000
+[Thẻ kích sát] Uông Tài	18	1	313	42		2500
+[Thẻ bí bảo] Oán Linh	18	1	313	43		5000
+[Thẻ bí bảo] Tuyết Tinh Thạch	18	1	313	44		5000
+[Thẻ vượt ải] Thử Địa Vô Ngân	18	1	313	45		3000
+[Thẻ vượt ải] Hộ Hoa Sứ Giả	18	1	313	46		2500
+[Thẻ vượt ải] Thoát Khỏi Vòng Vây	18	1	313	47		3000
+[Thẻ vượt ải] Hầu Khẩu Đoạt Thực	18	1	313	48		3000
+[Thẻ kích sát] Trương Đức Hằng	18	1	313	49		3000
+[Thẻ vượt ải] Bái phục	18	1	313	50		2500
+[Thẻ vượt ải] Đồng Tâm	18	1	313	51		3000
+[Thẻ vượt ải] Tam Quân	18	1	313	52		3000
+[Thẻ đặc biệt] Biến Hoan	18	1	314	1		5000

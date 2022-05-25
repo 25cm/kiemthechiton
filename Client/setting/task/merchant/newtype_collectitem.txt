@@ -1,0 +1,8 @@
+TaskId	TaskName	StepDesc	TaskType	Diff	Genre	Detail	Particular	Level	Series	Num	ItemName	Suffix	Step01	Step02	Step03	LevelFlag	StartDay	AwardExp	NeedTime
+Số nhiệm vụ	Tên nhiệm vụ	Miêu tả tìm đường	Loại nhiệm vụ	Độ khó (miêu tả)	Loại lớn	Phân loại	Loại nhỏ	Cấp	Ngũ hành	Số lượng	Tên vật phẩm	Tên hậu tố	Bước 1-9	Bước 10	Bước 100	Đạt cấp 60	Sau khi mở server	Nhận được kinh nghiệm (kinh nghiệm chuẩn)	Thời gian cần (giây)
+1	"Thu thập 3 Sen Mẫu Đơn (Có địch canh giữ, phải cẩn thận)"	"<pos=Sen Mẫu Đơn,86,1786,3572> tại Thái Hành Cổ Kính"	GiveItem	2	20	1	475	1		3	Sen Mẫu Đơn		5000	0	0	0	0	0.6	300
+2	"Thu thập 3 Bách Hương Quả (Có địch canh giữ, phải cẩn thận)"	"<pos=Bách Hương Quả,86,1710,3729> tại Thái Hành Cổ Kính"	GiveItem	2	20	1	476	1		3	Bách Hương Quả		5000	0	0	0	0	0.6	300
+3	"Thu thập 3 Huyết Phong Đằng (Có địch canh giữ, phải cẩn thận)"	"<pos=Huyết Phong Đằng,91,1792,3630> tại Nhĩ Hải Ma Nham"	GiveItem	2	20	1	477	1		3	Huyết Phong Đằng		5000	0	0	0	0	0.6	300
+4	"Thu thập 2 Hắc Tinh Thạch (Có địch khá mạnh canh giữ, phải cẩn thận)"	"<pos=Hắc Tinh Thạch,91,1685,3671> tại Nhĩ Hải Ma Nham"	GiveItem	3	20	1	478	1		2	Hắc Tinh Thạch		1000	0	0	0	0	0.6	600
+5	"Thu thập 2 Lục Thủy Tinh (Có địch khá mạnh canh giữ, phải cẩn thận)"	"<pos=Lục Thủy Tinh,89,1698,3199> tại Hàn Sơn Cổ Sát"	GiveItem	3	20	1	479	1		2	Lục Thủy Tinh		1000	0	0	0	0	0.6	600
+6	"Thu thập 1 Thất Thái Thạch (Có địch rất mạnh canh giữ, phải cẩn thận)"	"<pos=Thất Thái Thạch,90,1834,3231> tại Cán Hoa Khê"	GiveItem	4	20	1	480	1		1	Thất Thái Thạch		0	5000	0	0	0	0.6	900

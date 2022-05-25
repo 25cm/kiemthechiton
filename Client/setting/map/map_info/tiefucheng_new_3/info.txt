@@ -1,0 +1,10 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Ngai vàng	0	7138	3	5	70	1	20	20	20	20	20	1		57208	110544				
+Về nội thành	0	7146	3	5	70	1	20	20	20	20	20	1		52544	109312				
+Về nội thành	0	7146	3	5	70	1	20	20	20	20	20	1		52640	112000				
+Về nội thành	0	7146	3	5	70	1	20	20	20	20	20	1		55104	106752				
+Về nội thành	0	7146	3	5	70	1	20	20	20	20	20	1		55136	114464				
+Về nội thành	0	7146	3	5	70	1	20	20	20	20	20	1		58848	105920				
+Về nội thành	0	7146	3	5	70	1	20	20	20	20	20	1		59232	114592				
+Về nội thành	0	7146	3	5	70	1	20	20	20	20	20	1		61024	108128				
+Về nội thành	0	7146	3	5	70	1	20	20	20	20	20	1		61696	112192				

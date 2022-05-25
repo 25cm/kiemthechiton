@@ -1,0 +1,2 @@
+TaskId	TaskName	TaskType	Diff	Genre	Detail	Particular	Level	Series	Num	ItemName	Suffix	Step01	Step02	Step03	LevelFlag	StartDay	AwardExp	NeedTime
+Số nhiệm vụ	Tên nhiệm vụ	Loại nhiệm vụ	Độ khó (miêu tả)	Loại lớn	Phân loại	Loại nhỏ	Cấp	Ngũ hành	Số lượng	Tên vật phẩm	Tên hậu tố	Bước 1-9	Bước 10	Bước 100	Đạt cấp 60	Sau khi mở server	Nhận được kinh nghiệm	Thời gian cần (giây)

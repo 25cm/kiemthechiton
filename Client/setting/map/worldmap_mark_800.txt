@@ -1,0 +1,139 @@
+MapId	MapName	Xpos1	Ypos1	Xpos2	Ypos2
+ID Bản Đồ	Tên bản đồ	X toạ độ 1	Y toạ độ 1	X tọa độ 2	Y tọa độ 2
+1	Vân Trung Trấn	467	106	0	0
+2	Long Môn Trấn	155	129	0	0
+3	Vĩnh Lạc Trấn	355	290	0	0
+4	Đạo Hương Thôn	602	291	0	0
+5	Giang Tân Thôn	266	389	0	0
+6	Thạch Cổ Trấn	183	545	0	0
+7	Long Tuyền Thôn	641	441	0	0
+8	Ba Lăng Huyện	452	436	0	0
+9	Thiếu Lâm Phái	453	261	0	0
+10	Thiên Nhẫn Giáo	594	98	0	0
+11	Tát Mãn Giáo	381	63	0	0
+12	Côn Lôn Phái	98	221	0	0
+13	Tây Hạ Nhất Phẩm Đường	264	173	0	0
+14	Võ Đang Phái	369	339	0	0
+15	Cái Bang	637	338	0	0
+16	Nga My Phái	179	397	0	0
+17	Thúy Yên Môn	129	575	0	0
+18	Đường Môn	193	446	0	0
+19	Đại Lý Đoàn Thị	67	469	0	0
+20	Ngũ Độc Giáo	571	494	0	0
+21	Trường Ca Môn	685	483	0	0
+22	Thiên Vương Bang	468	474	0	0
+23	Biện Kinh Phủ	513	198	0	0
+24	Phượng Tường Phủ	203	207	0	0
+25	Tương Dương Phủ	428	344	0	0
+26	Dương Châu Phủ	668	289	0	0
+27	Thành Đô Phủ	185	360	0	0
+28	Đại Lý Phủ	80	497	0	0
+29	Lâm An Phủ	686	376	0	0
+30	Chiến Trường Cổ	494	56	0	0
+31	Quán Trọ Long Môn	91	136	0	0
+32	Quân Mã Trường	375	260	0	0
+33	Mai Hoa Lĩnh	547	270	0	0
+34	Trường Giang Hà Cốc	295	418	0	0
+35	Thị trấn Bạch Tộc	168	501	0	0
+36	Nhạn Đãng Long Thu	711	406	0	0
+37	Bờ Hồ Động Đình	509	453	0	0
+38	Trấn Đông Mộ Viên	519	92	0	0
+39	Kỳ Liên Sơn	114	159	0	0
+40	Đồng Quan	346	248	0	0
+41	Hoài Thủy Sa Châu	557	309	0	0
+42	Thục Nam Trúc Hải	240	424	0	0
+43	Trà Mã Cổ Đạo	129	487	0	0
+44	Phường Đúc Kiếm	694	447	0	0
+45	Nhạc Dương Lâu	502	418	0	0
+46	Cấm Địa Hậu Sơn	425	251	0	0
+47	Cấm Địa Thiên Nhẫn	610	63	0	0
+48	Kiến Tính Phong	54	204	0	0
+49	Thiên Trụ Phong	336	320	0	0
+50	Cô Tô Thủy Tạ	615	347	0	0
+51	Cửu Lão Phong	166	418	0	0
+52	Bách Hoa Cốc	90	564	0	0
+53	Hồ Phỉ Thúy	169	458	0	0
+54	Bộ Lạc Nam Di	544	525	0	0
+55	Thanh Loa Đảo	433	477	0	0
+56	Đông Tháp Lâm	418	273	0	0
+57	Hoàng Lăng Kim Quốc 1	636	31	0	0
+58	Mê Cung Băng Huyệt 1	42	225	0	0
+59	Đông Long Hổ Huyễn Cảnh	303	301	0	0
+60	Ngoài Yến Tử Ổ	601	355	0	0
+61	Cửu Lão Động 1	135	416	0	0
+62	Ngoài Bách Hoa Trận	46	572	0	0
+63	Đông Bờ Hồ Trúc Lâm	176	474	0	0
+64	Đông Rừng Nguyên Sinh	509	549	0	0
+65	Đông Nam Lư Vĩ Đãng	415	468	0	0
+66	Tây Tháp Lâm	418	273	0	0
+67	Hoàng Lăng Kim Quốc 2	636	31	0	0
+68	Mê Cung Băng Huyệt 2	42	225	0	0
+69	Tây Long Hổ Huyễn Cảnh	303	301	0	0
+70	Giữa Yến Tử Ổ	601	355	0	0
+71	Cửu Lão Động 2	135	416	0	0
+72	Trong Bách Hoa Trận	46	572	0	0
+73	Tây Bờ Hồ Trúc Lâm	176	474	0	0
+74	Tây Rừng Nguyên Sinh	509	549	0	0
+75	Tây Bắc Lư Vĩ Đãng	415	468	0	0
+76	Giữa Tháp Lâm	418	273	0	0
+77	Hoàng Lăng Kim Quốc 3	636	31	0	0
+78	Mê Cung Băng Huyệt 3	42	225	0	0
+79	Giữa Long Hổ Huyễn Cảnh	303	301	0	0
+80	Trong Yến Tử Ổ	601	355	0	0
+81	Cửu Lão Động 3	135	416	0	0
+82	Giữa Bách Hoa Trận	46	572	0	0
+83	Giữa Bờ Hồ Trúc Lâm	176	474	0	0
+84	Giữa Rừng Nguyên Sinh	509	549	0	0
+85	Trung Lư Vĩ Đãng	415	468	0	0
+86	Thái Hành Cổ Kính	448	169	0	0
+87	Đại Tán Quan	207	263	0	0
+88	Hán Thủy Cổ Độ	460	354	0	0
+89	Hàn Sơn Cổ Sát	693	313	0	0
+90	Cán Hoa Khê	134	373	0	0
+91	Nhĩ Hải Ma Nham	90	450	0	0
+92	Thái Thạch Cơ	597	369	0	0
+93	Dược Vương Động	384	140	0	0
+94	Cư Diên Trạch	227	96	0	0
+95	Phục Ngưu Sơn	484	286	0	0
+96	Hổ Khâu Kiếm Trì	690	351	0	0
+97	Hưởng Thủy Động	163	332	0	0
+98	Điểm Thương Sơn	34	512	0	0
+99	Bành Lãi Cổ Trạch	566	398	0	0
+100	Phong Lăng Độ	406	201	0	0
+101	Mê Cung Sa Mạc	266	86	0	0
+102	Kê Quán Động	448	288	0	0
+103	Thục Cương Sơn	652	271	0	0
+104	Kiếm Các Thục Đạo	233	341	0	0
+105	Hoàng Lăng Đoàn Thị	77	540	0	0
+106	Cửu Nghi Khê	599	413	0	0
+107	Long Môn Thạch Quật	412	235	0	0
+108	Hoàng Lăng Tây Hạ	273	115	0	0
+109	Hoàng Hạc Lâu	515	381	0	0
+110	Tiến Cúc Động	633	243	0	0
+111	Kiếm Môn Quan	284	329	0	0
+112	Thiên Long Tự	24	450	0	0
+113	Bang Nguyên Bí Động	572	446	0	0
+114	Sắc Lặc Xuyên	432	59	0	0
+115	Gia Dụ Quan	98	74	0	0
+116	Hoa Sơn	314	231	0	0
+117	Thục Cương Bí Cảnh	566	236	0	0
+118	Phong Đô Quỷ Thành	334	406	0	0
+119	Miêu Lĩnh	278	543	0	0
+120	Vũ Di Sơn	624	491	0	0
+121	Vũ Lăng Sơn	390	446	0	0
+122	Mạc Bắc Thảo Nguyên	416	32	0	0
+123	Đôn Hoàng Cổ Thành	60	100	0	0
+124	Hoạt Tử Nhân Mộ	282	212	0	0
+125	Đại Vũ Đài	590	205	0	0
+126	Tam Hiệp Sạn Đạo	396	362	0	0
+127	Xi Vưu Động	347	569	0	0
+128	Tỏa Vân Uyên	530	569	0	0
+129	Phục Lưu Động	357	471	0	0
+130	Mông Cổ Vương Đình	309	38	0	0
+131	Nguyệt Nha Tuyền	37	124	0	0
+132	Tàn Tích Cung A Phòng	268	260	0	0
+133	Lương Sơn Bạc	658	178	0	0
+134	Thần Nữ Phong	424	394	0	0
+135	Tàn Tích Dạ Lang	256	496	0	0
+136	Cổ Lãng Dữ	653	563	0	0
+137	Đào Hoa Nguyên	367	511	0	0

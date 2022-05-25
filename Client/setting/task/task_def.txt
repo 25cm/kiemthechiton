@@ -1,0 +1,24 @@
+TASK_ID_FIRST	TASK_ID_LAST	TASK_TYPE	TASK_NAME	TASK_DESC
+ID bắt đầu nhiệm vụ con	ID kết thúc	Loại nhiệm vụ	Tên nhiệm vụ	Miêu tả
+1	218	Task	Nhiệm vụ chính tuyến	Loại editor nhiệm vụ thông dụng
+219	220	Task	Nhiệm vụ phó bản	Loại editor nhiệm vụ thông dụng
+221	223	Task	Nhiệm vụ chính tuyến	Loại editor nhiệm vụ thông dụng
+224	224	Task	Nhiệm vụ phó bản	Loại editor nhiệm vụ thông dụng
+225	225	Task	Nhiệm vụ chính tuyến	Loại editor nhiệm vụ thông dụng
+226	226	Task	Nhiệm vụ quân doanh	Cốt truyện
+227	227	Task	Nhiệm vụ quân doanh	Hằng ngày
+228	332	Task	Nhiệm vụ chính tuyến	Nhiệm vụ chính tuyến
+333	334	Task	Nhiệm vụ quân doanh	Hằng ngày
+335	336	Task	Nhiệm vụ chính tuyến	Nhiệm vụ chính tuyến
+337	338	Task	Nhiệm vụ quân doanh	Cốt truyện
+339	362	Task	Nhiệm vụ chính tuyến	Nhiệm vụ chính tuyến
+363	363	Task	Nhiệm vụ quân doanh	Cốt truyện
+364	364	Task	Nhiệm vụ quân doanh	Hằng ngày
+365	365	Task	Nhiệm vụ quân doanh	Cốt truyện
+366	366	Task	Nhiệm vụ quân doanh	Hằng ngày
+367	367	Task	Nhiệm vụ quân doanh	Cốt truyện
+368	368	Task	Nhiệm vụ quân doanh	Hằng ngày
+369	9999	Task	Nhiệm vụ chính tuyến	Nhiệm vụ chính tuyến
+10000	49999	LinkTask	Nhiệm vụ Bao Vạn Đồng	Loại script nhiệm vụ tự định nghĩa
+50000	50000	Task	Nhiệm vụ thương hội	Loại editor nhiệm vụ thông dụng
+50001	59999	WantedTask	Nhiệm vụ truy nã	Loại script nhiệm vụ tự định nghĩa

@@ -1,0 +1,439 @@
+﻿-------- Nhiệm Vụ Sơ Nhập -- Nhiệm Vụ Chính Tuyến -- Nhiệm Vụ Thế Giới-- Hải Tặc -- Nghĩa Quân -----------------
+Người Liên Lạc Thương H: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Nhiệm vụ thương hội
+Quan Hội Trường: Ngươi đem theo <color=red>rương thuốc cấm<color>
+Vào đấu trường
+Bạn nhận được 1 <color=yellow>Túi quà liên đấu<color>.
+Kết thúc đối thoại
+Quan Liên Đấu: Vòng Võ Lâm Liên Đấu này chiến đội của bạn hạng
+Ta xác định nhận thưởng
+Nhận thưởng thành công và rời khỏi chiến đội
+Kết thúc đối thoại
+Bạn muốn rời đấu trường môn phái?
+Đồng ý
+Xác định muốn đổi môn phái?
+Đồng ý
+Hiện không có thi đấu môn phái
+Ta muốn rời khỏi trận đấu
+-------- Event -----------
+Xác định mua <color=yellow>
+Ta xác định mua
+Ngươi đã mua thành công
+Kết thúc đối thoại
+Ngươi muốn trở về điểm báo danh?
+Đồng ý
+Hãy ở hậu doanh nghỉ ngơi đủ
+Kết thúc đối thoại
+Điểm tích lũy chiến trường lần trước của ngươi là
+Đồng ý
+Người chơi đủ điều kiện có thể đổi
+Đổi
+Bạn đã dùng bạc khóa đổi thành công 120000 lượng bạc.
+Kết thúc đối thoại
+Thứ hạng Uy danh giang hồ tuần này của bạn đạt
+Ta muốn nhận lương
+Nhận thưởng mật hữu
+Ta muốn nhận Đồng khóa
+tiêu phí tại Kỳ Trân Các, bạn nhận được Đồng khóa hoàn trả
+Đồng ý
+Tiếp tục nhận Đồng hoàn trả của các mật hữu khác
+Đồng ý
+Hai người phải tổ đội cùng có mặt mới thành mật hữu được.
+Đồng ý
+-------- Hoa Đăng ----------
+Người chơi đạt cấp mấy mới được nhận tiền lương bang hội?
+Cấp 90
+Mỗi người chơi có thể đồng thời theo bao nhiêu sư phụ?
+1
+Mỗi người được phép thực hiện cùng lúc bao nhiêu lần giao dịch tiền đồng?
+1
+Làm thế nào thiết lập điểm về thành sống lại?
+Nhấn vào Thủ Khố tại Tân Thủ Thôn/Môn phái/Thành thị, tự thiết lập điểm 
+Cường hóa trang bị thất bại sẽ có hậu quả gì?
+Cấp cường hóa trang bị không đổi, các thuộc tính khác không đổi
+Gặp NPC nào để tiêu hủy những đạo cụ dư thừa?
+Bạch Thu Lâm
+Tinh lực có tác dụng gì?
+Vật phẩm cần để gia công kỹ năng sống
+Gặp NPC nào để ghi danh đấu lôi đài?
+Công Bình Tử
+NPC nào giúp cường hóa trang bị?
+Dã Luyện Đại Sư
+Hoạt lực có tác dụng gì?
+Nguyên liệu và tách trang bị cần để gia công kỹ năng sống
+Mỗi người chơi được phép đồng thời có bao nhiêu đệ tử chưa xuất sư?
+3
+Được phép đốt Lửa trại trong những trường hợp nào?
+Tổ đội
+Đạo cụ nào có độ bền lớn nhất dùng để sửa trang bị?
+Kim Tê
+Người chơi cấp mấy được phép tham gia hoạt động Bạch Hổ Đường?
+Cấp 50 trở lên
+Làm thế nào để tiến hành tương tác trong giao diện hảo hữu?
+Trong giao diện hảo hữu, nhấp chuột trái vào tên người chơi sẽ xuất hiện gia
+Danh vọng chiến trường có thể tích lũy không?
+Được
+bầu chọn đại sư huynh
+Mở Tu Luyện Châu tiến hành bầu chọn
+Nhấn phím nào để thay đổi trạng thái chiến đấu?
+Ctrl+H
+Trên Chiến Trường Tống Kim gặp NPC nào để nhận quân nhu?
+Quan Quân Nhu của Báo danh chiến trường
+Làm sao học được kỹ năng sống?
+Khi nhận nhiệm vụ giáo dục hoặc đạt cấp 20 sẽ tự động học được
+Trong trường hợp nào người chơi cùng gia tộc, cùng bang hội, liên minh bang hội, cùng nhóm có thể tấn công lẫn nhau?
+Khi thiết lập quan hệ tỷ thí và cừu sát
+Kiếm Thế có bao nhiêu môn phái?
+12
+Người chơi cấp mấy được gia nhập môn phái?
+Cấp 10
+Điều nào sau đây không thuộc điều kiện trở thành mật hữu chỉ định?
+Hai bên phải cùng 1 gia tộc
+Mỗi ngày người chơi được đoán bao nhiêu hoa đăng?
+30
+Thao tác tự động tìm đường?
+Nhấp chuột trái vào Bản đồ nhỏ
+Kiếm Thế có bao nhiêu thành?
+7
+Nhấn phím nào để vào giao diện tán gẫu?
+Phím Enter
+Cường hóa trang bị cần những nguyên liệu gì?
+Bạc và Huyền Tinh
+Bị trọng thương, làm cách nào để về thành chữa trị?
+Mở giao diện chọn cách chữa trị, chọn về thành chữa trị
+Hình thức bảo vệ nguyên soái trên Chiến Trường Tống Kim, cách nói nào là sai?
+Phe mình có ít hơn 50 đại tướng xuất hiện
+Những cách nói về tách trang bị, cái nào đúng?
+Chỉ tách được những trang bị khóa
+Lợi ích khi trở thành mật hữu chỉ định?
+Mỗi hóa đơn ở Kỳ Trân Các đều được hưởng 5% tiền đồng khóa
+Nhấn phím nào mở giao diện kỹ năng sống?
+F8
+Phím tắt để mở hành trang?
+F2
+Hoa đăng trong hoạt động đoán hoa đăng sẽ xuất hiện ở những bản đồ nào?
+8 Tân Thủ Thôn
+Bạn đã đáp đúng câu hỏi này, tiếp tục đoán?
+Tiếp tục trả lời
+Nhấn phím nào tự chiến đấu?
+Ctrl+F
+Trong hoạt động đoán hoa đăng gặp NPC nào để nhận thưởng?
+Lễ Quan
+Cách nói về tổ đội trong chiến trường, cái nào đúng?
+Được tự do tổ đội với người chơi cùng phe
+Dạng bảo vệ cá nhân trong nhóm, vật phẩm có được khi đánh quái được chia thế nào?
+Người giết chết con quái được quyền lấy
+Gặp NPC nào để dùng điểm tích lũy chiến trường đổi thưởng kinh nghiệm?
+Hiệu Úy Mộ Binh tại Báo danh chiến trường
+Công dụng của đồng khóa?
+Mua đạo cụ tại "khu đồng khóa" trong Kỳ Trân Các
+Nhấn phím nào để đổi kênh tán gẫu?
+Page Down
+Tách trang bị ngoài chuẩn bị trang bị tách ra còn phải tiêu hao thêm?
+Hoạt lực
+Đến đâu mua Từ Bi Tâm Kinh
+Kỳ Trân Các
+Điều nào sau đây không thuộc điều kiện trở thành mật hữu chỉ định?
+Hai bên phải cùng 1 gia tộc
+Làm thế nào để có tiền đồng?
+Nạp thẻ được tiền đồng
+Làm thế nào để có tiền đồng?
+Đến "Giao dịch tiền đồng" dùng bạc mua đồng
+Làm thế nào để có tiền đồng?
+Có thể đổi tiền đồng bằng thẻ giờ hoặc vào "Điểm giao dịch" dùng bạc mu
+Người chơi đang ngồi tù, có thể sử dụng đạo cụ gì để rời tù?
+Lệnh Bài Hình Bộ
+Phím tắt để lên xuống ngựa?
+M
+Gặp NPC nào để tự thú?
+Nha Dịch Lâm An và Biện Kinh
+Làm thế nào trở thành hảo hữu của nhau?
+Nhấn giữ Ctrl và nhấp chuột phải vào người chơi khác, chọn "Hảo hữu"
+Phím tắt để mở Cẩm nang trợ giúp
+F12
+Cách gia nhập nhóm?
+Nhấn giữ Ctrl và nhấp chuột phải vào người chơi là đội trưởng, chọn “Nhậ
+Làm thế nào để có được thời gian ủy thác rời mạng?
+Dùng Bạch Câu Hoàn
+Hình thức bảo vệ nguyên soái trên Chiến Trường Tống Kim, cách nói nào là sai?
+Phe mình có ít hơn 50 đại tướng xuất hiện
+Ai có thể quyết định cách phân chia vật phẩm trong nhóm?
+Chỉ có đội trưởng có quyền
+Hiệu quả của Rượu lâu năm duy trì bao lâu?
+3 phút
+Mỗi ngày người chơi được phép tham gia hoạt động Bạch Hổ Đường bao nhiêu lần?
+3 lần
+Làm sao để tu luyện mật tịch?
+Đánh quái bằng Tu Luyện Châu để tu luyện mật tịch
+Hình thức bảo vệ cờ trên Chiến Trường Tống Kim, khi 2 bên có lượng cờ bằng nhau thì dựa vào đâu phân định thắng thua?
+Tổng tích lũy của 2 bên
+Chi phí giao dịch tiền đồng là bao nhiêu?
+1% tổng kim ngạch giao dịch
+Cấp mấy mới được bái sư?
+Cấp 20
+Nếu muốn thực hiện các thao tác như: tán gẫu, giao dịch, kiểm tra trang bị với những người chơi khác... thì phải làm gì?
+Ctrl + nhấp chuột phải vào người chơi
+Phím tắt để giao dịch với người chơi khác?
+Nhấn giữ Ctrl và nhấp chuột phải vào người chơi khác, chọn "giao dịch"
+Ai sẽ chi trả chi phí giao dịch tiền đồng?
+Bên bán
+Tìm ai để nâng cấp "Ngũ Hành Ấn"?
+Dã Luyện Đại Sư
+Người chơi từ cấp 60-89 được tham gia những chiến trường nào?
+Chiến trường Dương Châu
+Người chơi từ cấp 90-119 được tham gia những chiến trường nào?
+Chiến trường Phượng Tường
+Người chơi từ cấp 120 trở lên được tham gia những chiến trường nào?
+Chiến trường Tương Dương
+2 bên phải có ít nhất bao nhiêu người chơi mới mở chiến trường Dương Châu?
+6 người
+2 bên phải có ít nhất bao nhiêu người chơi mới mở chiến trường Phượng Tường?
+8 người
+2 bên phải có ít nhất bao nhiêu người chơi mới mở chiến trường Tương Dương?
+12 người
+Gặp NPC nào để xác định quan hệ người giới thiệu?
+Diệp Chỉ Lâm
+Người chơi cấp mấy được phép nhận đệ tử?
+Đạt cấp 69
+Hình thức bảo vệ cờ trên Chiến Trường Tống Kim dựa vào đâu phân định thắng thua?
+Số lần bảo vệ cờ thành công của 2 bên
+Phím tắt để mở hộp thư?
+I
+Làm thế nào để có Bạch Câu Hoàn?
+Mua ở "Kỳ Trân Các"
+Khi Chiến Trường Tống Kim đang diễn ra, làm cách nào để quay về điểm báo danh?
+Đến Quan Quân Nhu chọn quay về điểm báo danh
+Làm thế nào để mời người chơi vào nhóm?
+Nhấn giữ Ctrl và nhấp chuột phải vào người chơi khác, chọn "Tổ đội"
+Danh vọng chiến trường được khen thưởng theo tiêu chuẩn nào?
+Căn cứ xếp hạng và tích lũy sau mỗi trận chiến
+Phím tắt để mở giao diện hảo hữu?
+F5
+Làm thế nào để trở thành người giới thiệu của bằng hữu?
+Tổ đội với nhau trước khi bằng hữu đạt cấp 11 rồi tới chỗ Diệp Chỉ Lâm
+Kiếm Thế có bao nhiêu Tân Thủ Thôn?
+8
+Mỗi người được học bao nhiêu kỹ năng sống?
+Không hạn chế
+Lôi đài cho phép 2 bên có bao nhiêu người chơi?
+Đối chiến 1V1-8V8
+Cách nào ghi danh vào Chiến Trường Tống Kim?
+Đăng ký vào ở chỗ Chiêu Mộ Sứ Tống/Kim tại các thành thị lớn hoặc thông q
+Dạng chia đều trong nhóm, vật phẩm có được khi đánh quái được chia thế nào?
+Thành viên trong nhóm đều có quyền lấy
+Những cách nói về kỹ năng nộ khí, cái nào đúng?
+Kỹ năng nộ khí vô hiệu với người chơi, trạng thái pk không sử dụng được.
+Đến gặp NPC nào để nhận tiền đồng khóa chiết khấu sau hoạt động giao lưu mật hữu?
+Diệp Chỉ Lâm
+Mỗi tuần người chơi được nhận bao nhiêu Bạc miễn thuế?
+80 vạn lượng
+Tích lũy chiến trường có tác dụng gì?
+Có thể đổi thưởng kinh nghiệm, tích lũy vinh dự Tống Kim
+Tìm ai để đổi "Ngũ Hành Hồn Thạch"?
+Chủ Tiền Trang
+Lợi ích khi trở thành người giới thiệu?
+Với mỗi giao dịch tại Kỳ Trân Các của người được giới thiệu, người gi
+Những cách nói về việc hồi phục ngay, cái nào sai?
+Sử dụng thực phẩm có thể hồi phục ngay
+Làm cách nào có được nguyên liệu dùng cho kỹ năng sống?
+Mua ở cửa hàng, hoặc lấy trong quá trình tách trang bị
+Phím tắt để mở giao diện tổ đội?
+P
+Rượu lâu năm có hiệu quả gì?
+Tăng kinh nghiệm lửa trại
+NPC nào có chức năng trở thành Mật hữu chỉ định?
+Diệp Chỉ Lâm
+Tới đâu để mua Cửu Chuyển Tục Mệnh Hoàn?
+Kỳ Trân Các
+Trên Chiến Trường Tống Kim, nhấn phím nào để xem chiến báo?
+Phím ~
+Ai có quyền trục xuất người khỏi nhóm?
+Chỉ có đội trưởng có quyền
+Làm thế nào nâng cấp kỹ năng sống?
+Sử dụng kỹ năng sống thành công 
+Tiền đồng là gì?
+Tiền đồng là loại tiền tệ đặc biệt, có thể dùng để mua các loại đạo cụ…
+Những cách nói về đồ sát, cái nào sai?
+Khi đồ sát có thể tấn công người chơi cùng gia tộc hoặc cùng bang hội
+Các điều kiện xuất sư sau đây, cái nào sai?
+Đệ tử bái sư trên 30 ngày
+Gặp NPC nào để tụng Từ Bi Tâm Kinh giảm trị PK?
+Vân Du Tăng Nhân
+Việc cừu sát trên Chiến Trường Tống Kim có căn cứ nào định thắng thua?
+Tổng tích lũy của 2 bên
+Cách rời khỏi nhóm ?
+Mở giao diện tổ đội, nhấp nút rời nhóm
+Ở vòng này bạn đã đáp đúng tất cả các câu hỏi.
+Kết thúc đối thoại
+Bạn đã đoán đúng 6 hoa đăng, đợi đợt sau hãy đoán tiếp.
+Kết thúc đối thoại
+Câu trả lời sai, tạm dừng trong vài giây, xem nhắc nhở bên phải
+Kết thúc đối thoại
+Trả lời sai, thêm 5 giây để suy nghĩ.
+Kết thúc đối thoại
+"Đoán Hoa Đăng" dân chúng cùng vui.
+Nhận phần thưởng
+----------------- Từ Điển Kiếm Thế ----------------
+Bạn đã đáp đúng hết!
+Kết thúc đối thoại
+------------------ Ải Gia Tộc -----------------
+Dù không dùng chìa khóa, cơ quan vẫn tự động mở, tại sao?
+Cắm chìa khóa vào thử
+người muốn qua ấn vào mặt Bia đá.
+Dùng tay ấn vào mặt Bia đá
+Nghe thấy tiếng "két" vang lên.
+Kết thúc đối thoại
+Ta muốn đổi bảo rương lấy chúng!
+Dùng 100 Đồng tiền cổ đổi lấy bảo rương
+Số Đồng tiền cổ này rất tốt, phần thưởng của ngươi đây, nhận lấy.
+Kết thúc đối thoại
+-------------- Phó Bản --------------
+Muốn vào phó bản ngay?
+Đồng ý
+Vào bây giờ không?
+Đồng ý
+Có muốn vào?
+Vâng
+Có muốn đưa đi?
+Muốn
+Có phải muốn vào
+Đúng
+Khách quan chơi có vui không?
+Phải
+Bạn muốn vào địa đạo mê lộ này ư?
+Phải
+Đặt thành công
+Mau đưa ta qua
+Bạn muốn rời khỏi đây?
+Phải
+Các ngươi đã giúp ta tìm được viên bảo châu đó chưa?
+Để ta uống thử viên bảo châu này!
+Đồng đội đang triệu hồi bạn, có muốn truyền tống ngay?
+Vâng
+hãy giúp sức tiêu diệt quân
+Ta muốn gia nhập quân
+Đỉnh này có thể chế ra thuốc giải độc!
+[Chế thuốc]
+[Nhiệm vụ] Túy Tăng - Đồng Đội
+Đi ra xa chút đi, lão đầu tử lại đưa các ngươi đến chỗ chết sao?
+Đưa Tịnh Tâm Châu và Thư Tín
+Đến đây! Ta đợi lâu quá rồi!
+Bắt đầu chiến đấu
+Ta có thể đưa ngươi đến Phục Ngưu Sơn Quân Doanh
+Trở lại Quân doanh
+Con số sẽ xuất hiện ngẫu nhiên từ
+Bắt đầu trò chơi
+bắt đầu: đáp án nằm giữa
+Bắt đầu trò chơi
+Thuyền sửa xong rồi, có thể đi thuyền tiến về Loạn Thạch Than.
+Ngồi thuyền tiến về Loạn Thạch Than
+Thuyền này rõ ràng mới sửa xong
+Ngồi thuyền đến Tê Giác Khoáng
+Con thuyền này hư nhiều quá, cần dùng ba dây thừng và ba tấm gỗ gia cố lại mới sử dụng được.
+Phục hồi thuyền cũ
+Có vào Tàn Tích Phục Ngưu Sơn Trang không?
+Đồng ý
+Đặt vào 20 "Đao cụ" lấy từ Thợ Đẽo Đá sẽ làm hư, lúc đó thợ cả sẽ ra.
+Cho đạo cụ vào
+Cho ta 20 Đuôi bọ cạp, ta sẽ giúp các ngươi diệt trừ Linh Hạt Sứ.
+Cho Đuôi bọ cạp
+Các ngươi đã lấy được thuốc giải chưa?
+Mau! Hãy uống thuốc giải này xem sao!
+Lý Hương Lan: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Trốn Chạy - Đồng Đội
+Tuyết Vũ Hồng Phi: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Cấm Địa (Sơ)
+Chu Đồng: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Diệt Trừ Chuột Núi
+Nghĩa Quân Săn Bắn: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Tìm Nghĩa Quân
+Mộc Sấm: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Bàn Cờ Tướng (cấp 90)
+Thần Tiêu: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Bàn Cờ Tướng (cấp 90)
+Thiên Cơ Tử: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Mặc Gia Cơ Quan Thuật (cấp 90)
+Từ Tường Nga: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Tôn Tử Binh Pháp (cấp 90)
+Đã nhận cả rồi
+Rời khỏi
+Điểm tích lũy hiện nay của bạn là <color=green>
+Ta muốn đổi
+Thời Tái Hưng: Đến thật đúng lúc, ta có nhiệm vụ cho ngươi.
+[Nhiệm vụ] Luyện Võ(Trung)
+Bách Trảm Các: Ngươi là ai? Sao trà trộn vào đây?
+[Bắt đầu chiến đấu]
+Bàn cờ biến hóa, ảo diệu vô cùng, thế gian rất hiếm thấy
+Bắt đầu
+---------Tiêu Dao Cốc---------
+Nhiệm vụ chính tuyến Phục Ngưu Sơn Quân Doanh không có phần thưởng?
+Huyền Tinh
+Quảng trường trung tâm Long Môn Trấn có khối kiến trúc nào?
+Giếng
+Chiến Trường Tống Kim mỗi ngày có mấy trận?
+8
+Bên cạnh Thiếu Lâm Huyền Khổ Đại Sư có bao nhiêu hòa thượng đang đánh quyền?
+6
+Minh Giáo Giáo chủ đương nhiệm tên gì?
+Phương Hành Giác
+Trong trường hợp nào Huyền Tinh được tách ra sẽ không bị khóa?
+Khi tách trang bị không khóa
+Cấp danh vọng quân doanh Phục Ngưu Sơn cao nhất là cấp mấy?
+Cấp 7
+Điều nào sau đây không tăng tỷ lệ chí mạng?
+Điểm tiềm năng
+Sân nhà Trương Tùng Đào ở Long Tuyền Thôn có nhiều da động vật nào nhất?
+Da hổ
+Lời giải thích chính xác cho thuộc tính "hút x% nội lực đối phương" là?
+Bản thân tăng x% trị nội lực lớn nhất
+Ăn mày của môn phái nào sau đây là đáng thương nhất?
+Côn Lôn
+Đệ tử tiếp dẫn của Minh Giáo tên gì?
+Đồng Lăng
+Người tiếp dẫn của Ải gia tộc tên gì?
+Mã Xuyên Sơn
+Đến chỗ "Bổ Đầu Hình Bộ" đổi 1 quyển Võ Lâm Mật Tịch hoặc Tẩy Tủy Kinh cần có bao nhiêu "Danh Bổ Lệnh"?
+300
+Đâu là vật có ý nghĩa xuyên suốt trong Kiếm Thế?
+Du Long Giác
+Biện Kinh Gia Luật Sở Tài đang ở đâu?
+Cổng Hoàng Cung
+Hoàng Phỉ cầm vật gì trên tay?
+Quạt
+Với 1 trang bị có thuộc tính "trang bị khóa", bạn không trang bị nó cũng có thể bị khóa hay không?
+Không thể
+Thúy Yên Môn chủ đương nhiệm tên gì?
+Doãn Tiêu Vũ
+Biệt hiệu của Hạ Tiểu Sảnh trong Tiêu Dao Cốc là?
+Thiếu nữ yếu đuối
+Những cách nào sau đây có thể nâng cao danh vọng quân doanh Phục Ngưu Sơn?
+Làm nhiệm vụ thường nhật
+Bạch Hổ Đường mỗi ngày mở bao nhiêu trận?
+20
+con dê biết võ công, tên nó là gì?
+Tiểu Hân
+thường xuất hiện người bán bánh bao mặc áo trắng đội nón trắng, ông ta thường làm gì?
+Làm nhân bánh
+"Uy danh giang hồ" có bị mất đi?
+Mỗi ngày đều vơi dần
+Tác dụng của "Tẩy Tủy Kinh"?
+Tăng điểm tiềm năng
+Giao diện đăng nhập có mấy con chim đang bay?
+1
+Đương gia của Đại Lý Đoàn Thị còn được gọi là gì?
+Gia chủ
+Đoán xem Triệu Khản mấy tuổi?
+70 tuổi
+Tổng trị tiềm năng của nhân vật mới tạo là bao nhiêu?
+200
+Đại Kim Long Mạch Phong Thủy Đồ
+Hoàn Nhan Lượng
+Hoàn Nhan Bất Phá trong Hải Lăng Vương Mộ là
+Kim Quốc Đệ Nhất Đao Khách
+Thơ viết: "Hoa đoàn cẩm thốc cẩm quan thành"
+Lâm An
+vũ khí người chơi sử dụng được gồm mấy loại?
+8
+câu cửa miệng của Mặc Quân?
+Nói thật, nội lực của ngươi chẳng thâm hậu gì cả.
+-------------------------------------

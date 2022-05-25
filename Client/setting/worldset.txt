@@ -1,0 +1,744 @@
+MAP_ID	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_1	GAMESVR_SET_2	GAMESVR_SET_3	GAMESVR_SET_4	GAMESVR_SET_9	GAMESVR_SET_10	GAMESVR_SET_11	GAMESVR_SET_12	GAMESVR_SET_13	GAMESVR_SET_14	GAMESVR_SET_11	GAMESVR_SET_12	Ghi chú
+1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vân Trung Tr?n
+2	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Long Môn Tr?n
+3	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Vinh L?c Tr?n
+4	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?o Huong Thôn
+5	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Giang Tân Thôn
+6	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Th?ch C? Tr?n
+7	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Long Tuy?n Thôn
+8	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Ba Lang Huy?n
+9	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thi?u Lâm Phái
+10	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiên Nh?n Giáo
+11	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tát Mãn Giáo
+12	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Côn Lôn Phái
+13	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Tây H? Nh?t Ph?m Ðu?ng
+14	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Võ Ðang Phái
+15	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Cái Bang
+16	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Nga My Phái
+17	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Thúy Yên Môn
+18	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ðu?ng Môn
+19	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?i Lý Ðoàn Th?
+20	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ngu Ð?c Giáo
+21	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tru?ng Ca Môn
+22	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Thiên Vuong Bang
+23	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	Bi?n Kinh Ph?
+24	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	Phu?ng Tu?ng Ph?
+25	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	Tuong Duong Ph?
+26	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	Duong Châu Ph?
+27	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	Thành Ðô Ph?
+28	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	Ð?i Lý Ph?
+29	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	Lâm An Ph?
+30	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Chi?n Tru?ng C?
+31	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Quán Tr? Long Môn
+32	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Quân Mã Tru?ng
+33	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Mai Hoa Linh
+34	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tru?ng Giang Hà C?c
+35	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Th? tr?n B?ch T?c
+36	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Nh?n Ðãng Long Thu
+37	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	B? H? Ð?ng Ðình
+38	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tr?n Ðông M? Viên
+39	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	K? Liên Son
+40	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?ng Quan
+41	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Hoài Th?y Sa Châu
+42	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Th?c Nam Trúc H?i
+43	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Trà Mã C? Ð?o
+44	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Phu?ng Ðúc Ki?m
+45	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Nh?c Duong Lâu
+46	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	C?m Ð?a H?u Son
+47	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	C?m Ð?a Thiên Nh?n
+48	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ki?n Tính Phong
+49	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Thiên Tr? Phong
+50	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Cô Tô Th?y T?
+51	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	C?u Lão Phong
+52	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Bách Hoa C?c
+53	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	H? Ph? Thúy
+54	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	B? L?c Nam Di
+55	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Thanh Loa Ð?o
+56	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ðông Tháp Lâm
+57	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoàng Lang Kim Qu?c 1
+58	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Mê Cung Bang Huy?t 1
+59	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Ðông Long H? Huy?n C?nh
+60	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ngoài Y?n T? ?
+61	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	C?u Lão Ð?ng 1
+62	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ngoài Bách Hoa Tr?n
+63	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ðông B? H? Trúc Lâm
+64	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ðông R?ng Nguyên Sinh
+65	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Ðông Nam Lu Vi Ðãng
+66	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tây Tháp Lâm
+67	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoàng Lang Kim Qu?c 2
+68	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Mê Cung Bang Huy?t 2
+69	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Tây Long H? Huy?n C?nh
+70	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Gi?a Y?n T? ?
+71	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	C?u Lão Ð?ng 2
+72	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Trong Bách Hoa Tr?n
+73	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tây B? H? Trúc Lâm
+74	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tây R?ng Nguyên Sinh
+75	1	2	2	4	1	1	1	4	4	4	4	4	4	4	4	4	Tây B?c Lu Vi Ðãng
+76	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Gi?a Tháp Lâm
+77	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoàng Lang Kim Qu?c 3
+78	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Mê Cung Bang Huy?t 3
+79	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Gi?a Long H? Huy?n C?nh
+80	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Trong Y?n T? ?
+81	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	C?u Lão Ð?ng 3
+82	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Gi?a Bách Hoa Tr?n
+83	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Gi?a B? H? Trúc Lâm
+84	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Gi?a R?ng Nguyên Sinh
+85	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Trung Lu Vi Ðãng
+86	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	Thái Hành C? Kính
+87	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?i Tán Quan
+88	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Hán Th?y C? Ð?
+89	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Hàn Son C? Sát
+90	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Cán Hoa Khê
+91	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Nhi H?i Ma Nham
+92	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Thái Th?ch Co
+93	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Du?c Vuong Ð?ng
+94	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Cu Diên Tr?ch
+95	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ph?c Nguu Son
+96	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	H? Khâu Ki?m Trì
+97	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Hu?ng Th?y Ð?ng
+98	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ði?m Thuong Son
+99	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Bành Lãi C? Tr?ch
+100	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phong Lang Ð?
+101	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Mê Cung Sa M?c
+102	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Kê Quán Ð?ng
+103	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Th?c Cuong Son
+104	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ki?m Các Th?c Ð?o
+105	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Hoàng Lang Ðoàn Th?
+106	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	C?u Nghi Khê
+107	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Long Môn Th?ch Qu?t
+108	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Hoàng Lang Tây H?
+109	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Hoàng H?c Lâu
+110	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ti?n Cúc Ð?ng
+111	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ki?m Môn Quan
+112	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Thiên Long T?
+113	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Bang Nguyên Bí Ð?ng
+114	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	S?c L?c Xuyên
+115	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Gia D? Quan
+116	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Hoa Son
+117	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Th?c Cuong Bí C?nh
+118	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Phong Ðô Qu? Thành
+119	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Miêu Linh
+120	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Vu Di Son
+121	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Vu Lang Son
+122	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M?c B?c Th?o Nguyên
+123	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ðôn Hoàng C? Thành
+124	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ho?t T? Nhân M?
+125	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?i Vu Ðài
+126	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tam Hi?p S?n Ð?o
+127	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Xi Vuu Ð?ng
+128	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	T?a Vân Uyên
+129	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Ph?c Luu Ð?ng
+130	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Mông C? Vuong Ðình
+131	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Nguy?t Nha Tuy?n
+132	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Tàn Tích Cung A Phòng
+133	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Luong Son B?c
+134	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Th?n N? Phong
+135	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tàn Tích D? Lang
+136	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	C? Lãng D?
+137	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Ðào Hoa Nguyên
+138	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Vân Trung Tr?n_Trong
+139	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Long Môn Tr?n_Trong
+140	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Vinh L?c Tr?n_Trong
+141	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?o Huong Thôn_Trong
+142	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Giang Tân Thôn_Trong
+143	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Giang Tân Thôn_Trong
+144	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Long Tuy?n Thôn_Trong
+145	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Ba Lang Huy?n_Trong
+146	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thi?u Lâm Phái_Trong
+147	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiên Nh?n Giáo_Trong
+148	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tát Mãn Giáo_Trong
+149	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Côn Lôn Phái_Trong
+150	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Tây H? Nh?t Ph?m Ðu?ng_Trong
+151	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Võ Ðang Phái_Trong
+152	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Cái Bang_Trong
+153	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Nga My Phái_Trong
+154	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Thúy Yên Môn_Trong
+155	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ðu?ng Môn_Trong
+156	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?i Lý Ðoàn Th?_Trong
+157	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ngu Ð?c Giáo_Trong
+158	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tru?ng Ca Môn_Trong
+159	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Thiên Vuong Bang_Trong
+160	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bi?n Kinh Ph?_Trong
+161	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Phu?ng Tu?ng Ph?_Trong
+162	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Tuong Duong Ph?_Trong
+163	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Duong Châu Ph?_Trong
+164	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Thành Ðô Ph?_Trong
+165	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?i Lý Ph?_Trong
+166	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Lâm An Ph?_Trong
+167	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Lôi Ðài Võ Lâm (Bi?n Kinh)
+168	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Lôi Ðài Võ Lâm (Phu?ng Tu?ng)
+169	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Lôi Ðài Võ Lâm (Tuong Duong)
+170	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Lôi Ðài Võ Lâm (Duong Châu)
+171	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Lôi Ðài Võ Lâm (Thành Ðô)
+172	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Lôi Ðài Võ Lâm (Ð?i Lý)
+173	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Lôi Ðài Võ Lâm (Lâm An)
+174	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thi?t Sách S?n Ki?u (Bi?n Kinh)
+175	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Thi?t Sách S?n Ki?u (Phu?ng Tu?ng)
+176	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Thi?t Sách S?n Ki?u (Tuong Duong)
+177	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Thi?t Sách S?n Ki?u (Duong Châu)
+178	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Thi?t Sách S?n Ki?u (Thành Ðô)
+179	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Thi?t Sách S?n Ki?u (Ð?i Lý)
+180	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Thi?t Sách S?n Ki?u (Lâm An)
+181	1	1	1	1	4	4	4	4	4	4	4	4	4	4	4	4	Báo Danh Chi?n Tru?ng_T?ng (Duong Châu 1)
+182	1	2	2	2	2	1	2	2	2	2	2	2	2	2	2	2	Báo Danh Chi?n Tru?ng_T?ng (Phu?ng Tu?ng 1)
+183	1	2	3	3	1	2	3	4	4	4	4	4	4	4	4	4	Báo Danh Chi?n Tru?ng_T?ng (Tuong Duong 1)
+184	1	1	1	1	4	4	4	4	4	4	4	4	4	4	4	4	Báo Danh Chi?n Tru?ng_Kim (Duong Châu 1)
+185	1	2	2	2	2	1	2	2	2	2	2	2	2	2	2	2	Báo Danh Chi?n Tru?ng_Kim (Phu?ng Tu?ng 1)
+186	1	2	3	3	1	2	3	4	4	4	4	4	4	4	4	4	Báo Danh Chi?n Tru?ng_Kim (Tuong Duong 1)
+187	1	1	1	1	4	4	4	4	4	4	4	4	4	4	4	4	C?u Khúc Chi?n (Duong Châu 1)
+188	1	2	2	2	2	1	2	2	2	2	2	2	2	2	2	2	C?u Khúc Chi?n (Phu?ng Tu?ng 1)
+189	1	2	3	3	1	2	3	4	4	4	4	4	4	4	4	4	C?u Khúc Chi?n (Tuong Duong 1)
+190	1	1	1	1	4	4	4	4	4	4	4	4	4	4	4	4	Ngu Tru?ng Nguyên Chi?n (Duong Châu 1)
+191	1	2	2	2	2	1	2	2	2	2	2	2	2	2	2	2	Ngu Tru?ng Nguyên Chi?n (Phu?ng Tu?ng 1)
+192	1	2	3	3	1	2	3	4	4	4	4	4	4	4	4	4	Ngu Tru?ng Nguyên Chi?n (Tuong Duong 1)
+193	1	1	1	1	4	4	4	4	4	4	4	4	4	4	4	4	Bàn Long C?c Chi?n (Duong Châu 1)
+194	1	2	2	2	2	1	2	2	2	2	2	2	2	2	2	2	Bàn Long C?c Chi?n (Phu?ng Tu?ng 1)
+195	1	2	3	3	1	2	3	4	4	4	4	4	4	4	4	4	Bàn Long C?c Chi?n (Tuong Duong 1)
+196	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ki?n Tính Phong_Trong
+197	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	C?u Lão Phong_Trong
+198	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Thanh Loa Ð?o_Trong
+199	1	1	1	2	33	3	3	3		3	3	3	3	3	3	3	Ðông Long H? Huy?n C?nh_Trong
+200	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ngoài Y?n T? ?_Trong
+201	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ðông B? H? Trúc Lâm_Trong
+202	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tây Tháp Lâm_Trong
+203	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hoàng Lang Kim Qu?c 2_Trong
+204	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Trong Bách Hoa Tr?n_Trong
+205	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tây R?ng Nguyên Sinh_Trong
+206	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?i Tán Quan_Trong
+207	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Hán Th?y C? Ð?_Trong
+208	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Cán Hoa Khê_Trong
+209	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Nhi H?i Ma Nham_Trong
+210	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Cu Diên Tr?ch_Trong
+211	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ph?c Nguu Son_Trong
+212	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ði?m Thuong Son_Trong
+213	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Bành Lãi C? Tr?ch_Trong
+214	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Mê Cung Sa M?c_Trong
+215	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Kê Quán Ð?ng_Trong
+216	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ki?m Các Th?c Ð?o_Trong
+217	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	C?u Nghi Khê_Trong
+218	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Long Môn Th?ch Qu?t_Trong
+219	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Hoàng Lang Tây H?_Trong
+220	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Thiên Long T?_Trong
+221	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Bang Nguyên Bí Ð?ng_Trong
+222	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?i Lao Bi?n Kinh
+223	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?i Lao Lâm An
+224	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Minh Giáo
+225	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Ð?i di?n B?ch H? Ðu?ng (so 1)
+226	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	B?ch H? Ðu?ng 1_Ðông (so 1)
+227	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	B?ch H? Ðu?ng 1_Nam (so 1)
+228	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	B?ch H? Ðu?ng 1_Tây (so 1)
+229	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	B?ch H? Ðu?ng 1_B?c (so 1)
+230	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	B?ch H? Ðu?ng 2_Âm (so 1)
+231	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	B?ch H? Ðu?ng 2_Duong (so 1)
+232	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	B?ch H? Ðu?ng 3 (so 1)
+233	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	Ð?i di?n B?ch H? Ðu?ng (cao)
+234	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 1_Ðông (cao)
+235	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 1_Nam (cao)
+236	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 1_Tây (cao)
+237	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 1_B?c (cao)
+238	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 2_Âm (cao)
+239	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 2_Duong (cao)
+240	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 3 (cao)
+241	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng môn phái (Thi?u Lâm)
+242	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Ð?u tru?ng môn phái (Thiên Vuong)
+243	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng môn phái (Ðu?ng Môn)
+244	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng môn phái (Ngu Ð?c)
+245	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng môn phái (Nga My)
+246	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng môn phái (Thúy Yên)
+247	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng môn phái (Cái Bang)
+248	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng môn phái (Thiên Nh?n)
+249	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng môn phái (Võ Ðang)
+250	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng môn phái (Côn Lôn)
+251	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng môn phái (Minh Giáo)
+252	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng môn phái (Ðoàn Th?)
+255	1	1	2	2	4	1	4	4	4	4	4	4	4	4	4	4	T?y T?y Ð?o
+256	1	1	2	2	4	1	4	4	4	4	4	4	4	4	4	4	T?y T?y Ð?o Son Ð?ng
+257	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	Báo Danh Chi?n Tru?ng_T?ng (Duong Châu 2)
+258	1	2	2	4	2	1	3	3	3	3	3	3	3	3	3	3	Báo Danh Chi?n Tru?ng_T?ng (Phu?ng Tu?ng 2)
+259	1	2	3	3	1	3	2	4	4	4	4	4	4	4	4	4	Báo Danh Chi?n Tru?ng_T?ng (Tuong Duong 2)
+260	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	Báo Danh Chi?n Tru?ng_Kim (Duong Châu 2)
+261	1	2	2	4	2	1	3	3	3	3	3	3	3	3	3	3	Báo Danh Chi?n Tru?ng_Kim (Phu?ng Tu?ng 2)
+262	1	2	3	3	1	3	2	4	4	4	4	4	4	4	4	4	Báo Danh Chi?n Tru?ng_Kim (Tuong Duong 2)
+263	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	C?u Khúc Chi?n (Duong Châu 2)
+264	1	2	2	4	2	1	3	3	3	3	3	3	3	3	3	3	C?u Khúc Chi?n (Phu?ng Tu?ng 2)
+265	1	2	3	3	1	3	2	4	4	4	4	4	4	4	4	4	C?u Khúc Chi?n (Tuong Duong 2)
+266	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	Ngu Tru?ng Nguyên Chi?n (Duong Châu 2)
+267	1	2	2	4	2	1	3	3	3	3	3	3	3	3	3	3	Ngu Tru?ng Nguyên Chi?n (Phu?ng Tu?ng 2)
+268	1	2	3	3	1	3	2	4	4	4	4	4	4	4	4	4	Ngu Tru?ng Nguyên Chi?n (Tuong Duong 2)
+269	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	Bàn Long C?c Chi?n (Duong Châu 2)
+270	1	2	2	4	2	1	3	3	3	3	3	3	3	3	3	3	Bàn Long C?c Chi?n (Phu?ng Tu?ng 2)
+271	1	2	3	3	1	3	2	4	4	4	4	4	4	4	4	4	Bàn Long C?c Chi?n (Tuong Duong 2)
+274	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?i di?n B?ch H? Ðu?ng (so 2)
+275	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	B?ch H? Ðu?ng 1_Ðông (so 2)
+276	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	B?ch H? Ðu?ng 1_Nam (so 2)
+277	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	B?ch H? Ðu?ng 1_Tây (so 2)
+278	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	B?ch H? Ðu?ng 1_B?c (so 2)
+279	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	B?ch H? Ðu?ng 2_Âm (so 2)
+280	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	B?ch H? Ðu?ng 2_Duong (so 2)
+281	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	B?ch H? Ðu?ng 3 (so 2)
+282	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Báo Danh Chi?n Tru?ng_T?ng (Duong Châu 3)
+283	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Báo Danh Chi?n Tru?ng_Kim (Duong Châu 3)
+284	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	C?u Khúc Chi?n (Duong Châu 3)
+285	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ngu Tru?ng Nguyên Chi?n (Duong Châu 3)
+286	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Bàn Long C?c Chi?n (Duong Châu 3)
+298	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+299	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+300	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+301	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+302	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+303	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+304	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+305	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+306	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+307	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+308	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+309	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+310	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+311	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+312	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+313	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Tiêu Dao C?c
+314	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Tiêu Dao C?c
+315	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Tiêu Dao C?c
+316	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Tiêu Dao C?c
+317	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Tiêu Dao C?c
+318	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+319	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+320	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+321	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+322	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+323	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+324	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+325	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+326	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+327	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+328	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+329	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+330	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+331	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+332	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+333	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Ð?i di?n B?ch H? Ðu?ng (so 3)
+334	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	B?ch H? Ðu?ng 1_Ðông (so 3)
+335	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	B?ch H? Ðu?ng 1_Nam (so 3)
+336	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	B?ch H? Ðu?ng 1_Tây (so 3)
+337	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	B?ch H? Ðu?ng 1_B?c (so 3)
+338	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	B?ch H? Ðu?ng 2_Âm (so 3)
+339	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	B?ch H? Ðu?ng 2_Duong (so 3)
+340	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	B?ch H? Ðu?ng 3 (so 3)
+341	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Báo Danh Tiêu Dao C?c 1
+342	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Báo Danh Tiêu Dao C?c 2
+399	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Thiên Lao
+400	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Khoang Thuy?n 1
+401	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Khoang Thuy?n 2
+402	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Khoang Thuy?n 3
+403	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Phòng Bùi D?c Phi
+404	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Phòng C?u Ch? Th?y
+405	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ngo?i M? Anh Hùng
+406	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ung Chu?n Giác
+407	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Mãnh H? H?ng
+408	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?o kh?
+409	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Trích Th?y Ð?ng
+410	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Tàng Vân Hiên
+411	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Bi?t Vi?n Tru?ng Giang
+412	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Xích Luy?n Xà Ð?ng
+413	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ðang Sát Kh?u
+414	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Cam L? C?c 1
+415	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Cam L? C?c 2
+416	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Cu?i Cam L? C?c
+417	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Cu?i Cam L? C?c
+418	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	V?n Tâm Các
+419	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	V?n Tâm Các
+420	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	T? Nghia S?nh
+421	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	N? Vu Oa B?ng
+422	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Phòng Ân Ð?ng
+423	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Phòng Ân Phuong
+424	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ðang Sát Kh?u Lâu
+425	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Noi ? M?c Th?
+426	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Cu?i Cát Hà Linh
+427	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Cu?i Cát Hà Linh
+428	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Mê Cung Th?ch Tu?ng_1
+429	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Mê Cung Th?ch Tu?ng_2
+430	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Mê Cung Th?ch Tu?ng_3
+431	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Bi?t Vi?n Âm Son
+432	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Bi?t Vi?n Âm Son
+433	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Gi?i Ki?m Trì
+434	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Thanh Hu Chân Th?t
+435	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Thanh Hu Chân Th?t
+436	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Vân L?c Th?y Cu
+437	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Vân L?c Th?y Cu
+438	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Vân L?c Th?y Cu
+439	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Noi ? Ðào Vinh Xuong
+440	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Noi ? Ðào Vinh Xuong
+441	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Noi ? Ðào Vinh Xuong
+442	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Noi ? Ðào Vinh Xuong
+443	1	1	1	2	3	3	2	3	3	3	3	3	3	3	3	3	Noi ? Ng?y Tru?ng Phong
+444	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Kim Cang Linh
+445	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Kim Cang Linh
+446	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	So T? Am
+447	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ti?m Cháo
+448	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	H?i Phong Giác Th?o Ðu?ng
+449	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	H?i Phong Giác Th?o Ðu?ng
+450	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Huy?n T? Lao
+451	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Noi ? Ng?t Tát
+452	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thiên Hình Ði?n
+453	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Trung Thành Ði?n
+454	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	N?i Doanh Hành T?i
+455	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?i Tru?ng Trung Quân
+456	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	T? Vân Am
+457	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Phòng C?u Tuy?t
+458	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ki?n Long Ð?ng
+459	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	B? Y Các
+460	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	B? Y Các
+461	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Chuy?t Gi? Cu
+462	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Gian tây Bi?t Nhã Ti?u Trúc
+463	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Gian chính Bi?t Nhã Ti?u Trúc
+464	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Xuân Mai Nhã Trúc
+465	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Xuân Mai Nhã Trúc
+466	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Xuân Mai Nhã Trúc
+467	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	H?u dình Xuân Mai Nhã Trúc
+468	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	H?u dình Xuân Mai Nhã Trúc
+469	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	D?ch Quán
+470	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	D?ch Quán
+471	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tr?n pháp t?ng k?
+472	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tr?n Pháp T?ng Khu
+473	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Huy?n Nguy?t Ð?i Tr?n
+474	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Trung tâm Huy?n Nguy?t Tr?n
+475	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ph?m Hà Ðu?ng
+476	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B? Sát Phong Nô
+477	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tàng Ki?m Son Trang
+478	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tri Xuân Ðài
+479	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ph? d? Chu Hy
+480	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Vào cung d?y h?c
+481	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Vào cung d?y h?c
+482	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Vào cung d?y h?c
+483	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ph? d? Bành Quy Niên
+484	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	H?u vi?n Bành Ph?
+485	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?i s?nh Tri?u Ph?
+486	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Lâm An Thành
+487	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ph? d? Chu Hy
+488	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Lâm An Thành
+489	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	M?t Th?t Th?m Ph?
+490	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Lâm An Thành
+491	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Lâm An Thành
+492	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Lâm An Thành
+498	1	1	1	1	1	1	1	3	3	3	3	3	3	3	3	3	Hi?p Si Danh Cu
+499	1	1	2	2	2	2	2	3	3	3	3	3	3	3	3	3	Quý T?c Vuong Ph?
+500	1	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	Bãi Bi?n Vuong H?u
+501	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Nhà tranh
+502	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Nhà tranh
+503	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	?n S?
+504	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Phân Ðà Cái Bang
+505	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	M?t Ð?o Cái Bang
+506	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Long Vuong Mi?u
+507	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Long Vuong Mi?u
+508	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Son Ð?ng
+509	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Soái Tru?ng H? Su
+510	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Nhà ?n Gi?
+511	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Phi Long C?c
+512	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Phi Long Tr?n
+513	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Thiên Qu?nh Cung
+514	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Thiên Ngo?i Thiên
+515	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?i s?nh Tri?u Ph?
+516	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?i s?nh Hàn Ph?
+517	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Gian bên Hàn Ph?
+518	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	T?m Cung Hoàng Thu?ng
+519	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	T?m Cung Thái H?u
+520	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	T?m Cung Thái H?u
+521	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	T?m Cung Thái H?u
+522	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tri Xuân Ðài
+523	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Hoàng Cung Ð?i Ði?n
+524	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Linh ?n T?
+525	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Sòng B?c Vong Quy
+526	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Doanh Tru?ng L? Binh
+527	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Doanh Tru?ng Luong H?ng Lâm
+528	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	M?t Th?t Luong H?ng Lâm
+529	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ph?c Nguu Son Trang
+530	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	H?c Long Ðàm
+531	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Son Tr?i
+532	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Son Tr?i
+533	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Bi?t Vi?n Ðu?ng Môn
+534	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Bi?t Vi?n Ðu?ng Môn
+535	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	D?ch Quán
+536	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Bi?t Vi?n Ngô Hy
+537	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Bi?t Vi?n Phòng Khách
+538	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Bi?t Vi?n Phòng Khách
+539	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Nhà nh? bên du?ng
+540	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Phòng giam
+541	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Nhà nh?
+542	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Nhà l?n
+543	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Quán tr?
+544	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Nh?t Ph?m Ðu?ng Binh Doanh
+545	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Th?ch C?c
+546	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	T? Nghia Lâu
+547	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	L?u Các
+548	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Mãng Xà Ð?ng
+549	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Hi?p C?c
+550	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Hi?p C?c
+551	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Hi?p C?c
+552	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Hi?p C?c
+553	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Thái T? B?o Kh?
+554	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Noi ? Ð?i Nh?t La
+555	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Thu?ng Tiên Trang
+556	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ph?c Nguu Son Quân Doanh 1
+558	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ph?c Nguu Son Quân Doanh 2
+559	1	2	2	4	2	1	3	3	3	3	3	3	3	3	3	3	Ph?c Nguu Son Quân Doanh 3
+561	1	1	1	1	1	1	1										V?ng Long Son
+562	1	1	1	1	1	1	1										Nhà hoang
+563	1	1	1	1	1	1	1										M?t Th?t Vuong Ph?
+564	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ng? Thu Phòng Hoàng Cung
+565	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	T?m Cung Hàn Hoàng H?u
+566	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ng?c Noãn Các
+567	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Kim Duy?t Hiên
+568	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Hoàng Cung Ð?i Ði?n
+569	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Linh Bích B?c
+570	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	B?ch Ph? M?ng C?nh
+571	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Son Tr?i M?ng C?nh
+572	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Thân Th? M?ng C?nh
+573	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Bí Doanh quân Kim
+574	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Du Long B?o Kh?
+575	1	2	3	4	4	4	4	3	3	3	3	3	3	3	3	3	Bãi Bi?n Vuong H?u
+576	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Hi?p L?_Khu Chu?n B?
+577	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Hi?p L?_Khu Chu?n B?
+578	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Hi?p L?_Khu Chu?n B?
+579	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Hi?p L?_Khu Chu?n B?
+580	1	2	2	3	1	1	1	1	1	1	1	1	1	1	1	1	Hi?p L?_Khu Chu?n B?
+581	1	2	3	3	1	2	2	2	2	2	2	2	2	2	2	2	Hi?p L?_Khu Chu?n B?
+582	1	2	3	4	2	1	3	3	3	3	3	3	3	3	3	3	Hi?p L?_Khu Chu?n B?
+583	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tr?m Gác Ti?n Tuy?n (1) 
+584	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tr?m Gác Ti?n Tuy?n (2) 
+585	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Tr?m Gác Ti?n Tuy?n (3) 
+800	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Phòng bên Tru?ng Ca Môn
+801	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Phòng bên Tru?ng Ca Môn
+802	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Vu Di Son Tinh Xá
+803	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Vu Di Son Tinh Xá
+804	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Vu Di Son Tinh Xá
+805	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ph? d? Chu Hy
+806	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	M?t Th?t Chu Hy
+807	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	M?t Th?t Chu Hy
+808	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	H?u vi?n tinh xá Vu Di Son
+809	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?i s?nh Hàn Ph?
+810	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Phòng bên Tru?ng Ca Môn
+811	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Lâm An Thành
+812	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Phòng giam Hoàn Nhan Quang
+813	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Phòng Tr?n Quý Thu?ng
+814	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	L?c N? Ð?ng
+815	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Trong Ph?c Nguu Son Trang
+816	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Bách C? Tr?n 1
+817	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Bách C? Tr?n 2
+818	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tiên Linh Ð?ng
+819	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Hoàng Cung Ð?i Lý
+820	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	H?u Vi?n Hoàng Cung
+821	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	Ð?i di?n B?ch H? Ðu?ng (cao)
+822	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 1_Ðông (cao)
+823	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 1_Nam (cao)
+824	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 1_Tây (cao)
+825	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 1_B?c (cao)
+826	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 2_Âm (cao)
+827	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 2_Duong (cao)
+828	1	2	3	3	1	2	1	1	1	1	1	1	1	1	1	1	B?ch H? Ðu?ng 3 (cao)
+1401	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	H?i tru?ng liên d?u (so) (1)
+1402	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	H?i tru?ng liên d?u (so) (2)
+1403	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	H?i tru?ng liên d?u (so) (3)
+1404	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	H?i tru?ng liên d?u (so) (4)
+1405	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	H?i tru?ng liên d?u (so) (5)
+1406	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	H?i tru?ng liên d?u (so) (6)
+1407	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	H?i tru?ng liên d?u (so) (7)
+1408	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	H?i tru?ng liên d?u (so) (8)
+1409	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	H?i tru?ng liên d?u (so) (9)
+1410	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	H?i tru?ng liên d?u (so) (10)
+1411	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	H?i tru?ng liên d?u (so) (11)
+1412	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	H?i tru?ng liên d?u (so) (12)
+1413	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu chu?n b? liên d?u (so) (1)
+1414	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Khu chu?n b? liên d?u (so) (2)
+1415	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Khu chu?n b? liên d?u (so) (3)
+1416	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Khu chu?n b? liên d?u (so) (4)
+1417	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Khu chu?n b? liên d?u (so) (5)
+1418	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Khu chu?n b? liên d?u (so) (6)
+1419	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Khu chu?n b? liên d?u (so) (7)
+1420	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu chu?n b? liên d?u (so) (8)
+1421	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Khu chu?n b? liên d?u (so) (9)
+1422	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Khu chu?n b? liên d?u (so) (10)
+1423	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Khu chu?n b? liên d?u (so) (11)
+1424	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Khu chu?n b? liên d?u (so) (12)
+1425	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (so) (1)
+1426	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng liên d?u (so) (2)
+1427	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (so) (3)
+1428	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng liên d?u (so) (4)
+1429	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (so) (5)
+1430	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng liên d?u (so) (6)
+1431	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (so) (7)
+1432	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (so) (8)
+1433	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (so) (9)
+1434	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng liên d?u (so) (10)
+1435	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (so) (11)
+1436	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (so) (12)
+1437	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	H?i tru?ng liên d?u (cao) (1)
+1438	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	H?i tru?ng liên d?u (cao) (2)
+1439	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	H?i tru?ng liên d?u (cao) (3)
+1440	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	H?i tru?ng liên d?u (cao) (4)
+1441	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	H?i tru?ng liên d?u (cao) (5)
+1442	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	H?i tru?ng liên d?u (cao) (6)
+1443	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	H?i tru?ng liên d?u (cao) (7)
+1444	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	H?i tru?ng liên d?u (cao) (8)
+1445	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	H?i tru?ng liên d?u (cao) (9)
+1446	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	H?i tru?ng liên d?u (cao) (10)
+1447	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	H?i tru?ng liên d?u (cao) (11)
+1448	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	H?i tru?ng liên d?u (cao) (12)
+1449	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu chu?n b? liên d?u (cao) (1)
+1450	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Khu chu?n b? liên d?u (cao) (2)
+1451	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Khu chu?n b? liên d?u (cao) (3)
+1452	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Khu chu?n b? liên d?u (cao) (4)
+1453	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Khu chu?n b? liên d?u (cao) (5)
+1454	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Khu chu?n b? liên d?u (cao) (6)
+1455	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Khu chu?n b? liên d?u (cao) (7)
+1456	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Khu chu?n b? liên d?u (cao) (8)
+1457	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Khu chu?n b? liên d?u (cao) (9)
+1458	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Khu chu?n b? liên d?u (cao) (10)
+1459	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Khu chu?n b? liên d?u (cao) (11)
+1460	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Khu chu?n b? liên d?u (cao) (12)
+1461	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (cao) (1)
+1462	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng liên d?u (cao) (2)
+1463	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (cao) (3)
+1464	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng liên d?u (cao) (4)
+1465	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (cao) (5)
+1466	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng liên d?u (cao) (6)
+1467	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (cao) (7)
+1468	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (cao) (8)
+1469	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (cao) (9)
+1470	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng liên d?u (cao) (10)
+1471	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (cao) (11)
+1472	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (cao) (12)
+1473	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng nhi?u ngu?i (so) (1)
+1474	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng nhi?u ngu?i (so) (2)
+1475	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng nhi?u ngu?i (so) (3)
+1476	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng nhi?u ngu?i (so) (4)
+1477	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng nhi?u ngu?i (so) (5)
+1478	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng nhi?u ngu?i (so) (6)
+1479	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng nhi?u ngu?i (so) (7)
+1480	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng nhi?u ngu?i (so) (8)
+1481	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng nhi?u ngu?i (so) (9)
+1482	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng nhi?u ngu?i (so) (10)
+1483	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng nhi?u ngu?i (so) (11)
+1484	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng nhi?u ngu?i (so) (12)
+1485	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng nhi?u ngu?i (cao) (1)
+1486	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng nhi?u ngu?i (cao) (2)
+1487	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng nhi?u ngu?i (cao) (3)
+1488	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng nhi?u ngu?i (cao) (4)
+1489	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng nhi?u ngu?i (cao) (5)
+1490	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng nhi?u ngu?i (cao) (6)
+1491	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng nhi?u ngu?i (cao) (7)
+1492	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng nhi?u ngu?i (cao) (8)
+1493	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng nhi?u ngu?i (cao) (9)
+1494	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng nhi?u ngu?i (cao) (10)
+1495	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng nhi?u ngu?i (cao) (11)
+1496	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng nhi?u ngu?i (cao) (12)
+1497	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ðào Nguyên (1)
+1498	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	Ðào Nguyên (2)
+1499	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	Ðào Nguyên (3)
+1500	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	Ðào Nguyên (4)
+1501	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ðào Nguyên (5)
+1502	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	Ðào Nguyên (6)
+1503	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	Ðào Nguyên (7)
+1504	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Sân nhà Án Nhu?c Tuy?t (1)
+1505	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Sân nhà Án Nhu?c Tuy?t (2)
+1506	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Sân nhà Án Nhu?c Tuy?t (3)
+1507	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Phi T? Nhai
+1508	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (so) (1)
+1509	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng liên d?u (so) (2)
+1510	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (so) (3)
+1511	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng liên d?u (so) (4)
+1512	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (so) (5)
+1513	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng liên d?u (so) (6)
+1514	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (so) (7)
+1515	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (so) (8)
+1516	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (so) (9)
+1517	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng liên d?u (so) (10)
+1518	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (so) (11)
+1519	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (so) (12)
+1520	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (cao) (1)
+1521	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng liên d?u (cao) (2)
+1522	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (cao) (3)
+1523	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng liên d?u (cao) (4)
+1524	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (cao) (5)
+1525	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Ð?u tru?ng liên d?u (cao) (6)
+1526	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (cao) (7)
+1527	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (cao) (8)
+1528	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (cao) (9)
+1529	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Ð?u tru?ng liên d?u (cao) (10)
+1530	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Ð?u tru?ng liên d?u (cao) (11)
+1531	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Ð?u tru?ng liên d?u (cao) (12)
+1532	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	T?ch M?ch Ho?ch Th?y Tr?i (1)
+1533	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	T?ch M?ch Ho?ch Th?y Tr?i (2)
+1534	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	T?ch M?ch Ho?ch Th?y Tr?i (3)
+1536	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	T?n Lang 1
+1537	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	T?n Lang 2
+1538	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	T?n Lang 3
+1539	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	T?n Lang 4
+1540	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	T?n Lang 5
+1541	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Lâm An Ph?-Thánh Tri?u Các
+1542	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+1543	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+1544	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+1545	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	Tiêu Dao C?c
+1546	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Tiêu Dao C?c
+1547	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Tiêu Dao C?c
+1548	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	Tiêu Dao C?c
+1635	1	1	1	1	4	4	4	4	4	4	4	4	4	4	4	4	Gia D? Quan Chi?n-Duong Châu 1
+1636	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	Gia D? Quan Chi?n-Duong Châu 2
+1637	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	Gia D? Quan Chi?n-Duong Châu 3
+1638	1	2	2	2	2	1	2	2	2	2	2	2	2	2	2	2	Gia D? Quan Chi?n-Phu?ng Tu?ng 1
+1639	1	2	2	4	2	1	3	3	3	3	3	3	3	3	3	3	Gia D? Quan Chi?n-Phu?ng Tu?ng 2
+1640	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	Gia D? Quan Chi?n-Phu?ng Tu?ng 3
+1641	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Gia D? Quan Chi?n-Tuong Duong 1
+1642	1	2	2	4	1	1	3	4	4	4	4	4	4	4	4	4	Gia D? Quan Chi?n-Tuong Duong 2
+1643	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	Gia D? Quan Chi?n-Tuong Duong 3
+1665	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M?t Th?t Du Long (1)
+1666	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M?t Th?t Du Long (2)
+1667	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M?t Th?t Du Long (3)
+1668	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	M?t Th?t Du Long (4)
+1669	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	M?t Th?t Du Long (5)
+1670	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	M?t Th?t Du Long (6)
+1671	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	M?t Th?t Du Long (7)
+1672	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	M?t Th?t Du Long (8)
+1673	1	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	M?t Th?t Du Long (9)
+1674	1	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	M?t Th?t Du Long (10)
+1675	1	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	M?t Th?t Du Long (11)
+1676	1	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	M?t Th?t Du Long (12)
+1677	1	2	3	4	4	4	4	4	4	4	4	4	4	4	4	4	M?t Th?t Du Long (13)
+1678	1	2	3	4	4	4	4	4	4	4	4	4	4	4	4	4	M?t Th?t Du Long (14)
+1679	1	2	3	4	4	4	4	4	4	4	4	4	4	4	4	4	M?t Th?t Du Long (15)
+1680	1	2	3	4	4	4	4	4	4	4	4	4	4	4	4	4	M?t Th?t Du Long (16)
+1681	1	2	3	4	1	1	1	1	1	1	1	1	1	1	1	1	M?t Th?t Du Long (17)
+1682	1	2	3	4	1	1	1	1	1	1	1	1	1	1	1	1	M?t Th?t Du Long (18)
+1683	1	2	3	4	1	1	1	1	1	1	1	1	1	1	1	1	M?t Th?t Du Long (19)
+1684	1	2	3	4	1	1	1	1	1	1	1	1	1	1	1	1	M?t Th?t Du Long (20)
+1685	1	2	3	4	1	2	2	2	2	2	2	2	2	2	2	2	M?t Th?t Du Long (21)
+1686	1	2	3	4	1	2	2	2	2	2	2	2	2	2	2	2	M?t Th?t Du Long (22)
+1687	1	2	3	4	1	2	2	2	2	2	2	2	2	2	2	2	M?t Th?t Du Long (23)
+1688	1	2	3	4	1	2	2	2	2	2	2	2	2	2	2	2	M?t Th?t Du Long (24)
+1689	1	2	3	4	1	2	3	3	3	3	3	3	3	3	3	3	M?t Th?t Du Long (25)
+1690	1	2	3	4	1	2	3	3	3	3	3	3	3	3	3	3	M?t Th?t Du Long (26)
+1691	1	2	3	4	1	2	3	3	3	3	3	3	3	3	3	3	M?t Th?t Du Long (27)
+1692	1	2	3	4	1	2	3	3	3	3	3	3	3	3	3	3	M?t Th?t Du Long (28)
+1695	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	
+1696	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	
+1697	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	
+1698	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	
+1699	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	
+1700	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	
+1701	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1702	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	
+1703	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	
+1704	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	
+1705	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	
+1706	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1707	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	
+1708	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	
+1709	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	
+1710	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	
+1711	1	2	3	3	3	2	2	2	2	2	2	2	2	2	2	2	
+1712	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	
+1713	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	
+1714	1	2	2	4	2	4	3	3	3	3	3	3	3	3	3	3	
+1715	1	1	2	2	4	4	4	4	4	4	4	4	4	4	4	4	
+1716	1	2	3	3	1	1	1	1	1	1	1	1	1	1	1	1	
+1717	1	1	1	2	3	3	3	3	3	3	3	3	3	3	3	3	

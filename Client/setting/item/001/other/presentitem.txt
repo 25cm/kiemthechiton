@@ -1,0 +1,50 @@
+ClassParamID	Desc	Name	BindMoney	Money	Coin	Genre	DetailType	ParticularType	Level	Series	EnhTimes	Amount	Exp	BaseExp	MKP	GTP	SkillId	SkillLevel	SkillTime	Bind	TimeLimit	Announce	FriendMsg
+Vật phẩm ExtParam1	Túi quà	Mở được	Bạc khóa	Bạc		Loại lớn	Loại con	Loại chi tiết	Cấp	Ngũ hành	Cường hóa	Số lượng	Kinh nghiệm	Kinh nghiệm chuẩn	Tinh lực	Sinh lực	ID kỹ năng (kỹ năng BUFF)	Cấp kỹ năng	Thời gian duy trì kỹ năng (đơn vị: phút)	Khóa	Hiệu lực (định dạng giống ItemTimeOut) nếu không điền  tùy thuộc hiệu lực của Túi quà  0 tức không giới hạn thời gian	Thế giới	Hảo hữu
+1	Túi quà thăng cấp	Kẹo giáng sinh				18	1	271	1	0	0	10											
+1	Túi quà thăng cấp	Đại Bạch Câu Hoàn				18	1	71	2	0	0	5											
+1	Túi quà thăng cấp	Tu Luyện Đơn				18	1	258	1	0	0												
+2	Túi quà cường hóa	Thỏi vàng				18	1	118	1	0	0												
+2	Túi quà cường hóa	Huyền Tinh cấp 5				18	1	1	5	0	0	10											
+2	Túi quà cường hóa	Huyền Tinh cấp 7				18	1	1	7	0	0	1											
+3	Túi quà danh vọng	Lệnh bài Uy danh giang hồ				18	1	236	1	0	0	5											
+3	Túi quà danh vọng	Lệnh bài chúc phúc (sơ)				18	1	212	1	0	0	1											
+3	Túi quà danh vọng	Lệnh Bài Bạch Hổ Đường (cao)				18	1	111	3	0	0	5											
+3	Túi quà danh vọng	Lệnh bài gia tộc (cao)				18	1	110	3	0	0	5											
+4	Túi quà Tu Luyện Đơn	Tu Luyện Đơn [không khóa]				18	1	258	1	0	0	1											
+4	Túi quà Tu Luyện Đơn	Tu Luyện Đơn [khóa]				18	1	258	1	0	0	2								1			
+5	Túi quà Lệnh bài chúc phúc	Lệnh bài chúc phúc (cao)				18	1	212	3	0	0	2											
+6	Túi quà Huyền Tinh cấp 7	Huyền Tinh thường (cấp 7) [không khóa]				18	1	1	7	0	0	1											
+6	Túi quà Huyền Tinh cấp 7	Huyền Tinh thường (cấp 7) [khóa]				18	1	1	7	0	0	1								1			
+7	Túi quà Huyền Tinh cấp 9	Huyền Tinh vô hạ (cấp 9) [không khóa]				18	1	1	9	0	0	1											
+7	Túi quà Huyền Tinh cấp 9	Huyền Tinh vô hạ (cấp 9) [khóa]				18	1	1	9	0	0	1								1			
+7	Túi quà Huyền Tinh cấp 9	Mỗi ngày 20% ưu đãi cường hóa															892	1	1440				
+8	Túi quà rương Hồn Thạch nhỏ	Rương Hồn Thạch (100) [không khóa]				18	1	244	1	0	0	1											
+8	Túi quà rương Hồn Thạch nhỏ	Rương Hồn Thạch (100) [khóa]				18	1	244	1	0	0	1								1			
+9	Túi quà rương Hồn Thạch lớn	Rương Hồn Thạch (1000) [không khóa]				18	1	244	2	0	0	1											
+9	Túi quà rương Hồn Thạch lớn	Rương Hồn Thạch (1000) [khóa]				18	1	244	2	0	0	1								1			
+10	Túi quà Bạch Câu Hoàn đặc biệt	Bạch Câu Hoàn đặc biệt [không khóa]				18	1	71	4	0	0	5											
+10	Túi quà Bạch Câu Hoàn đặc biệt	Bạch Câu Hoàn đặc biệt [khóa]				18	1	71	4	0	0	5								1			
+11	Túi quà cường hóa	Huyền tinh cấp 5 [Không khóa]				18	1	1	5	0	0	1											
+11	Túi quà cường hóa	Huyền tinh cấp 5 [Khóa]				18	1	114	5	0	0	1								1			
+12	Túi quà cường hóa	Huyền tinh cấp 5 [Không khóa]				18	1	1	5	0	0	10											
+12	Túi quà cường hóa	Huyền tinh cấp 5 [Khóa]				18	1	114	5	0	0	12								1			
+13	Túi quà cường hóa	Huyền Tinh thường (cấp 7) [không khóa]				18	1	1	7	0	0	10											
+13	Túi quà cường hóa	Huyền Tinh thường (cấp 7) [khóa]				18	1	114	7	0	0	12								1			
+20000	Túi phúc cường hóa	Huyền tinh cấp 5 [Khóa]				18	1	114	5	0	0	1											
+20000	Túi phúc cường hóa	Huyền tinh cấp 5 [Không khóa]				18	1	1	5	0	0	1											
+20000	Túi phúc cường hóa	Huyền Tinh thường (cấp 7) [khóa]				18	1	114	7	0	0	1											
+20000	Túi phúc cường hóa	Huyền Tinh thường (cấp 7) [không khóa]				18	1	1	7	0	0	1											
+20001	Túi phúc tiền điểm	Lệnh Bài Nghĩa Quân				18	1	84	1	0	0	1											
+20001	Túi phúc tiền điểm	Lệnh bài thi đấu môn phái (cao)				18	1	81	3	0	0	1											
+20001	Túi phúc tiền điểm	Lệnh Bài Bạch Hổ Đường (cao)				18	1	111	3	0	0	1											
+20001	Túi phúc tiền điểm	Lệnh Bài Gia Tộc (cao)				18	1	110	3	0	0	1											
+20001	Túi phúc tiền điểm	Lệnh bài chiến trường (Phượng Tường)				18	1	112	2	0	0	1											
+20001	Túi phúc tiền điểm	Lệnh bài Uy danh giang hồ				18	1	236	1	0	0	1											
+20001	Túi phúc tiền điểm	Thỏi vàng				18	1	118	1	0	0	1											
+20002	Túi kinh nghiệm	Quả xí muội (sơ)				18	1	1035	1	0	0	1											
+20002	Túi kinh nghiệm	Bản đồ bí cảnh				18	1	251	1	0	0	1											
+20002	Túi kinh nghiệm	Thùng rượu (5 bình)				18	1	189	1	0	0	1											
+20002	Túi kinh nghiệm	Cường Hiệu Bạch Câu Hoàn				18	1	71	3	0	0	1											
+20003	Túi phúc vi hành	Mã bài (Xích Thố)				1	12	45	4	0	0	1											
+20003	Túi phúc vi hành	Vô Hạn Truyền Tống Phù				18	1	195	1	0	0	1											
+20003	Túi phúc vi hành	Càn Khôn Phù (10 lần)				18	1	85	1	0	0	1											

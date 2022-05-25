@@ -1,0 +1,244 @@
+20211126-201806<DEBUG:00008A30>: [PrevInitCore]:1, start tickers = 27287473839123
+20211126-201806<ERROR:00008A30>: GetString(2, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(3, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(4, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(5, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(6, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(7, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(8, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(9, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(10, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(11, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(12, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(13, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(14, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(15, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(16, Level) failed !
+20211126-201806<ERROR:00008A30>: GetString(17, Level) failed !
+20211126-201806<DEBUG:00008A30>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 1811207142
+20211126-201807<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nCount >= 3) at line 69 in _g_GetColorValue
+20211126-201811<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201811<ERROR:00008A30>: GetInteger(12, 1) failed !
+20211126-201812<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(bRetCode) at line 145 in KUIManage::LoadUiGroup
+20211126-201812<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(bRetCode) at line 145 in KUIManage::LoadUiGroup
+20211126-201812<ERROR:00008A30>: Script stack leak! (2)
+20211126-201911<DEBUG:00008A30>: Error: m_CurrentLifeMax > 0 (nBaseChange 0, nAddPChange 0, nAddVChange 0)
+20211126-201912<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOutLen > 0) at line 122 in s_Ansi_Utf16
+20211126-201916<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201916<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201916<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201916<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201916<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201916<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201916<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201916<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201916<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201916<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201919<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201919<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201919<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201919<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201919<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201919<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201919<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201919<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201919<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201919<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201919<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(m_dwLockCode) at line 3939 in KPlayer::UnlockAction
+20211126-201919<DEBUG:00008A30>: Error: m_CurrentLifeMax > 0 (nBaseChange 0, nAddPChange 0, nAddVChange 0)
+20211126-201919<ERROR:00008A30>: GetInteger(141, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(141, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(141, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(141, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(142, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(142, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(142, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(142, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(143, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(143, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(143, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(143, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(144, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(144, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(144, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(144, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(145, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(145, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(145, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(145, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(146, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(146, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(146, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(146, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(147, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(147, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(147, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(147, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(148, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(148, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(148, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(148, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(149, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(149, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(149, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(149, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(150, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(150, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(150, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(150, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(151, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(151, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(151, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(151, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(152, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(152, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(152, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(152, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(153, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(153, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(153, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(153, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(154, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(154, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(154, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(154, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(155, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(155, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(155, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(155, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(156, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(156, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(156, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(156, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(157, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(157, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(157, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(157, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(158, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(158, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(158, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(158, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(159, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(159, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(159, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(159, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(160, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(160, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(160, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(160, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(161, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(161, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(161, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(161, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(162, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(162, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(162, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(162, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(163, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(163, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(163, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(163, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(164, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(164, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(164, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(164, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(165, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(165, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(165, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(165, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(166, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(166, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(166, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(166, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(167, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(167, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(167, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(167, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(168, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(168, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(168, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(168, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(169, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(169, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(169, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(169, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(170, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(170, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(170, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(170, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(171, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(171, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(171, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(171, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(172, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(172, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(172, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(172, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(173, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(173, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(173, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(173, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(174, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(174, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(174, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(174, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(175, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(175, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(175, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(175, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(176, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(176, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(176, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(176, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(177, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(177, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(177, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(177, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(178, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(178, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(178, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(178, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(179, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(179, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(179, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(179, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(180, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(180, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(180, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(180, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(181, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(181, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(181, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(181, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(182, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(182, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(182, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(182, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(183, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(183, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(183, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(183, Content) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(184, Type) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(184, Point_x) failed !
+20211126-201919<ERROR:00008A30>: GetInteger(184, Point_y) failed !
+20211126-201919<ERROR:00008A30>: GetString(184, Content) failed !
+20211126-201922<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201922<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201923<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201923<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201925<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201925<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201927<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201927<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201929<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201929<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201932<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201932<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201935<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201935<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201937<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201937<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201940<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201940<ERROR:00008A30>: GetString(366, 2) failed !
+20211126-201944<DEBUG:00008A30>: KGLOG_PROCESS_ERROR(nOffset < nSize) at line 65 in s_GoNextLine
+20211126-201944<ERROR:00008A30>: GetString(366, 2) failed !

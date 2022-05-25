@@ -1,0 +1,5 @@
+Name	Value	Desc
+IVER_nRaceBegin	20210912	"Thời gian bắt đầu đua thuyền Rồng"
+IVER_nRacetEnd	20210928	"Thời gian kết thúc đua thuyền Rồng"
+IVER_nRewardBegin	20210929	"Thời gian bắt đầu nhận thưởng đua thuyền Rồng"
+IVER_nRewardEnd	20210930	"Thời gian kết thúc nhận thưởng đua thuyền Rồng"

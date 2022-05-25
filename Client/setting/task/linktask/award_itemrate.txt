@@ -1,0 +1,22 @@
+Group	Name	Genre	Detail	Particular	Level	Five	Value	Bind	Rate
+Thuộc nhóm	Tên đạo cụ	Loại Đạo Cụ	Loại cụ thể	Loại chi tiết	Cấp	Ngũ hành	Giá trị 	Loại khóa	Tỷ lệ
+1	Thiệp bạc (cấp 2)	18	1	541	2	0	0	1	5000
+1	Tần Lăng-Mạc Kim Phù	18	1	366	1	0	0	1	5000
+2	Chân Nguyên Tu Luyện Đơn	18	1	1333	1	0	0	1	5000
+2	Sách Kinh Nghiệm Đồng Hành	18	1	543	1	0	0	1	5000
+3	Rương Vật Phẩm	18	1	3019	1	0	0	1	2000
+3	Tinh Thạch Phượng Hoàng	18	1	1331	1	0	0	1	8000
+4	Huyết Ảnh Thương	18	1	200	1	0	0	1	8000
+4	Rương Mảnh Ghép	18	1	3046	1	0	0	1	2000
+5	Thiệp bạc (cấp 2)	18	1	541	2	0	0	1	8000
+5	Bông Tuyết	18	1	3039	1	0	0	1	2000
+6	Chân Nguyên Tu Luyện Đơn	18	1	1333	1	0	0	1	8000
+6	Tinh Thạch Ảnh Nguyệt	18	1	1331	2	0	0	1	2000
+7	Rương Vật Phẩm	18	1	3019	1	0	0	1	2000
+7	Liên Đấu Bạch Ngân Bài	18	1	215	3	0	0	1	8000
+8	Sách Kinh Nghiệm Đồng Hành	18	1	543	1	0	0	1	8000
+8	Tinh Thạch Ảnh Nguyệt	18	1	1331	2	0	0	1	2000
+9	Bông Tuyết	18	1	3039	1	0	0	1	2000
+9	Tinh Thạch Phượng Hoàng	18	1	1331	1	0	0	1	8000
+10	Rương Mảnh Ghép	18	1	3046	1	0	0	1	2000
+10	Bách Bộ Xuyên Dương Cung	18	1	263	1	0	0	1	8000

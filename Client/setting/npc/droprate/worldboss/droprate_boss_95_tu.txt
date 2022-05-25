@@ -1,0 +1,4 @@
+Genre	Detail	Particular	Level	RandRate	Name	
+18	1	3046	1	160000	Ruong MG
+18	1	3019	1	140000	Ruong VP		
+18	1	1194	2	100000	Tien dong 5v	

@@ -1,0 +1,16 @@
+SuiteID	Name	SuiteNum1	SuiteMA1Name	SuiteMA1PA1	SuiteMA1PA2	SuiteMA1PA3	SuiteNum2	SuiteMA2Name	SuiteMA2PA1	SuiteMA2PA2	SuiteMA2PA3	SuiteNum3	SuiteMA3Name	SuiteMA3PA1	SuiteMA3PA2	SuiteMA3PA3	SuiteNum4	SuiteMA4Name	SuiteMA4PA1	SuiteMA4PA2	SuiteMA4PA3	Head	Body	Belt	Weapon	Foot	Cuff	Amulet	Ring	Necklace	Pendant	Horse	Mask	Book
+1	Bộ Tiêu Dao	2	adddefense_v	100	0	0	3	deadlystrikeenhance_r	35	0	0															Tiêu Dao Ngoa	Tiêu Dao Hộ Uyển				Tiêu Dao Ngọc Bội			
+2	Bộ Tiêu Dao (Nữ)	2	adddefense_v	100	0	0	3	deadlystrikeenhance_r	35	0	0															Tiêu Dao Đạp Lãng Ngoa	Tiêu Dao Tường Phượng Thủ Trạc				Tiêu Dao Băng Nguyệt Hương Nang			
+3	Bộ Võ Lâm Liên Đấu	2	lifemax_v	150	0	0	3	damage_all_resist	45	0	0												Vũ Uy Y					Vũ Uy Hộ Thân Phù	Vũ Uy Giới					
+4	Bộ Tranh đoạt lãnh thổ	2	lifemax_p	8	0	0	3	deadlystrikedamageenhance_p	15	0	0											Trục Lộc Thương Khung Quán		Trục Lộc Hoàng Long Triền Yêu						Trục Lộc Thiên Hựu Liên				
+5	Bộ Thủy Hoàng	2	allseriesstateresisttime	50	0	0	3	damage_all_resist	45	0	0												Thủy Hoàng Y				Thủy Hoàng Hộ Uyển				Thủy Hoàng Yêu Trụy			
+6	Bộ Bá Vương	3	damage_all_resist	100	0	0	5	allseriesstateresisttime	100	0	0	7	deadlystrikedamageenhance_p	45	0	0	9	adddefense_v	100	0	0		
+9	Bộ Sát Thần	3	damage_all_resist	120	0	0	5	allseriesstateresisttime	120	0	0	7	deadlystrikedamageenhance_p	60	0	0	9	adddefense_v	120	0	0		
+10	Bộ [Admin]	3	damage_all_resist	500	0	0	5	allseriesstateresisttime	1000	0	0	7	deadlystrikedamageenhance_p	60	0	0	9	adddefense_v	300	0	0	[Admin] Quán	[Admin] Giáp	[Admin] Triền Yêu		[Admin] Lữ	[Admin] Luân	[Admin] Phù	[Admin] Giới Chỉ	[Admin] Hạng Liên	[Admin] Bội(Hương Nang)			
+11	Bộ Mừng Xuân 2014 Nam	1	damage_all_resist	250	0	0	2	allseriesstateresisttime	250	0	0	2	deadlystrikedamageenhance_p	45	0	0	2	adddefense_v	150	0	0	Mũ Nam Tết 2014	Áo Nam Tết 2014											
+12	Bộ Mừng Xuân 2014 Nữ	1	damage_all_resist	250	0	0	2	allseriesstateresisttime	250	0	0	2	deadlystrikedamageenhance_p	45	0	0	2	adddefense_v	150	0	0	Mũ Nữ Tết 2014	Áo Nữ Tết 2014											
+13	Bộ Huyền Thoại	3	allseriesstateresisttime	250	0	0	5	expenhance_p	50	0	0	7	deadlystrikedamageenhance_p	60	0	0	9	allskill_v	1	1	896													
+14	Bộ Tinh Thông	3	damage_all_resist	120	0	0	5	allseriesstateresisttime	120	0	0	7	deadlystrikedamageenhance_p	60	0	0	9	adddefense_v	120	0	0	[Tinh Thông] Quán	[Tinh Thông] Giáp	[Tinh Thông] Triền Yêu		[Tinh Thông] Lữ	[Tinh Thông] Luân	[Tinh Thông] Phù	[Tinh Thông] Giới Chỉ	[Tinh Thông] Hạng Liên	[Tinh Thông] Bội(Hương Nang)			
+15	Bộ Mộng Long	2	allseriesstateresisttime	70	0	0	3	damage_all_resist	80	0	0	4	expenhance_p	50	0	0						Mộng Long Thiên Hoàng Quán	Mộng Long Hoàng Thiên Giáp	Mộng Long Càn Khôn Yêu						Mộng Long Tuyết Băng Liên				
+16	Bộ Thiên Tuyệt	3	allseriesstateresisttime	250	0	0	5	allskill_v	1	1	0	7	deadlystrikedamageenhance_p	100	0	0	9	allskill_v	2	2	896													
+17	Bộ Thiên Ma	3	damage_all_resist	2000	0	0	5	deadlystrikedamageenhance_p	85	0	0	7	lifereplenish_p	100	0	0	9	allskill_v	1	1	0													

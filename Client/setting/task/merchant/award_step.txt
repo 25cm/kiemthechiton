@@ -1,0 +1,22 @@
+Step	Name	Genre	Detail	Particular	Level	Five	Num	Money	BindMoney
+Bước 	Tên miêu tả	Loại Đạo Cụ	Loại cụ thể	Loại chi tiết	Cấp	Ngũ hành	Số lượng	Bạc	Bạc khóa
+10	Rương Mảnh Ghép	18	1	3046	1		30		
+10	Rương Vật Phẩm	18	1	3019	1		30		
+10	Tiền Du Long	18	1	553	1		100		
+10	Pháo Hoa	18	1	3039	1		2		
+10	Kim Nguyên Bảo (Trung)	18	1	1194	2		1		
+20	Rương Mảnh Ghép	18	1	3046	1		35		
+20	Rương Vật Phẩm	18	1	3019	1		35		
+20	Tiền Du Long	18	1	553	1		150		
+20	Pháo Hoa	18	1	3039	1		3		
+20	Kim Nguyên Bảo (Trung)	18	1	1194	2		1		
+30	Rương Mảnh Ghép	18	1	3046	1		40		
+30	Rương Vật Phẩm	18	1	3019	1		40		
+30	Tiền Du Long	18	1	553	1		200		
+30	Pháo Hoa	18	1	3039	1		5		
+30	Kim Nguyên Bảo (Đại)	18	1	1194	3		1		
+40	Rương Mảnh Ghép	18	1	3046	1		50		
+40	Rương Vật Phẩm	18	1	3019	1		50		
+40	Tần Lăng - Hòa Thị Bích	18	1	5000	50		10		
+40	Tinh Thạch Thánh Hỏa	18	1	1331	4		2		
+40	Kim Nguyên Bảo (Đại)	18	1	1194	3		3		

@@ -1,0 +1,38 @@
+SkillId	SkillDesc	SkillName
+1491	Tăng sinh nội tối đa	Ích Thọ Âm Dương
+1492	Tăng sinh nội tối đa và giảm thời gian thọ thương	Ích Thọ Âm Dương-Tuyệt
+1493	Tăng sinh nội tối đa và giảm thời gian suy yếu	Ích Thọ Âm Dương-Cực
+1494	Tăng sinh nội tối đa và giảm thời gian làm chậm	Ích Thọ Âm Dương-Chấn
+1495	Tăng sinh nội tối đa và giảm thời gian bỏng	Ích Thọ Âm Dương-Hàn
+1496	Tăng sinh nội tối đa và giảm thời gian choáng	Ích Thọ Âm Dương-Minh
+1497	Tăng sinh nội tối đa, giảm thời gian thọ thương và tăng kinh nghiệm	Như Mộc Xuân Phong-Tuyệt
+1498	Tăng sinh nội tối đa, giảm thời gian suy yếu và tăng kinh nghiệm	Như Mộc Xuân Phong-Cực
+1499	Tăng sinh nội tối đa, giảm thời gian làm chậm và tăng kinh nghiệm	Như Mộc Xuân Phong-Chấn
+1500	Tăng sinh nội tối đa, giảm thời gian bỏng và tăng kinh nghiệm	Như Mộc Xuân Phong-Hàn
+1501	Tăng sinh nội tối đa, giảm thời gian choáng và tăng kinh nghiệm	Như Mộc Xuân Phong-Minh
+1502	Kháng tất cả	Ngũ Hành Vô Tướng
+1503	Kháng tất cả và kháng thường	Ngũ Hành Vô Tướng-Phục Thạch
+1504	Kháng tất cả và kháng độc	Ngũ Hành Vô Tướng-Chu Thiềm
+1505	Kháng tất cả và kháng băng	Ngũ Hành Vô Tướng-Nghịch Thủy
+1506	Kháng tất cả và kháng hỏa	Ngũ Hành Vô Tướng-Việt Quang
+1507	Kháng tất cả và kháng lôi	Ngũ Hành Vô Tướng-Cự Mộc
+1508	Tăng tránh đòn	Truy Ảnh Quyết
+1509	Tăng chính xác, tránh đòn	Vô Niệm Kinh
+1510	Tăng tỷ lệ chí mạng	Hội Thần Tịnh Tâm
+1511	Tăng tỷ lệ chí mạng và tấn công chí mạng	Kinh Hồng Nhất Kích
+1512	Tăng né tránh	Đạp Bộ Mê Tung
+1513	Tăng né tránh và giảm sát thương chí mạng	Hư Không Thiểm Ảnh
+1514	Tăng hồi sinh lực	Miệu Thủ Hồi Xuân
+1515	Tăng hồi sinh và nội lực	Từ Bi Tế Vũ
+1516	Tăng tấn công	Phá Không Trảm Ảnh
+1517	Tăng tấn công và tạo thời gian thọ thương	Phá Không Trảm Ảnh-Bạch Hổ
+1518	Tăng tấn công và tạo thời gian suy yếu	Phá Không Trảm Ảnh-Thanh Long
+1519	Tăng tấn công và tạo thời gian làm chậm	Phá Không Trảm Ảnh-Huyền Vũ
+1520	Tăng tấn công và tạo thời gian bỏng	Phá Không Trảm Ảnh-Chu Tước
+1521	Tăng tấn công và tạo thời gian choáng	Phá Không Trảm Ảnh-Hoàng Long
+1522	Tăng tỷ lệ hồi sinh và nội lực	Cam Vũ Lâm Hoa
+2213	Tăng kháng tất cả và kháng vật lý và kinh nghiệm	Ngũ Hành Vô Tướng-Tuyệt
+2214	Tăng kháng tất cả và kháng độc và kinh nghiệm	Ngũ Hành Vô Tướng-Cực
+2215	Tăng kháng tất cả và kháng băng và kinh nghiệm	Ngũ Hành Vô Tướng-Chấn
+2216	Tăng kháng tất cả và kháng hỏa và kinh nghiệm	Ngũ Hành Vô Tướng-Hàn
+2217	Tăng kháng tất cả và kháng lôi, kinh nghiệm	Ngũ Hành Vô Tướng-Minh

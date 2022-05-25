@@ -1,0 +1,33 @@
+Id	Desc	ClassName
+1	Hàm Sa Xạ Ảnh	hanshasheyingadd
+2	Mãn Thiên Hoa Vũ	mantianhuayuadd
+3	Hóa Huyết Tiệt Mạch	huaxuejiemaiadd
+4	Nhân Huân Tử Khí	yinyunziqiadd
+5	Kim Đỉnh Miên Chưởng	jindingmianzhangadd
+6	Độ Nguyên Công	duyuangongadd
+7	Đạt Ma Bế Tức Công	damobixigongadd
+8	Đạp Tuyết Vô Ngấn	taxuewuhenadd
+9	Thần Long Bài Vĩ	shengongbaiweiadd
+10	Bích Nguyệt Phi Tinh	biyuefeixingadd
+11	Huyền Minh Hấp Tinh	xuanmingxixingadd
+12	Lưỡng Nghi Chân Khí	liangyizhenqiadd
+13	Hóa Tủy Vô Ý	huasuiwuyiadd
+14	Phi Kinh Trảm Thích	pijingzhanjiadd
+15	Truy Phong Độc Thích	zhuifengdujiadd
+16	Lưu Tinh Chùy	liuxingchuiadd
+17	Bách Bộ Xuyên Dương	baibuchuanyangadd
+18	Bách Hồng Thực Nhật	baihongguanriadd
+19	Cơ Quan Bí Thuật	jiguanmishuadd
+20	Trảo Long Công	qinlonggongadd
+21	Thừa Sương Thức	chengshuangshiadd
+22	Hiệu quả bao tay Đả Tuyết Trượng Thủ	snowgloveadd
+23	Mật Tịch Chưởng Độc (cao)	zhangduadvancedbookadd
+24	Mật Tịch Phụ Nga (cao)	fueadvancedbookadd
+25	Mật Tịch Chiến Nhẫn (cao)	zhanrenadvancedbookadd
+26	Lôi Đình Quyết	leitingjue_selfadd
+27	Mật Tịch Kiếm Minh (cao)	muyeyingyangadd
+28	Hãm Tĩnh 120	xianjing120add
+29	Côn Cái 120	gungai120add
+30	Kiếm Minh 120	jianming120add
+31	Kiếm Thúy 110	shimianmaifuadd
+32	Tăng khinh công mất thể lực	jumpcostspadd

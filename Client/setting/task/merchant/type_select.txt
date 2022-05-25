@@ -1,0 +1,10 @@
+TypeId	TypeName	FileName	Step01	Step02	Step03
+Loại nhiệm vụ ID	Tên nhiệm vụ	Nội dung nhiệm vụ	Bước 1-9	Bước 10	Bước 100
+1	Gửi tin	type_deliveritem.txt	0	0	0
+2	Mua	type_buyitem.txt	0	0	0
+3	Tìm	type_finditem.txt	0	0	0
+4	Thu thập	type_collectitem.txt	0	0	0
+5	Gửi tin	newtype_deliveritem.txt	0	3000	0
+6	Mua	newtype_buyitem.txt	0	0	0
+7	Tìm	newtype_finditem.txt	6000	8000	0
+8	Thu thập	newtype_collectitem.txt	3000	4000	0

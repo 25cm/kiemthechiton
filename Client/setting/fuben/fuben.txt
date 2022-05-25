@@ -1,0 +1,2 @@
+FubenId	LockPath	NpcPointPath	TrapPath	IsRevive
+1	001\lock.txt	001\npc_pos.txt	001\trap.txt	0

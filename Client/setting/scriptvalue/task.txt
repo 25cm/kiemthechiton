@@ -1,0 +1,17 @@
+Name	Value	Desc
+IVER_nResetGive	1	
+IVER_nEvent_GirlVote	1	Tuyển chọn mỹ nữ
+IVER_nEvent_TuiGuangYuan	0	Hệ thống Đại sứ
+IVER_szEvent_DragonBoatSDate	26/05/2009	Miêu tả thời gian bắt đầu thuyền Rồng
+IVER_szEvent_DragonBoatEDate	26/06/2009	Miêu tả thời gian kết thúc thuyền Rồng
+IVER_nXoyo_GetAward_Fix	1	Sửa bug Tiêu Dao Lục bản Đại Lục
+IVER_szHelpInfo1	, cũng có thể dùng bạc đổi đồng với người chơi khác tại Khu giao dịch đồng	Sự khác biệt về thuyết minh
+IVER_nHelpSpriteIsView	0	Có phải một số điều trong Cẩm nang trợ giúp không hiển thị
+IVER_nLinkTaskAward	1	Bội số phần thưởng nhiệm vụ nghĩa quân Lão Bao
+IVER_nTask_OpenJbExchangeDayEvent	1	Mở giao dịch đồng hay không
+IVER_nHelpIsView_GbWlls	0	Có phải một số điều trong Cẩm nang trợ giúp không hiển thị
+IVER_nCloseExchangeNoemal	0	Đóng chức năng đổi ngân phiếu không
+IVER_nHelpIsView_Marry	0	Cẩm nang kết hôn có mục không hiện ra đúng không
+IVER_nHelpIsView_XLand	0	Cẩm nang thành chiến có mục không hiện ra đúng không
+IVER_nLaoBaoOnly10Times	0	Lão Bao chỉ có thể liên tục mở và đóng 10 lần
+IVER_szTaskExpCoinName	Đồng	Tên loại tiền phân bố nhiệm vụ (kinh nghiệm)

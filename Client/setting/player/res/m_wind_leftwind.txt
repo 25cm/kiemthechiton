@@ -1,0 +1,33 @@
+EqName	FreeNormalStand	FreeSpecialStand	FreeFightStand	MeleeWNormalStand	MeleeWSpecialStand	MeleeWFightStand	RangeWNormalStand	RangeWSpecialStand	RangeWFightStand	DoubleWNormalStand	DoubleWSpecialStand	DoubleWFightStand	FreeWalk	MeleeWWalk	RangeWWalk	DoubleWWalk	FreeRun	MeleeWRun	RangeWRun	DoubleWRun	FreeWound	MeleeWWound	RangeWWound	DoubleWWound	FreeDie	MeleeWDie	RangeWDie	DoubleWDie	FreeAttack	DartThrow	MeleeWPuncture	MeleeWCut	RangeWPuncture	RangeWCut	DoubleWPull	DoubleWPound	FreeMagic	MeleeWMagic	RangeWMagic	DoubleWMagic	SitDown	JumpFly	RideNormalStand	RideSepcialStand	RideFightStand	RideWalk	RideRun	RidePuncture	RideCut	RideMagic	RideWound	RideDie
+wind00																																																				
+wind01	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr	l_chibang.spr
+wind02	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr	wing_lv1_l.spr
+wind03	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr	wing_lv2_l.spr
+wind04	vipwind_01_es02.spr	vipwind_01_es02.spr	vipwind_01_es02.spr	vipwind_01_ss01.spr	vipwind_01_ss01.spr	vipwind_01_ls02.spr	vipwind_01_ls02.spr	vipwind_01_ls02.spr	vipwind_01_ls02.spr	vipwind_01_ds02.spr	vipwind_01_ds02.spr	vipwind_01_ds02.spr	vipwind_01_ew.spr	vipwind_01_sw.spr	vipwind_01_lw.spr	vipwind_01_dw.spr	vipwind_01_er.spr	vipwind_01_sr.spr	vipwind_01_lr.spr	vipwind_01_dr.spr	vipwind_01_eb.spr	vipwind_01_sb.spr	vipwind_01_lb.spr	vipwind_01_db.spr					vipwind_01_ea01.spr	vipwind_01_ea02.spr	vipwind_01_sa02.spr	vipwind_01_sa02.spr	vipwind_01_la02.spr	vipwind_01_la02.spr	vipwind_01_da01.spr	vipwind_01_da02.spr	vipwind_01_em.spr	vipwind_01_sm.spr	vipwind_01_lm.spr	vipwind_01_dm.spr	vipwind_01_zz.spr	vipwind_01_jp.spr	vipwind_01_rs01.spr	vipwind_01_rs01.spr	vipwind_01_rs01.spr	vipwind_01_rw.spr	vipwind_01_rr.spr	vipwind_01_ra01.spr	vipwind_01_ra02.spr	vipwind_01_rm.spr	vipwind_01_rb.spr	
+wind05	vipwind_01_es02.spr	vipwind_01_es02.spr	vipwind_01_es01.spr	vipwind_01_ss02.spr	vipwind_01_ss01.spr	vipwind_01_ss01.spr	vipwind_01_ls02.spr	vipwind_01_ls01.spr	vipwind_01_ls01.spr	vipwind_01_ds02.spr	vipwind_01_ds01.spr	vipwind_01_ds01.spr	vipwind_01_ew.spr	vipwind_01_sw.spr	vipwind_01_lw.spr	vipwind_01_dw.spr	vipwind_01_er.spr	vipwind_01_sr.spr	vipwind_01_lr.spr	vipwind_01_dr.spr	vipwind_01_eb.spr	vipwind_01_sb.spr	vipwind_01_lb.spr	vipwind_01_db.spr	vipwind_01_ed.spr	vipwind_01_sd.spr	vipwind_01_ld.spr	vipwind_01_dd.spr	vipwind_01_ea01.spr	vipwind_01_ea02.spr	vipwind_01_sa01.spr	vipwind_01_sa02.spr	vipwind_01_la01.spr	vipwind_01_la02.spr	vipwind_01_da01.spr	vipwind_01_da02.spr	vipwind_01_em.spr	vipwind_01_sm.spr	vipwind_01_lm.spr	vipwind_01_dm.spr	vipwind_01_zz.spr	vipwind_01_jp.spr	vipwind_01_rs01.spr	vipwind_01_rs01.spr	vipwind_01_rs01.spr	vipwind_01_rw.spr	vipwind_01_rr.spr	vipwind_01_ra01.spr	vipwind_01_ra02.spr	vipwind_01_rm.spr	vipwind_01_rb.spr	vipwind_01_rd.spr
+wind06																																																				
+wind07																																																				
+wind08																																																				
+wind09																																																				
+wind10																																																				
+wind11																																																				
+wind12																																																				
+wind13																																																				
+wind14																																																				
+wind15																																																				
+wind16																																																				
+wind17																																																				
+wind18																																																				
+wind19																																																				
+wind20																																																				
+wind21																																																				
+wind22																																																				
+wind23																																																				
+wind24																																																				
+wind25																																																				
+wind26																																																				
+wind27																																																				
+wind28																																																				
+wind29																																																				
+wind30																																																				
+wind31																																																				

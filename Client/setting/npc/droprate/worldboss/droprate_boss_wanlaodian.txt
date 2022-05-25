@@ -1,0 +1,4 @@
+GGenre	Detail	Particular	Level	RandRate	Name	
+18	1	3046	1	160000	Ruong MG
+18	1	3019	1	160000	Ruong VP	
+18	1	1194	1	160000	Tiền đồng may mắn (tiểu)	

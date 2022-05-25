@@ -1,0 +1,63 @@
+
+{
+  [1]	= 
+  {
+    ["nName"]	= "Bảng phụ trợ",
+    ["nKey"]	= "O",
+  },
+  [2]	= 
+  {
+    ["nName"]	= "Nhặt nhanh",
+    ["nKey"]	= "",
+  },
+  [3]	= 
+  {
+    ["nName"]	= "Auto thuốc",
+    ["nKey"]	= "",
+  },
+  [4]	= 
+  {
+    ["nName"]	= "Tự làm theo",
+    ["nKey"]	= "",
+  },
+  [5]	= 
+  {
+    ["nName"]	= "Chạy/Đi bộ",
+    ["nKey"]	= "",
+  },
+  [6]	= 
+  {
+    ["nName"]	= "Tự động chiến đấu",
+    ["nKey"]	= "",
+  },
+  [7]	= 
+  {
+    ["nName"]	= "Bảng Nhân Vật",
+    ["nKey"]	= "",
+  },
+  [8]	= 
+  {
+    ["nName"]	= "Lên/Xuống Ngựa",
+    ["nKey"]	= "",
+  },
+  [9]	= 
+  {
+    ["nName"]	= "Hành Trang",
+    ["nKey"]	= "",
+  },
+  [10]	= 
+  {
+    ["nName"]	= "Ghép HT",
+    ["nKey"]	= "",
+  },
+  [11]	= 
+  {
+    ["nName"]	= "SuperMapLink",
+    ["nKey"]	= "",
+  },
+  [12]	= 
+  {
+    ["nName"]	= "Không buff",
+    ["nKey"]	= "",
+  },
+}

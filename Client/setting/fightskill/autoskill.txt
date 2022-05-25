@@ -1,0 +1,95 @@
+AutoName	AutoId	AutoType	CastPercent	CastSkillId	CastSkillLevel	ParentSkillId	RelativeSkillStyle	MinPerCastTime	MaxCastCount	Param1	Param2
+Thí Nguyên Quyết	1	1	{1,4},{20,12},{21,12}	221	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,540},{20,540}	-1	313	0
+Bất Động Minh Vương	2	1	{1,2},{10,6},{11,7}	35	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,540},{20,540}	-1	314	0
+Cửu Khúc Hợp Thương	3	2	{1,100},{20,100}	1282	-1	0	disable	{1,1},{20,1}	-1	0	0
+Bi Tô Thanh Phong	4	2	{1,100},{10,100}	1281	-1	0	meleephysicalattack,rangephysicalattack,specialattack,disable	{1,18},{10,18}	-1	0	0
+Ôn Cổ Chi Khí	5	4	{1,25},{10,75},{13,80}	270	-1	0		{1,36},{20,36}	-1	315	0
+Kim Cang Hộ Thể	6	4	{1,10},{20,100}	238	-1	0		{1,18},{20,18}	-1	0	0
+Cửu Khúc Hợp Thương_Tử 1	7	2	{1,100},{20,100}	1283	-1	1282	meleephysicalattack,rangephysicalattack,specialattack	{1,1},{20,1}	{1,2},{10,2}	0	0
+Khô Vinh Thiền Công	8	4	{1,100},{20,100}	249	-1	0		{1,540},{20,540}	-1	316	0
+Hàng Long Phục Hổ	9	1	{1,2},{10,6},{11,7}	251	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,540},{20,540}	-1	317	0
+Kinh Lôi Phá Thiên	10	4	{1,20},{10,80},{13,90}	257	-1	0		{1,540},{20,540}	-1	318	0
+Thiên Vương Bản Sinh	11	4	{1,10},{10,60},{11,63}	261	-1	0		{1,810},{20,810}	-1	319	0
+Đoạn Cân Nhẫn	12	7	{1,100},{10,100}	267	-1	0		{1,90},{20,90}	-1	320	0
+Khu Độc Thuật	13	4	{1,50},{10,100},{11,100}	273	-1	0		{1,540},{20,540}	-1	321	0
+Bất Diệt Bất Tuyệt	14	4	{1,50},{10,100},{11,100}	480	-1	0		{1,540},{20,540}	-1	322	0
+Huyền Băng Vô Tức	15	4	{1,100},{10,100}	484	-1	0		{1,540},{20,540}	-1	323	0
+Thời Thừa Lục Long	16	2	{1,100},{10,100}	490	-1	489	rangemagicattack	{1,2},{10,2}	{1,1},{10,6},{13,7}	0	0
+Từ Bi Quyết	17	4	{1,15},{10,60},{11,63}	1174	{1,11},{10,20}	0		{1,810},{20,810}	-1	324	0
+Lục Kiếm Tề Phát	18	4	{1,10},{10,60},{11,63}	777	-1	0		{1,540},{20,540}	-1	325	0
+Khí Vũ Thoái Tán	19	6	{1,100},{10,100}	974	-1	0		{1,270},{20,270}	-1	0	0
+Ma Âm Phệ Phách	20	5	{1,100},{10,100}	790	-1	0		{1,810},{20,810}	-1	0	0
+Ba La Tâm Kinh	21	5	{1,100},{10,100}	792	-1	0		{1,810},{20,810}	-1	0	0
+npc Thời Thừa Lục Long	22	2	{1,100},{10,100}	1023	-1	1022	meleephysicalattack,rangephysicalattack,rangemagicattack	{1,10},{10,10}	{1,6},{10,6}	0	0
+npc Lục Dương Dung Tuyết Công	23	2	{1,100},{10,100}	1085	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,18},{20,18}	-1	0	0
+Kim Cang Bất Hoại	24	4	{1,20},{10,80},{13,90}	1223	-1	0		{1,810},{20,810}	-1	326	0
+Hóa Huyết Tiệt Mạch	25	11	{1,8},{10,20},{11,20}	1225	-1	0		{1,360},{20,360}	-1	327	0
+Truy Phong Độc Thích	26	11	{1,12},{10,30},{11,30}	1228	-1	0		{1,270},{20,270}	-1	328	0
+Kim Đỉnh Miên Chưởng	27	9	{1,12},{10,30},{11,30}	1230	-1	0		{1,360},{20,360}	-1	329	0
+Đạp Tuyết Vô Ngấn	28	10	{1,12},{10,30},{11,30}	1231	-1	0		{1,270},{20,270}	-1	330	0
+Lưỡng Nghi Tâm Pháp	29	8	{1,20},{10,80},{13,90}	1234	-1	0		{1,540},{20,540}	-1	331	0
+Lưỡng Nghi Chân Khí	30	4	{1,20},{10,80},{13,90}	1237	-1	0		{1,540},{20,540}	-1	332	0
+npc Tự Động Ẩn Thân	31	6	{1,100},{10,100}	122	-1	0		{1,540},{20,540}	-1	0	0
+Thông Vi Hiển Hóa_Đồng đội	32	6	{1,100},{10,100}	1360	-1	0		{1,270},{20,270}	-1	0	0
+Hạo Nhiên Chính Khí_Đồng đội	33	6	{1,100},{10,100}	1298	-1	0		{1,270},{20,270}	-1	0	0
+Thất Tuyệt Sát Quang	34	6	{1,100},{10,100}	1187	-1	0		{1,540},{20,540}	-1	381	0
+Cửu Hi Hỗn Dương	35	4	{1,20},{10,80},{13,90}	1172	-1	0		{1,810},{20,810}	-1	382	0
+Quy Khứ Lai Hề	36	12	{1,20},{10,100},{11,100}	122	-1	0		{1,1260},{20,1260}	-1	383	0
+Trảo Long Công	37	3	{1,20},{10,80},{13,90}	1176	-1	0		{1,540},{20,540}	-1	384	0
+Thúc Phọc Chú	38	13	{1,2},{10,6},{11,7}	1179	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,540},{20,540}	-1	385	0
+Thái Ất Chân Khí	39	6	{1,100},{10,100}	1180	-1	0		{1,216},{10,108},{13,90}	-1	386	0
+Mật Tịch Côn Thiếu (cao)	40	1	{1,100},{10,100}	1265	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,540},{10,180},{12,162}	-1	425	0
+Mật Tịch Chưởng Cái (cao)	41	2	{1,2},{10,2}	1268	-1	0	rangemagicattack	{1,540},{10,180}	-1	412	0
+Mật Tịch Kiếm Minh (cao)	42	13	{1,2},{10,6}	1271	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,180},{20,180}	-1	413	0
+Mật Tịch Thương Thiên (cao)	43	2	{1,100},{10,100}	1273	-1	0	meleephysicalattack	{1,3},{10,3}	-1	0	0
+Mật Tịch Khí Võ (cao)	44	13	{1,2},{10,6},{11,6}	1274	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,10},{10,10}	-1	0	0
+Mật Tịch Ma Nhẫn (cao)	45	2	{1,100},{10,100}	1277	-1	0	rangemagicattack	{1,540},{10,540}	-1	419	0
+Mật Tịch Chưởng Độc (cao)	46	2	{1,100},{10,100}	1276	-1	0	rangemagicattack	{1,36},{10,36}	-1	0	0
+Mật Tịch Ma Nhẫn (cao 2)	47	2	{1,100},{10,100}	1278	-1	1277	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,18},{10,18}	3	0	0
+Mật Tịch Chùy Thiên (cao)	48	1	{1,100},{10,100}	1279	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,36},{10,36}	-1	0	0
+Mật Tịch Khí Đoàn (cao)	49	6	{1,100},{10,100}	1284	-1	0		{1,180},{10,180}	-1	426	0
+Nguyệt Hoa Thiên Lý_Đồng đội	50	6	{1,100},{10,100}	1416	-1	0		{1,270},{20,270}	-1	0	0
+Kỹ năng giày_Đồng đội	51	6	{1,100},{10,100}	1472	-1	0		{1,270},{20,270}	-1	0	0
+Thiên Hà Thần Công	52	14	{1,100},{10,100}	1294	-1	0		{1,5400},{10,5400}	-1	448	0
+Kiếm Thúy 120	53	13	{1,100},{10,100}	1288	-1	840	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap,disable	{1,1},{10,1}	{1,9},{10,15},{11,15}	0	0
+Đao Thiếu 120	54	1	{1,100},{10,100}	1283	-1	820	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap,specialattack	{1,3},{10,3}	{1,15},{10,24},{11,24}	0	0
+Tụ Tiễn 120	55	6	{1,100},{10,100}	1292	-1	1292		{1,90},{10,90}	{1,6},{10,6}	0	0
+Chưởng Nga 120	56	2	{1,10},{10,10}	1436	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap,specialattack	{1,9},{10,9}	-1	0	0
+Đao Thúy 120	57	6	{1,100},{10,100}	1672	-1	0		{1,54},{10,54}	-1	0	0
+Đao Thúy 120_Tử	58	2	{1,100},{10,100}	1283	-1	1648	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,1},{10,1}	{1,1},{10,1}	0	0
+Chưởng Cái 120	59	13	{1,2},{10,15},{11,15}	1649	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,10},{10,10}	-1	0	0
+Ma Nhẫn 120	60	6	{1,100},{10,100}	1669	-1	0		{1,90},{10,90}	-1	0	0
+Kiếm Võ 120	61	6	{1,100},{10,100}	1658	-1	854		{1,90},{10,90}	-1	0	0
+Đao Côn 120	62	2	{1,100},{10,100}	1659	-1	0	rangephysicalattack	{1,270},{10,270}	-1	0	0
+npc Kiếm Thúy 120	63	13	{1,100},{10,100}	1955	-1	1954	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap,disable	{1,1},{10,1}	{1,9},{10,15},{11,15}	0	0
+Kiếm Côn 120	64	1	{1,20},{10,20},{11,21}	1661	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,9},{10,9}	-1	0	0
+Trảm Long Quyết bị đánh chính xác giảm cd	65	13	{1,0},{10,1},{11,1}	800	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap,specialattack	{1,1},{10,1}	-1	448	0
+Chỉ Đoàn 120	66	2	{1,100},{10,100}	1664	-1	0	disable	{1,1},{10,1}	-1	0	0
+Khí Đoàn 120_Thêm	67	2	{1,3},{2,3}	1663	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap	{1,1},{10,1}	-1	0	0
+Đao Độc 120_Thi triển 1	68	6	{1,100},{10,100}	1667	-1	0		{1,90},{10,90}	-1	0	0
+Đao Độc 120_Thi triển 2	69	2	{1,100},{10,100}	1670	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap,specialattack	{1,18},{10,18}	-1	0	0
+Thương Thiên 120	70	6	{1,100},{10,100}	89	-1	0		{1,18},{10,18}	-1	0	0
+Thập Diện Mai Phục	71	6	{1,100},{10,100}	1180	-1	0		{1,36},{10,36}	-1	0	0
+Đao Thúy 120_Tử 2	72	6	{1,100},{10,100}	1648	-1	1673		{1,18},{10,18}	1	0	0
+Côn Thiếu 120	73	1	{1,25},{10,25}	1287	-1	0	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap,specialattack	{1,9},{10,9}	-1	0	0
+Vạn Cổ Thực Tâm	74	2	{1,100},{10,100}	774	-1	0	aurarangemagicattack,specialattack,curse,rangephysicalattack	{1,18},{10,18}	-1	0	0
+Bi Ma Huyết Quang	75	2	{1,100},{10,100}	801	-1	0	aurarangemagicattack,specialattack,curse,rangemagicattack	{1,18},{10,18}	-1	0	0
+Ôn Cổ Chi Khí (bị động)	76	2	{1,100},{10,100}	388	-1	0	aurarangemagicattack,specialattack,curse,rangephysicalattack	{1,18},{10,18}	-1	0	0
+Tử Tiêu Hoành Vân_Tử	77	6	{1,100},{10,100}	1112	-1	1658		{1,18},{10,18}	-1	0	0
+xoyo Tự động sát thương	78	6	{1,100},{10,100}	1855	-1	0		{1,18},{10,18}	-1	0	0
+xoyo Tự động bất động	79	6	{1,100},{10,100}	1856	-1	0		{1,18},{10,18}	-1	0	0
+jy Người chơi tự động thêm boss tấn công	80	6	{1,100},{10,100}	1891	-1	0		{1,18},{10,18}	-1	0	0
+jy Khối Băng tử vong người chơi không còn bị đóng băng	81	5	{1,100},{10,100}	1890	4	0		{1,18},{10,18}	-1	0	0
+ll Tự động sát thương	82	6	{1,100},{10,100}	1902	-1	0		{1,18},{10,18}	-1	0	0
+jy Hỏa Xà_Đạn sát thương	83	6	{1,100},{10,100}	1931	-1	0		{1,6},{10,6}	-1	0	0
+jy Minh Hỏa	84	6	{1,100},{10,100}	1935	-1	0		{1,18},{10,18}	-1	0	0
+jy Bôn Bào_Tích cực	85	6	{1,100},{10,100}	1937	-1	0		{1,90},{10,90}	-1	0	0
+Xuân	86	6	{1,100},{10,100}	2188	-1	2187		{1,18},{10,18}	-1	0	0
+Phi Phi	87	6	{1,100},{10,100}	2170	-1	2169		{1,18},{10,18}	-1	0	0
+Liệt Địa Trảm	88	6	{1,100},{10,100}	2159	-1	2200		{1,540},{10,540}	-1	0	0
+Nguyện Quân Đa Thái Hiệt	89	6	{1,100},{10,100}	2094	-1	2093		{1,18},{10,18}	-1	0	0
+Thử Vật Tối Tương Tư	90	6	{1,100},{10,100}	2029	-1	2095		{1,18},{10,18}	-1	0	0
+Nhu Kiếm_Vô Ngấn	91	6	{1,100},{10,100}	2137	-1	2136		{1,180},{10,180}	-1	0	0
+Đảo Hiệp Khách_Tự nổ	92	14	{1,1},{18,60},{19,100}	1685	-1	1684		{1,180},{10,180}	-1	0	0
+Giảm sát thương	93	4	{1,0},{19,0},{20,90}	1687	-1	1674		{1,540},{20,540}	-1	318	0
+Mật Tịch Chưởng Cái (cao)	94	2	{1,100},{10,100}	1664	-1	864	meleephysicalattack,rangephysicalattack,rangemagicattack,aurarangemagicattack,trap,specialattack	{1,540},{10,180}	-1	0	0

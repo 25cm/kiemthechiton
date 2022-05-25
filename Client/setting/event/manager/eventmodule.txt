@@ -1,0 +1,11 @@
+Id	Type	Name	Kind	SubKind	ExClass	MustParam	SelectParam
+0	类型	描述名称			
+1	Npc对话类	和npc对话领取奖励	Npc	GetAward		Npc|EventAward	Task|TaskDay|MonthPay|WeiWang|Level|Faction|Camp|Sex
+2	Npc对话类	和npc对话换取奖励(给予界面)	Npc	GetAward		Npc|EventAwardUi	Task|TaskDay|MonthPay|WeiWang|Level|Faction|Camp|Sex
+3	Npc对话类	和npc对话查看活动简介	Npc	MultDialog		Npc|szMsg	szSel|szSelMsg
+4	触发事件	在地图上召唤Npc	Npc	CallNpc		EventCallNpc	TimerStart|TimerEnd|Week
+5	触发事件	某Id怪物掉落(填掉落表)	Npc	DropItem		DropNpc|EventDropItem	Week
+7	触发事件	某类型怪物掉落(填掉落表)	Npc	DropItem		DropNpcType|EventDropItem	Week
+8	触发事件	某Id怪物掉落(链接掉落表)	Npc	DropItem		DropNpc|Droprate	Week
+9	触发事件	某类型怪物掉落(链接掉落表)	Npc	DropItem		DropNpcType|Droprate	Week
+10	物品类	使用物品获得奖励	Item	UseItem		Item	EventAward|ItemTime|Task|TaskDay|MonthPay|WeiWang|Level|Faction|Camp|Sex

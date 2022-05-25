@@ -1,0 +1,8 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	5002	52	140000		Rương Mảnh Ghép
+		18	1	5001	51	100000		Rương Vật Phẩm
+		18	1	1331	1	40000		Tinh Thạch Phượng Hoàng
+		18	1	1194	1	80000		Kim Nguyên Bảo (Tiểu)
+
+
+

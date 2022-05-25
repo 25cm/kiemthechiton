@@ -1,0 +1,20 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Vào Điểm Hồi Sinh	0	7125	3	5	70	1	20	20	20	20	20	1		56896	112608				
+Vào Chiến Trường	0	7126	3	5	70	1	20	20	20	20	20	1		57056	113120				
+Vào Điểm Hồi Sinh	0	7127	3	5	70	1	20	20	20	20	20	1		59296	108160				
+Vào Chiến Trường	0	7128	3	5	70	1	20	20	20	20	20	1		59488	107936				
+Vào Điểm Hồi Sinh	0	7129	3	5	70	1	20	20	20	20	20	1		54176	108864				
+Vào Chiến Trường	0	7130	3	5	70	1	20	20	20	20	20	1		53984	108608				
+Vào Điểm Hồi Sinh	0	7140	3	5	70	1	20	20	20	20	20	1		57856	114176				
+Vào Chiến Trường	0	7141	3	5	70	1	20	20	20	20	20	1		57632	113760				
+Vào Điểm Hồi Sinh	0	7142	3	5	70	1	20	20	20	20	20	1		60416	106944				
+Vào Chiến Trường	0	7143	3	5	70	1	20	20	20	20	20	1		60320	107264				
+Vào Điểm Hồi Sinh	0	7144	3	5	70	1	20	20	20	20	20	1		53056	107520				
+Vào Chiến Trường	0	7145	3	5	70	1	20	20	20	20	20	1		53184	107808				
+Vào tầng kế	0	7131	3	5	70	1	20	20	20	20	20	1		56448	109376				
+Tiệm thuốc	0	7135	3	5	70	1	20	20	20	20	20	1		53952	108096				
+Xa Phu	0	7134	3	5	70	1	20	20	20	20	20	1		53536	107744				
+Tiệm thuốc	0	7135	3	5	70	1	20	20	20	20	20	1		57440	113088				
+Xa Phu	0	7134	3	5	70	1	20	20	20	20	20	1		57824	113408				
+Tiệm thuốc	0	7135	3	5	70	1	20	20	20	20	20	1		59552	107392				
+Xa Phu	0	7134	3	5	70	1	20	20	20	20	20	1		59936	106976				

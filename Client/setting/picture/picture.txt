@@ -1,0 +1,11 @@
+ID	Picture	Des
+1	\image\effect\other\tanhao_map.spr	主线小地图叹号
+2	\image\effect\other\wenhao_map.spr	主线小地图问号
+3	\image\effect\other\tanhao_mapII.spr	支线小地图叹号
+4	\image\effect\other\tanhao_mapII.spr	支线小地图问号
+5	\image\ui\001a\battle\map_icon\attack.spr	攻击
+6	\image\ui\001a\battle\map_icon\dead.spr	死亡
+7	\image\ui\001a\battle\map_icon\flag_song.spr	宋方战旗
+8	\image\ui\001a\battle\map_icon\flag_jin.spr	金方战旗
+9	\image\ui\001a\battle\map_icon\normal.spr	普通点
+10	\image\ui\001a\mail\training.spr	师徒邮件底图

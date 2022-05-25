@@ -1,0 +1,80 @@
+EventId	EventName	EventDescript	EventStartDate	EventEndDate	EventTable	TaskIdBegin	TaskIdEnd	InFor	TaskPacth	TimeFrame
+0	活动名	描述	0	0	eventpart.txt	0	0		0	
+1	<color=yellow>官方在线活动<color>	你好有什么可以帮到你？	0	0	eventpart.txt	1	9			
+2	<color=yellow>官方补偿活动<color>	你好有什么可以帮到你？	0	0	eventpart.txt					
+3	<color=yellow>官方在线优惠活动<color>	你好有什么可以帮到你？	0	0	eventpart.txt					
+4	<color=yellow>官方在线活动（预留）<color>	你好有什么可以帮到你？	0	0	eventpart.txt					
+5	<color=yellow>清明节活动<color>	    今年清明节又到了，每年这个时候村子里都是一片哀声，逝去的义军英雄为了我们付出了生命，我希望你在此时节，能聊表你的敬意，完成我给你的拜祭英雄的任务。	2009/03/31/00/00	2009/04/07/00/00	eventpart.txt					
+6	<color=yellow>四月充值优惠<color>	    应广大玩家要求，《剑侠世界》在<color=yellow>四月份<color>隆重推出充值优惠活动，巨额奖励，您还等什么？详情请查阅帮助锦囊（F12）。	2009/04/21/00/00	2009/05/01/00/00	eventpart.txt					
+7	<color=yellow>四月充值优惠500元额外奖<color>	在四月充值优惠活动中，当月累计充值达到500元，可以选择领取<color=yellow>3个中级祈福令<color>或<color=yellow>1个9级玄晶<color>，二者选其一，<color=yellow>不可重复领取<color>。	2009/04/21/00/00	2009/05/01/00/00	eventpart.txt					
+8	<color=yellow>五一劳动节<color>	    嘿嘿，大家劳动节快乐！<enter>    这一段时间来，大家辛苦了！我特联系冶炼大师送给大家<color=yellow>强化费用降低<color>的优惠。同时，如果你帮我老人家惩治扰民的<color=yellow>江洋大盗（各大城市刑部捕头处接任务）<color>，视你的完成情况老朽也会给你发点过节费的，哈哈~~~~	2009/04/28/00/00	2009/05/05/00/00	eventpart.txt					
+9	<color=yellow>五月充值优惠活动<color>	    劳动节刚过，《剑侠世界》又向各位玩家送出大礼了。<enter>    <color=yellow>即日起至5月18日24时止<color>，<color=yellow>60级<color>以上玩家本月累计充值满<color=yellow>15元<color>可获得<color=yellow>金贝壳6个<color>，充值满<color=yellow>48元<color>还可获得<color=yellow>金贝壳14个（共可领20个）<color>，欢迎参加活动！	2009/05/05/00/00	2009/05/19/00/00	eventpart.txt					
+10	<color=yellow>端午节充值优惠活动<color>	　　嘿嘿，大家端午节愉快！<enter>　　值此佳节，老朽又来给你们送礼了，你可以点击下面的选项了解活动详情，或去帮助锦囊查看（Ｆ１２）！	2009/05/26/00/00	2009/06/01/00/00	eventpart.txt					
+11	龙舟帮助	描述	2009/05/26/00/00	2009/06/26/00/00	eventpart.txt	0	0			
+12	<color=yellow>周年庆活动<color>	    嘿嘿，大家好！<enter>    《剑侠世界》成功运营一年了，这段时间谢谢大家的支持，老朽特赶来给大家送礼，希望你们能喜欢。<enter>    详情可查询<color=yellow>帮助锦囊（F12）最新消息栏<color>！	2009/06/05/00/00	2009/06/19/00/00	eventpart.txt	0	0			
+13	七大福利帮助	描述	2009/06/25/00/00	2009/07/25/00/00	eventpart.txt	0	0			
+14	美女海选帮助	描述	2009/06/18/00/00	2009/07/21/00/00	eventpart.txt	0	0			
+15	<color=yellow>庆新版公测充值促销！<color>	    <color=yellow>《剑侠世界》新版<color>就要来临了，在这个快乐的日子里，我们隆重推出充值大回馈活动，开开心心迎接新版到来。	2009/06/19/00/00	2009/07/01/00/00	eventpart.txt					
+16	<color=yellow>庆新版公测588元额外奖！<color>	如果本月累计充值达到<color=yellow>588元<color>，您可以在我这里领取3个<color=yellow>中级祈福令牌<color>，或1个<color=yellow>9玄<color>，或1次<color=yellow>辅修门派转换机会<color>，三选一！	2009/06/19/00/00	2009/07/01/00/00	eventpart.txt	0	0			
+17	2009盛夏活动	描述	2009/07/27/00/00	2009/08/17/00/00	eventpart.txt	0	0		0	
+18	<color=yellow>七月充值优惠活动!<color>	    嘿嘿，老朽又来给大家送礼了。本月只要累计充值达到一定数额就可以领取奖励哦！	2009/07/21/00/00	2009/08/01/00/00	eventpart.txt	0	0		0	
+19	<color=yellow>七月充值500元奖励!<color>	    只要本月充值达到<color=yellow>500元<color>，你就可以选择领取下列<color=yellow>三项奖励之一<color>，机会只有一次，请慎重！	2009/07/21/00/00	2009/08/01/00/00	eventpart.txt	0	0		0	
+20	【运营平台】开启功能	功能事件：<enter>1.开启消费返还	0	0	eventpart.txt	0	0		0	
+21	<color=yellow>热点活动<color>	    我这里有最新最热点的活动，你需要参加什么活动？<enter>	0	0	eventpart.txt	0	0		0	
+22	<color=yellow>热点补偿<color>	    我这里有最新的补偿，你需要领取那种补偿？	0	0	eventpart.txt	0	0		0	
+23	<color=yellow>热点调查问卷<color>	    我这里有最新的调查问卷奖励领取，如果你满足该种调查问卷的要求，在登陆时将会弹出调查问卷，你填写完提交后，可以到我这里领取调查问卷的一些小礼物哦。<enter><enter>  <color=yellow>有了您的支持和鼓励我们会做得更好!<enter><color>	0	0	eventpart.txt	0	0		0	
+24	运营平台固定指令预留	你好有什么可以帮到你？	0	0	eventpart.txt	0	0		0	
+25	运营平台固定指令预留	你好有什么可以帮到你？	0	0	eventpart.txt	0	0		0	
+26	运营平台固定指令预留	你好有什么可以帮到你？	0	0	eventpart.txt	0	0		0	
+27	运营平台固定指令预留	你好有什么可以帮到你？	0	0	eventpart.txt	0	0		0	
+28	运营平台固定指令预留	你好有什么可以帮到你？	0	0	eventpart.txt	0	0		0	
+29	运营平台固定指令预留	你好有什么可以帮到你？	0	0	eventpart.txt	0	0		0	
+30	运营平台固定指令预留	你好有什么可以帮到你？	0	0	eventpart.txt	0	0		0	
+31	<color=yellow>七月充值购买和氏璧!<color>	    只要本月充值达到<color=yellow>500元以上且具有购买和氏璧的资格<color>，你就能在老朽这里以<color=yellow>8000金币<color>每个的价格购买。充值达到<color=yellow>1000元<color>还可以再购买<color=yellow>3个和氏璧，<color>你可以在下面激活购买资格！	2009/07/21/00/00	2009/08/01/00/00	eventpart.txt	0	0		0	
+32	<color=yellow>七夕浪漫之旅<color>	七夕节到了，我这里有礼物送给你哦！	2009/08/25/00/00	2009/09/01/00/00	eventpart.txt	0	0		0	
+33	<color=yellow>七夕相遇武林第一美女<color>	    （你在悬崖边遇到一位白衣女子，清丽绝俗，似乎就是传说中的武林第一美女洁羽公主。）<enter><color=red>    美与不美，都只是稍纵即逝的容颜。坚持做微笑面对每一天的自己就好。<color><enter>    昆仑赏雪景，的确让人的心变得平静。你看见那边开放的梅花吗？你知道树上共有几朵吗？没数过？我数过，共13朵。。。（你发现她的眉眼有忧郁在凝结）<enter>    那么，七夕佳节，你来找我有什么事呢？（她的嘴角勉强牵出一道弧线）<enter><enter><color=yellow>已完成任务<%EventManager:GetTask(118)%>次<color>	2009/08/25/00/00	2009/09/01/00/00	eventpart.txt	0	0		0	
+34	马来国庆活动	马来国庆活动，每天可以领取2小时修炼时间，活动期间一共可以领取3次。	2009/08/01/00/00	2009/08/10/00/00	eventpart.txt	0	0		0	
+35	<color=yellow>十一月充值抽奖领奖<color>	    在这里你可以领取本月充值的抽奖奖励，中奖后领奖时限<color=yellow>3天<color>，超过时限视为自动放弃。今天，你中奖了吗？	2009/11/20/00/00	2009/12/04/22/00	eventpart.txt	0	0		3	
+36	<color=yellow>购买和氏璧及月桂换宝箱<color>	    嘿嘿，大家好！老朽这里有<color=yellow>和氏璧<color>出售，如果你有<color=yellow>资格<color>就可以<color=yellow>8000金币每个<color>的优惠价格购买！<enter>    同时如果你有<color=yellow>广寒月桂花<color>，也可以在我这里换取<color=yellow>玄晶宝箱<color>，一换一！	2009/11/17/00/00	2009/12/01/00/00	eventpart.txt	0	0		3	
+37	<color=yellow>十一月充值优惠1000元领奖<color>	    嘿嘿，大家好！在这里你可以领取充值达<color=yellow>1000元<color>的奖励。<enter>    这里领奖<color=yellow>三选一<color>，领取过就不能领其他奖了，所以请先想好再来领奖。	2009/11/17/00/00	2009/12/01/00/00	eventpart.txt	0	0		3	
+38	<color=yellow>十一月充值优惠588元领奖<color>	    嘿嘿，大家好！在这里你可以领取充值达<color=yellow>588元<color>的奖励。<enter>    这里领奖<color=yellow>四选一<color>，领取过就不能领其他奖了，所以请先想好再来领奖。不过，<color=yellow>赤兔马<color>只有开放了<color=yellow>150级<color>上限的服务器玩家才有机会领取。	2009/11/17/00/00	2009/12/01/00/00	eventpart.txt	0	0		3	
+39	<color=yellow>充值优惠奖励领取（开放150级）<color>	    嘿嘿，大家好!<enter>    已开放<color=yellow>150级<color>等级上限的服务器玩家就在老朽这里领奖了。<enter>    这次你可以领取<color=yellow>幸运奖券<color>及<color=yellow>战书·游龙密室<color>，获得绑金的同时还能<color=yellow>参加抽奖<color>，<color=yellow>挑战游龙阁九公主<color>！<enter>    如果你本月累计充值达到<color=yellow>1000元<color>以上，超过的部分还可以获得<color=yellow>20%<color>的绑金返还，哈哈~~！	2009/11/17/00/00	2009/12/01/00/00	eventpart.txt	0	0		3	
+40	<color=yellow>充值优惠奖励领取（未开150级）<color>	    嘿嘿，大家好!<enter>    未开放<color=yellow>150级<color>等级上限的服务器玩家就在老朽这里领奖了。<enter>    这次，你可以领取<color=yellow>幸运奖券<color>，获得绑金的同时还能<color=yellow>参加抽奖<color>！<enter>    如果你本月累计充值达到<color=yellow>1000元<color>以上，超过的部分还可以获得<color=yellow>20%<color>的绑金返还，哈哈~~！	2009/11/17/00/00	2009/12/01/00/00	eventpart.txt	0	0		3	
+41	<color=yellow>十一月充值优惠激活<color>	    大家好，我们又见面了！这里提供本月充值优惠活动的<color=yellow>领奖资格激活<color>服务。	2009/11/17/00/00	2009/12/01/00/00	eventpart.txt	0	0		3	
+42	游龙秘宝帮助锦囊	描述	2009/11/17/00/00	2010/01/17/00/00	eventpart.txt	0	0		0	
+43	中秋活动	描述	2009/09/21/00/00	2013/10/11/00/00	eventpart.txt	0	0		0	
+44	<color=yellow>国庆民族大团圆卡收集<color>	    你收集了多少张卡片了？为了炎黄子孙的大团结，要努力呀。<enter>    如果你达到每日福利精活的江湖威望需求，每天可以在我这里领取<color=yellow>两张<color>卡片。最终奖励也是在我这里领取的哦。	2009/09/21/00/00	2009/10/21/00/00	eventpart.txt	0	0		0	
+45	<color=yellow>玉兔落凡尘活动<color>	    在我这里领取<color=yellow>“圆月朱红果”<color>参加中秋活动吧，玉兔等着你去拯救，还有巨额奖励也在向你招手。<enter>	2009/09/28/00/00	2009/10/11/00/00	eventpart.txt	0	0		0	
+46	<color=yellow>国庆中秋抽奖活动领奖<color>	    在这里你可以领取抽奖奖励，中奖后领奖时限<color=yellow>3天<color>，超过时限视为自动放弃。今天，你中奖了吗？	2009/09/28/00/00	2009/10/13/22/00	eventpart.txt	0	0		0	
+47	国庆奖励领取帮助锦囊提示		2009/10/11/00/00	2009/10/21/00/00	eventpart.txt	0	0		0	
+48	武林大会，资格选拔预告	描述	2009/09/15/00/00	2009/09/21/03/30	eventpart.txt	0	0		0	
+49	英雄帖活动介绍	描述	2009/09/21/03/30	2009/09/27/22/00	eventpart.txt	0	0		0	
+50	武林盟主的选举开始	描述	2009/09/27/22/00	2009/09/30/22/00	eventpart.txt	0	0		0	
+51	武林大会名单确定	描述	2009/09/30/22/00	2009/10/11/00/00	eventpart.txt	0	0		0	
+52	家族竞技活动-打雪仗	描述	2010/04/01/00/00	2010/05/01/00/00	eventpart.txt	0	0		0	
+53	家族竞技活动-龙舟赛	描述	2010/03/01/00/00	2010/04/01/00/00	eventpart.txt	0	0		0	
+54	2010元旦圣诞活动	描述	2009/12/22/00/00	2010/01/05/00/00	eventpart.txt	0	0		0	
+55	元旦余音	描述	2011/01/05/00/00	2010/01/19/00/00	eventpart.txt	0	0		0	
+56	元旦圣诞预告	描述	2009/12/01/00/00	2009/12/22/00/00	eventpart.txt	0	0		0	
+57	圣诞活动产出	描述	2009/12/22/00/00	2010/01/05/00/00	eventpart.txt	0	0		0	
+58	<color=yellow>四月充值抽奖领奖<color>	    在这里你可以领取本月充值的抽奖奖励，中奖后领奖时限<color=yellow>3天<color>，超过时限视为自动放弃。你中奖了吗？	2010/04/20/00/00	2010/05/03/22/00	eventpart.txt	0	0		4	
+59	<color=yellow>购买和氏璧及物品兑换<color>	    嘿嘿，大家好！老朽这里有<color=yellow>和氏璧<color>出售，如果你有<color=yellow>资格<color>就可以<color=yellow>8000金币每个<color>的优惠价格购买！<enter>    同时如果你有<color=yellow>广寒月桂花<color>，也可以在我这里换取<color=yellow>玄晶宝箱<color>，一换一！<enter>    同时如果你有<color=yellow>菩提果<color>，也可以在我这里换取<color=yellow>特别的精魄<color>，一换五！	2010/04/20/00/00	2010/05/01/00/00	eventpart.txt	0	0		3	
+60	<color=yellow>本月充值优惠988元领奖<color>	    嘿嘿，大家好！在这里你可以领取充值达<color=yellow>988元<color>的奖励。<enter>    这里领奖<color=yellow>只能选择一个<color>，领取过就不能领其他奖了，所以请先想好再来领奖。	2010/04/20/00/00	2010/05/01/00/00	eventpart.txt	0	0		4	0/0
+61	<color=yellow>本月588元额外奖励领取<color>	    嘿嘿，大家好！在这里你可以领取充值达<color=yellow>588元<color>的奖励。<enter>    这里领奖<color=yellow>只能选一<color>，领取过就不能领其他奖了，所以请先想好再来领奖。	2010/04/20/00/00	2010/05/01/00/00	eventpart.txt	0	0		4	
+62	<color=yellow>本月充值优惠领奖<color>	    嘿嘿，大家好!<enter>    这次，你可以领取<color=yellow>幸运奖券<color>，获得绑金或绑银的同时还能<color=yellow>参加抽奖<color>！<enter>    如果你本月累计充值达到<color=yellow>1000元<color>以上，超过的部分还可以获得<color=yellow>20%<color>的绑金返还，哈哈~~！	2010/04/20/00/00	2010/05/01/00/00	eventpart.txt	0	0		4	0/0
+63	<color=yellow>本月充值优惠领奖（未开150级）<color>	    嘿嘿，大家好!<enter>    未开放<color=yellow>150级<color>等级上限的服务器玩家就在老朽这里领奖了。<enter>    这次，你可以领取<color=yellow>幸运奖券<color>，获得绑金的同时还能<color=yellow>参加抽奖<color>！<enter>    如果你本月累计充值达到<color=yellow>1000元<color>以上，超过的部分还可以获得<color=yellow>20%<color>的绑金返还，哈哈~~！<enter>	2010/02/23/00/00	2010/03/01/00/00	eventpart.txt	0	0		3	0:0/96:2000
+64	<color=yellow>本月充值优惠领奖激活<color>	    大家好，我们又见面了！这里提供本月充值优惠活动的<color=yellow>领奖资格激活<color>服务。	2010/04/20/00/00	2010/05/01/00/00	eventpart.txt	0	0		4	
+65	跨服武林联赛开启	描述	2009/12/29/00/00	2010/01/10/00/00	eventpart.txt	0	0		0	
+66	2010新年活动产出	描述	2010/02/02/00/00	2010/02/24/00/00	eventpart.txt	0	0		0	
+67	<color=yellow>新年大礼：极品同伴免费得<color>	    你好呀，新的一年又来到了，《剑侠世界》给各位玩家送来了大礼哦！<enter>    只要你在<color=yellow>2010年1月份<color>累计充值达到<color=yellow>1500元<color>，就可以免费领取到一个<color=yellow>6技能<color>极品同伴“<color=yellow>叶静<color>”，千万不要错过，过了这个村就没这个店了！	2010/01/22/00/00	2010/02/01/00/00	eventpart.txt	0	0		0	
+68	幸运宝石大抽奖领奖	    在这里你可以领取幸运大抽奖抽奖奖励，中奖后领奖时限<color=yellow>3天<color>，超过时限视为自动放弃。你中奖了吗？	2010/02/24/00/00	2010/03/06/00/00	eventpart.txt	0	0		0	
+69	2010清明节活动-帮助锦囊	描述	2010/03/30/00/00	2010/04/11/00/00	eventpart.txt	0	0		0	
+70	辉煌活动商店	五一活动商店，在这里可以用月影石换取你想要的东西，快来买吧？	2010/04/28/00/00	2010/05/12/00/00	eventpart.txt	0	0		0	
+71	五一劳动节兑换奖励	在我这里可以兑换到很丰富的奖品哦!	2010/04/28/00/00	2010/05/12/00/00	eventpart.txt	0	0		0	
+72	<color=yellow>Hoạt động trồng hoa 20/10<color>	Giang hồ nguy nan, đằng sau sự thành công của trang hảo hán đều mang bóng dáng hồng trần. Hãy trồng hoa tặng họ	2009/06/09/00/00	2013/06/10/00/00	eventpart.txt	0	0		0	
+73	领取开心棒	凡是等级达到60级的玩家，在五一活动期间<color=green>4月28日-5月11日<color>均可领取开心棒。有了开心棒，随心变形象。开心棒每日使用的<color=yellow>第1次<color>，奖励增益效果，其余时间可点击开心棒道具变成动物形象，或者点击开心棒选项变回本身形象。开心棒，变变变，快来领取吧！	2010/04/28/00/00	2010/05/12/00/00	eventpart.txt	0	0		0	
+74	5.1劳动节-帮助锦囊	描述	2010/04/28/00/00	2010/05/12/00/00	eventpart.txt	0	0		0	
+75	5.1劳动节-帮助锦囊（越南）	描述	2009/04/28/00/00	2009/05/18/00/00	eventpart.txt	0	0		0	
+76	帮会选举	达到60级以上的玩家可以参加众人合力活动。活动时间为<color=green>4.28-5.18<color>。参加<color=green>宋金战场、领土争夺战、门派竞技、通缉江洋大盗、逍遥谷、白虎堂<color>活动后获得争夺令。与我对话，可输入要评选的帮会名称，为其投票。 每次投票，你将获得2010绑银和1个胜利徽章。不过最多只能获得100次绑银哦，在第101次只能获得胜利徽章了。<enter>帮会投票的结果可以在官网查询。<enter>	2009/04/28/00/00	2009/05/18/00/00	eventpart.txt	0	0		0	
+77	2010赈灾祈福-帮助锦囊	描述	2010/04/20/00/00	2010/05/12/00/00	eventpart.txt	0	0		0	
+78	家族竞技活动-种蘑菇	描述	2010/05/01/00/00	2010/06/01/00/00	eventpart.txt	0	0		0	

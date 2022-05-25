@@ -1,0 +1,46 @@
+
+{
+  ["GameOptimize"]	= 
+  {
+    ["nBackupAlphaLevel"]	= 256,
+    ["tbParam"]	= 
+    {
+      [6]	= 1,
+      [2]	= 0,
+      [8]	= 1,
+      [3]	= 0,
+      [1]	= 0,
+      [4]	= 1,
+      [5]	= 1,
+      [7]	= 1,
+    },
+    ["nAutoDisp"]	= 0,
+    ["tbNpcParam"]	= 
+    {
+      [1]	= 1,
+      [2]	= 1,
+      [3]	= 1,
+    },
+    ["nDisplayAlphaLevel"]	= 256,
+  },
+  ["GameOption"]	= 
+  {
+    ["nAudioVolume"]	= 0,
+    ["nShowName"]	= 1,
+    ["nMusicVolume"]	= 0,
+    ["nTransferMsg"]	= 1,
+    ["nTeamPopMsg"]	= 0,
+    ["nControlModel"]	= 1,
+    ["nShowLife"]	= 1,
+  },
+  ["Calendar"]	= 
+  {
+    [6]	= 1,
+    [2]	= 1,
+    [3]	= 1,
+    [1]	= 1,
+    [4]	= 1,
+    [5]	= 1,
+  },
+  ["CalendarReMindAll"]	= {},
+}

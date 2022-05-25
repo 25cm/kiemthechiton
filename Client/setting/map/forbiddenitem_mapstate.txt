@@ -1,0 +1,35 @@
+MapType	ForbiddenUse	ProperUse	ForbiddenCallIn	ForbiddenCallOut	OnSwitch	Info
+Loại bản đồ	Loại vật phẩm cấm dùng	Chỉ sử dụng loại vật phẩm	Cấm triệu hồi vào, truyền vào	Cấm bị triệu hồi ra	Trạng thái bản đồ (vào và ra)	Ghi chú
+village	callboss				FIGHTSTATE_OFF|TEAM_ON	Tân Thủ Thôn
+faction	callboss				FIGHTSTATE_OFF|TEAM_ON	Phái
+city	callboss				FIGHTSTATE_OFF|TEAM_ON	Thành
+fight					FIGHTSTATE_ON	Khu chiến đấu (khu luyện công)
+taskfight						Bản đồ chiến đấu nhiệm vụ
+xisuidao	chuansong|callboss		chuansong		FIGHTSTATE_OFF	Tẩy Tủy Đảo
+xisuidao_shandong	chuansong|callboss		chuansong		FIGHTSTATE_ON	Tẩy Tủy Đảo Sơn Động
+battle_signup	callboss|MAIL		chuansong		FIGHTSTATE_OFF	Bản đồ Báo Danh Tống Kim
+battle	chuansong|revive|callboss|MAIL	songjin	chuansong			Bản đồ Tống Kim chiến
+dalao	chuansong|callboss		chuansong		FIGHTSTATE_OFF	Đại Lao
+baihutang	chuansong|revive|callboss		chuansong			Bạch Hổ Đường
+factionbattle	chuansong|revive|callboss		chuansong			Thi đấu môn phái
+common_fb	chuansong|callboss				FIGHTSTATE_ON	Bản đồ thường (phó bản)
+shenmibaoku_fb	chuansong	shenmibaoku	chuansong			Thần Bí Bảo Khố Ải Gia Tộc
+tasktip			chuansong		FIGHTSTATE_ON	Cấm đồng đội triệu hồi vào
+tasktip	callboss		chuansong		FIGHTSTATE_ON	Bản đồ nhiệm vụ (549-552)
+taskarmy_fb	chuansong|callboss|smartstick		chuansong		FIGHTSTATE_ON	Nhiệm vụ phó bản (Hậu Sơn Phục Ngưu)
+xoyogame	chuansong|callboss|smartstick	xoyomedicine	chuansong		FIGHTSTATE_OFF	Tiêu Dao Cốc
+taskarmy	callboss|smartstick		chuansong		FIGHTSTATE_OFF	Bản đồ quân doanh
+liansai	revive|chuansong|callboss|MAIL|smartstick		chuansong		FIGHTSTATE_OFF	Đấu trường Võ Lâm Liên Đấu
+taoyuanrukou	callboss|chuansong|revive|smartstick|newplayergift		chuansong		FIGHTSTATE_ON|STALL_OFF|CHAT_OFF|LOGINREVOUT_OFF|PKMODEL_OFF|TEAM_OFF|PRAY_OFF	Thiên Lao - Đào Nguyên
+esportwait	callboss|chuansong|revive|MAIL|smartstick		chuansong		FIGHTSTATE_OFF	Khu chuẩn bị thi đấu (Phi Tự Nhai)
+esport	ALL_ITEM		ALL_ITEM			Thi đấu (Phi Tự Nhai)
+dragonboatwait	callboss|chuansong|revive|MASK|MAIL|smartstick		chuansong		FIGHTSTATE_OFF	Khu chuẩn bị thi đấu (Thuyền rồng)
+dragonboat	ALL_ITEM		ALL_ITEM			Thi đấu (Thuyền rồng)
+globalservermap	chuansong|callboss|smartstick		chuansong		FIGHTSTATE_OFF	Anh Hùng Đô
+globalservermapshandong	chuansong|callboss|smartstick		chuansong		FIGHTSTATE_ON	Thí Luyện Cốc
+youlongmishi	chuansong|callboss|smartstick		chuansong			Du Long Các
+jiehun_fb	chuansong|callboss|smartstick		chuansong		FIGHTSTATE_OFF	Phó Bản Kết Hôn
+towerdefence	ALL_ITEM	towerdefence	ALL_ITEM			Nấm đại chiến Cương Thi
+leitai						tần lăng
+tasksafe	callboss|chuansong|revive|smartstick|newplayergift				FIGHTSTATE_ON|STALL_OFF|CHAT_OFF|LOGINREVOUT_OFF|PKMODEL_OFF|TEAM_OFF|PRAY_OFF	Thiên Lao
+liansaihuichang	revive|chuansong|callboss|MAIL|smartstick		chuansong		FIGHTSTATE_OFF	Hội Trường Võ Lâm Liên Đấu

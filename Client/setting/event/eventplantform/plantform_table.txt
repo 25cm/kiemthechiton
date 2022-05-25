@@ -1,0 +1,10 @@
+Session	EventType	AwardFile	AwardSegFile	PreMaxLeague	Desc	ExInfo
+活动届数	活动类型	奖励表	奖励类型表	每个准备场最大队伍(有替补场上限400人，无200人)	描述	备注
+1	1	award_session_1	award_session_1_type.txt	12	打雪仗	2009年10月
+2	2	award_session_1	award_session_1_type.txt	12	赛龙舟	2009年11月
+3	1	award_session_1	award_session_1_type.txt	12	打雪仗	2009年12月
+4	2	award_session_1	award_session_1_type.txt	12	赛龙舟	2010年1月
+5	1	award_session_1	award_session_1_type.txt	12	打雪仗	2010年2月
+6	2	award_session_1	award_session_1_type.txt	12	赛龙舟	2010年3月
+7	1	award_session_1	award_session_1_type.txt	12	打雪仗	2010年4月
+8	3	award_session_1	award_session_1_type.txt	12	先祖之魂	2010年5月

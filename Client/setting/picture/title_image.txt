@@ -1,0 +1,106 @@
+ID	ImageName	Des
+1	image\effect\other\guanxian_title_1a_vn.spr	Trí Sự
+2	image\effect\other\guanxian_title_2a_vn.spr	Tư Mã
+3	image\effect\other\guanxian_title_3a_vn.spr	Thái Thú
+4	image\effect\other\guanxian_title_4a_vn.spr	Thiếu Khanh
+5	image\effect\other\guanxian_title_5a_vn.spr	Thượng Khanh
+6	image\effect\other\guanxian_title_6a_vn.spr	Quốc Công
+7	image\effect\other\guanxian_title_7a_vn.spr	Thừa Tướng
+8	image\effect\other\guanxian_title_8a_vn.spr	Hoàng Đế
+9	image\danhhieu\DHCaoThuCauCa.spr	Cao Thủ Câu Cá
+10	image\danhhieu\ThienHaNguTuyet.spr	hùng bá thiên hạ
+11	image\danhhieu\TanThuVL.spr	tân thủ võ lâm
+12	image\danhhieu\KyNhanXuatThe.spr	uy danh tứ phương
+13	image\danhhieu\BaDaoGiangHo.spr	độc bá thiên tôn
+14	image\TitleNew\Title_DietYeuTruMa.spr	Diệt Yêu Trừ Ma
+15	image\TitleTest\DanhHieuTanThu.spr	Danh Hiệu Tân Thủ
+16	image\TitleTest\DeTuThapNhiPhai.spr	Đệ Tử Thập Nhị Phái
+99	image\TitleNew\tianxiadiyi_zhang_vn.spr	vnThiên Hạ Đệ Nhất Chưởng
+100	image\TitleNew\tianxiadiyi_jian_vn.spr	vnThiên Hạ Đệ Nhất Kiếm
+101	image\TitleNew\tianxiadiyi_dao_vn.spr	vnThiên Hạ Đệ Nhất Đao
+102	image\TitleNew\tianxiadiyi_gun_vn.spr	vnThiên Hạ Đệ Nhất Côn
+103	image\TitleNew\tianxiadiyi_qiang_vn.spr	vnThiên Hạ Đệ Nhất Thương
+104	image\TitleNew\tianxiadiyi_chui_vn.spr	vnThiên Hạ Nhất Phi Đao
+105	image\TitleNew\tianxiadiyi_feidao_vn.spr	vnThiên Hạ Đệ Nhất Chưởng
+106	image\TitleNew\tianxiadiyi_xiujian_vn.spr	vnThiên Hạ Nhất Tu Tiễn
+107	image\TitleNew\NguTruong copy.spr	Ngũ Trường
+108	image\TitleNew\DaiTuong copy.spr	Đại Tướng
+109	image\TitleNew\DoUy copy.spr	Đô Úy
+110	image\TitleNew\GiaoUy copy.spr	Giáo Úy
+111	image\TitleNew\NguyenSoai copy.spr	Nguyên Soái
+112	image\TitleNew\ThamTuong copy.spr	Tham Tướng
+113	image\TitleNew\ThongLinh copy.spr	Thống Lĩnh
+114	image\DanhHieuNhaTaiTro\NhaTaiTroDong.spr	Nhà Tài Trợ Đồng
+115	image\DanhHieuNhaTaiTro\NhaTaiTroBac.spr	Nhà Tài Trợ Bạc
+116	image\DanhHieuNhaTaiTro\NhaTaiTroVang.spr	Nhà Tài Trợ Vàng
+117	image\DanhHieu\KTVL-tongsibinh.spr	Mong Co Si Binh
+118	image\DanhHieu\KTVL-tonghieuuy.spr	Mong Co Hieu Uy
+119	image\DanhHieu\KTVL-tongthonglinh.spr	Mong Co Thong Linh
+120	image\DanhHieu\KTVL-tongphotuong.spr	Mong Co Pho Tuong
+121	image\DanhHieu\KTVL-tongdaituong.spr	Mong Co Dai Tuong
+122	image\DanhHieu\KTVL-tongnguyensoai.spr	Mong Co Nguyen Soai
+123	image\DanhHieu\KTVL-kimsibinh.spr	Tay Ha Si Binh
+124	image\DanhHieu\KTVL-kimhieuuy.spr	Tay Ha Hieu Uy
+125	image\DanhHieu\KTVL-kimthonglinh.spr	Tay Ha Thong Linh
+126	image\DanhHieu\KTVL-kimphotuong.spr	Tay Ha Pho Tuong
+127	image\DanhHieu\KTVL-kimdaituong.spr	Tay Ha Dai Tuong
+128	image\DanhHieu\KTVL-kimnguyensoai.spr	Tay Ha Nguyen Soai
+17	image\DanhHieu\caothuxuatson.spr	Cao Thủ Xuất Sơn
+18	image\DanhHieu\thanhniennghiemtuc.spr	Cao Thủ Xuất Sơn
+19	image\DanhHieu\hiepkhachgiangho.spr	Cao Thủ Xuất Sơn
+20	image\DanhHieu\sangbangtatca.spr	Cao Thủ Xuất Sơn
+21	image\DanhHieu\danhdauthangdo.spr	Cao Thủ Xuất Sơn
+22	image\DanhHieu\caothuvolam.spr	Cao Thủ Xuất Sơn
+23	image\DanhHieu\thienhadenhat.spr	Cao Thủ Xuất Sơn
+24	image\KiemTheRong\DamDam.spr	Đấm
+25	image\KiemTheRong\Keo.spr	Kéo
+26	image\KiemTheRong\La.spr	Lá
+27	image\DanhHieu\anhhungthienha.spr	Lá
+28	image\DanhHieu\AnhHungXaDieu.spr	Lá
+29	image\DanhHieu\BaDaoGiangHo.spr	Lá
+30	image\DanhHieu\caothuvolam.spr	Lá
+31	image\DanhHieu\ChiTacHanhThien.spr	Lá
+32	image\DanhHieu\cuunguchiton.spr	Lá
+33	image\DanhHieu\DHBatQuyThangGia.spr	Lá
+34	image\DanhHieu\DHDaoBinhTHapTuyet.spr	Lá
+35	image\DanhHieu\hanhhiepgiangho.spr	Lá
+36	image\DanhHieu\HungBaThienHa.spr	Lá
+37	image\DanhHieu\MaGioiVoDao.spr	Lá
+38	image\DanhHieu\nhatdaitonsu.spr	Lá
+39	image\DanhHieu\sugiaquanhung.spr	Lá
+40	image\DanhHieu\t_daiphuho.spr	Lá
+41	image\DanhHieu\t_satphathien.spr	Lá
+42	image\DanhHieu\t_thienhavosong.spr	Lá
+43	image\DanhHieu\ThanXuatNhapCanh.spr	Lá
+44	image\DanhHieu\thonglinhquanhung.spr	Lá
+45	image\DanhHieu\Title_DietYeuTruMa.spr	Lá
+46	image\DanhHieu\Title_UyDanhTuPhuong.spr	Lá
+47	image\DanhHieu\vanthientonsu.spr	Lá
+48	image\effect\other\vn_feilongchengzhu.spr	vn Phi Long Thành Chủ
+49	image\effect\other\vn_feilongjiang.spr	vn Phi Long Tướng
+50	image\KiemTheRong\Title\vn_nhatbangchu.spr	vn Nhất Bang Chủ
+51	image\KiemTheRong\Title\vn_denhatbang.spr	vn Đệ Nhất Bang
+52	image\KiemTheRong\Title\vn_ketlieuboss.spr	vn Kết Liễu BOSS
+53	image\KiemTheRong\Title\KyBinh.spr	vn Kết Liễu BOSS
+54	image\KiemTheRong\thieunienanhhung.spr	Tân Thủ 3D
+55	image\danhhieuhd\hiepkhach.spr	Hiệp Khách
+56	image\danhhieuhd\chienbinh.spr	Chiến Binh Giang Hồ
+57	image\danhhieuhd\dausi.spr	Đấu Sĩ Võ Lâm
+58	image\danhhieuhd\kysi.spr	Kỵ Sĩ Bóng Đêm
+59	image\danhhieuhd\thonglinh.spr	Thống Lĩnh Chiến Trường
+60	image\danhhieuhd\tuongquan.spr	Tướng Quân Cấm Vệ
+61	image\danhhieuhd\nguyensoai.spr	Nguyên Soái Hoàng Gia
+62	image\danhhieuhd\chuate.spr	Chúa Tể Nhân Giới
+63	image\danhhieuhd\devuong.spr	Đế Vương Ma Giới
+64	image\danhhieuhd\chienthan.spr	Chiến Thần Thiên Giới
+65	image\danhhieuhd\thienhoang.spr	Thiên Hoàng Tam Giới
+66	image\Update2015\Title\TieuTrang.spr	vn Tiêu Xa Trắng
+67	image\Update2015\Title\TieuLuc.spr	vn Tiêu Xa Lục
+68	image\Update2015\Title\TieuLam.spr	vn Tiêu Xa Lam
+69	image\Update2015\Title\TieuTim.spr	vn Tiêu Xa Tím
+70	image\Update2015\Title\TieuCam.spr	vn Tiêu Xa Cam
+71	image\danhhieuhd\thienton.spr	Thiên Tôn
+72	image\danhhieuhd\maton.spr	Ma Tôn
+20008	image\effect\other\vn_feilongchengzhu.spr	vn Phi Long Thành Chủ
+20009	image\effect\other\vn_feilongjiang.spr	vn Phi Long Tướng
+20010	image\effect\other\vn_tianxiawushuang.spr	vnThiên Hạ Vô Song

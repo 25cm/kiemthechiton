@@ -1,0 +1,67 @@
+
+{
+  ["GameOption"]	= 
+  {
+    ["nAudioVolume"]	= 0,
+    ["nShowName"]	= 1,
+    ["nMusicVolume"]	= 0,
+    ["nTransferMsg"]	= 1,
+    ["nTeamPopMsg"]	= 0,
+    ["nControlModel"]	= 1,
+    ["nShowLife"]	= 1,
+  },
+  ["Calendar"]	= 
+  {
+    [6]	= 1,
+    [2]	= 1,
+    [3]	= 1,
+    [1]	= 1,
+    [4]	= 1,
+    [5]	= 1,
+  },
+  ["AutoFight_FACTION_1"]	= {},
+  ["GameOptimize"]	= 
+  {
+    ["nBackupAlphaLevel"]	= 256,
+    ["tbParam"]	= 
+    {
+      [6]	= 1,
+      [2]	= 0,
+      [8]	= 1,
+      [3]	= 0,
+      [1]	= 0,
+      [4]	= 0,
+      [5]	= 1,
+      [7]	= 1,
+    },
+    ["nAutoDisp"]	= 0,
+    ["tbNpcParam"]	= 
+    {
+      [1]	= 0,
+      [2]	= 0,
+      [3]	= 0,
+    },
+    ["nDisplayAlphaLevel"]	= 256,
+  },
+  ["AutoFight"]	= {},
+  ["AutoFight_FACTION_4"]	= {},
+  ["AutoFight_FACTION_6"]	= {},
+  ["AutoFight_FACTION_5"]	= {},
+  ["AutoFight_FACTION_7"]	= {},
+  ["AutoFight_FACTION_3"]	= {},
+  ["AutoFight_FACTION_2"]	= {},
+  ["AutoFight_FACTION_8"]	= {},
+  ["TradeHistory"]	= 
+  {
+    [1]	= 
+    {
+      ["szName"]	= "Administrator",
+      ["szCode"]	= "TORE181",
+    },
+  },
+  ["AutoFight_FACTION_11"]	= {},
+  ["AutoFight_FACTION_12"]	= {},
+  ["AutoFight_FACTION_10"]	= {},
+  ["AutoFight_FACTION_9"]	= {},
+  ["CalendarReMindAll"]	= {},
+}

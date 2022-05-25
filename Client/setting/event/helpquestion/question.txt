@@ -1,0 +1,55 @@
+GROUPID	Id	QID	QUESTION	ANSWER	SELECT1	SELECT2	SELECT3
+1	1		Làm thế nào để đưa trang bị vào thanh tán gẫu?	Ctrl + nhấp chuột trái vào trang bị	Nhấp chuột trái vào trang bị	Alt + nhấp chuột phải vào trang bị	
+1	2		Phím tắt để thay đổi trang bị là gì?	Ctrl+W	Alt+W	Ctrl+Alt+Del	
+1	3		Nếu muốn thực hiện các thao tác như: tán gẫu, giao dịch, kiểm tra trang bị với những người chơi khác… thì phải làm gì? 	Ctrl + nhấp chuột phải vào người chơi	Nhấp chuột phải vào người chơi	Nhấp chuột trái vào người chơi	
+2	1		Phím tắt để mở, đóng bản đồ nhỏ là gì?	Phím Tab	Phím Ctrl	Phím Shift	
+2	2		Sau khi đưa chuột vào Bản đồ nhỏ, làm cách nào để kéo rê bản đồ?	Nhấp giữ chuột phải và kéo	Nhấp giữ chuột trái và kéo	Nhấp giữ nút cuộn trên chuột để kéo	
+2	3		Làm cách nào tự tìm đường trong Bản đồ nhỏ?	Nhấp chuột trái vào điểm đến trên Bản đồ nhỏ	Nhấp chuột phải vào điểm cần đến	Ctrl + nhấp chuột phải	
+3	1		Loại quái nào sau đây không làm rơi Lửa trại?	Quái thường	Quái tinh anh	Quái thủ lĩnh	
+3	2		Hiệu quả của Lửa trại là gì?	Người chơi trong phạm vi Lửa trại mỗi 5 giây được nhận kinh nghiệm	Người chơi trong phạm vi Lửa trại được tăng sức tấn công	Dùng để sửi ấm	
+3	3		Sau khi đốt lên, Lửa trại sẽ duy trì được bao lâu?	15 phút	5 phút	8 phút	
+3	4		Uống rượu trong lúc đốt lửa có ích lợi gì?	Nhận được nhiều kinh nghiệm hơn	Tăng tính tấn công của người chơi	Giúp người chơi luyện thành kỹ năng Túy Quyền	
+3	5		Tổ đội 6 người cùng nhau đốt lửa uống rượu, trường hợp nào sau đây được nhiều kinh nghiệm hơn?	5 người uống Tây Bắc Vọng, 1 người uống Nữ Nhi Hồng	3 người uống Hạnh Hoa Thôn, 3 người uống Đạo Hoa Hương	Mỗi người uống 1 loại rượu khác nhau	
+4	1		Vật phẩm nào sau đây không được đặt trong thanh trang bị phụ?	Bí kíp	Vũ khí	Ngọc bội	
+4	2		Mất bao lâu cho 1 lần thay đổi trang bị?	3 giây	30 giây	60 giây	
+4	3		Khi đặt vũ khí có trang bị khóa vào thanh trang bị, vũ khí này có bị khóa không?	Phải	Không		
+5	1		Hiệu quả thọ thương là gì?	Không thể thi triển kỹ năng và di chuyển, nhưng có thể uống thuốc	Không thể thi triển kỹ năng và di chuyển, không thể uống thuốc	Giảm lực tấn công	
+5	2		Hiệu quả suy nhược là gì?	Giảm lực tấn công	Khi bị tấn công thọ thương càng nặng	Làm chậm tốc độ di chuyển và thi triển kỹ năng	
+5	3		Hiệu quả làm chậm là gì?	Làm chậm tốc độ di chuyển và thi triển kỹ năng	Không thể thi triển kỹ năng và di chuyển, không thể uống thuốc	Giảm lực tấn công	
+5	4		Hiệu quả bỏng là gì?	Khi bị tấn công thọ thương càng nặng	Giảm lực tấn công	Làm chậm tốc độ di chuyển và thi triển kỹ năng	
+5	5		Hiệu quả choáng là gì?	Không thể thi triển kỹ năng và di chuyển, không thể uống thuốc	Không thể thi triển kỹ năng và di chuyển, nhưng có thể uống thuốc	Làm chậm tốc độ di chuyển và thi triển kỹ năng	
+6	1		Những nhân tố nào sau đây không liên quan đến xác suất chính xác?	Sức tấn công của mình	Độ chính xác của mình	Độ né tránh của đối phương	
+6	2		Độ chính xác tối đa và tối thiểu là bao nhiêu?	95%, 5%	100%, 0%		
+6	3		Đòn tấn công chí mạng gấp mấy lần tấn công thường?	1.8 lần	2 lần	1.5 lần	
+7	1		Tranh đoạt lãnh thổ bắt đầu lúc nào?	20: 00 Thứ bảy, chủ nhật	20: 00 Thứ hai - thứ sáu	22: 00 Thứ bảy, chủ nhật	
+7	2		Khoảng thời gian tuyên chiến là?	20: 00 - 20: 30 Thứ bảy, chủ nhật	20: 30 - 21: 00 Thứ bảy, chủ nhật	19: 30 - 20: 00 Thứ bảy, chủ nhật	
+7	3		Tranh đoạt lãnh thổ bắt đầu lúc nào?	20: 30 Thứ bảy, chủ nhật	20: 00 Thứ bảy, chủ nhật	21: 00 Thứ bảy, chủ nhật	
+8	1		Khi bang hội chưa có lãnh thổ, nên ưu tiên tấn công vùng lãnh thổ nào trước?	Tuyên chiến và tấn công lãnh thổ Tân Thủ Thôn	Tuyên chiến và tấn công vùng lãnh thổ ngoài Tân Thủ Thôn và chưa thuộc về bang hội nào khác	Trực tiếp tấn công bất kỳ lãnh thổ nào đã bị bang hội chiếm lĩnh	
+8	2		Cách nói về lãnh thổ Tân Thủ Thôn, cái nào đúng?	Lãnh thổ Tân Thủ Thôn chỉ được chiếm lĩnh 1 lần, quyền chiếm lĩnh sẽ bị thu hồi ngay khi kết thúc cuộc chiến tranh đoạt kế tiếp.	Lãnh thổ Tân Thủ Thôn có thể được xem là thành chính	Sau khi chiếm Tân Thủ Thôn, có thể trực tiếp tấn công các lãnh thổ lân cận chưa bị bang hội khác chiếm lĩnh.	
+8	3		Sau khi chiếm lĩnh Tân Thủ Thôn, không được phép áp dụng phương án tấn công nào sau đây?	Trực tiếp tấn công các lãnh thổ lân cận chưa bị bang hội chiếm lĩnh	Tuyên chiến và tấn công bất kỳ lãnh thổ nào chưa bị bang hội chiếm lĩnh	Trực tiếp tấn công các lãnh thổ đã bị bang hội chiếm lĩnh	
+8	4		Sau khi chiếm lĩnh lãnh thổ không phải Tân Thủ Thôn, không được phép áp dụng phương án tấn công nào sau đây?	Tuyên chiến và tấn công lãnh thổ Tân Thủ Thôn	Tuyên chiến và tấn công vùng lãnh thổ ngoài Tân Thủ Thôn và chưa thuộc về bang hội nào khác	Trực tiếp tấn công những vùng lãnh thổ xung quanh bổn bang đã bị các bang hội khác chiếm lĩnh.	
+8	5		Cuộc chiến kết thúc, căn cứ tiêu chuẩn nào để quyết định quyền sở hữu bản đồ?	Tích lũy bang hội	Tổng chiến công cá nhân của tất cả thành viên bang hội		
+8	6		Trong thời gian chinh chiến, những trường hợp nào sau đây không được nhận chiến công cá nhân?	Bị trọng thương nằm tại chỗ	Thủ vệ xuất hiện xung quanh long trụ của phe ta	Đánh lùi các thành viên bang hội hoặc NPC đối địch	Chiếm lĩnh long trụ của đối phương
+8	7		Khi người chơi đang trong trạng thái chinh chiến, không được tấn công những nhân vật nào?	Người chơi không phải trạng thái chinh chiến	Người chơi đối địch trong trạng thái chinh chiến	Lính đánh thuê Lãnh Thổ Chiến được bang hội địch chiêu mộ	
+8	8		Trường hợp nào sau đây không được chuyển sang trạng thái chinh chiến?	Chưa tuyên chiến đã bị các bang hội khác chiếm lãnh thổ	Bang hội đã có lãnh thổ, tiến công các lãnh thổ lân cận thuộc các bang hội khác.	Tiến công lãnh thổ đã tuyên chiến	
+8	9		Khi cuộc chiến kết thúc, đến gặp Quan Lãnh Thổ nhận phần thưởng, nhân tố nào không liên quan đến thưởng danh vọng?	Chưa nhận Quân Nhu	Số lượng lãnh thổ của bang hội	Xếp hạng chiến công cá nhân trong bang hội	
+9	1		Vào bản đồ chinh chiến trong thời gian diễn ra chiến tranh, làm cách nào để tra tìm chiến công cá nhân và tích lũy bang hội?	Nhấn phím ~	Nhấn Ctrl + Z	Nhấn phím Z	
+9	2		Cách kiểm tra tình hình chiếm lĩnh lãnh thổ hiện tại?	Nhấn Tab, sau đó nhấp vào nút "bản đồ lãnh thổ"	Nhấp vào biểu tượng "bản đồ lãnh thổ" trên giao diện chính	Nhấn phím tắt Ctrl + M	
+9	3		Trong giao diện bản đồ lãnh thổ, biểu tượng <pic=\image\ui\001a\domainbattle\0domain.spr,0> màu trắng mang ý nghĩa gì?	Lãnh thổ chưa bị bang hội nào chiếm lĩnh, cần tuyên chiến mới được tấn công	Lãnh thổ chưa bị bang hội nào chiếm lĩnh, không cần tuyên chiến cũng có thể tấn công	Lãnh thổ chưa mở chức năng Tranh đoạt lãnh thổ	
+9	4		Trong giao diện bản đồ lãnh thổ, biểu tượng <pic=\image\ui\001a\domainbattle\forbiddomain.spr> màu đen mang ý nghĩa gì?	Lãnh thổ chưa mở chức năng Tranh đoạt lãnh thổ	Lãnh thổ chưa bị bang hội nào chiếm lĩnh, không cần tuyên chiến cũng có thể tấn công	Lãnh thổ chưa bị bang hội nào chiếm lĩnh, cần tuyên chiến mới được tấn công	
+9	5		Trong giao diện bản đồ lãnh thổ, làm sao để xem bản đồ tranh đoạt của từng lãnh thổ nhất định?	Đưa trỏ chuột đến biểu tượng vùng lãnh thổ đó	Nhấp chuột trái vào biểu tượng lãnh thổ	Nhấp chuột phải vào biểu tượng lãnh thổ	
+9	6		Trong giao diện bản đồ lãnh thổ, nếu giữa hai lãnh thổ có 1 tòa thành thì hai lãnh thổ này có được xem là kế cận nhau không?	Phải	Không	Không thể xác định	
+10	1		Nhận quân nhu của Tranh đoạt lãnh thổ ở đâu?	Quan Lãnh Thổ của các thành	Lễ Quan của các Tân Thủ Thôn và các thành	Chủ Tiệm Thuốc của các Tân Thủ Thôn và các thành	
+10	2		Những đạo cụ bang hội mua từ chỗ Quan Lãnh Thổ không được sử dụng cho người chơi nào?	Người chơi không thuộc bang hội	Người chơi thuộc gia tộc khác trong bang hội	Bản thân người mua đạo cụ	
+10	3		Trong thời gian Lãnh Thổ Chiến, chức năng truyền tống chiến trường của Xa Phu có thể giúp các thành viên bang hội đi đến đâu?	Lãnh thổ bang hội đã chiếm được	Lãnh thổ bang hội đã tuyên chiến	Bất kỳ lãnh thổ nào chưa bị bang hội chiếm lĩnh	
+10	4		Mua Luyện Hóa Đồ chỉ (bộ danh vọng) của Tranh đoạt lãnh thổ ở đâu?	Quan Lãnh Thổ	Chủ Tiệm Binh Khí	Dã Luyện Đại Sư	
+11	1		Người chơi nào trong bang hội có quyền tuyên chiến?	Bang chủ hoặc những thành viên có quyền tuyên chiến	Tộc trưởng	Trưởng lão	
+11	2		Lúc nào có thể đến Quan Lãnh Thổ thiết lập thêm Quân Nhu bang hội?	Lúc tuyên chiến và chinh chiến	Bất kỳ lúc nào	Trước khi bắt đầu tuyên chiến	
+11	3		Trong thời gian chinh chiến, đến gặp Quan Lãnh Thổ thiết lập thêm Quân Nhu bang hội cần tiêu hao cái gì?	Quỹ xây dựng bang hội	Tính năng động của bang hội	Tài sản cá nhân	
+11	4		Sau khi bang hội chiếm được lãnh thổ, mục nào sau đây không là lợi ích của việc đưa lãnh thổ trở thành thành chính?	Trong thời gian chinh chiến, ở thành chính có thể được nhận thêm chiến công cá nhân.	Thủ thành chính thành công, sẽ tăng thưởng danh vọng Tranh đoạt lãnh thổ.	Trong thời gian chinh chiến, trong thành chính của phe ta, khả năng tác chiến tăng rõ rệt.	
+11	5		Lúc nào có thể đến Quan Lãnh Thổ nhận thêm phần thưởng Tranh đoạt chiến cho bang hội?	Kết thúc thời kỳ chinh chiến	Thời kỳ chinh chiến	Trước khi bắt đầu tuyên chiến	
+12	1		Thời gian chinh chiến, cách nhận được tích lũy bang hội chính xác là?	Khi chinh chiến đánh lùi nhân vật hoặc NPC của kẻ địch sẽ không nhận được tích lũy bang hội.	Đánh hạ Long trụ kẻ địch, sẽ không nhận được tích lũy bang hội.	Đánh lùi tướng lĩnh và nguyên soái lãnh thổ chiến của kẻ địch, có thể nhận được tích lũy bang hội.	
+12	2		Cách nói nào dưới đây về Long trụ là chính xác?	Số lần làm mới Long trụ càng nhiều, sau khi bị đánh hạ lần kế, tích lũy bang hội bên chiếm lãnh thổ nhận được càng cao.	Tích lũy bang hội phe chiếm lĩnh nhận được sau khi Long trụ bị đánh hạ là cố định không thay đổi, không liên quan tới số lần làm mới Long trụ.	Tích lũy bang hội Long trụ phe ta mỗi khoảng thời gian tăng sẽ giảm theo thời gian tồn tại Long trụ tăng.	
+12	3		Điều kiện lãnh thổ phe mình phát sinh bang hội NPC phản công gồm mục nào sau đây?	Thiết lập làm lãnh thổ thành chính	Thời gian chinh chiến	Bất kỳ một lãnh thổ phi Tân Thủ Thôn được chiếm lĩnh, chưa thiết lập làm thành chính	Có xác suất nhất định phát sinh
+12	4		Điều kiện bản đồ lãnh thổ bị bang hội NPC phản công thành công là gì?	Khi chinh chiến kết thúc, tích lũy bang hội của bang hội NPC trong bản đồ này cao nhất	Khi chinh chiến kết thúc, số lượng Long trụ của bang hội NPC chiếm lĩnh trong bản đồ này nhiều nhất.	Thời gian chinh chiến, tất cả Long trụ trong bản đồ này đều bị bang hội NPC chiếm lĩnh.	
+12	5		Về kết quả chiếm lĩnh lãnh thổ bang hội NPC phản công thành công, mục nào dưới đây là chính xác?	Quyền chiếm lĩnh lãnh thổ này bằng 0, chiếm lãnh thổ lần kế bang hội muốn tấn công lãnh thổ này phải tuyên chiến trước.	Quyền chiếm lĩnh lãnh thổ này chưa thay đổi, vẫn do bang hội chiếm lĩnh ban đầu tiếp tục chiếm lĩnh, nhưng không thể nhận phần thưởng chiếm lĩnh lãnh thổ này.	Quyền chiếm lĩnh lãnh thổ này trả về bang hội có tích lũy đứng thứ 2 khi chinh chiến kết thúc.	

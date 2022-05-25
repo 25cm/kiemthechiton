@@ -1,0 +1,10 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Chủ Tửu Lầu	0	3566	3	5	35	1	20	20	20	20	20	1		53632	98368		1		
+Thủ Khố	0	2599	3	5	35	1	20	20	20	20	20	1		54784	98016		1		
+Dã Luyện Đại Sư	0	3574	3	5	35	1	20	20	20	20	20	1		57408	98048		1		
+Tổng Quản Gia Viên	0	9625	3	5	35	1	20	20	20	20	20	1		50336	104800		1		
+Tổng Quản Gia Viên	0	9625	3	5	35	1	20	20	20	20	20	1		52416	102272		1		
+Tổng Quản Gia Viên	0	9625	3	5	35	1	20	20	20	20	20	1		57120	99872		1		
+Tổng Quản Gia Viên	0	9625	3	5	35	1	20	20	20	20	20	1		50496	96288		1		
+Tổng Quản Gia Viên	0	9625	3	5	35	1	20	20	20	20	20	1		49376	100480		1		
+Tổng Quản Gia Viên	0	9625	3	5	35	1	20	20	20	20	20	1		54048	98752		1		

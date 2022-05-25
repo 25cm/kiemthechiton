@@ -1,0 +1,8 @@
+nGenre	nDetail	nParticular	nLevel	nCount	szTip	name
+18	1	541	1	1	Bỏ vào <color=yellow>1<color> Nguyệt Ảnh Thạch, sẽ nhận được 1 <color=yellow>Thiệp lụa<color>. Dùng để thuyết phục Quái hình người ở Khu luyện công làm đồng hành.	Thiệp lụa
+18	1	541	2	10	Bỏ vào <color=yellow>10<color> Nguyệt Ảnh Thạch, sẽ nhận được 1 <color=yellow>Thiệp bạc<color>. Dùng để thuyết phục NPC trong Tiêu Dao Cốc làm đồng hành.	Thiệp bạc
+18	1	544	1	1	Bỏ vào <color=yellow>1<color> Nguyệt Ảnh Thạch, sẽ nhận được 1 <color=yellow>Tinh phách thường<color>. Có thể tăng độ thân mật của bạn và đồng hành bất kỳ.	Tinh phách thường
+18	1	544	2	10	Bỏ vào <color=yellow>10<color> Nguyệt Ảnh Thạch, sẽ nhận được 1 <color=yellow>Tinh phách đặc biệt<color>. Có thể tăng độ thân mật của bạn và đồng hành bất kỳ.	Tinh phách đặc biệt
+18	1	544	3	100	Bỏ vào <color=yellow>100<color> Nguyệt Ảnh Thạch, sẽ nhận được 1 <color=yellow>Tinh phách kỳ diệu<color>. Có thể tăng độ thân mật của bạn và đồng hành bất kỳ.	Tinh phách kỳ diệu
+18	1	564	1	50	Đặt <color=yellow>50<color> Nguyệt Ảnh Thạch vào, được 1 <color=yellow>Bồ Đề Quả<color>. Giúp đồng hành cấp 120 sống lại.	1 Bồ Đề Quả
+18	1	566	1	1	Đặt <color=yellow>1<color> Nguyệt Ảnh Thạch vào, được 1 <color=yellow>Thư Tiến Cử<color>. Dùng để giới thiệu đồng hành cấp 1 cho người chơi khác.	Thư Tiến Cử

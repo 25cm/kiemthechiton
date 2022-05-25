@@ -1,0 +1,7 @@
+Level	LevelGroup	GroupName
+Cấp	Cấp đoạn	Hiển thị danh xưng đặc biệt
+59	1	Nhiệm vụ Truy Bắt Đạo Tặc cấp 50
+69	2	Nhiệm vụ Truy Bắt Đạo Tặc cấp 60
+79	3	Nhiệm vụ Truy Bắt Đạo Tặc cấp 70
+89	4	Nhiệm vụ Truy Bắt Đạo Tặc cấp 80
+99	5	Nhiệm vụ Truy Bắt Đạo Tặc cấp 90

@@ -1,0 +1,36 @@
+
+{
+  ["GameOption"]	= 
+  {
+    ["nAudioVolume"]	= 10,
+    ["nShowName"]	= 1,
+    ["nMusicVolume"]	= 10,
+    ["nShowLife"]	= 1,
+    ["nControlModel"]	= 1,
+    ["nTeamPopMsg"]	= 0,
+    ["nTransferMsg"]	= 1,
+  },
+  ["GameOptimize"]	= 
+  {
+    ["nBackupAlphaLevel"]	= 256,
+    ["tbParam"]	= 
+    {
+      [6]	= 0,
+      [2]	= 0,
+      [8]	= 0,
+      [3]	= 0,
+      [1]	= 0,
+      [4]	= 0,
+      [5]	= 0,
+      [7]	= 0,
+    },
+    ["nAutoDisp"]	= 0,
+    ["tbNpcParam"]	= 
+    {
+      [1]	= 0,
+      [2]	= 0,
+      [3]	= 0,
+    },
+    ["nDisplayAlphaLevel"]	= 256,
+  },
+}

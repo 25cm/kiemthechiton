@@ -1,0 +1,121 @@
+
+{
+  ["GameOption"]	= 
+  {
+    ["nAudioVolume"]	= 0,
+    ["nShowName"]	= 1,
+    ["nMusicVolume"]	= 0,
+    ["nTransferMsg"]	= 1,
+    ["nTeamPopMsg"]	= 0,
+    ["nControlModel"]	= 1,
+    ["nShowLife"]	= 1,
+  },
+  ["Calendar"]	= 
+  {
+    [6]	= 1,
+    [2]	= 1,
+    [3]	= 1,
+    [1]	= 1,
+    [4]	= 1,
+    [5]	= 1,
+  },
+  ["AutoFight_FACTION_1"]	= {},
+  ["AutoFight_FACTION_10"]	= {},
+  ["AutoFight"]	= {},
+  ["AutoFight_FACTION_4"]	= {},
+  ["AutoFight_FACTION_6"]	= {},
+  ["AutoFight_FACTION_7"]	= {},
+  ["AutoFight_FACTION_3"]	= {},
+  ["AutoFight_FACTION_2"]	= {},
+  ["GameOptimize"]	= 
+  {
+    ["nBackupAlphaLevel"]	= 256,
+    ["tbParam"]	= 
+    {
+      [6]	= 1,
+      [2]	= 0,
+      [8]	= 1,
+      [3]	= 0,
+      [1]	= 0,
+      [4]	= 0,
+      [5]	= 1,
+      [7]	= 1,
+    },
+    ["nAutoDisp"]	= 0,
+    ["tbNpcParam"]	= 
+    {
+      [1]	= 0,
+      [2]	= 0,
+      [3]	= 0,
+    },
+    ["nDisplayAlphaLevel"]	= 256,
+  },
+  ["TradeHistory"]	= 
+  {
+    [7]	= 
+    {
+      ["szName"]	= "GameMaster",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [1]	= 
+    {
+      ["szName"]	= "KTchiton",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [2]	= 
+    {
+      ["szName"]	= "mmmmmmmm",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [4]	= 
+    {
+      ["szName"]	= "baybay",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [8]	= 
+    {
+      ["szName"]	= "sausau",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [9]	= 
+    {
+      ["szName"]	= "namnam",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [5]	= 
+    {
+      ["szName"]	= "ggggggg",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [10]	= 
+    {
+      ["szName"]	= "baybay",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [3]	= 
+    {
+      ["szName"]	= "baybay",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [6]	= 
+    {
+      ["szName"]	= "bababa",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [12]	= 
+    {
+      ["szName"]	= "GameMember",
+      ["szCode"]	= "IZV2TB1",
+    },
+    [11]	= 
+    {
+      ["szName"]	= "bonbon",
+      ["szCode"]	= "IZV2TB1",
+    },
+  },
+  ["AutoFight_FACTION_11"]	= {},
+  ["AutoFight_FACTION_12"]	= {},
+  ["AutoFight_FACTION_8"]	= {},
+  ["AutoFight_FACTION_9"]	= {},
+  ["CalendarReMindAll"]	= {},
+}

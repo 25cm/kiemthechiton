@@ -1,0 +1,25 @@
+Session	LeagueType	AwardFile	AwardSegFile	AdvRank	PreMaxLeague	Desc	ExInfo
+Phiên giải đấu	Loại giải đấu	Phần Thưởng	Bảng phân lọa phần thưởng	Yêu cầu cấp độ nâng cao	Đội lớn nhất trong mỗi sân chuẩn bị (có sân thay thế với tối đa 400 người, không có 200 người)	Thể lệ	Nhận xét
+1	1	award_session_1	award_session_1_type.txt	1500	200	2vs2[Tự Do]	Tháng 11 năm 2008
+2	2	award_session_2	award_session_2_type.txt	1500	200	3vs3[Tự Do]	Tháng 12 năm 2008
+3	3	award_session_3	award_session_3_type.txt	1500	200	4vs4[Tự Do]	Tháng 1 năm 2009
+4	1	award_session_4	award_session_4_type.txt	1500	200	2vs2[Tự Do]	Tháng 2 năm 2009
+5	4	award_session_5	award_session_5_type.txt	3000	400	1vs1[Tự Do]	Tháng 3 năm 2009
+6	2	award_session_6	award_session_6_type.txt	1500	200	3vs3[Tự Do]	Tháng 4 năm 2009
+7	5	award_session_7	award_session_7_type.txt	3000	200	1vs1[cùng Môn Phái]	Tháng 5 năm 2009
+8	3	award_session_3	award_session_3_type.txt	1500	200	4vs4[Tự Do]	Tháng 6 năm 2009
+9	6	award_session_8	award_session_8_type.txt	1500	200	2vs2[cùng Ngũ Hành]	Tháng 7 năm 2009
+10	2	award_session_6	award_session_6_type.txt	1500	200	3vs3[Tự Do]	Tháng 8 năm 2009
+11	7	award_session_9	award_session_9_type.txt	1500	200	2vs2[Tự Do]	Tháng 9 năm 2009
+12	3	award_session_3	award_session_3_type.txt	1500	200	4vs4[Tự Do]	Tháng 10 năm 2009
+13	4	award_session_5	award_session_5_type.txt	3000	400	1vs1[Tự Do]	Tháng 11 năm 2009
+14	2	award_session_6	award_session_6_type.txt	1500	200	3vs3[Tự Do]	Tháng 12 năm 2009
+15	6	award_session_8	award_session_8_type.txt	1500	200	2vs2[cùng Ngũ Hành]	Tháng 1 năm 2010
+16	3	award_session_3	award_session_3_type.txt	1500	200	4vs4[Tự Do]	Tháng 2 năm 2010
+17	7	award_session_9	award_session_9_type.txt	1500	200	2vs2[Tự Do]	Tháng 3 năm 2010
+18	5	award_session_7	award_session_7_type.txt	3000	200	1vs1[cùng Môn Phái]	Tháng 4 năm 2010
+19	1	award_session_4	award_session_4_type.txt	1500	200	2vs2[Tự Do]	Tháng 5 năm 2010
+20	2	award_session_2	award_session_2_type.txt	1500	200	3vs3[Tự Do]	Tháng 6 năm 2010
+21	4	award_session_5	award_session_5_type.txt	3000	400	1vs1[Tự Do]	Tháng 7 năm 2010
+22	6	award_session_8	award_session_8_type.txt	1500	200	2vs2[cùng Ngũ Hành]	Tháng 8 năm 2010
+23	3	award_session_3	award_session_3_type.txt	1500	200	4vs4[Tự Do]	Tháng 9 năm 2010

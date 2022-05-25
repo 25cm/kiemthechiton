@@ -1,0 +1,3 @@
+RuleId	SkillId	BeginLevel	EndLevel	Desc
+1	1629	1	2	Kích hoạt dũng sĩ Thiết Phù Thành
+2	1629	2	2	Kích hoạt thành chủ Thiết Phù Thành
