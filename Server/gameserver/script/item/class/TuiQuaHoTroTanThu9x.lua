@@ -16,8 +16,8 @@ if me.nLevel >= 120 then
  end
 
 function tbHoTro90:NhanHoTro9x()
-if me.CountFreeBagCell() < 20 then
-		Dialog:Say("Phải Có 20 Ô Trống Trong Túi Hành Trang!");
+if me.CountFreeBagCell() < 25 then
+		Dialog:Say("Phải Có 25 Ô Trống Trong Túi Hành Trang!");
 		return 0;
 	end
 local tbItemId2 = {18,1,25502,1,0,0} -- Mảnh Ghép Huyền Vũ Ấn
@@ -51,7 +51,7 @@ end
 		me.AddItem(2,1,1215,10,1,16).Bind(1); --Thương
 		me.AddItem(2,1,1216,10,1,16).Bind(1); --Chùy
 		me.AddItem(2,1,1219,10,1,16).Bind(1); --Đao
-		me.AddItem(2,1,1221,10,1,16).Bind(1); --Thương (TĐXC)
+		me.AddItem(2,1,1218,10,1,16).Bind(1); --Côn
 		
 		--TB
 		if tbInfo.nSex == 0 then --Nam

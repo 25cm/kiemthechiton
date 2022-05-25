@@ -29,7 +29,7 @@ tbChuangsongfu.tbHomeMap	=
  	["Long Tuyền Thôn"]	= { 7, 1510, 3268 },
  	["Long Môn Trấn"]	= { 2, 1785, 3586 },
 	["Giang Tân Thôn"]	= { 5, 1597, 3131 },
-	["Đạo Hương Thôn"]	= { 4, 1624, 3253 },
+	["<color=yellow>Đạo Hương Thôn<color>"]	= { 4, 1624, 3253 },
  	["Ba Lăng Huyện"]	= { 8, 1721, 3381 },
 };
 

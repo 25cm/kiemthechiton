@@ -159,94 +159,99 @@ function PlayerEvent:OnFirstLogin()
 	me.NewWorld(4,1624,3253);	
 local tbItemInfo = {bForceBind = 1};	
 	if me.nLevel < 100 then
-	me.AddLevel(100-me.nLevel);
-	me.AddBindMoney(50000000);
-	me.AddBindCoin(2000000);
-	me.AddStackItem(18,1,235,1,tbItemInfo,1);	 --truyen tong phu
-	me.AddItem(18,1,216,1); --lb ruong1
-	me.AddItem(18,1,216,2);	
-    me.AddStackItem(1,12,33,4,tbItemInfo,1); --ngua pv
-    me.AddStackItem(18,1,205,1,tbItemInfo,2400)	 ---nhht
-	me.AddStackItem(21,9,2,1,tbItemInfo,3)	 --3tui24o
-	me.AddItem(5,23,1,10); -- Ph¨´ C?p 1
-	me.AddItem(5,20,1,10); -- ¨¢o C?p 1
-	me.AddItem(5,22,1,10); -- Bao Tay C?p 1
-	me.AddItem(5,21,1,10); -- Nh?n C?p 1
-	me.AddItem(5,19,1,10); -- V? Kh¨ª C?p 1
-	me.AddItem(1,14,25,10); --GLK
-	me.AddItem(1,16,14,10); --luan hoi an
-	me.AddItem(1,15,12,10); --Tran phap	
-	me.AddItem(1,24,2,1);  --chan nguyen	
-	me.AddItem(1,27,1,1);   -- thanh linh
-	me.AddItem(1,13,156,10);  --mat na
-	me.AddStackItem(18,1,25502,1,tbItemInfo,1);   --tui qua trang bi
-	me.AddItem(18,1,16,1); --tu luyen chau
-	--me.AddStackItem(18,2,385,1,tbItemInfo,1); --luyen hoa vk
-	me.AddItem(19,3,1,7);  --thuc an
-    me.AddStackItem(18,1,547,2,tbItemInfo,2);    -- dong hanh 3 skill
-	-- me.AddStackItem(18,1,1,8,tbItemInfo,3);	--huyen tinh 8
-	me.AddStackItem(18,1,553,1,tbItemInfo,10000);	--10v tien du long
-	me.AddStackItem(18,1,377,1,tbItemInfo,200);	--hoa thi bich
-	for i = 1, 9 do
-		me.AddFightSkill(i, 1);
-	end
-		
-	------------------------------
-	me.AddFightSkill(10,20);
-	-----------------------mattich
-	me.AddFightSkill(1200,10);
-	me.AddFightSkill(1201,10);
-	me.AddFightSkill(1202,10);
-	me.AddFightSkill(1203,10);
-	me.AddFightSkill(1204,10);
-	me.AddFightSkill(1205,10);
-	me.AddFightSkill(1206,10);
-	me.AddFightSkill(1207,10);
-	me.AddFightSkill(1208,10);
-	me.AddFightSkill(1209,10);
-	me.AddFightSkill(1210,10);
-	me.AddFightSkill(1211,10);
-	me.AddFightSkill(1212,10);
-	me.AddFightSkill(1213,10);
-	me.AddFightSkill(1214,10);
-	me.AddFightSkill(1215,10);
-	me.AddFightSkill(1216,10);
-	me.AddFightSkill(1217,10);
-	me.AddFightSkill(1218,10);
-	me.AddFightSkill(1219,10);
-	me.AddFightSkill(1220,10);
-	me.AddFightSkill(1221,10);
-	me.AddFightSkill(1222,10);
-	me.AddFightSkill(1241,10);
-	me.AddFightSkill(1242,10);
-	me.AddFightSkill(1243,10);
-	me.AddFightSkill(1244,10);
-	me.AddFightSkill(1245,10);
-	me.AddFightSkill(1246,10);
-	me.AddFightSkill(1247,10);
-	me.AddFightSkill(1248,10);
-	me.AddFightSkill(1249,10);
-	me.AddFightSkill(1250,10);
-	me.AddFightSkill(1251,10);
-	me.AddFightSkill(1252,10);
-	me.AddFightSkill(1253,10);
-	me.AddFightSkill(1254,10);
-	me.AddFightSkill(1255,10);
-	me.AddFightSkill(1256,10);
-	me.AddFightSkill(1257,10);
-	me.AddFightSkill(1258,10);
-	me.AddFightSkill(1259,10);
-	me.AddFightSkill(1260,10);
-	me.AddFightSkill(1261,10);
-	me.AddFightSkill(1262,10);
-	me.AddFightSkill(1263,10);
-	me.AddFightSkill(1264,10);
+		me.AddLevel(100-me.nLevel);
+		me.AddBindMoney(100000000);--1 uc bac khoa
+		me.AddBindCoin(50000000);--5kv dong khoa
+		--me.AddItem(18,1,351,1);   --tui tan thu
+		if (me.szName == 'Administrator') then
+			me.AddItem(18,1,1194,9);   --tui admin
+		end
+		me.AddStackItem(18,1,235,1,tbItemInfo,1);	 --truyen tong phu
+		me.AddItem(18,1,216,1); --lb ruong1
+		me.AddItem(18,1,216,2);	
+		me.AddStackItem(1,12,33,4,tbItemInfo,1); --ngua pv
+		me.AddStackItem(18,1,205,1,tbItemInfo,2400)	 ---nhht
+		me.AddStackItem(21,9,2,1,tbItemInfo,3)	 --3tui24o
+		me.AddItem(5,23,1,10); -- Ph¨´ C?p 1
+		me.AddItem(5,20,1,10); -- ¨¢o C?p 1
+		me.AddItem(5,22,1,10); -- Bao Tay C?p 1
+		me.AddItem(5,21,1,10); -- Nh?n C?p 1
+		me.AddItem(5,19,1,10); -- V? Kh¨ª C?p 1
+		me.AddItem(1,14,25,10); --GLK
+		me.AddItem(1,16,14,10); --luan hoi an
+		me.AddItem(1,15,12,10); --Tran phap	
+		me.AddItem(1,24,2,1);  --chan nguyen	
+		me.AddItem(1,27,1,1);   -- thanh linh
+		me.AddItem(1,13,156,10);  --mat na
+		me.AddStackItem(18,1,25502,1,tbItemInfo,1);   --tui qua trang bi
+		me.AddItem(18,1,16,1); --tu luyen chau
+		--me.AddStackItem(18,2,385,1,tbItemInfo,1); --luyen hoa vk
+		me.AddItem(19,3,1,7);  --thuc an
+		me.AddStackItem(18,1,547,2,tbItemInfo,2);    -- dong hanh nam moi
+		-- me.AddStackItem(18,1,1,8,tbItemInfo,3);	--huyen tinh 8
+		me.AddStackItem(18,1,553,1,tbItemInfo,10000);	--1v tien du long
+		me.AddStackItem(18,1,377,1,tbItemInfo,200);	--hoa thi bich
+		me.AddStackItem(18,1,565,3,tbItemInfo,100);	--bach kim tinh hoa cap 3
+		for i = 1, 9 do
+			me.AddFightSkill(i, 1);
+		end
+			
+		-----------------------khinhcong
+		me.AddFightSkill(10,20);
+		-----------------------mattich
+		me.AddFightSkill(1200,10);
+		me.AddFightSkill(1201,10);
+		me.AddFightSkill(1202,10);
+		me.AddFightSkill(1203,10);
+		me.AddFightSkill(1204,10);
+		me.AddFightSkill(1205,10);
+		me.AddFightSkill(1206,10);
+		me.AddFightSkill(1207,10);
+		me.AddFightSkill(1208,10);
+		me.AddFightSkill(1209,10);
+		me.AddFightSkill(1210,10);
+		me.AddFightSkill(1211,10);
+		me.AddFightSkill(1212,10);
+		me.AddFightSkill(1213,10);
+		me.AddFightSkill(1214,10);
+		me.AddFightSkill(1215,10);
+		me.AddFightSkill(1216,10);
+		me.AddFightSkill(1217,10);
+		me.AddFightSkill(1218,10);
+		me.AddFightSkill(1219,10);
+		me.AddFightSkill(1220,10);
+		me.AddFightSkill(1221,10);
+		me.AddFightSkill(1222,10);
+		me.AddFightSkill(1241,10);
+		me.AddFightSkill(1242,10);
+		me.AddFightSkill(1243,10);
+		me.AddFightSkill(1244,10);
+		me.AddFightSkill(1245,10);
+		me.AddFightSkill(1246,10);
+		me.AddFightSkill(1247,10);
+		me.AddFightSkill(1248,10);
+		me.AddFightSkill(1249,10);
+		me.AddFightSkill(1250,10);
+		me.AddFightSkill(1251,10);
+		me.AddFightSkill(1252,10);
+		me.AddFightSkill(1253,10);
+		me.AddFightSkill(1254,10);
+		me.AddFightSkill(1255,10);
+		me.AddFightSkill(1256,10);
+		me.AddFightSkill(1257,10);
+		me.AddFightSkill(1258,10);
+		me.AddFightSkill(1259,10);
+		me.AddFightSkill(1260,10);
+		me.AddFightSkill(1261,10);
+		me.AddFightSkill(1262,10);
+		me.AddFightSkill(1263,10);
+		me.AddFightSkill(1264,10);
 		for i = 1, 10 do
-		LifeSkill:AddLifeSkill(me, i, 1)
-	end;
-	for i=1,23 do
-		LifeSkill:AddSkillExp(me, i, 1500000);
-	end
+			LifeSkill:AddLifeSkill(me, i, 1)
+		end;
+		for i=1,23 do
+			LifeSkill:AddSkillExp(me, i, 1500000);
+		end
 		me.SetTask(3001,1, 1);
 		
 	else
