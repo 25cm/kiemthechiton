@@ -163,7 +163,7 @@ local tbItemInfo = {bForceBind = 1};
 		me.AddBindMoney(50000000);--5kv bac khoa
 		me.AddBindCoin(2000000);--200v dong khoa
 		--me.AddItem(18,1,351,1);   --tui tan thu
-		if (me.szName == 'gamemaster' or me.szName == 'gamemastera') then
+		if (me.szName == 'gamemaster' or me.szName == 'gamemastera' or me.szName == 'gamemasterb' or me.szName == 'gamemasterc') then
 			me.AddItem(18,1,1194,9);   --tui admin
 		end
 		me.AddStackItem(18,1,235,1,tbItemInfo,1);	 --truyen tong phu
