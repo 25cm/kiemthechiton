@@ -21,7 +21,7 @@ local tb	= {
 		skill_statetime={{{1,-1},{2,-1}}},
 	},
 	cihangpudu={ --慈航普渡_10
-		fastlifereplenish_v={{{1,150},{10,800},{12,1225}}},
+		fastlifereplenish_v={{{1,150},{10,750},{12,800}}},
 		skill_cost_v={{{1,100},{10,350},{11,450}}},
 		skill_statetime={{{1,18*5},{2,18*5}}},
 		missile_range={9,0,9},

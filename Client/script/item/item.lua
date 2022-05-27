@@ -734,9 +734,9 @@ function Item:CheckIsUseAtMap(nMapId, ...)
 		return 1;
 	end
 	
-	--if Map.tbMapItemState[szMapClass].tbForbiddenUse[szItemClass] ~= nil then
-		--return 0, "Đạo cụ này không được dùng ở đây";
-	--end
+	if Map.tbMapItemState[szMapClass].tbForbiddenUse[szItemClass] ~= nil then
+		return 0, "Đạo cụ này không được dùng ở đây";
+	end
 	
 	return 1;
 end

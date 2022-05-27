@@ -725,9 +725,9 @@ function Item:CheckIsUseAtMap(nMapId, ...)
 		return 1;
 	end
 	
-	--if Map.tbMapItemState[szMapClass].tbForbiddenUse[szItemClass] ~= nil then
-		--return 0, "该道具禁止在本地图使用";
-	--end
+	if Map.tbMapItemState[szMapClass].tbForbiddenUse[szItemClass] ~= nil then
+		return 0, "该道具禁止在本地图使用";
+	end
 	
 	return 1;
 end
