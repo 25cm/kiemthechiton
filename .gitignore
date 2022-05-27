@@ -1,0 +1,16 @@
+/Server/gameserver/log/
+/Server/Bishop/logs/
+/Server/Gamecenter/log/
+/Server/Goddess/logs/
+/Server/Logserver/Logs/
+/Server/Bishop/KG_BishopD.exe.pid
+/Server/Bishop/KG_Bishop_fix.exe.pid
+/Server/Bishop/bishoplivetime.tm
+/Server/Gamecenter/girlvoteladder/girlvote2honor_nadev.txt
+/Server/Gamecenter/girlvoteladder/girlvotehonor_nadev.txt
+/Server/Gamecenter/playerladder/moneyhonor_nadev.txt
+/Server/Goddess/GD.exe.pid
+/Server/Logserver/LS.exe.pid
+/Client/pak/image_8.pak
+/Client/pak/imagebv1.pak
+
