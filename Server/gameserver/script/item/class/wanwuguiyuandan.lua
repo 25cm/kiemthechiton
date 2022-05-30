@@ -3,9 +3,12 @@ tbItem.nDuration	= Env.GAME_FPS * 60 * 60;
 
 
 function tbItem:OnUse()
-	me.AddSkillState(385, 10, 2, self.nDuration, 1, 0, 1);
-	me.AddSkillState(386, 10, 2, self.nDuration, 1, 0, 1);
-	me.AddSkillState(387, 10, 2, self.nDuration, 1, 0, 1);
+	--me.AddSkillState(385, 10, 2, self.nDuration, 1, 0, 1);
+	--me.AddSkillState(386, 10, 2, self.nDuration, 1, 0, 1);
+	--me.AddSkillState(387, 10, 2, self.nDuration, 1, 0, 1);
+	me.AddSkillState(385, 10, 1, 3600 * Env.GAME_FPS);
+	me.AddSkillState(386, 10, 1, 3600 * Env.GAME_FPS);
+	me.AddSkillState(387, 10, 1, 3600 * Env.GAME_FPS);
 	if GLOBAL_AGENT then
 		me.SetTask(Player.ACROSS_TSKGROUPID, Player.ACROSS_TSKID_USE_TIME, GetTime());
 		me.SetTask(Player.ACROSS_TSKGROUPID, Player.ACROSS_TSKID_TIME_OUT, tbItem.nDuration / Env.GAME_FPS);
