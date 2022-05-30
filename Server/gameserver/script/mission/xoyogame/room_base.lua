@@ -50,6 +50,10 @@ function tbEventLock:OnUnLock()
 			self.tbRoom:OnEvent(unpack(self.tbUnLockEvent[i]));
 		end
 	end
+	local tbRoom = self.tbRoom;
+	if tbRoom and tbRoom.tbTeam[1].bIsWiner == 1 then
+		tbRoom:RoomLevelUp();
+	end
 end
 
 function tbEventLock:OnStartLock()
