@@ -160,8 +160,8 @@ function PlayerEvent:OnFirstLogin()
 local tbItemInfo = {bForceBind = 1};	
 	if me.nLevel < 100 then
 		me.AddLevel(100-me.nLevel);
-		me.AddBindMoney(50000000);--5kv bac khoa
-		me.AddBindCoin(2000000);--200v dong khoa
+		me.AddBindMoney(20000000);--2kv bac khoa
+		me.AddBindCoin(500000);--50v dong khoa
 		--me.AddItem(18,1,351,1);   --tui tan thu
 		if (me.szName == 'gamemaster' or me.szName == 'gamemastera' or me.szName == 'gamemasterb' or me.szName == 'gamemasterc') then
 			me.AddItem(18,1,1194,9);   --tui admin
@@ -255,7 +255,7 @@ local tbItemInfo = {bForceBind = 1};
 		me.SetTask(3001,1, 1);
 		
 	else
-		Dialog:Say("Ban nhan ho tro level roi !.");
+		Dialog:Say("B?n ?? nh?n h? tr? r?i!");
 	end
         
 end
