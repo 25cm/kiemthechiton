@@ -194,8 +194,8 @@ function DaiChienQuanMongCo:AddMCSDien_GS()
 	if nMapIndex < 0 then
 		return;
 	end
-local msg = "Bạn đang chơi <color=gold>Kiếm Thế Chí Tôn<color> Phiên Bản 2.0 được phát triển và chia sẻ bởi Team: <color=green>ThànhBG và CôngHmc<color>. Mọi thắc mắc hãy liên hệ với <color=White>FanPage Kiếm Thế Chí Tôn<color> để được hỗ trợ";
-   GlobalExcute({"Dialog:GlobalNewsMsg_GS", msg});
-	KDialog.NewsMsg(0, Env.NEWSMSG_COUNT, msg);
-	KDialog.MsgToGlobal(msg);
+-- local msg = "Bạn đang chơi <color=gold>Kiếm Thế Chí Tôn<color> Phiên Bản 2.0 được phát triển và chia sẻ bởi Team: <color=green>ThànhBG và CôngHmc<color>. Mọi thắc mắc hãy liên hệ với <color=White>FanPage Kiếm Thế Chí Tôn<color> để được hỗ trợ";
+--   GlobalExcute({"Dialog:GlobalNewsMsg_GS", msg});
+--	KDialog.NewsMsg(0, Env.NEWSMSG_COUNT, msg);
+--	KDialog.MsgToGlobal(msg);
 end
