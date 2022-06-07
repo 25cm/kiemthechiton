@@ -358,6 +358,7 @@ function Wanted:ShowAwardDialog()
 	me.AddBindMoney(100000);
 	me.AddBindCoin(10000);
 	me.AddJbCoin(3000);
+	me.AddStackItem(18,1,553,1,nil,5);	--5 tien du long
 	Dialog:Say("<color=green>Hành trang trống >=5 để nhận<color> <color=yellow>Phần Thưởng 3000 Đồng Thường<color> ");
 	table.insert(tbGeneralAward.tbFix,
 				{

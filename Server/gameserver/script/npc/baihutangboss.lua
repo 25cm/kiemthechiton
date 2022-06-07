@@ -41,6 +41,7 @@ function tbChuangTangzeiBoss:OnDeath(pNpcKiller)
 		pPlayerKiller.AddBindMoney(100000);
 		pPlayerKiller.AddBindCoin(10000)
 		pPlayerKiller.AddJbCoin(20000);
+		pPlayerKiller.AddStackItem(18,1,553,1,nil,50);	--50 tien du long
 		pPlayerKiller.Msg("Bạn đã tiêu diệt <color=blue>Boss Bạch Hổ Đường Tầng 1<color> nhận được: <color=yellow>2 vạn đồng thường<color>");
 		-----------------------------------------
 		GlobalExcute({"Dialog:GlobalNewsMsg_GS","Người chơi <color=green>"..pPlayerKiller.szName.."<color> đã kết liễu <color=red>Thủ Lĩnh Bạch Hổ Đường Tầng 1<color> nhận được <color=gold>2 Vạn Đồng<color>"});
@@ -163,6 +164,7 @@ function tbChuangTangzeiBossAdv:OnDeath(pNpcKiller)
 		pPlayerKiller.AddBindMoney(100000);
 		pPlayerKiller.AddBindCoin(10000)
 		pPlayerKiller.AddJbCoin(20000);
+		pPlayerKiller.AddStackItem(18,1,553,1,nil,50);	--50 tien du long
 		pPlayerKiller.Msg("Bạn đã tiêu diệt <color=blue>Boss Bạch Hổ Đường Tầng 1<color> nhận được: <color=yellow>2 vạn đồng thường<color>");
 		-----------------------------------------
 		GlobalExcute({"Dialog:GlobalNewsMsg_GS","Người chơi <color=green>"..pPlayerKiller.szName.."<color> đã kết liễu <color=red>Thủ Lĩnh Bạch Hổ Đường Tầng 1<color> nhận được <color=gold>2 Vạn Đồng<color>"});
@@ -181,6 +183,7 @@ function tbChuangTangzeiBossAdv:OnDeath(pNpcKiller)
 		pPlayerKiller.AddExp(15000000)
 		pPlayerKiller.AddBindMoney(200000);
 		pPlayerKiller.AddBindCoin(20000)
+		pPlayerKiller.AddStackItem(18,1,553,1,nil,100);	--100 tien du long
 		pPlayerKiller.Msg("Bạn đã tiêu diệt <color=blue>Boss Bạch Hổ Đường Tầng 2<color> nhận được: <color=yellow>4 vạn đồng thường<color>");
 		----------------------
 			GlobalExcute({"Dialog:GlobalNewsMsg_GS","Người chơi <color=green>"..pPlayerKiller.szName.."<color> đã kết liễu <color=red>Thủ Lĩnh Bạch Hổ Đường Tầng 2<color> nhận được <color=gold>4 Vạn Đồng<color>"});
@@ -197,7 +200,8 @@ function tbChuangTangzeiBossAdv:OnDeath(pNpcKiller)
 		pPlayerKiller.AddJbCoin(60000);
 		pPlayerKiller.AddExp(2000000)
 		pPlayerKiller.AddBindMoney(300000);
-		pPlayerKiller.AddBindCoin(30000)			
+		pPlayerKiller.AddBindCoin(30000)
+		pPlayerKiller.AddStackItem(18,1,553,1,nil,200);	--200 tien du long		
 		pPlayerKiller.Msg("Bạn đã tiêu diệt <color=blue>Boss Bạch Hổ Đường Tầng 3<color> nhận được: <color=yellow>6 vạn đồng thường<color>");
 		----------------------------------------------
 		GlobalExcute({"Dialog:GlobalNewsMsg_GS","Người chơi <color=green>"..pPlayerKiller.szName.."<color> đã kết liễu <color=red>Thủ Lĩnh Bạch Hổ Đường Tầng 3<color> nhận được <color=gold>6 Vạn Đồng<color>"});
@@ -307,6 +311,7 @@ function tbChuangTangzeiBossAdv2:OnDeath(pNpcKiller)
 		pPlayerKiller.AddBindMoney(100000);
 		pPlayerKiller.AddBindCoin(10000)
 		pPlayerKiller.AddJbCoin(20000);
+		pPlayerKiller.AddStackItem(18,1,553,1,nil,50);	--50 tien du long
 		pPlayerKiller.Msg("Bạn đã tiêu diệt <color=blue>Boss Bạch Hổ Đường Tầng 1<color> nhận được: <color=yellow>2 vạn đồng thường<color>");
 		KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Người chơi <color=green>"..pPlayerKiller.szName.."<color> đã kết liễu <color=red>Thủ Lĩnh Bạch Hổ Đường Tầng 1<color> nhận được nhiều phần thưởng giá trị!");
 		
@@ -323,6 +328,7 @@ function tbChuangTangzeiBossAdv2:OnDeath(pNpcKiller)
 		pPlayerKiller.AddExp(15000000)
 		pPlayerKiller.AddBindMoney(200000);
 		pPlayerKiller.AddBindCoin(20000)
+		pPlayerKiller.AddStackItem(18,1,553,1,nil,100);	--100 tien du long
 		pPlayerKiller.Msg("Bạn đã tiêu diệt <color=blue>Boss Bạch Hổ Đường Tầng 2<color> nhận được: <color=yellow>4 vạn đồng thường<color>");
 		KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Người chơi <color=green>"..pPlayerKiller.szName.."<color> đã kết liễu <color=red>Thủ Lĩnh Bạch Hổ Đường Tầng 2<color> nhận được nhiều phần thưởng giá trị!");
 		nStockBaseCount = 60; -- 杀死二层boss加20点股份基数
@@ -339,6 +345,7 @@ function tbChuangTangzeiBossAdv2:OnDeath(pNpcKiller)
 		pPlayerKiller.AddStackItem(18,1,1331,3,nil,1);
 		pPlayerKiller.AddBindMoney(300000);
 		pPlayerKiller.AddBindCoin(30000)			
+		pPlayerKiller.AddStackItem(18,1,553,1,nil,200);	--200 tien du long
 		pPlayerKiller.Msg("Bạn đã tiêu diệt <color=blue>Boss Bạch Hổ Đường Tầng 3<color> nhận được: <color=yellow>6 vạn đồng thường<color>");
 		KDialog.NewsMsg(1, Env.NEWSMSG_COUNT,"Người chơi <color=green>"..pPlayerKiller.szName.."<color> đã kết liễu <color=red>Thủ Lĩnh Bạch Hổ Đường Tầng 3<color> nhận được nhiều phần thưởng giá trị!");
 		nStockBaseCount = 100; -- 杀死三层boss加30点股份基数

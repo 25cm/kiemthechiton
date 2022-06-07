@@ -404,7 +404,8 @@ function BaseRoom:TeamAward(tbTeam, nMinuteExp, nRepute, nPrestige, nOffer, bWin
 			pPlayer.Earn(100000,0);
 			pPlayer.AddBindMoney(100000);
 			pPlayer.AddJbCoin(5000);
-			pPlayer.AddBindCoin(10000);					
+			pPlayer.AddBindCoin(10000);
+			pPlayer.AddStackItem(18,1,553,1,nil,20);	--20 tien du long			
 					pPlayer.Msg("<color=green>Hành trang trống >5 để nhận<color> <color=yellow>Phần Thưởng 5000 Đồng<color>!");
 		end
 		
