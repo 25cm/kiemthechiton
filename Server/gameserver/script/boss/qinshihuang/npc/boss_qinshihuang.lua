@@ -81,6 +81,13 @@ function tbQinshihuangBoss:OnDeath(pNpcKiller, nFlag)
 		pPlayer.Earn(1500000,0);
 		pPlayer.AddBindMoney(1500000);
 		pPlayer.AddBindCoin(100000);--5v ??ng khóa
+		for i=1,5 do
+			if pPlayer.CountFreeBagCell() > 0 then
+				pPlayer.AddItem(22,1,81,1); --hòa thị ngọc
+			else
+				break
+			end
+		end
 		pPlayer.Msg("<color=green>Hành trang trống >=5 để nhận<color> <color=yellow>Phần Thưởng<color>");
 		local nTeamId	= pPlayer.nTeamId;
 		if nTeamId == 0 then
