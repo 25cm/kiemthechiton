@@ -125,6 +125,7 @@ function tbBoss5:OnDeath(pNpc)
 		pPlayer.AddBindMoney(500000);
 		pPlayer.AddBindCoin(50000);--5v ??ng khóa
 			pPlayer.AddJbCoin(100000);
+			pPlayer.AddStackItem(18,1,553,1,nil,100);	--100 tien du long			
 			pPlayer.Msg("Bạn đã tiêu diệt <color=blue>Boss Hải Lăng Vương Mộ<color> nhận được: <color=yellow>10 vạn đồng thường<color>");
 			---------------------------------------------------------
         GlobalExcute({"Dialog:GlobalNewsMsg_GS","Người chơi<color=green>"..pPlayer.szName.."<color> tiêu diệt Boss Quân Doanh <color=red>Hải Lăng Vương Mộ<color> nhận được <color=gold>10 Vạn Đồng<color>"});
