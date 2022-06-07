@@ -30,6 +30,11 @@ function tbWorldBossBase:OnDeath(pNpcKiller, nFlag)
 		pPlayer.AddBindMoney(1000000);
 		pPlayer.AddBindCoin(50000);--5v ??ng khóa
 		pPlayer.AddStackItem(18,1,1194,21,tbItemInfo,1);
+		pPlayer.AddItem(22,1,81,1); --hòa thị ngọc
+		pPlayer.AddItem(22,1,81,1); --hòa thị ngọc
+		pPlayer.AddItem(22,1,81,1); --hòa thị ngọc
+		pPlayer.AddItem(22,1,81,1); --hòa thị ngọc
+		pPlayer.AddItem(22,1,81,1); --hòa thị ngọc
 		pPlayer.Msg("<color=green>Hành trang trống >=5 để nhận<color> <color=yellow>Phần Thưởng<color>");		
 
 			end
